@@ -53,10 +53,14 @@ export function SettingsPanel({
   async function handleExport() {
     setBusy('export')
     try {
-      const count = await exportProgress()
+      const counts = await exportProgress()
+      const total = counts.progress + counts.custom + counts.synced
       setStatus({
         tone: 'ok',
-        text: count > 0 ? `✓ 已导出 ${count} 条记录` : '✓ 还没有收藏记录，已导出空备份',
+        text:
+          total > 0
+            ? `✓ 已导出 ${counts.progress} 条进度 · ${counts.custom} 条自定义 · ${counts.synced} 条同步`
+            : '✓ 还没有数据，已导出空备份',
       })
     } catch (error) {
       setStatus({
@@ -74,10 +78,14 @@ export function SettingsPanel({
     if (!file) return
     setBusy('import')
     try {
-      const count = await importProgress(file)
+      const counts = await importProgress(file)
+      const total = counts.progress + counts.custom + counts.synced
       setStatus({
         tone: 'ok',
-        text: count > 0 ? `✓ 已导入 ${count} 条记录` : '✓ 文件里没有记录',
+        text:
+          total > 0
+            ? `✓ 已恢复 ${counts.progress} 条进度 · ${counts.custom} 条自定义 · ${counts.synced} 条同步`
+            : '✓ 文件里没有可导入的数据',
       })
     } catch (error) {
       setStatus({
@@ -150,8 +158,8 @@ export function SettingsPanel({
         <section className="px-4 py-4">
           <p className="label">数据备份</p>
           <p className="mt-2 text-[11px] leading-relaxed text-muted">
-            收藏进度只存在这台设备的 IndexedDB。换设备或清理浏览器数据前先导出，
-            导入按券种覆盖同名记录，未出现的券种保持不变。
+            备份包含收藏进度、自定义券和前端同步的数据。换设备或清理浏览器数据前先导出；
+            导入按 id 合并恢复这三张表，未出现在文件里的记录保持不变。
           </p>
 
           <div className="mt-4 flex gap-2">

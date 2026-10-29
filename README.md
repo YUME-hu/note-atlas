@@ -54,7 +54,7 @@ node scripts/gen-guilloche.mjs   # public/bg/guilloche.svg
 
 ## 进度备份
 
-顶栏齿轮 →「导出 JSON / 导入 JSON」。导入按 `note_id` 覆盖同名记录，未出现的券种保持不变。iOS 清理 Safari 数据会清空 IndexedDB，清理前先导出。
+顶栏齿轮 →「导出 JSON / 导入 JSON」。备份格式 v2，包含 `progress`（勾选）、`custom_notes`（自定义加钞）和 `synced_notes`（App 内 Numista 同步的数据）；导入按 id 合并恢复三张表，兼容旧的 v1（只含 progress）。iOS 清理 Safari 数据会清空 IndexedDB，清理前先导出。
 
 ## 部署（Vercel）
 
