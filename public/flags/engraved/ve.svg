@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 40" role="img" aria-label="Venezuela">
+  <rect width="60" height="13.33" fill="#a38c4a"/>
+  <rect y="13.33" width="60" height="13.34" fill="#2b4154"/>
+  <rect y="26.67" width="60" height="13.33" fill="#5c2128"/>
+  <g fill="#cfcac0"><circle cx="17.00" cy="21.00" r="0.95"/><circle cx="20.70" cy="19.26" r="0.95"/><circle cx="24.40" cy="17.87" r="0.95"/><circle cx="28.10" cy="17.10" r="0.95"/><circle cx="31.80" cy="17.10" r="0.95"/><circle cx="35.50" cy="17.87" r="0.95"/><circle cx="39.20" cy="19.26" r="0.95"/><circle cx="42.90" cy="21.00" r="0.95"/></g>
+</svg>

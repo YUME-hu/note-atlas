@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 40" role="img" aria-label="Bhutan">
+  <rect width="60" height="40" fill="#7a4a2e"/>
+  <polygon points="0,0 60,0 0,40" fill="#a38c4a"/>
+  <path d="M10,27 C16,11 23,32 31,17 C37,7 45,24 51,12" fill="none" stroke="#cfcac0" stroke-width="2.2" stroke-linecap="round"/>
+  <circle cx="51" cy="12" r="1.7" fill="#cfcac0"/>
+</svg>

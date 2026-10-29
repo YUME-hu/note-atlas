@@ -1,0 +1,154 @@
+[
+  {
+    "id": "cn-1",
+    "region_id": "cn",
+    "name": "第一套人民币",
+    "year_start": 1948,
+    "year_end": 1955,
+    "status": "historical"
+  },
+  {
+    "id": "cn-2",
+    "region_id": "cn",
+    "name": "第二套人民币",
+    "year_start": 1955,
+    "year_end": 1962,
+    "status": "historical"
+  },
+  {
+    "id": "cn-3",
+    "region_id": "cn",
+    "name": "第三套人民币",
+    "year_start": 1962,
+    "year_end": 1987,
+    "status": "historical"
+  },
+  {
+    "id": "cn-4",
+    "region_id": "cn",
+    "name": "第四套人民币",
+    "year_start": 1987,
+    "year_end": 2018,
+    "status": "historical"
+  },
+  {
+    "id": "cn-5",
+    "region_id": "cn",
+    "name": "第五套人民币",
+    "year_start": 1999,
+    "year_end": null,
+    "status": "current"
+  },
+  {
+    "id": "cn-com",
+    "region_id": "cn",
+    "name": "纪念钞",
+    "year_start": 1999,
+    "year_end": null,
+    "status": "commemorative"
+  },
+  {
+    "id": "jp-a",
+    "region_id": "jp",
+    "name": "A号券",
+    "year_start": 1946,
+    "year_end": 1950,
+    "status": "historical"
+  },
+  {
+    "id": "jp-b",
+    "region_id": "jp",
+    "name": "B号券",
+    "year_start": 1950,
+    "year_end": 1957,
+    "status": "historical"
+  },
+  {
+    "id": "jp-c",
+    "region_id": "jp",
+    "name": "C号券",
+    "year_start": 1957,
+    "year_end": 1984,
+    "status": "historical"
+  },
+  {
+    "id": "jp-com",
+    "region_id": "jp",
+    "name": "纪念钞",
+    "year_start": 1964,
+    "year_end": null,
+    "status": "commemorative"
+  },
+  {
+    "id": "jp-d",
+    "region_id": "jp",
+    "name": "D号券",
+    "year_start": 1984,
+    "year_end": 2004,
+    "status": "historical"
+  },
+  {
+    "id": "jp-e",
+    "region_id": "jp",
+    "name": "E号券",
+    "year_start": 2004,
+    "year_end": 2024,
+    "status": "historical"
+  },
+  {
+    "id": "jp-f",
+    "region_id": "jp",
+    "name": "F号券",
+    "year_start": 2024,
+    "year_end": null,
+    "status": "current"
+  },
+  {
+    "id": "us-silver",
+    "region_id": "us",
+    "name": "白银券",
+    "year_start": 1900,
+    "year_end": 1964,
+    "status": "historical"
+  },
+  {
+    "id": "us-usn",
+    "region_id": "us",
+    "name": "法定货币券",
+    "year_start": 1900,
+    "year_end": 1971,
+    "status": "historical"
+  },
+  {
+    "id": "us-nbn",
+    "region_id": "us",
+    "name": "国民银行券",
+    "year_start": 1900,
+    "year_end": 1935,
+    "status": "historical"
+  },
+  {
+    "id": "us-gold",
+    "region_id": "us",
+    "name": "黄金券",
+    "year_start": 1900,
+    "year_end": 1933,
+    "status": "historical"
+  },
+  {
+    "id": "us-frn",
+    "region_id": "us",
+    "name": "联邦储备券",
+    "year_start": 1914,
+    "year_end": null,
+    "status": "current"
+  },
+  {
+    "id": "us-frbn",
+    "region_id": "us",
+    "name": "联邦储备银行券",
+    "year_start": 1915,
+    "year_end": 1934,
+    "status": "historical"
+  }
+]

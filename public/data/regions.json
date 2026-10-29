@@ -1,0 +1,33 @@
+[
+  {
+    "id": "cn",
+    "name": "中国",
+    "iso": "CN",
+    "flag": "🇨🇳",
+    "parent": null,
+    "issuers": [
+      "中国人民银行"
+    ]
+  },
+  {
+    "id": "jp",
+    "name": "日本",
+    "iso": "JP",
+    "flag": "🇯🇵",
+    "parent": null,
+    "issuers": [
+      "日本銀行"
+    ]
+  },
+  {
+    "id": "us",
+    "name": "美国",
+    "iso": "US",
+    "flag": "🇺🇸",
+    "parent": null,
+    "issuers": [
+      "美国财政部",
+      "联邦储备委员会"
+    ]
+  }
+]

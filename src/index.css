@@ -1,0 +1,176 @@
+@import 'tailwindcss';
+@import '@d3-maps/react/style.css';
+
+/* Design tokens — value layer. Names are fixed by the design spec. */
+:root {
+  --bg-base: #141418;
+  --bg-surface: #1c1c22;
+  --bg-elevated: #26262e;
+  --text-primary: #e8e6e1;
+  --text-muted: #8a8a94;
+  --accent: #c9a227;
+  --border: #2e2e38;
+  --hairline: #26262e;
+
+  /* Data layer: map scale (0% handled by --map-empty) */
+  --map-empty: #2a2a2e;
+  --map-low: #3b5b8c;
+  --map-low-mid: #3d8b7a;
+  --map-mid: #b8a34a;
+  --map-high: #c47a3a;
+  --map-near: #5a9e6f;
+
+  /* Data layer: three-state marks */
+  --status-want: #7d9bc4;
+
+  color-scheme: dark;
+}
+
+/* Token → Tailwind utilities (bg-base, text-ink, border-line, …) */
+@theme inline {
+  --color-base: var(--bg-base);
+  --color-surface: var(--bg-surface);
+  --color-elevated: var(--bg-elevated);
+  --color-ink: var(--text-primary);
+  --color-muted: var(--text-muted);
+  --color-accent: var(--accent);
+  --color-line: var(--border);
+  --color-hairline: var(--hairline);
+  --color-want: var(--status-want);
+
+  --font-sans:
+    ui-sans-serif, system-ui, -apple-system, 'Segoe UI', 'PingFang SC',
+    'Hiragino Sans GB', 'Microsoft YaHei', sans-serif;
+}
+
+@layer base {
+  html {
+    background: var(--bg-base);
+    -webkit-text-size-adjust: 100%;
+  }
+
+  body {
+    margin: 0;
+    background: var(--bg-base);
+    color: var(--text-primary);
+    font-family: var(--font-sans);
+    font-size: 14px;
+    line-height: 1.5;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  button {
+    font: inherit;
+    color: inherit;
+    background: none;
+    border: 0;
+    padding: 0;
+    cursor: pointer;
+  }
+
+  :where(button, [role='button'], [tabindex]):focus-visible {
+    outline: 1px solid var(--text-primary);
+    outline-offset: 2px;
+  }
+
+  ::selection {
+    background: color-mix(in srgb, var(--accent) 28%, transparent);
+  }
+}
+
+@layer components {
+  /* Swiss skeleton: one family, three weights, left aligned, tabular figures. */
+  .tnum {
+    font-variant-numeric: tabular-nums;
+  }
+
+  .label {
+    font-size: 11px;
+    font-weight: 500;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--text-muted);
+  }
+
+  .hairline-b {
+    border-bottom: 1px solid var(--hairline);
+  }
+}
+
+/* Panel entrance: short, no bounce, no overshoot. */
+@keyframes panel-in {
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+.panel-anim {
+  animation: panel-in 160ms ease-out both;
+}
+
+@media (min-width: 640px) {
+  @keyframes panel-in {
+    from {
+      opacity: 0;
+      transform: translateX(8px);
+    }
+    to {
+      opacity: 1;
+      transform: none;
+    }
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .panel-anim {
+    animation: none;
+  }
+}
+
+/* ---------------------------------------------------------------------------
+ * Copper-plate background (spec 7.6, light version).
+ * Belongs to the "paper" layer: strokes just above the page background,
+ * masked away from the map's centre, paused while the panel is open.
+ * ------------------------------------------------------------------------- */
+@keyframes guilloche-drift {
+  from {
+    transform: translate3d(-0.7%, 0.3%, 0) scale(1.03);
+  }
+  to {
+    transform: translate3d(0.7%, -0.3%, 0) scale(1.03);
+  }
+}
+
+.guilloche-layer {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  z-index: 0;
+  background: url('/bg/guilloche.svg') center / cover no-repeat;
+  opacity: 0.8;
+  -webkit-mask-image: radial-gradient(
+    58% 62% at 50% 48%,
+    transparent 30%,
+    #000 74%
+  );
+  mask-image: radial-gradient(58% 62% at 50% 48%, transparent 30%, #000 74%);
+  animation: guilloche-drift 90s ease-in-out infinite alternate;
+  will-change: transform;
+}
+
+.guilloche-paused {
+  animation-play-state: paused;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .guilloche-layer {
+    animation: none;
+  }
+}
+

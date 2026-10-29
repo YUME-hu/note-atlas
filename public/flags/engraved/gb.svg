@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 40" role="img" aria-label="United Kingdom">
+  <rect width="60" height="40" fill="#2b4154"/>
+  <g stroke="#8f8b81" stroke-width="7">
+    <line x1="0" y1="0" x2="60" y2="40"/>
+    <line x1="60" y1="0" x2="0" y2="40"/>
+  </g>
+  <g stroke="#5c2128" stroke-width="2.6">
+    <line x1="0" y1="0" x2="60" y2="40"/>
+    <line x1="60" y1="0" x2="0" y2="40"/>
+  </g>
+  <g stroke="#8f8b81" stroke-width="8">
+    <line x1="30" y1="0" x2="30" y2="40"/>
+    <line x1="0" y1="20" x2="60" y2="20"/>
+  </g>
+  <g stroke="#5c2128" stroke-width="3">
+    <line x1="30" y1="0" x2="30" y2="40"/>
+    <line x1="0" y1="20" x2="60" y2="20"/>
+  </g>
+</svg>
