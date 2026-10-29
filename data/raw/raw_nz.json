@@ -1,0 +1,1431 @@
+{
+  "meta": {
+    "generated_at": "2026-10-29T13:28:00.976Z",
+    "fixture": false,
+    "api": "numista v3",
+    "issuer": "nouvelle-zelande",
+    "iso": "NZ",
+    "category": "banknote",
+    "lang": "en",
+    "since": 1960,
+    "listed": 233,
+    "fetched": 38,
+    "details_fetched": 0,
+    "dropped_before_since": 195,
+    "dropped_by_source": {
+      "list": 195,
+      "detail": 0
+    },
+    "issuer_mismatches": 0,
+    "pages": 5,
+    "requests": 0
+  },
+  "types": [
+    {
+      "numista_type_id": 202496,
+      "title": "10 Dollars - Elizabeth II",
+      "issuer": {
+        "code": "nouvelle-zelande",
+        "name": "New Zealand"
+      },
+      "min_year": 1967,
+      "max_year": 1981,
+      "face": {
+        "value": 10,
+        "unit": "Dollars",
+        "text": "10 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202496,
+        "title": "10 Dollars - Elizabeth II",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "nouvelle-zelande",
+          "name": "New Zealand"
+        },
+        "min_year": 1967,
+        "max_year": 1981,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/nouvelle-zelande/5e96616a924026.79115831-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/nouvelle-zelande/5e96616ae79d78.46137203-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202549,
+      "title": "2 Dollars - Elizabeth II",
+      "issuer": {
+        "code": "nouvelle-zelande",
+        "name": "New Zealand"
+      },
+      "min_year": 1967,
+      "max_year": 1981,
+      "face": {
+        "value": 2,
+        "unit": "Dollars",
+        "text": "2 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202549,
+        "title": "2 Dollars - Elizabeth II",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "nouvelle-zelande",
+          "name": "New Zealand"
+        },
+        "min_year": 1967,
+        "max_year": 1981,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/nouvelle-zelande/67785d70ac4574.62127807-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/nouvelle-zelande/67785d724fcd67.93721505-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202550,
+      "title": "5 Dollars - Elizabeth II",
+      "issuer": {
+        "code": "nouvelle-zelande",
+        "name": "New Zealand"
+      },
+      "min_year": 1967,
+      "max_year": 1981,
+      "face": {
+        "value": 5,
+        "unit": "Dollars",
+        "text": "5 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202550,
+        "title": "5 Dollars - Elizabeth II",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "nouvelle-zelande",
+          "name": "New Zealand"
+        },
+        "min_year": 1967,
+        "max_year": 1981,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/nouvelle-zelande/6a21a53cd2bcf3.76707349-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/nouvelle-zelande/6a21a53da684e6.84736149-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202557,
+      "title": "1 Dollar - Elizabeth II",
+      "issuer": {
+        "code": "nouvelle-zelande",
+        "name": "New Zealand"
+      },
+      "min_year": 1967,
+      "max_year": 1981,
+      "face": {
+        "value": 1,
+        "unit": "Dollar",
+        "text": "1 Dollar"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202557,
+        "title": "1 Dollar - Elizabeth II",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "nouvelle-zelande",
+          "name": "New Zealand"
+        },
+        "min_year": 1967,
+        "max_year": 1981,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/nouvelle-zelande/5e9694777cc115.07054182-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/nouvelle-zelande/5e9694781f0ce6.91526765-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203875,
+      "title": "5 Dollars",
+      "issuer": {
+        "code": "nouvelle-zelande",
+        "name": "New Zealand"
+      },
+      "min_year": 2015,
+      "max_year": 2018,
+      "face": {
+        "value": 5,
+        "unit": "Dollars",
+        "text": "5 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203875,
+        "title": "5 Dollars",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "nouvelle-zelande",
+          "name": "New Zealand"
+        },
+        "min_year": 2015,
+        "max_year": 2018,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/nouvelle-zelande/64a53063b05955.92274060-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/nouvelle-zelande/64a53064e57c83.57160524-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204073,
+      "title": "5 Pounds",
+      "issuer": {
+        "code": "nouvelle-zelande",
+        "name": "New Zealand"
+      },
+      "min_year": 1940,
+      "max_year": 1967,
+      "face": {
+        "value": 5,
+        "unit": "Pounds",
+        "text": "5 Pounds"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204073,
+        "title": "5 Pounds",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "nouvelle-zelande",
+          "name": "New Zealand"
+        },
+        "min_year": 1940,
+        "max_year": 1967,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/nouvelle-zelande/65d9142ac36013.41236047-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/nouvelle-zelande/65d9142fe2b067.97842627-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204074,
+      "title": "10 Pounds",
+      "issuer": {
+        "code": "nouvelle-zelande",
+        "name": "New Zealand"
+      },
+      "min_year": 1940,
+      "max_year": 1967,
+      "face": {
+        "value": 10,
+        "unit": "Pounds",
+        "text": "10 Pounds"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204074,
+        "title": "10 Pounds",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "nouvelle-zelande",
+          "name": "New Zealand"
+        },
+        "min_year": 1940,
+        "max_year": 1967,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/nouvelle-zelande/61a39cd7c07765.73973699-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/nouvelle-zelande/61a39cd82d64c3.22272967-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204075,
+      "title": "1 Pound",
+      "issuer": {
+        "code": "nouvelle-zelande",
+        "name": "New Zealand"
+      },
+      "min_year": 1940,
+      "max_year": 1967,
+      "face": {
+        "value": 1,
+        "unit": "Pound",
+        "text": "1 Pound"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204075,
+        "title": "1 Pound",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "nouvelle-zelande",
+          "name": "New Zealand"
+        },
+        "min_year": 1940,
+        "max_year": 1967,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/nouvelle-zelande/64e410ed2cd708.83822788-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/nouvelle-zelande/65d912e8211906.61748271-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204076,
+      "title": "10 Shillings",
+      "issuer": {
+        "code": "nouvelle-zelande",
+        "name": "New Zealand"
+      },
+      "min_year": 1940,
+      "max_year": 1967,
+      "face": {
+        "value": 10,
+        "unit": "Shillings",
+        "text": "10 Shillings"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204076,
+        "title": "10 Shillings",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "nouvelle-zelande",
+          "name": "New Zealand"
+        },
+        "min_year": 1940,
+        "max_year": 1967,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/nouvelle-zelande/5e9ab26e8ae221.51351483-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/nouvelle-zelande/5e9ab26ec57a65.92921791-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204854,
+      "title": "10 Dollars",
+      "issuer": {
+        "code": "nouvelle-zelande",
+        "name": "New Zealand"
+      },
+      "min_year": 2015,
+      "max_year": 2015,
+      "face": {
+        "value": 10,
+        "unit": "Dollars",
+        "text": "10 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204854,
+        "title": "10 Dollars",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "nouvelle-zelande",
+          "name": "New Zealand"
+        },
+        "min_year": 2015,
+        "max_year": 2015,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/nouvelle-zelande/64a5327ded4557.77888419-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/nouvelle-zelande/64a5327f134e25.35913024-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205266,
+      "title": "5 Dollars",
+      "issuer": {
+        "code": "nouvelle-zelande",
+        "name": "New Zealand"
+      },
+      "min_year": 1999,
+      "max_year": 2014,
+      "face": {
+        "value": 5,
+        "unit": "Dollars",
+        "text": "5 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205266,
+        "title": "5 Dollars",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "nouvelle-zelande",
+          "name": "New Zealand"
+        },
+        "min_year": 1999,
+        "max_year": 2014,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/nouvelle-zelande/62caa70f2167c0.02568696-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/nouvelle-zelande/62caa70fc859d2.38786609-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205271,
+      "title": "10 Dollars",
+      "issuer": {
+        "code": "nouvelle-zelande",
+        "name": "New Zealand"
+      },
+      "min_year": 1999,
+      "max_year": 2013,
+      "face": {
+        "value": 10,
+        "unit": "Dollars",
+        "text": "10 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205271,
+        "title": "10 Dollars",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "nouvelle-zelande",
+          "name": "New Zealand"
+        },
+        "min_year": 1999,
+        "max_year": 2013,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/nouvelle-zelande/5e9d89b0c2e109.06935900-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/nouvelle-zelande/5e9d89b1330c84.81615325-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205277,
+      "title": "20 Dollars - Elizabeth II",
+      "issuer": {
+        "code": "nouvelle-zelande",
+        "name": "New Zealand"
+      },
+      "min_year": 1999,
+      "max_year": 2014,
+      "face": {
+        "value": 20,
+        "unit": "Dollars",
+        "text": "20 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205277,
+        "title": "20 Dollars - Elizabeth II",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "nouvelle-zelande",
+          "name": "New Zealand"
+        },
+        "min_year": 1999,
+        "max_year": 2014,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/nouvelle-zelande/5e9d8ac96f2667.71895130-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/nouvelle-zelande/5e9d8ac9d25a82.05274916-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205467,
+      "title": "50 Pounds",
+      "issuer": {
+        "code": "nouvelle-zelande",
+        "name": "New Zealand"
+      },
+      "min_year": 1940,
+      "max_year": 1967,
+      "face": {
+        "value": 50,
+        "unit": "Pounds",
+        "text": "50 Pounds"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205467,
+        "title": "50 Pounds",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "nouvelle-zelande",
+          "name": "New Zealand"
+        },
+        "min_year": 1940,
+        "max_year": 1967,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/nouvelle-zelande/60161098b04fe3.27820138-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/nouvelle-zelande/60161099eb9bc1.34261438-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205601,
+      "title": "2 Dollars - Elizabeth II",
+      "issuer": {
+        "code": "nouvelle-zelande",
+        "name": "New Zealand"
+      },
+      "min_year": 1981,
+      "max_year": 1991,
+      "face": {
+        "value": 2,
+        "unit": "Dollars",
+        "text": "2 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205601,
+        "title": "2 Dollars - Elizabeth II",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "nouvelle-zelande",
+          "name": "New Zealand"
+        },
+        "min_year": 1981,
+        "max_year": 1991,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/nouvelle-zelande/681eb86f09b074.57741597-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/nouvelle-zelande/681eb8708d3f57.96503875-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205603,
+      "title": "5 Dollars - Elizabeth II",
+      "issuer": {
+        "code": "nouvelle-zelande",
+        "name": "New Zealand"
+      },
+      "min_year": 1981,
+      "max_year": 1992,
+      "face": {
+        "value": 5,
+        "unit": "Dollars",
+        "text": "5 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205603,
+        "title": "5 Dollars - Elizabeth II",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "nouvelle-zelande",
+          "name": "New Zealand"
+        },
+        "min_year": 1981,
+        "max_year": 1992,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/nouvelle-zelande/67b4625016fd24.87911198-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/nouvelle-zelande/67b46250ab9989.19359627-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205605,
+      "title": "10 Dollars - Elizabeth II",
+      "issuer": {
+        "code": "nouvelle-zelande",
+        "name": "New Zealand"
+      },
+      "min_year": 1981,
+      "max_year": 1992,
+      "face": {
+        "value": 10,
+        "unit": "Dollars",
+        "text": "10 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205605,
+        "title": "10 Dollars - Elizabeth II",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "nouvelle-zelande",
+          "name": "New Zealand"
+        },
+        "min_year": 1981,
+        "max_year": 1992,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/nouvelle-zelande/67e2f7d7133345.72664170-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/nouvelle-zelande/67e2f7d7dfa469.86555558-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206285,
+      "title": "50 Dollars",
+      "issuer": {
+        "code": "nouvelle-zelande",
+        "name": "New Zealand"
+      },
+      "min_year": 1999,
+      "max_year": 2014,
+      "face": {
+        "value": 50,
+        "unit": "Dollars",
+        "text": "50 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206285,
+        "title": "50 Dollars",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "nouvelle-zelande",
+          "name": "New Zealand"
+        },
+        "min_year": 1999,
+        "max_year": 2014,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/nouvelle-zelande/5ea04c4bb52be9.52532287-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/nouvelle-zelande/5ea04c4d10cd67.48432349-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206303,
+      "title": "1 Dollar - Elizabeth II",
+      "issuer": {
+        "code": "nouvelle-zelande",
+        "name": "New Zealand"
+      },
+      "min_year": 1981,
+      "max_year": 1991,
+      "face": {
+        "value": 1,
+        "unit": "Dollar",
+        "text": "1 Dollar"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206303,
+        "title": "1 Dollar - Elizabeth II",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "nouvelle-zelande",
+          "name": "New Zealand"
+        },
+        "min_year": 1981,
+        "max_year": 1991,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/nouvelle-zelande/67e2cba7e11d96.69048602-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/nouvelle-zelande/67e2cba8846037.09718827-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 210509,
+      "title": "5 Dollars",
+      "issuer": {
+        "code": "nouvelle-zelande",
+        "name": "New Zealand"
+      },
+      "min_year": 1992,
+      "max_year": 1997,
+      "face": {
+        "value": 5,
+        "unit": "Dollars",
+        "text": "5 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 210509,
+        "title": "5 Dollars",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "nouvelle-zelande",
+          "name": "New Zealand"
+        },
+        "min_year": 1992,
+        "max_year": 1997,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/nouvelle-zelande/67e305cbdcc921.12650126-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/nouvelle-zelande/67e305cc4bd468.95465831-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 210515,
+      "title": "10 Dollars (Green back)",
+      "issuer": {
+        "code": "nouvelle-zelande",
+        "name": "New Zealand"
+      },
+      "min_year": 1993,
+      "max_year": 1998,
+      "face": {
+        "value": 10,
+        "unit": "Dollars",
+        "text": "10 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 210515,
+        "title": "10 Dollars (Green back)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "nouvelle-zelande",
+          "name": "New Zealand"
+        },
+        "min_year": 1993,
+        "max_year": 1998,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/nouvelle-zelande/67e308f1252548.99124799-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/nouvelle-zelande/67e308f218cdd6.81194371-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 210516,
+      "title": "10 Dollars (Blue back)",
+      "issuer": {
+        "code": "nouvelle-zelande",
+        "name": "New Zealand"
+      },
+      "min_year": 1994,
+      "max_year": 1998,
+      "face": {
+        "value": 10,
+        "unit": "Dollars",
+        "text": "10 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 210516,
+        "title": "10 Dollars (Blue back)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "nouvelle-zelande",
+          "name": "New Zealand"
+        },
+        "min_year": 1994,
+        "max_year": 1998,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/nouvelle-zelande/67e334a2a7a079.76433308-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/nouvelle-zelande/67e334a37bdbe0.02183856-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 210519,
+      "title": "20 Dollars - Elizabeth II",
+      "issuer": {
+        "code": "nouvelle-zelande",
+        "name": "New Zealand"
+      },
+      "min_year": 1967,
+      "max_year": 1981,
+      "face": {
+        "value": 20,
+        "unit": "Dollars",
+        "text": "20 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 210519,
+        "title": "20 Dollars - Elizabeth II",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "nouvelle-zelande",
+          "name": "New Zealand"
+        },
+        "min_year": 1967,
+        "max_year": 1981,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/nouvelle-zelande/61a39e3d6d25a6.91929850-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/nouvelle-zelande/61a39e3ddc2d32.05114836-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 210522,
+      "title": "20 Dollars - Elizabeth II",
+      "issuer": {
+        "code": "nouvelle-zelande",
+        "name": "New Zealand"
+      },
+      "min_year": 1981,
+      "max_year": 1992,
+      "face": {
+        "value": 20,
+        "unit": "Dollars",
+        "text": "20 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 210522,
+        "title": "20 Dollars - Elizabeth II",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "nouvelle-zelande",
+          "name": "New Zealand"
+        },
+        "min_year": 1981,
+        "max_year": 1992,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/nouvelle-zelande/67e2f9f907aef6.21996766-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/nouvelle-zelande/67e2f9f9c9f2b5.27817459-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 210527,
+      "title": "20 Dollars - Elizabeth II (Blue mountain)",
+      "issuer": {
+        "code": "nouvelle-zelande",
+        "name": "New Zealand"
+      },
+      "min_year": 1992,
+      "max_year": 1992,
+      "face": {
+        "value": 20,
+        "unit": "Dollars",
+        "text": "20 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 210527,
+        "title": "20 Dollars - Elizabeth II (Blue mountain)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "nouvelle-zelande",
+          "name": "New Zealand"
+        },
+        "min_year": 1992,
+        "max_year": 1992,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/nouvelle-zelande/67e30c2df19403.88533641-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/nouvelle-zelande/67e30c2e879508.94698780-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 210529,
+      "title": "20 Dollars - Elizabeth II (Green mountain)",
+      "issuer": {
+        "code": "nouvelle-zelande",
+        "name": "New Zealand"
+      },
+      "min_year": 1994,
+      "max_year": 1999,
+      "face": {
+        "value": 20,
+        "unit": "Dollars",
+        "text": "20 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 210529,
+        "title": "20 Dollars - Elizabeth II (Green mountain)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "nouvelle-zelande",
+          "name": "New Zealand"
+        },
+        "min_year": 1994,
+        "max_year": 1999,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/nouvelle-zelande/67e336492db334.98439485-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/nouvelle-zelande/67e3364a0d5651.77891095-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 210533,
+      "title": "20 Dollars - Elizabeth II",
+      "issuer": {
+        "code": "nouvelle-zelande",
+        "name": "New Zealand"
+      },
+      "min_year": 2016,
+      "max_year": 2022,
+      "face": {
+        "value": 20,
+        "unit": "Dollars",
+        "text": "20 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 210533,
+        "title": "20 Dollars - Elizabeth II",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "nouvelle-zelande",
+          "name": "New Zealand"
+        },
+        "min_year": 2016,
+        "max_year": 2022,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/nouvelle-zelande/64de67c5642b22.55484430-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/nouvelle-zelande/64de67c68a7381.47047592-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 210536,
+      "title": "50 Dollars - Elizabeth II",
+      "issuer": {
+        "code": "nouvelle-zelande",
+        "name": "New Zealand"
+      },
+      "min_year": 1981,
+      "max_year": 1992,
+      "face": {
+        "value": 50,
+        "unit": "Dollars",
+        "text": "50 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 210536,
+        "title": "50 Dollars - Elizabeth II",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "nouvelle-zelande",
+          "name": "New Zealand"
+        },
+        "min_year": 1981,
+        "max_year": 1992,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/nouvelle-zelande/67e2fbb39d55d2.21154835-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/nouvelle-zelande/67e2fbb4703029.99502604-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 210539,
+      "title": "50 Dollars",
+      "issuer": {
+        "code": "nouvelle-zelande",
+        "name": "New Zealand"
+      },
+      "min_year": 1992,
+      "max_year": 1992,
+      "face": {
+        "value": 50,
+        "unit": "Dollars",
+        "text": "50 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 210539,
+        "title": "50 Dollars",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "nouvelle-zelande",
+          "name": "New Zealand"
+        },
+        "min_year": 1992,
+        "max_year": 1992,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/nouvelle-zelande/67e30db91ec918.13856046-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/nouvelle-zelande/67e30db99aa801.74725690-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 210543,
+      "title": "50 Dollars",
+      "issuer": {
+        "code": "nouvelle-zelande",
+        "name": "New Zealand"
+      },
+      "min_year": 2016,
+      "max_year": 2022,
+      "face": {
+        "value": 50,
+        "unit": "Dollars",
+        "text": "50 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 210543,
+        "title": "50 Dollars",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "nouvelle-zelande",
+          "name": "New Zealand"
+        },
+        "min_year": 2016,
+        "max_year": 2022,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/nouvelle-zelande/64de68b29a9930.28018858-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/nouvelle-zelande/64de68b3eae064.02885270-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 210548,
+      "title": "100 Dollars - Elizabeth II",
+      "issuer": {
+        "code": "nouvelle-zelande",
+        "name": "New Zealand"
+      },
+      "min_year": 1967,
+      "max_year": 1977,
+      "face": {
+        "value": 100,
+        "unit": "Dollars",
+        "text": "100 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 210548,
+        "title": "100 Dollars - Elizabeth II",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "nouvelle-zelande",
+          "name": "New Zealand"
+        },
+        "min_year": 1967,
+        "max_year": 1977,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/nouvelle-zelande/60f210be4a6bd9.89004095-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/nouvelle-zelande/60f210bf0d48c8.58524386-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 210549,
+      "title": "100 Dollars - Elizabeth II",
+      "issuer": {
+        "code": "nouvelle-zelande",
+        "name": "New Zealand"
+      },
+      "min_year": 1981,
+      "max_year": 1989,
+      "face": {
+        "value": 100,
+        "unit": "Dollars",
+        "text": "100 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 210549,
+        "title": "100 Dollars - Elizabeth II",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "nouvelle-zelande",
+          "name": "New Zealand"
+        },
+        "min_year": 1981,
+        "max_year": 1989,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/nouvelle-zelande/67e2fd06b83124.88967146-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/nouvelle-zelande/67e2fd07a2a4e4.20825985-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 210554,
+      "title": "100 Dollars",
+      "issuer": {
+        "code": "nouvelle-zelande",
+        "name": "New Zealand"
+      },
+      "min_year": 1992,
+      "max_year": 1992,
+      "face": {
+        "value": 100,
+        "unit": "Dollars",
+        "text": "100 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 210554,
+        "title": "100 Dollars",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "nouvelle-zelande",
+          "name": "New Zealand"
+        },
+        "min_year": 1992,
+        "max_year": 1992,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/nouvelle-zelande/67e30eacd684e2.48939454-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/nouvelle-zelande/67e30ead4cc535.86595665-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 210557,
+      "title": "100 Dollars",
+      "issuer": {
+        "code": "nouvelle-zelande",
+        "name": "New Zealand"
+      },
+      "min_year": 1999,
+      "max_year": 2008,
+      "face": {
+        "value": 100,
+        "unit": "Dollars",
+        "text": "100 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 210557,
+        "title": "100 Dollars",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "nouvelle-zelande",
+          "name": "New Zealand"
+        },
+        "min_year": 1999,
+        "max_year": 2008,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/nouvelle-zelande/67e356d2294921.80657370-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/nouvelle-zelande/67e356d2bd2605.22035852-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 210559,
+      "title": "100 Dollars",
+      "issuer": {
+        "code": "nouvelle-zelande",
+        "name": "New Zealand"
+      },
+      "min_year": 2016,
+      "max_year": 2018,
+      "face": {
+        "value": 100,
+        "unit": "Dollars",
+        "text": "100 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 210559,
+        "title": "100 Dollars",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "nouvelle-zelande",
+          "name": "New Zealand"
+        },
+        "min_year": 2016,
+        "max_year": 2018,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/nouvelle-zelande/5f62ccc22b4f03.36525689-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/nouvelle-zelande/5f62ccc27b44a1.80864124-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 223676,
+      "title": "10 Dollars (Millennium)",
+      "issuer": {
+        "code": "nouvelle-zelande",
+        "name": "New Zealand"
+      },
+      "min_year": 2000,
+      "max_year": 2000,
+      "face": {
+        "value": 10,
+        "unit": "Dollars",
+        "text": "10 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 223676,
+        "title": "10 Dollars (Millennium)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "nouvelle-zelande",
+          "name": "New Zealand"
+        },
+        "min_year": 2000,
+        "max_year": 2000,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/nouvelle-zelande/5ef3ce2d5eff82.02441212-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/nouvelle-zelande/5ef3ce2da32137.16010468-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 224290,
+      "title": "10 Dollars - Elizabeth II (Treaty of Waitangi)",
+      "issuer": {
+        "code": "nouvelle-zelande",
+        "name": "New Zealand"
+      },
+      "min_year": 1990,
+      "max_year": 1990,
+      "face": {
+        "value": 10,
+        "unit": "Dollars",
+        "text": "10 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 224290,
+        "title": "10 Dollars - Elizabeth II (Treaty of Waitangi)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "nouvelle-zelande",
+          "name": "New Zealand"
+        },
+        "min_year": 1990,
+        "max_year": 1990,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/nouvelle-zelande/6778658e1b79d5.32437492-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/nouvelle-zelande/6778659015a646.02794963-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 236815,
+      "title": "20 Dollars - Elizabeth II (70th Birthday)",
+      "issuer": {
+        "code": "nouvelle-zelande",
+        "name": "New Zealand"
+      },
+      "min_year": 1996,
+      "max_year": 1996,
+      "face": {
+        "value": 20,
+        "unit": "Dollars",
+        "text": "20 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 236815,
+        "title": "20 Dollars - Elizabeth II (70th Birthday)",
+        "object_type": {
+          "id": 159,
+          "name": "Non-circulating banknotes"
+        },
+        "issuer": {
+          "code": "nouvelle-zelande",
+          "name": "New Zealand"
+        },
+        "min_year": 1996,
+        "max_year": 1996,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/nouvelle-zelande/5f5e77d139d8b0.95867819-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/nouvelle-zelande/5f5e77d1794710.93424458-180.jpg",
+        "category": "banknote"
+      }
+    }
+  ]
+}

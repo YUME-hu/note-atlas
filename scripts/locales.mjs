@@ -6,6 +6,8 @@
  * The Numista API only provides English titles and numeric years.
  */
 
+import { COUNTRIES, COUNTRY_BY_ISO } from './countries.mjs'
+
 export const REGION_LOCALE = {
   CN: {
     name: '中国',
@@ -88,6 +90,41 @@ export const REGION_LOCALE = {
     issuers: ['柬埔寨国家银行'],
     fallbackSeries: 'kh-std',
   },
+}
+
+// Every country in countries.mjs gets a region entry and a Standard Issues
+// fallback; only the ones with bespoke series above are left untouched.
+const ISSUER_ALIASES = {
+  US: ['united-states', 'etats-unis', 'hawaii'],
+  GB: ['royaume-uni', 'england', 'scotland', 'northern_ireland'],
+  ID: ['indonesie'],
+  SY: ['syrie'],
+  IT: ['italie'],
+  ES: ['espagne'],
+  NL: ['pays-bas'],
+  BE: ['belgique'],
+  CH: ['suisse'],
+  NO: ['norvege'],
+  MX: ['mexique'],
+  AR: ['argentine'],
+  IN: ['inde'],
+  ZA: ['afrique_du_sud'],
+  DK: ['danemark'],
+}
+
+for (const country of COUNTRIES) {
+  const aliases = ISSUER_ALIASES[country.iso] ?? []
+  if (!REGION_LOCALE[country.iso]) {
+    REGION_LOCALE[country.iso] = {
+      name: country.name,
+      flag: '',
+      currency: country.currency,
+      unit: country.unit,
+      issuers: country.issuers ?? [],
+      fallbackSeries: `${country.iso.toLowerCase()}-std`,
+    }
+  }
+  REGION_LOCALE[country.iso].issuerCodes ??= [country.issuer, ...aliases]
 }
 
 /**
@@ -192,9 +229,138 @@ const UNIT_TABLE = {
   riels: { factor: 1, zh: '瑞尔' },
   khr: { factor: 1, zh: '瑞尔' },
   kak: { factor: 0.1, zh: '卡' },
+  // EUR (Germany, France, Italy, Spain, Portugal, Netherlands, Belgium)
+  euro: { factor: 1, zh: '欧元' },
+  euros: { factor: 1, zh: '欧元' },
+  eur: { factor: 1, zh: '欧元' },
+  欧元: { factor: 1, zh: '欧元' },
+  // CHF
+  franc: { factor: 1, zh: '法郎' },
+  francs: { factor: 1, zh: '法郎' },
+  chf: { factor: 1, zh: '法郎' },
+  // Nordic
+  krona: { factor: 1, zh: '克朗' },
+  kronor: { factor: 1, zh: '克朗' },
+  krone: { factor: 1, zh: '克朗' },
+  kroner: { factor: 1, zh: '克朗' },
+  sek: { factor: 1, zh: '克朗' },
+  nok: { factor: 1, zh: '克朗' },
+  dkk: { factor: 1, zh: '克朗' },
+  // PLN
+  zloty: { factor: 1, zh: '兹罗提' },
+  zlotys: { factor: 1, zh: '兹罗提' },
+  pln: { factor: 1, zh: '兹罗提' },
+  // BRL
+  real: { factor: 1, zh: '雷亚尔' },
+  reais: { factor: 1, zh: '雷亚尔' },
+  brl: { factor: 1, zh: '雷亚尔' },
+  // KRW
+  won: { factor: 1, zh: '韩元' },
+  wons: { factor: 1, zh: '韩元' },
+  krw: { factor: 1, zh: '韩元' },
+  // INR / PKR
+  rupee: { factor: 1, zh: '卢比' },
+  rupees: { factor: 1, zh: '卢比' },
+  inr: { factor: 1, zh: '卢比' },
+  pkr: { factor: 1, zh: '卢比' },
+  // MYR
+  ringgit: { factor: 1, zh: '林吉特' },
+  myr: { factor: 1, zh: '林吉特' },
+  // THB
+  baht: { factor: 1, zh: '泰铢' },
+  thb: { factor: 1, zh: '泰铢' },
+  // VND
+  dong: { factor: 1, zh: '盾' },
+  vnd: { factor: 1, zh: '盾' },
+  // TRY
+  lira: { factor: 1, zh: '里拉' },
+  try: { factor: 1, zh: '里拉' },
+  // ILS
+  shekel: { factor: 1, zh: '新谢克尔' },
+  shekels: { factor: 1, zh: '新谢克尔' },
+  ils: { factor: 1, zh: '新谢克尔' },
+  // ZAR
+  rand: { factor: 1, zh: '兰特' },
+  zar: { factor: 1, zh: '兰特' },
+  // ARS / CLP / MXN / PHP
+  peso: { factor: 1, zh: '比索' },
+  pesos: { factor: 1, zh: '比索' },
+  ars: { factor: 1, zh: '比索' },
+  clp: { factor: 1, zh: '比索' },
+  mxn: { factor: 1, zh: '比索' },
+  php: { factor: 1, zh: '比索' },
+  // EGP
+  'egyptian pound': { factor: 1, zh: '埃及镑' },
+  egp: { factor: 1, zh: '埃及镑' },
+  // Historic units seen in the 1960+ catalogs
+  austral: { factor: 1, zh: '奥斯特拉尔' },
+  australes: { factor: 1, zh: '奥斯特拉尔' },
+  cruzado: { factor: 1, zh: '克鲁扎多' },
+  cruzados: { factor: 1, zh: '克鲁扎多' },
+  cruzeiro: { factor: 1, zh: '克鲁塞罗' },
+  cruzeiros: { factor: 1, zh: '克鲁塞罗' },
+  centavo: { factor: 0.01, zh: '分' },
+  centavos: { factor: 0.01, zh: '分' },
+  centesimo: { factor: 0.01, zh: '分' },
+  centesimos: { factor: 0.01, zh: '分' },
+  escudo: { factor: 1, zh: '埃斯库多' },
+  escudos: { factor: 1, zh: '埃斯库多' },
+  peseta: { factor: 1, zh: '比塞塔' },
+  pesetas: { factor: 1, zh: '比塞塔' },
+  mark: { factor: 1, zh: '马克' },
+  'deutsche mark': { factor: 1, zh: '马克' },
+  pfennig: { factor: 0.01, zh: '芬尼' },
+  'new sheqel': { factor: 1, zh: '新谢克尔' },
+  'new sheqalim': { factor: 1, zh: '新谢克尔' },
+  sheqel: { factor: 1, zh: '谢克尔' },
+  sheqalim: { factor: 1, zh: '谢克尔' },
+  'new peso': { factor: 1, zh: '新比索' },
+  'nuevos pesos': { factor: 1, zh: '新比索' },
+  piso: { factor: 1, zh: '比索' },
+  gulden: { factor: 1, zh: '盾' },
+  lire: { factor: 1, zh: '里拉' },
+  hwan: { factor: 1, zh: '圜' },
+  jeon: { factor: 0.01, zh: '钱' },
+  'new unit': { factor: 1, zh: '新单位' },
+  'new units': { factor: 1, zh: '新单位' },
+  'new pence': { factor: 0.01, zh: '便士' },
+  hao: { factor: 0.1, zh: '角' },
+  'đồng': { factor: 1, zh: '盾' },
+  'đong': { factor: 1, zh: '盾' },
   // Pre-modern Japanese unit; kept at face value instead of skipping the data.
   monme: { factor: 1, zh: '匁' },
   匁: { factor: 1, zh: '匁' },
+}
+
+/**
+ * Ambiguous units: "Dollar" is not always the US dollar, "Pound" is not always
+ * sterling. These override the global table for a specific region.
+ */
+const REGION_UNIT_OVERRIDES = {
+  US: { dollar: { factor: 1, zh: '美元' }, dollars: { factor: 1, zh: '美元' } },
+  CA: { dollar: { factor: 1, zh: '加元' }, dollars: { factor: 1, zh: '加元' } },
+  AU: { dollar: { factor: 1, zh: '澳元' }, dollars: { factor: 1, zh: '澳元' } },
+  NZ: { dollar: { factor: 1, zh: '新西兰元' }, dollars: { factor: 1, zh: '新西兰元' } },
+  SG: { dollar: { factor: 1, zh: '新加坡元' }, dollars: { factor: 1, zh: '新加坡元' } },
+  GB: { pound: { factor: 1, zh: '英镑' }, pounds: { factor: 1, zh: '英镑' } },
+  SY: {
+    pound: { factor: 1, zh: '叙镑' },
+    pounds: { factor: 1, zh: '叙镑' },
+    'syrian pound': { factor: 1, zh: '叙镑' },
+    livre: { factor: 1, zh: '叙镑' },
+    livres: { factor: 1, zh: '叙镑' },
+  },
+  EG: {
+    pound: { factor: 1, zh: '埃及镑' },
+    pounds: { factor: 1, zh: '埃及镑' },
+    'egyptian pound': { factor: 1, zh: '埃及镑' },
+  },
+  IL: {
+    pound: { factor: 1, zh: '以色列镑' },
+    pounds: { factor: 1, zh: '以色列镑' },
+    'israeli pound': { factor: 1, zh: '以色列镑' },
+    lira: { factor: 1, zh: '以色列镑' },
+  },
 }
 
 export function normalizeUnit(rawUnit) {
@@ -215,13 +381,22 @@ export function resolveUnit(rawUnit, iso) {
   if (rawUnit == null) return null
   const key = normalizeUnit(rawUnit)
   if (!key) return null
+  const words = key.split(' ').filter(Boolean)
+
+  const overrides = REGION_UNIT_OVERRIDES[String(iso ?? '').toUpperCase()]
+  if (overrides) {
+    for (const candidate of [key, words[0], words[words.length - 1]]) {
+      if (candidate && overrides[candidate]) return overrides[candidate]
+    }
+  }
 
   const direct = UNIT_TABLE[key]
   if (direct) return direct
 
-  // "Chinese yuan", "Japanese yen", "Yuan Renminbi" → last word
-  const last = key.split(' ').pop()
-  if (last && UNIT_TABLE[last]) return UNIT_TABLE[last]
+  // "Pesos Argentinos" → pesos, "Kroner Edderfugl" → kroner, "Chinese yuan" → yuan
+  for (const candidate of [words[0], words[words.length - 1]]) {
+    if (candidate && UNIT_TABLE[candidate]) return UNIT_TABLE[candidate]
+  }
 
   const locale = REGION_LOCALE[String(iso ?? '').toUpperCase()]
   if (locale && key === normalizeUnit(locale.currency)) {
@@ -480,6 +655,21 @@ export const SERIES_DEFS = {
   ],
 }
 
+// Auto-create the Standard Issues series for regions that only have a fallback.
+for (const [iso, locale] of Object.entries(REGION_LOCALE)) {
+  if (!locale.fallbackSeries) continue
+  const defs = (SERIES_DEFS[iso] ??= [])
+  if (defs.some((def) => def.id === locale.fallbackSeries)) continue
+  const country = COUNTRY_BY_ISO.get(iso)
+  defs.push({
+    id: locale.fallbackSeries,
+    name: '标准流通钞',
+    year_start: country?.since ?? 1960,
+    year_end: null,
+    status: 'current',
+  })
+}
+
 /**
  * Titles that are not circulating currency (props, specimens, test prints).
  * Checked before face parsing so they never reach notes.json.
@@ -488,6 +678,9 @@ export const SKIP_PATTERNS = {
   US: [
     /movie prop|prop money|copy money|motion picture|experimental substrate|replica|specimen|test note|test print|fantasy/i,
   ],
+  ES: [/axarco|axarquillo|eusko/i],
+  FR: [/eusko/i],
+  GB: [/de la rue|test note/i],
 }
 
 export function seriesDef(iso, seriesId) {

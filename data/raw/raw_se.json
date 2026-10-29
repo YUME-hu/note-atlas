@@ -1,0 +1,1172 @@
+{
+  "meta": {
+    "generated_at": "2026-10-29T13:27:53.574Z",
+    "fixture": false,
+    "api": "numista v3",
+    "issuer": "suede",
+    "iso": "SE",
+    "category": "banknote",
+    "lang": "en",
+    "since": 1960,
+    "listed": 115,
+    "fetched": 31,
+    "details_fetched": 0,
+    "dropped_before_since": 84,
+    "dropped_by_source": {
+      "list": 84,
+      "detail": 0
+    },
+    "issuer_mismatches": 0,
+    "pages": 3,
+    "requests": 0
+  },
+  "types": [
+    {
+      "numista_type_id": 201994,
+      "title": "20 Kronor",
+      "issuer": {
+        "code": "suede",
+        "name": "Sweden"
+      },
+      "min_year": 2014,
+      "max_year": 2022,
+      "face": {
+        "value": 20,
+        "unit": "Kronor",
+        "text": "20 Kronor"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 201994,
+        "title": "20 Kronor",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "suede",
+          "name": "Sweden"
+        },
+        "min_year": 2014,
+        "max_year": 2022,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/suede/63a56a061971d5.93746467-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/suede/63a56a08b1bbd1.60015524-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202000,
+      "title": "50 Kronor",
+      "issuer": {
+        "code": "suede",
+        "name": "Sweden"
+      },
+      "min_year": 2013,
+      "max_year": 2014,
+      "face": {
+        "value": 50,
+        "unit": "Kronor",
+        "text": "50 Kronor"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202000,
+        "title": "50 Kronor",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "suede",
+          "name": "Sweden"
+        },
+        "min_year": 2013,
+        "max_year": 2014,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/suede/63a56b1ee4cad0.52197829-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/suede/63a56b21a00db8.66151355-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202002,
+      "title": "100 Kronor",
+      "issuer": {
+        "code": "suede",
+        "name": "Sweden"
+      },
+      "min_year": 2014,
+      "max_year": 2022,
+      "face": {
+        "value": 100,
+        "unit": "Kronor",
+        "text": "100 Kronor"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202002,
+        "title": "100 Kronor",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "suede",
+          "name": "Sweden"
+        },
+        "min_year": 2014,
+        "max_year": 2022,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/suede/63a56c7d14b429.93620891-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/suede/63a56c801b8c11.34966338-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202131,
+      "title": "10 Kronor",
+      "issuer": {
+        "code": "suede",
+        "name": "Sweden"
+      },
+      "min_year": 1940,
+      "max_year": 1960,
+      "face": {
+        "value": 10,
+        "unit": "Kronor",
+        "text": "10 Kronor"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202131,
+        "title": "10 Kronor",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "suede",
+          "name": "Sweden"
+        },
+        "min_year": 1940,
+        "max_year": 1960,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/suede/63a5811f6ee594.04583167-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/suede/63a58121d58fd6.80849710-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202670,
+      "title": "20 Kronor (small type)",
+      "issuer": {
+        "code": "suede",
+        "name": "Sweden"
+      },
+      "min_year": 1997,
+      "max_year": 2008,
+      "face": {
+        "value": 20,
+        "unit": "Kronor",
+        "text": "20 Kronor"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202670,
+        "title": "20 Kronor (small type)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "suede",
+          "name": "Sweden"
+        },
+        "min_year": 1997,
+        "max_year": 2008,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/suede/63a580d30797a5.42012866-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/suede/63a580d5a45df1.22654596-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202674,
+      "title": "10 Kronor (Riksbank anniversary)",
+      "issuer": {
+        "code": "suede",
+        "name": "Sweden"
+      },
+      "min_year": 1968,
+      "max_year": 1968,
+      "face": {
+        "value": 10,
+        "unit": "Kronor",
+        "text": "10 Kronor"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202674,
+        "title": "10 Kronor (Riksbank anniversary)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "suede",
+          "name": "Sweden"
+        },
+        "min_year": 1968,
+        "max_year": 1968,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/suede/63a580fcf11871.80124975-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/suede/63a580ff2aa6c3.27651475-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202682,
+      "title": "5 Kronor",
+      "issuer": {
+        "code": "suede",
+        "name": "Sweden"
+      },
+      "min_year": 1965,
+      "max_year": 1981,
+      "face": {
+        "value": 5,
+        "unit": "Kronor",
+        "text": "5 Kronor"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202682,
+        "title": "5 Kronor",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "suede",
+          "name": "Sweden"
+        },
+        "min_year": 1965,
+        "max_year": 1981,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/suede/63a58140b40400.32188878-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/suede/63a58142f2a272.57069324-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202686,
+      "title": "10 Kronor",
+      "issuer": {
+        "code": "suede",
+        "name": "Sweden"
+      },
+      "min_year": 1963,
+      "max_year": 1990,
+      "face": {
+        "value": 10,
+        "unit": "Kronor",
+        "text": "10 Kronor"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202686,
+        "title": "10 Kronor",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "suede",
+          "name": "Sweden"
+        },
+        "min_year": 1963,
+        "max_year": 1990,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/suede/63a56b97ae28b5.14136820-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/suede/63a56b99d6aca0.05022091-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205213,
+      "title": "200 Kronor",
+      "issuer": {
+        "code": "suede",
+        "name": "Sweden"
+      },
+      "min_year": 2013,
+      "max_year": 2014,
+      "face": {
+        "value": 200,
+        "unit": "Kronor",
+        "text": "200 Kronor"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205213,
+        "title": "200 Kronor",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "suede",
+          "name": "Sweden"
+        },
+        "min_year": 2013,
+        "max_year": 2014,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/suede/63a57fd747b756.59906407-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/suede/63a57fdaad1d17.17569682-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205214,
+      "title": "500 Kronor",
+      "issuer": {
+        "code": "suede",
+        "name": "Sweden"
+      },
+      "min_year": 2014,
+      "max_year": 2022,
+      "face": {
+        "value": 500,
+        "unit": "Kronor",
+        "text": "500 Kronor"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205214,
+        "title": "500 Kronor",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "suede",
+          "name": "Sweden"
+        },
+        "min_year": 2014,
+        "max_year": 2022,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/suede/63a580023868b1.16590017-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/suede/63a58005584e18.98091362-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205215,
+      "title": "1000 Kronor",
+      "issuer": {
+        "code": "suede",
+        "name": "Sweden"
+      },
+      "min_year": 2014,
+      "max_year": 2014,
+      "face": {
+        "value": 1000,
+        "unit": "Kronor",
+        "text": "1000 Kronor"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205215,
+        "title": "1000 Kronor",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "suede",
+          "name": "Sweden"
+        },
+        "min_year": 2014,
+        "max_year": 2014,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/suede/63a56ebe37acb3.19762977-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/suede/63a56ec1a90c41.03650175-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205229,
+      "title": "100 Kronor (Tumba Bruk)",
+      "issuer": {
+        "code": "suede",
+        "name": "Sweden"
+      },
+      "min_year": 2005,
+      "max_year": 2005,
+      "face": {
+        "value": 100,
+        "unit": "Kronor",
+        "text": "100 Kronor"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205229,
+        "title": "100 Kronor (Tumba Bruk)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "suede",
+          "name": "Sweden"
+        },
+        "min_year": 2005,
+        "max_year": 2005,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/suede/63a56c09665723.14048627-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/suede/63a56c0c154d37.69932038-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205675,
+      "title": "20 Kronor (large type)",
+      "issuer": {
+        "code": "suede",
+        "name": "Sweden"
+      },
+      "min_year": 1991,
+      "max_year": 1995,
+      "face": {
+        "value": 20,
+        "unit": "Kronor",
+        "text": "20 Kronor"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205675,
+        "title": "20 Kronor (large type)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "suede",
+          "name": "Sweden"
+        },
+        "min_year": 1991,
+        "max_year": 1995,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/suede/6398874ee85ac7.40650261-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/suede/63988751e05fb2.67567626-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205677,
+      "title": "50 Kronor",
+      "issuer": {
+        "code": "suede",
+        "name": "Sweden"
+      },
+      "min_year": 1996,
+      "max_year": 2003,
+      "face": {
+        "value": 50,
+        "unit": "Kronor",
+        "text": "50 Kronor"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205677,
+        "title": "50 Kronor",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "suede",
+          "name": "Sweden"
+        },
+        "min_year": 1996,
+        "max_year": 2003,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/suede/63a56adbb91ae0.85506985-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/suede/63a56ade216de8.19569761-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205678,
+      "title": "50 Kronor",
+      "issuer": {
+        "code": "suede",
+        "name": "Sweden"
+      },
+      "min_year": 2004,
+      "max_year": 2011,
+      "face": {
+        "value": 50,
+        "unit": "Kronor",
+        "text": "50 Kronor"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205678,
+        "title": "50 Kronor",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "suede",
+          "name": "Sweden"
+        },
+        "min_year": 2004,
+        "max_year": 2011,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/suede/63b9685e16b9a8.42014024-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/suede/63b96860623a41.66166611-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205681,
+      "title": "100 Kronor",
+      "issuer": {
+        "code": "suede",
+        "name": "Sweden"
+      },
+      "min_year": 2001,
+      "max_year": 2014,
+      "face": {
+        "value": 100,
+        "unit": "Kronor",
+        "text": "100 Kronor"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205681,
+        "title": "100 Kronor",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "suede",
+          "name": "Sweden"
+        },
+        "min_year": 2001,
+        "max_year": 2014,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/suede/63b5806f64edc8.93288119-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/suede/63b58071cc7bc6.65840120-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205684,
+      "title": "100 Kronor",
+      "issuer": {
+        "code": "suede",
+        "name": "Sweden"
+      },
+      "min_year": 1986,
+      "max_year": 2000,
+      "face": {
+        "value": 100,
+        "unit": "Kronor",
+        "text": "100 Kronor"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205684,
+        "title": "100 Kronor",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "suede",
+          "name": "Sweden"
+        },
+        "min_year": 1986,
+        "max_year": 2000,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/suede/63a5807b39c4a5.66875123-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/suede/63a5807dce5471.00196982-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205688,
+      "title": "500 Kronor",
+      "issuer": {
+        "code": "suede",
+        "name": "Sweden"
+      },
+      "min_year": 1985,
+      "max_year": 1986,
+      "face": {
+        "value": 500,
+        "unit": "Kronor",
+        "text": "500 Kronor"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205688,
+        "title": "500 Kronor",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "suede",
+          "name": "Sweden"
+        },
+        "min_year": 1985,
+        "max_year": 1986,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/suede/63988899eccb67.08103080-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/suede/6398889c829b69.89102321-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205690,
+      "title": "500 Kronor",
+      "issuer": {
+        "code": "suede",
+        "name": "Sweden"
+      },
+      "min_year": 1989,
+      "max_year": 2000,
+      "face": {
+        "value": 500,
+        "unit": "Kronor",
+        "text": "500 Kronor"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205690,
+        "title": "500 Kronor",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "suede",
+          "name": "Sweden"
+        },
+        "min_year": 1989,
+        "max_year": 2000,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/suede/63a56d1d2a2af5.56721305-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/suede/63a56d1f952359.29938600-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205692,
+      "title": "500 Kronor",
+      "issuer": {
+        "code": "suede",
+        "name": "Sweden"
+      },
+      "min_year": 2001,
+      "max_year": 2014,
+      "face": {
+        "value": 500,
+        "unit": "Kronor",
+        "text": "500 Kronor"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205692,
+        "title": "500 Kronor",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "suede",
+          "name": "Sweden"
+        },
+        "min_year": 2001,
+        "max_year": 2014,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/suede/63a56dedb93fc4.00752566-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/suede/63a56defca6e05.28452088-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205695,
+      "title": "1000 Kronor",
+      "issuer": {
+        "code": "suede",
+        "name": "Sweden"
+      },
+      "min_year": 2005,
+      "max_year": 2005,
+      "face": {
+        "value": 1000,
+        "unit": "Kronor",
+        "text": "1000 Kronor"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205695,
+        "title": "1000 Kronor",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "suede",
+          "name": "Sweden"
+        },
+        "min_year": 2005,
+        "max_year": 2005,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/suede/63a58011686cd6.88626845-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/suede/63a56e2f2f46e9.84684138-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205697,
+      "title": "1000 Kronor",
+      "issuer": {
+        "code": "suede",
+        "name": "Sweden"
+      },
+      "min_year": 1989,
+      "max_year": 1992,
+      "face": {
+        "value": 1000,
+        "unit": "Kronor",
+        "text": "1000 Kronor"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205697,
+        "title": "1000 Kronor",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "suede",
+          "name": "Sweden"
+        },
+        "min_year": 1989,
+        "max_year": 1992,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/suede/63b580c3b03471.10908052-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/suede/63b580c64d4293.34904892-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205840,
+      "title": "5 Kronor",
+      "issuer": {
+        "code": "suede",
+        "name": "Sweden"
+      },
+      "min_year": 1962,
+      "max_year": 1963,
+      "face": {
+        "value": 5,
+        "unit": "Kronor",
+        "text": "5 Kronor"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205840,
+        "title": "5 Kronor",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "suede",
+          "name": "Sweden"
+        },
+        "min_year": 1962,
+        "max_year": 1963,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/suede/62969817dcc8b7.79619529-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/suede/6296981a02a1f0.32065263-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205844,
+      "title": "100 Kronor",
+      "issuer": {
+        "code": "suede",
+        "name": "Sweden"
+      },
+      "min_year": 1965,
+      "max_year": 1985,
+      "face": {
+        "value": 100,
+        "unit": "Kronor",
+        "text": "100 Kronor"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205844,
+        "title": "100 Kronor",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "suede",
+          "name": "Sweden"
+        },
+        "min_year": 1965,
+        "max_year": 1985,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/suede/63a5809fbbe536.63934057-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/suede/63a580a1e1fde2.46146841-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206131,
+      "title": "10 Kronor",
+      "issuer": {
+        "code": "suede",
+        "name": "Sweden"
+      },
+      "min_year": 1953,
+      "max_year": 1962,
+      "face": {
+        "value": 10,
+        "unit": "Kronor",
+        "text": "10 Kronor"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206131,
+        "title": "10 Kronor",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "suede",
+          "name": "Sweden"
+        },
+        "min_year": 1953,
+        "max_year": 1962,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/suede/5e9fface9f8802.40901921-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/suede/5e9ffacf2f4270.61796951-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206159,
+      "title": "50 Kronor",
+      "issuer": {
+        "code": "suede",
+        "name": "Sweden"
+      },
+      "min_year": 1965,
+      "max_year": 1990,
+      "face": {
+        "value": 50,
+        "unit": "Kronor",
+        "text": "50 Kronor"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206159,
+        "title": "50 Kronor",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "suede",
+          "name": "Sweden"
+        },
+        "min_year": 1965,
+        "max_year": 1990,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/suede/63a56a778896e8.64441768-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/suede/63a56a79b20d46.96824905-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206161,
+      "title": "100 Kronor",
+      "issuer": {
+        "code": "suede",
+        "name": "Sweden"
+      },
+      "min_year": 1918,
+      "max_year": 1963,
+      "face": {
+        "value": 100,
+        "unit": "Kronor",
+        "text": "100 Kronor"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206161,
+        "title": "100 Kronor",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "suede",
+          "name": "Sweden"
+        },
+        "min_year": 1918,
+        "max_year": 1963,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/suede/639887f08dafb4.35415379-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/suede/639887f1e4c346.28531552-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 214997,
+      "title": "5 Kronor",
+      "issuer": {
+        "code": "suede",
+        "name": "Sweden"
+      },
+      "min_year": 1954,
+      "max_year": 1961,
+      "face": {
+        "value": 5,
+        "unit": "Kronor",
+        "text": "5 Kronor"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 214997,
+        "title": "5 Kronor",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "suede",
+          "name": "Sweden"
+        },
+        "min_year": 1954,
+        "max_year": 1961,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/suede/63a58161ef3582.20988473-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/suede/63a58164470053.08046857-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 221131,
+      "title": "50 Kronor",
+      "issuer": {
+        "code": "suede",
+        "name": "Sweden"
+      },
+      "min_year": 1918,
+      "max_year": 1962,
+      "face": {
+        "value": 50,
+        "unit": "Kronor",
+        "text": "50 Kronor"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 221131,
+        "title": "50 Kronor",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "suede",
+          "name": "Sweden"
+        },
+        "min_year": 1918,
+        "max_year": 1962,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/suede/5ee003152a1fc0.57416927-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/suede/5ee00315780a63.42927787-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 225513,
+      "title": "1000 Kronor",
+      "issuer": {
+        "code": "suede",
+        "name": "Sweden"
+      },
+      "min_year": 1952,
+      "max_year": 1973,
+      "face": {
+        "value": 1000,
+        "unit": "Kronor",
+        "text": "1000 Kronor"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 225513,
+        "title": "1000 Kronor",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "suede",
+          "name": "Sweden"
+        },
+        "min_year": 1952,
+        "max_year": 1973,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/suede/5f032e873d5817.20600502-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/suede/5f032e87682691.71578376-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 225514,
+      "title": "1000 Kronor",
+      "issuer": {
+        "code": "suede",
+        "name": "Sweden"
+      },
+      "min_year": 1976,
+      "max_year": 1988,
+      "face": {
+        "value": 1000,
+        "unit": "Kronor",
+        "text": "1000 Kronor"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 225514,
+        "title": "1000 Kronor",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "suede",
+          "name": "Sweden"
+        },
+        "min_year": 1976,
+        "max_year": 1988,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/suede/5f032f557a7be6.77603467-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/suede/5f032f55a3c931.52541462-180.jpg",
+        "category": "banknote"
+      }
+    }
+  ]
+}

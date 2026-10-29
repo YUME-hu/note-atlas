@@ -1,0 +1,1320 @@
+{
+  "meta": {
+    "generated_at": "2026-10-29T13:27:56.819Z",
+    "fixture": false,
+    "api": "numista v3",
+    "issuer": "coree_du_sud",
+    "iso": "KR",
+    "category": "banknote",
+    "lang": "en",
+    "since": 1960,
+    "listed": 59,
+    "fetched": 35,
+    "details_fetched": 0,
+    "dropped_before_since": 24,
+    "dropped_by_source": {
+      "list": 24,
+      "detail": 0
+    },
+    "issuer_mismatches": 0,
+    "pages": 2,
+    "requests": 0
+  },
+  "types": [
+    {
+      "numista_type_id": 201806,
+      "title": "1000 Won",
+      "issuer": {
+        "code": "coree_du_sud",
+        "name": "South Korea"
+      },
+      "min_year": 2007,
+      "max_year": 2007,
+      "face": {
+        "value": 1000,
+        "unit": "Won",
+        "text": "1000 Won"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 201806,
+        "title": "1000 Won",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "coree_du_sud",
+          "name": "South Korea"
+        },
+        "min_year": 2007,
+        "max_year": 2007,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/coree_du_sud/63b5735a5f91b6.79486187-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/coree_du_sud/63b5735d126c95.68223790-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203157,
+      "title": "5000 Won",
+      "issuer": {
+        "code": "coree_du_sud",
+        "name": "South Korea"
+      },
+      "min_year": 2006,
+      "max_year": 2006,
+      "face": {
+        "value": 5000,
+        "unit": "Won",
+        "text": "5000 Won"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203157,
+        "title": "5000 Won",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "coree_du_sud",
+          "name": "South Korea"
+        },
+        "min_year": 2006,
+        "max_year": 2006,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/coree_du_sud/63b573a7f0d758.76169643-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/coree_du_sud/63b573ab06c843.33203861-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203421,
+      "title": "10 000 Won",
+      "issuer": {
+        "code": "coree_du_sud",
+        "name": "South Korea"
+      },
+      "min_year": 2007,
+      "max_year": 2007,
+      "face": {
+        "value": 10000,
+        "unit": "Won",
+        "text": "10000 Won"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203421,
+        "title": "10 000 Won",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "coree_du_sud",
+          "name": "South Korea"
+        },
+        "min_year": 2007,
+        "max_year": 2007,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/coree_du_sud/63b573f5884b46.42250849-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/coree_du_sud/63b573f886e903.05760206-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203470,
+      "title": "2000 Won (Winter Olympics)",
+      "issuer": {
+        "code": "coree_du_sud",
+        "name": "South Korea"
+      },
+      "min_year": 2018,
+      "max_year": 2018,
+      "face": {
+        "value": 2000,
+        "unit": "Won",
+        "text": "2000 Won"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203470,
+        "title": "2000 Won (Winter Olympics)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "coree_du_sud",
+          "name": "South Korea"
+        },
+        "min_year": 2018,
+        "max_year": 2018,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/coree_du_sud/642154ba512b91.07563838-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/coree_du_sud/642154bbf33d11.36431404-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203884,
+      "title": "50 000 Won",
+      "issuer": {
+        "code": "coree_du_sud",
+        "name": "South Korea"
+      },
+      "min_year": 2009,
+      "max_year": 2009,
+      "face": {
+        "value": 50000,
+        "unit": "Won",
+        "text": "50000 Won"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203884,
+        "title": "50 000 Won",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "coree_du_sud",
+          "name": "South Korea"
+        },
+        "min_year": 2009,
+        "max_year": 2009,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/coree_du_sud/63b57528a81fd2.15891765-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/coree_du_sud/63b5752be6ba10.63898450-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204207,
+      "title": "10 000 Won",
+      "issuer": {
+        "code": "coree_du_sud",
+        "name": "South Korea"
+      },
+      "min_year": 1983,
+      "max_year": 1994,
+      "face": {
+        "value": 10000,
+        "unit": "Won",
+        "text": "10000 Won"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204207,
+        "title": "10 000 Won",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "coree_du_sud",
+          "name": "South Korea"
+        },
+        "min_year": 1983,
+        "max_year": 1994,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/coree_du_sud/63b573cfcbbf30.27653921-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/coree_du_sud/63b573d2809226.00154068-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204209,
+      "title": "5000 Won",
+      "issuer": {
+        "code": "coree_du_sud",
+        "name": "South Korea"
+      },
+      "min_year": 1983,
+      "max_year": 2002,
+      "face": {
+        "value": 5000,
+        "unit": "Won",
+        "text": "5000 Won"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204209,
+        "title": "5000 Won",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "coree_du_sud",
+          "name": "South Korea"
+        },
+        "min_year": 1983,
+        "max_year": 2002,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/coree_du_sud/63b5737377a8b8.19344765-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/coree_du_sud/63b573763371c1.86531534-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204217,
+      "title": "1 Won",
+      "issuer": {
+        "code": "coree_du_sud",
+        "name": "South Korea"
+      },
+      "min_year": 1962,
+      "max_year": 1970,
+      "face": {
+        "value": 1,
+        "unit": "Won",
+        "text": "1 Won"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204217,
+        "title": "1 Won",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "coree_du_sud",
+          "name": "South Korea"
+        },
+        "min_year": 1962,
+        "max_year": 1970,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/coree_du_sud/63b572a44b8a16.89059352-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/coree_du_sud/63b572a63f6959.00820025-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204231,
+      "title": "10 Jeon",
+      "issuer": {
+        "code": "coree_du_sud",
+        "name": "South Korea"
+      },
+      "min_year": 1962,
+      "max_year": 1962,
+      "face": {
+        "value": 10,
+        "unit": "Jeon",
+        "text": "10 Jeon"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204231,
+        "title": "10 Jeon",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "coree_du_sud",
+          "name": "South Korea"
+        },
+        "min_year": 1962,
+        "max_year": 1962,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/coree_du_sud/63b57257e285d9.84667205-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/coree_du_sud/63b57259b19d54.46710994-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204232,
+      "title": "50 Jeon",
+      "issuer": {
+        "code": "coree_du_sud",
+        "name": "South Korea"
+      },
+      "min_year": 1962,
+      "max_year": 1962,
+      "face": {
+        "value": 50,
+        "unit": "Jeon",
+        "text": "50 Jeon"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204232,
+        "title": "50 Jeon",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "coree_du_sud",
+          "name": "South Korea"
+        },
+        "min_year": 1962,
+        "max_year": 1962,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/coree_du_sud/63b5727b1a3d54.10135335-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/coree_du_sud/63b5727cbec689.91260444-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204233,
+      "title": "500 Won",
+      "issuer": {
+        "code": "coree_du_sud",
+        "name": "South Korea"
+      },
+      "min_year": 1973,
+      "max_year": 1982,
+      "face": {
+        "value": 500,
+        "unit": "Won",
+        "text": "500 Won"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204233,
+        "title": "500 Won",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "coree_du_sud",
+          "name": "South Korea"
+        },
+        "min_year": 1973,
+        "max_year": 1982,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/coree_du_sud/63b57301a62f93.25640270-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/coree_du_sud/63b57304b3f7c8.03062185-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204236,
+      "title": "1000 Won",
+      "issuer": {
+        "code": "coree_du_sud",
+        "name": "South Korea"
+      },
+      "min_year": 1983,
+      "max_year": 2007,
+      "face": {
+        "value": 1000,
+        "unit": "Won",
+        "text": "1000 Won"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204236,
+        "title": "1000 Won",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "coree_du_sud",
+          "name": "South Korea"
+        },
+        "min_year": 1983,
+        "max_year": 2007,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/coree_du_sud/63b5732a461bd4.66099581-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/coree_du_sud/63b5732ce43467.20076027-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204242,
+      "title": "10 Won",
+      "issuer": {
+        "code": "coree_du_sud",
+        "name": "South Korea"
+      },
+      "min_year": 1962,
+      "max_year": 1973,
+      "face": {
+        "value": 10,
+        "unit": "Won",
+        "text": "10 Won"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204242,
+        "title": "10 Won",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "coree_du_sud",
+          "name": "South Korea"
+        },
+        "min_year": 1962,
+        "max_year": 1973,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/coree_du_sud/63b572d2105929.77585363-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/coree_du_sud/63b572d55fde36.41175064-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206494,
+      "title": "100 Won",
+      "issuer": {
+        "code": "coree_du_sud",
+        "name": "South Korea"
+      },
+      "min_year": 1965,
+      "max_year": 1965,
+      "face": {
+        "value": 100,
+        "unit": "Won",
+        "text": "100 Won"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206494,
+        "title": "100 Won",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "coree_du_sud",
+          "name": "South Korea"
+        },
+        "min_year": 1965,
+        "max_year": 1965,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/coree_du_sud/691b8cd550c759.00311543-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/coree_du_sud/691b8cd5f116d3.48625906-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 207685,
+      "title": "1000 Hwan",
+      "issuer": {
+        "code": "coree_du_sud",
+        "name": "South Korea"
+      },
+      "min_year": 1960,
+      "max_year": 1962,
+      "face": {
+        "value": 1000,
+        "unit": "Hwan",
+        "text": "1000 Hwan"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 207685,
+        "title": "1000 Hwan",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "coree_du_sud",
+          "name": "South Korea"
+        },
+        "min_year": 1960,
+        "max_year": 1962,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/coree_du_sud/5ea4ac685c5e07.80567684-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/coree_du_sud/5ea4ac692f6711.80079510-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 207960,
+      "title": "10 000 Won",
+      "issuer": {
+        "code": "coree_du_sud",
+        "name": "South Korea"
+      },
+      "min_year": 1994,
+      "max_year": 2000,
+      "face": {
+        "value": 10000,
+        "unit": "Won",
+        "text": "10000 Won"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 207960,
+        "title": "10 000 Won",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "coree_du_sud",
+          "name": "South Korea"
+        },
+        "min_year": 1994,
+        "max_year": 2000,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/coree_du_sud/5ea5c758432e06.99771138-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/coree_du_sud/5ea5c759f32898.94023229-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 207964,
+      "title": "10 000 Won",
+      "issuer": {
+        "code": "coree_du_sud",
+        "name": "South Korea"
+      },
+      "min_year": 2000,
+      "max_year": 2007,
+      "face": {
+        "value": 10000,
+        "unit": "Won",
+        "text": "10000 Won"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 207964,
+        "title": "10 000 Won",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "coree_du_sud",
+          "name": "South Korea"
+        },
+        "min_year": 2000,
+        "max_year": 2007,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/coree_du_sud/69f91062960ae4.77976576-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/coree_du_sud/69f9106477f6f3.34811104-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 207973,
+      "title": "5000 Won",
+      "issuer": {
+        "code": "coree_du_sud",
+        "name": "South Korea"
+      },
+      "min_year": 2002,
+      "max_year": 2006,
+      "face": {
+        "value": 5000,
+        "unit": "Won",
+        "text": "5000 Won"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 207973,
+        "title": "5000 Won",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "coree_du_sud",
+          "name": "South Korea"
+        },
+        "min_year": 2002,
+        "max_year": 2006,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/coree_du_sud/5ea5cda22d70f5.58729913-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/coree_du_sud/5ea5cda3d5dac1.02321552-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 208710,
+      "title": "1000 Won",
+      "issuer": {
+        "code": "coree_du_sud",
+        "name": "South Korea"
+      },
+      "min_year": 1975,
+      "max_year": 1983,
+      "face": {
+        "value": 1000,
+        "unit": "Won",
+        "text": "1000 Won"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 208710,
+        "title": "1000 Won",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "coree_du_sud",
+          "name": "South Korea"
+        },
+        "min_year": 1975,
+        "max_year": 1983,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/coree_du_sud/5ead99203b6a50.17860304-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/coree_du_sud/5ead9920d438a0.34478206-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 208711,
+      "title": "5000 Won",
+      "issuer": {
+        "code": "coree_du_sud",
+        "name": "South Korea"
+      },
+      "min_year": 1977,
+      "max_year": 1983,
+      "face": {
+        "value": 5000,
+        "unit": "Won",
+        "text": "5000 Won"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 208711,
+        "title": "5000 Won",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "coree_du_sud",
+          "name": "South Korea"
+        },
+        "min_year": 1977,
+        "max_year": 1983,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/coree_du_sud/5eb57f6b36dce3.31009648-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/coree_du_sud/5eb57f6b673196.10091889-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 208714,
+      "title": "10 000 Won",
+      "issuer": {
+        "code": "coree_du_sud",
+        "name": "South Korea"
+      },
+      "min_year": 1979,
+      "max_year": 1983,
+      "face": {
+        "value": 10000,
+        "unit": "Won",
+        "text": "10000 Won"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 208714,
+        "title": "10 000 Won",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "coree_du_sud",
+          "name": "South Korea"
+        },
+        "min_year": 1979,
+        "max_year": 1983,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/coree_du_sud/5eb184e5878ba0.42310185-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/coree_du_sud/5eb184e5bfdc04.11578633-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 208719,
+      "title": "50 Won",
+      "issuer": {
+        "code": "coree_du_sud",
+        "name": "South Korea"
+      },
+      "min_year": 1969,
+      "max_year": 1973,
+      "face": {
+        "value": 50,
+        "unit": "Won",
+        "text": "50 Won"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 208719,
+        "title": "50 Won",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "coree_du_sud",
+          "name": "South Korea"
+        },
+        "min_year": 1969,
+        "max_year": 1973,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/coree_du_sud/5ed692211fbd24.97622049-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/coree_du_sud/5ed69221496f32.04717935-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 208721,
+      "title": "5000 Won",
+      "issuer": {
+        "code": "coree_du_sud",
+        "name": "South Korea"
+      },
+      "min_year": 1972,
+      "max_year": 1983,
+      "face": {
+        "value": 5000,
+        "unit": "Won",
+        "text": "5000 Won"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 208721,
+        "title": "5000 Won",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "coree_du_sud",
+          "name": "South Korea"
+        },
+        "min_year": 1972,
+        "max_year": 1983,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/coree_du_sud/5eb18aee5910f3.25032244-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/coree_du_sud/5eb18aee8944d5.41604736-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 208723,
+      "title": "10 000 Won",
+      "issuer": {
+        "code": "coree_du_sud",
+        "name": "South Korea"
+      },
+      "min_year": 1973,
+      "max_year": 1979,
+      "face": {
+        "value": 10000,
+        "unit": "Won",
+        "text": "10000 Won"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 208723,
+        "title": "10 000 Won",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "coree_du_sud",
+          "name": "South Korea"
+        },
+        "min_year": 1973,
+        "max_year": 1979,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/coree_du_sud/5eb189929b5004.81538390-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/coree_du_sud/5eb18992c0b807.91198501-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 208726,
+      "title": "500 Won",
+      "issuer": {
+        "code": "coree_du_sud",
+        "name": "South Korea"
+      },
+      "min_year": 1966,
+      "max_year": 1975,
+      "face": {
+        "value": 500,
+        "unit": "Won",
+        "text": "500 Won"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 208726,
+        "title": "500 Won",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "coree_du_sud",
+          "name": "South Korea"
+        },
+        "min_year": 1966,
+        "max_year": 1975,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/coree_du_sud/6402742ceaab66.12662680-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/coree_du_sud/6402742e294f21.61925017-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 208728,
+      "title": "5 Won",
+      "issuer": {
+        "code": "coree_du_sud",
+        "name": "South Korea"
+      },
+      "min_year": 1962,
+      "max_year": 1969,
+      "face": {
+        "value": 5,
+        "unit": "Won",
+        "text": "5 Won"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 208728,
+        "title": "5 Won",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "coree_du_sud",
+          "name": "South Korea"
+        },
+        "min_year": 1962,
+        "max_year": 1969,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/coree_du_sud/5ed6917876e800.62219745-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/coree_du_sud/5ed69178a61bc6.90028131-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 208729,
+      "title": "10 Won",
+      "issuer": {
+        "code": "coree_du_sud",
+        "name": "South Korea"
+      },
+      "min_year": 1962,
+      "max_year": 1962,
+      "face": {
+        "value": 10,
+        "unit": "Won",
+        "text": "10 Won"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 208729,
+        "title": "10 Won",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "coree_du_sud",
+          "name": "South Korea"
+        },
+        "min_year": 1962,
+        "max_year": 1962,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/coree_du_sud/5ed691d1a6bf38.71141538-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/coree_du_sud/5ed691d1cc90e4.17024967-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 208730,
+      "title": "50 Won",
+      "issuer": {
+        "code": "coree_du_sud",
+        "name": "South Korea"
+      },
+      "min_year": 1962,
+      "max_year": 1970,
+      "face": {
+        "value": 50,
+        "unit": "Won",
+        "text": "50 Won"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 208730,
+        "title": "50 Won",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "coree_du_sud",
+          "name": "South Korea"
+        },
+        "min_year": 1962,
+        "max_year": 1970,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/coree_du_sud/5ec2ff011656a0.60742118-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/coree_du_sud/5ec2ff01729586.61480302-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 208732,
+      "title": "100 Won",
+      "issuer": {
+        "code": "coree_du_sud",
+        "name": "South Korea"
+      },
+      "min_year": 1962,
+      "max_year": 1969,
+      "face": {
+        "value": 100,
+        "unit": "Won",
+        "text": "100 Won"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 208732,
+        "title": "100 Won",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "coree_du_sud",
+          "name": "South Korea"
+        },
+        "min_year": 1962,
+        "max_year": 1969,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/coree_du_sud/5fc398a203a2a8.82471375-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/coree_du_sud/5fc398800d1755.24328682-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 208733,
+      "title": "500 Won",
+      "issuer": {
+        "code": "coree_du_sud",
+        "name": "South Korea"
+      },
+      "min_year": 1962,
+      "max_year": 1967,
+      "face": {
+        "value": 500,
+        "unit": "Won",
+        "text": "500 Won"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 208733,
+        "title": "500 Won",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "coree_du_sud",
+          "name": "South Korea"
+        },
+        "min_year": 1962,
+        "max_year": 1967,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/coree_du_sud/5eb58074f1c059.44749494-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/coree_du_sud/5eb580752e0340.73955877-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 210717,
+      "title": "100 Hwan",
+      "issuer": {
+        "code": "coree_du_sud",
+        "name": "South Korea"
+      },
+      "min_year": 1962,
+      "max_year": 1962,
+      "face": {
+        "value": 100,
+        "unit": "Hwan",
+        "text": "100 Hwan"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 210717,
+        "title": "100 Hwan",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "coree_du_sud",
+          "name": "South Korea"
+        },
+        "min_year": 1962,
+        "max_year": 1962,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/coree_du_sud/5ed57856e0ff75.81268564-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/coree_du_sud/5ed5785710b8e6.13267940-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 210718,
+      "title": "500 Hwan",
+      "issuer": {
+        "code": "coree_du_sud",
+        "name": "South Korea"
+      },
+      "min_year": 1961,
+      "max_year": 1961,
+      "face": {
+        "value": 500,
+        "unit": "Hwan",
+        "text": "500 Hwan"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 210718,
+        "title": "500 Hwan",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "coree_du_sud",
+          "name": "South Korea"
+        },
+        "min_year": 1961,
+        "max_year": 1961,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/coree_du_sud/5ed690652f4f46.68040009-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/coree_du_sud/5ed69065554477.39340605-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 210742,
+      "title": "1000 Hwan",
+      "issuer": {
+        "code": "coree_du_sud",
+        "name": "South Korea"
+      },
+      "min_year": 1957,
+      "max_year": 1960,
+      "face": {
+        "value": 1000,
+        "unit": "Hwan",
+        "text": "1000 Hwan"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 210742,
+        "title": "1000 Hwan",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "coree_du_sud",
+          "name": "South Korea"
+        },
+        "min_year": 1957,
+        "max_year": 1960,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/coree_du_sud/5ed69115f18b39.72058614-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/coree_du_sud/5ed6911620b9e0.93609118-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 225366,
+      "title": "100 Won",
+      "issuer": {
+        "code": "coree_du_sud",
+        "name": "South Korea"
+      },
+      "min_year": 1962,
+      "max_year": 1969,
+      "face": {
+        "value": 100,
+        "unit": "Won",
+        "text": "100 Won"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 225366,
+        "title": "100 Won",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "coree_du_sud",
+          "name": "South Korea"
+        },
+        "min_year": 1962,
+        "max_year": 1969,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/coree_du_sud/5fbb3330dca426.93610698-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/coree_du_sud/5fbb3331185e33.27904855-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 481755,
+      "title": "80th Anniversary of Liberation Commemorative Banknote",
+      "issuer": {
+        "code": "coree_du_sud",
+        "name": "South Korea"
+      },
+      "min_year": 2025,
+      "max_year": 2025,
+      "face": {
+        "value": 80,
+        "unit": "Anniversary of Liberation Commemorative Banknote",
+        "text": "80 Anniversary of Liberation Commemorative Banknote"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 481755,
+        "title": "80th Anniversary of Liberation Commemorative Banknote",
+        "object_type": {
+          "id": 159,
+          "name": "Non-circulating banknotes"
+        },
+        "issuer": {
+          "code": "coree_du_sud",
+          "name": "South Korea"
+        },
+        "min_year": 2025,
+        "max_year": 2025,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/coree_du_sud/68a54a6ec0bf69.91857641-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/coree_du_sud/68a54a701a3836.10651759-180.jpg",
+        "category": "banknote"
+      }
+    }
+  ]
+}

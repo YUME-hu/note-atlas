@@ -1,0 +1,839 @@
+{
+  "meta": {
+    "generated_at": "2026-10-29T13:27:51.907Z",
+    "fixture": false,
+    "api": "numista v3",
+    "issuer": "spain",
+    "iso": "ES",
+    "category": "banknote",
+    "lang": "en",
+    "since": 1960,
+    "listed": 6131,
+    "fetched": 22,
+    "details_fetched": 0,
+    "dropped_before_since": 6109,
+    "dropped_by_source": {
+      "list": 6109,
+      "detail": 0
+    },
+    "issuer_mismatches": 0,
+    "pages": 123,
+    "requests": 0
+  },
+  "types": [
+    {
+      "numista_type_id": 202378,
+      "title": "1000 Pesetas",
+      "issuer": {
+        "code": "espagne",
+        "name": "Spain"
+      },
+      "min_year": 1965,
+      "max_year": 1965,
+      "face": {
+        "value": 1000,
+        "unit": "Pesetas",
+        "text": "1000 Pesetas"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202378,
+        "title": "1000 Pesetas",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "espagne",
+          "name": "Spain"
+        },
+        "min_year": 1965,
+        "max_year": 1965,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/espagne/5e96387317d037.02594877-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/espagne/5e9638736438b6.84410329-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203228,
+      "title": "1000 Pesetas",
+      "issuer": {
+        "code": "espagne",
+        "name": "Spain"
+      },
+      "min_year": 1992,
+      "max_year": 1992,
+      "face": {
+        "value": 1000,
+        "unit": "Pesetas",
+        "text": "1000 Pesetas"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203228,
+        "title": "1000 Pesetas",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "espagne",
+          "name": "Spain"
+        },
+        "min_year": 1992,
+        "max_year": 1992,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/espagne/628eb802591604.19231079-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/espagne/674ea6fba36404.68006893-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203262,
+      "title": "10 000 Pesetas - Juan Carlos I",
+      "issuer": {
+        "code": "espagne",
+        "name": "Spain"
+      },
+      "min_year": 1992,
+      "max_year": 1992,
+      "face": {
+        "value": 10000,
+        "unit": "Pesetas",
+        "text": "10000 Pesetas"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203262,
+        "title": "10 000 Pesetas - Juan Carlos I",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "espagne",
+          "name": "Spain"
+        },
+        "min_year": 1992,
+        "max_year": 1992,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/espagne/63f662dcec42c1.74182838-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/espagne/63f662dd60c142.82131419-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203273,
+      "title": "10 000 Pesetas - Juan Carlos I",
+      "issuer": {
+        "code": "espagne",
+        "name": "Spain"
+      },
+      "min_year": 1985,
+      "max_year": 1985,
+      "face": {
+        "value": 10000,
+        "unit": "Pesetas",
+        "text": "10000 Pesetas"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203273,
+        "title": "10 000 Pesetas - Juan Carlos I",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "espagne",
+          "name": "Spain"
+        },
+        "min_year": 1985,
+        "max_year": 1985,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/espagne/5ea2058ad91e27.43011591-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/espagne/5ea2058b38a7a3.74034842-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204559,
+      "title": "5000 Pesetas",
+      "issuer": {
+        "code": "espagne",
+        "name": "Spain"
+      },
+      "min_year": 1992,
+      "max_year": 1992,
+      "face": {
+        "value": 5000,
+        "unit": "Pesetas",
+        "text": "5000 Pesetas"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204559,
+        "title": "5000 Pesetas",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "espagne",
+          "name": "Spain"
+        },
+        "min_year": 1992,
+        "max_year": 1992,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/espagne/62d425d7adacf7.97415616-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/espagne/62d425da7d42d2.64010752-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204591,
+      "title": "2000 Pesetas (With one serial number)",
+      "issuer": {
+        "code": "espagne",
+        "name": "Spain"
+      },
+      "min_year": 1992,
+      "max_year": 1992,
+      "face": {
+        "value": 2000,
+        "unit": "Pesetas",
+        "text": "2000 Pesetas"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204591,
+        "title": "2000 Pesetas (With one serial number)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "espagne",
+          "name": "Spain"
+        },
+        "min_year": 1992,
+        "max_year": 1992,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/espagne/62d41c02567a68.68857651-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/espagne/62d41c04b516e8.07273122-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204616,
+      "title": "2000 Pesetas (With two serial numbers)",
+      "issuer": {
+        "code": "espagne",
+        "name": "Spain"
+      },
+      "min_year": 1992,
+      "max_year": 1992,
+      "face": {
+        "value": 2000,
+        "unit": "Pesetas",
+        "text": "2000 Pesetas"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204616,
+        "title": "2000 Pesetas (With two serial numbers)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "espagne",
+          "name": "Spain"
+        },
+        "min_year": 1992,
+        "max_year": 1992,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/espagne/6ade23b32fabd2.08663462-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/espagne/6ade23b512aa49.75034397-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205240,
+      "title": "200 Pesetas",
+      "issuer": {
+        "code": "espagne",
+        "name": "Spain"
+      },
+      "min_year": 1980,
+      "max_year": 1980,
+      "face": {
+        "value": 200,
+        "unit": "Pesetas",
+        "text": "200 Pesetas"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205240,
+        "title": "200 Pesetas",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "espagne",
+          "name": "Spain"
+        },
+        "min_year": 1980,
+        "max_year": 1980,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/espagne/5ea20cb0d38f71.93883270-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/espagne/5ea20cb1370a07.81326801-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205247,
+      "title": "2000 Pesetas",
+      "issuer": {
+        "code": "espagne",
+        "name": "Spain"
+      },
+      "min_year": 1980,
+      "max_year": 1980,
+      "face": {
+        "value": 2000,
+        "unit": "Pesetas",
+        "text": "2000 Pesetas"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205247,
+        "title": "2000 Pesetas",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "espagne",
+          "name": "Spain"
+        },
+        "min_year": 1980,
+        "max_year": 1980,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/espagne/5e9d81d7a50349.28352264-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/espagne/5e9d81d81af8f1.40978356-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205251,
+      "title": "5000 Pesetas - Juan Carlos I",
+      "issuer": {
+        "code": "espagne",
+        "name": "Spain"
+      },
+      "min_year": 1979,
+      "max_year": 1979,
+      "face": {
+        "value": 5000,
+        "unit": "Pesetas",
+        "text": "5000 Pesetas"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205251,
+        "title": "5000 Pesetas - Juan Carlos I",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "espagne",
+          "name": "Spain"
+        },
+        "min_year": 1979,
+        "max_year": 1979,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/espagne/5ebcb2f609ba16.65163068-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/espagne/5ebcb2f64d3ac3.69250880-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205259,
+      "title": "1000 Pesetas",
+      "issuer": {
+        "code": "espagne",
+        "name": "Spain"
+      },
+      "min_year": 1979,
+      "max_year": 1979,
+      "face": {
+        "value": 1000,
+        "unit": "Pesetas",
+        "text": "1000 Pesetas"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205259,
+        "title": "1000 Pesetas",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "espagne",
+          "name": "Spain"
+        },
+        "min_year": 1979,
+        "max_year": 1979,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/espagne/5ec8322c8a79f3.05184393-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/espagne/5ec8322ce88555.53410898-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205270,
+      "title": "500 Pesetas",
+      "issuer": {
+        "code": "espagne",
+        "name": "Spain"
+      },
+      "min_year": 1979,
+      "max_year": 1979,
+      "face": {
+        "value": 500,
+        "unit": "Pesetas",
+        "text": "500 Pesetas"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205270,
+        "title": "500 Pesetas",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "espagne",
+          "name": "Spain"
+        },
+        "min_year": 1979,
+        "max_year": 1979,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/espagne/5ee01f55a68541.36220755-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/espagne/5ee01f5600a311.87457779-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205299,
+      "title": "5000 Pesetas",
+      "issuer": {
+        "code": "espagne",
+        "name": "Spain"
+      },
+      "min_year": 1976,
+      "max_year": 1976,
+      "face": {
+        "value": 5000,
+        "unit": "Pesetas",
+        "text": "5000 Pesetas"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205299,
+        "title": "5000 Pesetas",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "espagne",
+          "name": "Spain"
+        },
+        "min_year": 1976,
+        "max_year": 1976,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/espagne/5ee01eb03c7132.20236902-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/espagne/5ee01eb0a54fb1.05966087-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205693,
+      "title": "1000 Pesetas (Centennial of the Bank of Spain)",
+      "issuer": {
+        "code": "espagne",
+        "name": "Spain"
+      },
+      "min_year": 1971,
+      "max_year": 1971,
+      "face": {
+        "value": 1000,
+        "unit": "Pesetas",
+        "text": "1000 Pesetas"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205693,
+        "title": "1000 Pesetas (Centennial of the Bank of Spain)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "espagne",
+          "name": "Spain"
+        },
+        "min_year": 1971,
+        "max_year": 1971,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/espagne/69f7ef7b857445.15176494-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/espagne/69f7ef7c104df1.30743117-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205700,
+      "title": "500 Pesetas",
+      "issuer": {
+        "code": "espagne",
+        "name": "Spain"
+      },
+      "min_year": 1971,
+      "max_year": 1971,
+      "face": {
+        "value": 500,
+        "unit": "Pesetas",
+        "text": "500 Pesetas"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205700,
+        "title": "500 Pesetas",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "espagne",
+          "name": "Spain"
+        },
+        "min_year": 1971,
+        "max_year": 1971,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/espagne/65180912dbcb00.03568545-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/espagne/651809135333e5.91089957-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205703,
+      "title": "100 Pesetas",
+      "issuer": {
+        "code": "espagne",
+        "name": "Spain"
+      },
+      "min_year": 1970,
+      "max_year": 1970,
+      "face": {
+        "value": 100,
+        "unit": "Pesetas",
+        "text": "100 Pesetas"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205703,
+        "title": "100 Pesetas",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "espagne",
+          "name": "Spain"
+        },
+        "min_year": 1970,
+        "max_year": 1970,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/espagne/626e4e90a759f5.06942936-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/espagne/626e4e91860128.11053521-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206642,
+      "title": "100 Pesetas",
+      "issuer": {
+        "code": "espagne",
+        "name": "Spain"
+      },
+      "min_year": 1965,
+      "max_year": 1965,
+      "face": {
+        "value": 100,
+        "unit": "Pesetas",
+        "text": "100 Pesetas"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206642,
+        "title": "100 Pesetas",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "espagne",
+          "name": "Spain"
+        },
+        "min_year": 1965,
+        "max_year": 1965,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/espagne/5ee01dbbc013c5.07617615-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/espagne/5ee01dbc2142a6.76714640-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 526638,
+      "title": "1 Axarco (La Axarquía)",
+      "issuer": {
+        "code": "espagne",
+        "name": "Spain"
+      },
+      "min_year": 1988,
+      "max_year": 1988,
+      "face": {
+        "value": 1,
+        "unit": "Axarco",
+        "text": "1 Axarco"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 526638,
+        "title": "1 Axarco (La Axarquía)",
+        "object_type": {
+          "id": 84,
+          "name": "Local banknotes"
+        },
+        "issuer": {
+          "code": "espagne",
+          "name": "Spain"
+        },
+        "min_year": 1988,
+        "max_year": 1988,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/espagne/6910b936e6dfc8.93955645-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/espagne/6910b937443044.23153480-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 526640,
+      "title": "5 Axarcos (La Axarquía)",
+      "issuer": {
+        "code": "espagne",
+        "name": "Spain"
+      },
+      "min_year": 1988,
+      "max_year": 1988,
+      "face": {
+        "value": 5,
+        "unit": "Axarcos",
+        "text": "5 Axarcos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 526640,
+        "title": "5 Axarcos (La Axarquía)",
+        "object_type": {
+          "id": 84,
+          "name": "Local banknotes"
+        },
+        "issuer": {
+          "code": "espagne",
+          "name": "Spain"
+        },
+        "min_year": 1988,
+        "max_year": 1988,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/espagne/6910ba4dd70032.07532223-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/espagne/6910ba4e4e4842.98454007-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 526641,
+      "title": "10 Axarcos (La Axarquía)",
+      "issuer": {
+        "code": "espagne",
+        "name": "Spain"
+      },
+      "min_year": 1988,
+      "max_year": 1988,
+      "face": {
+        "value": 10,
+        "unit": "Axarcos",
+        "text": "10 Axarcos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 526641,
+        "title": "10 Axarcos (La Axarquía)",
+        "object_type": {
+          "id": 84,
+          "name": "Local banknotes"
+        },
+        "issuer": {
+          "code": "espagne",
+          "name": "Spain"
+        },
+        "min_year": 1988,
+        "max_year": 1988,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/espagne/6910bb1baefed7.29890009-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/espagne/6910bb1c0e63e0.65457518-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 526642,
+      "title": "1 Axarquillo (La Axarquía)",
+      "issuer": {
+        "code": "espagne",
+        "name": "Spain"
+      },
+      "min_year": 1988,
+      "max_year": 1988,
+      "face": {
+        "value": 1,
+        "unit": "Axarquillo",
+        "text": "1 Axarquillo"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 526642,
+        "title": "1 Axarquillo (La Axarquía)",
+        "object_type": {
+          "id": 84,
+          "name": "Local banknotes"
+        },
+        "issuer": {
+          "code": "espagne",
+          "name": "Spain"
+        },
+        "min_year": 1988,
+        "max_year": 1988,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/espagne/6910bc36c2d309.02394801-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/espagne/6910bc3716ca76.45561660-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 526644,
+      "title": "5 Axarquillos (La Axarquía)",
+      "issuer": {
+        "code": "espagne",
+        "name": "Spain"
+      },
+      "min_year": 1988,
+      "max_year": 1988,
+      "face": {
+        "value": 5,
+        "unit": "Axarquillos",
+        "text": "5 Axarquillos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 526644,
+        "title": "5 Axarquillos (La Axarquía)",
+        "object_type": {
+          "id": 84,
+          "name": "Local banknotes"
+        },
+        "issuer": {
+          "code": "espagne",
+          "name": "Spain"
+        },
+        "min_year": 1988,
+        "max_year": 1988,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/espagne/6910bd130286c6.91138541-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/espagne/6910bd1383de16.47056193-180.jpg",
+        "category": "banknote"
+      }
+    }
+  ]
+}

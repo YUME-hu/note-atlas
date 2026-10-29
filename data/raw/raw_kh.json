@@ -1,0 +1,2985 @@
+{
+  "meta": {
+    "generated_at": "2026-10-29T13:27:50.554Z",
+    "fixture": false,
+    "api": "numista v3",
+    "issuer": "cambodge",
+    "iso": "KH",
+    "category": "banknote",
+    "lang": "en",
+    "since": 1960,
+    "listed": 84,
+    "fetched": 80,
+    "details_fetched": 0,
+    "dropped_before_since": 4,
+    "dropped_by_source": {
+      "list": 4,
+      "detail": 0
+    },
+    "issuer_mismatches": 0,
+    "pages": 2,
+    "requests": 0
+  },
+  "types": [
+    {
+      "numista_type_id": 201634,
+      "title": "100 Riels - Norodom Sihamoni",
+      "issuer": {
+        "code": "cambodge",
+        "name": "Cambodia"
+      },
+      "min_year": 2014,
+      "max_year": 2014,
+      "face": {
+        "value": 100,
+        "unit": "Riels",
+        "text": "100 Riels"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 201634,
+        "title": "100 Riels - Norodom Sihamoni",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "cambodge",
+          "name": "Cambodia"
+        },
+        "min_year": 2014,
+        "max_year": 2014,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/62fc7e5f439e23.77164712-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/62fc7e5faa9b29.42996238-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 201721,
+      "title": "500 Riels",
+      "issuer": {
+        "code": "cambodge",
+        "name": "Cambodia"
+      },
+      "min_year": 2014,
+      "max_year": 2014,
+      "face": {
+        "value": 500,
+        "unit": "Riels",
+        "text": "500 Riels"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 201721,
+        "title": "500 Riels",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "cambodge",
+          "name": "Cambodia"
+        },
+        "min_year": 2014,
+        "max_year": 2014,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/62fc7e3fb1cfb6.65693928-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/62fc7e4072ef06.47249103-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 201752,
+      "title": "1000 Riels",
+      "issuer": {
+        "code": "cambodge",
+        "name": "Cambodia"
+      },
+      "min_year": 2005,
+      "max_year": 2007,
+      "face": {
+        "value": 1000,
+        "unit": "Riels",
+        "text": "1000 Riels"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 201752,
+        "title": "1000 Riels",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "cambodge",
+          "name": "Cambodia"
+        },
+        "min_year": 2005,
+        "max_year": 2007,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/623aed2834b2b2.92098649-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/623aed28c5f097.34160156-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202571,
+      "title": "100 Riels",
+      "issuer": {
+        "code": "cambodge",
+        "name": "Cambodia"
+      },
+      "min_year": 1995,
+      "max_year": 1998,
+      "face": {
+        "value": 100,
+        "unit": "Riels",
+        "text": "100 Riels"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202571,
+        "title": "100 Riels",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "cambodge",
+          "name": "Cambodia"
+        },
+        "min_year": 1995,
+        "max_year": 1998,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/62f3d4fcaf4ed3.85466689-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/62f3d4fd47f546.55184059-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202798,
+      "title": "100 Riels",
+      "issuer": {
+        "code": "cambodge",
+        "name": "Cambodia"
+      },
+      "min_year": 2001,
+      "max_year": 2001,
+      "face": {
+        "value": 100,
+        "unit": "Riels",
+        "text": "100 Riels"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202798,
+        "title": "100 Riels",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "cambodge",
+          "name": "Cambodia"
+        },
+        "min_year": 2001,
+        "max_year": 2001,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/62fc7e862f6cc8.53460499-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/62fc7e868dca63.87384304-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202880,
+      "title": "50 Riels",
+      "issuer": {
+        "code": "cambodge",
+        "name": "Cambodia"
+      },
+      "min_year": 2002,
+      "max_year": 2002,
+      "face": {
+        "value": 50,
+        "unit": "Riels",
+        "text": "50 Riels"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202880,
+        "title": "50 Riels",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "cambodge",
+          "name": "Cambodia"
+        },
+        "min_year": 2002,
+        "max_year": 2002,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/623aec9867a882.79381034-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/623aec98c49a61.04227449-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203106,
+      "title": "1000 Riels",
+      "issuer": {
+        "code": "cambodge",
+        "name": "Cambodia"
+      },
+      "min_year": 1972,
+      "max_year": 1973,
+      "face": {
+        "value": 1000,
+        "unit": "Riels",
+        "text": "1000 Riels"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203106,
+        "title": "1000 Riels",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "cambodge",
+          "name": "Cambodia"
+        },
+        "min_year": 1972,
+        "max_year": 1973,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/6270d99ac27c00.58535645-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/6270d99b69bfb5.08106709-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203305,
+      "title": "1 Riel",
+      "issuer": {
+        "code": "cambodge",
+        "name": "Cambodia"
+      },
+      "min_year": 1956,
+      "max_year": 1975,
+      "face": {
+        "value": 1,
+        "unit": "Riel",
+        "text": "1 Riel"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203305,
+        "title": "1 Riel",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "cambodge",
+          "name": "Cambodia"
+        },
+        "min_year": 1956,
+        "max_year": 1975,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/62fc7fb0b06398.55615980-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/62fc7fb15e0277.44099044-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203374,
+      "title": "100 Riels (Democratic Kampuchea)",
+      "issuer": {
+        "code": "cambodge",
+        "name": "Cambodia"
+      },
+      "min_year": 1975,
+      "max_year": 1975,
+      "face": {
+        "value": 100,
+        "unit": "Riels",
+        "text": "100 Riels"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203374,
+        "title": "100 Riels (Democratic Kampuchea)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "cambodge",
+          "name": "Cambodia"
+        },
+        "min_year": 1975,
+        "max_year": 1975,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/5e98dcbdac7cf1.12110616-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/5e98dcbf474902.17601577-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203861,
+      "title": "5 Riels (Democratic Kampuchea)",
+      "issuer": {
+        "code": "cambodge",
+        "name": "Cambodia"
+      },
+      "min_year": 1975,
+      "max_year": 1975,
+      "face": {
+        "value": 5,
+        "unit": "Riels",
+        "text": "5 Riels"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203861,
+        "title": "5 Riels (Democratic Kampuchea)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "cambodge",
+          "name": "Cambodia"
+        },
+        "min_year": 1975,
+        "max_year": 1975,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/6550f507e73987.30674502-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/6550f50882baf0.08691353-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204096,
+      "title": "20 Riels (Khmer Rouge)",
+      "issuer": {
+        "code": "cambodge",
+        "name": "Cambodia"
+      },
+      "min_year": 1993,
+      "max_year": 1993,
+      "face": {
+        "value": 20,
+        "unit": "Riels",
+        "text": "20 Riels"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204096,
+        "title": "20 Riels (Khmer Rouge)",
+        "object_type": {
+          "id": 84,
+          "name": "Local banknotes"
+        },
+        "issuer": {
+          "code": "cambodge",
+          "name": "Cambodia"
+        },
+        "min_year": 1993,
+        "max_year": 1993,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/5e9ac3c5dbeae9.65989307-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/5e9ac3c631ebe5.74472699-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204097,
+      "title": "100 Riels (Khmer Rouge)",
+      "issuer": {
+        "code": "cambodge",
+        "name": "Cambodia"
+      },
+      "min_year": 1993,
+      "max_year": 1993,
+      "face": {
+        "value": 100,
+        "unit": "Riels",
+        "text": "100 Riels"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204097,
+        "title": "100 Riels (Khmer Rouge)",
+        "object_type": {
+          "id": 84,
+          "name": "Local banknotes"
+        },
+        "issuer": {
+          "code": "cambodge",
+          "name": "Cambodia"
+        },
+        "min_year": 1993,
+        "max_year": 1993,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/5e9ac42a002ae4.57637394-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/5e9ac42a27ce33.91871210-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204334,
+      "title": "50 Riels",
+      "issuer": {
+        "code": "cambodge",
+        "name": "Cambodia"
+      },
+      "min_year": 1956,
+      "max_year": 1974,
+      "face": {
+        "value": 50,
+        "unit": "Riels",
+        "text": "50 Riels"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204334,
+        "title": "50 Riels",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "cambodge",
+          "name": "Cambodia"
+        },
+        "min_year": 1956,
+        "max_year": 1974,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/67956e83171191.97570305-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/67956e849975e1.24905818-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204380,
+      "title": "0.1 Riel / 1 Kak (Democratic Kampuchea)",
+      "issuer": {
+        "code": "cambodge",
+        "name": "Cambodia"
+      },
+      "min_year": 1975,
+      "max_year": 1975,
+      "face": {
+        "value": 0.1,
+        "unit": "Riel",
+        "text": "0.1 Riel"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204380,
+        "title": "0.1 Riel / 1 Kak (Democratic Kampuchea)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "cambodge",
+          "name": "Cambodia"
+        },
+        "min_year": 1975,
+        "max_year": 1975,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/6550e4cc686d14.51873889-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/6550e4cd0cccc4.06737185-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204542,
+      "title": "100 Riels",
+      "issuer": {
+        "code": "cambodge",
+        "name": "Cambodia"
+      },
+      "min_year": 1956,
+      "max_year": 1974,
+      "face": {
+        "value": 100,
+        "unit": "Riels",
+        "text": "100 Riels"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204542,
+        "title": "100 Riels",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "cambodge",
+          "name": "Cambodia"
+        },
+        "min_year": 1956,
+        "max_year": 1974,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/5ea5fecec37d47.30433675-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/5ea5fecf52c881.27207191-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204564,
+      "title": "500 Riels",
+      "issuer": {
+        "code": "cambodge",
+        "name": "Cambodia"
+      },
+      "min_year": 1972,
+      "max_year": 1975,
+      "face": {
+        "value": 500,
+        "unit": "Riels",
+        "text": "500 Riels"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204564,
+        "title": "500 Riels",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "cambodge",
+          "name": "Cambodia"
+        },
+        "min_year": 1972,
+        "max_year": 1975,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/623aea0a829277.97068027-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/623aea0b1cd176.26357040-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204578,
+      "title": "500 Riels",
+      "issuer": {
+        "code": "cambodge",
+        "name": "Cambodia"
+      },
+      "min_year": 1956,
+      "max_year": 1972,
+      "face": {
+        "value": 500,
+        "unit": "Riels",
+        "text": "500 Riels"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204578,
+        "title": "500 Riels",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "cambodge",
+          "name": "Cambodia"
+        },
+        "min_year": 1956,
+        "max_year": 1972,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/6550e8299fc0d1.64479461-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/6550e82a5c0fb7.57314174-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204587,
+      "title": "500 Riels",
+      "issuer": {
+        "code": "cambodge",
+        "name": "Cambodia"
+      },
+      "min_year": 1996,
+      "max_year": 1998,
+      "face": {
+        "value": 500,
+        "unit": "Riels",
+        "text": "500 Riels"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204587,
+        "title": "500 Riels",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "cambodge",
+          "name": "Cambodia"
+        },
+        "min_year": 1996,
+        "max_year": 1998,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/62fc7ec9bf9320.03782697-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/62fc7eca5e4be9.23804003-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205045,
+      "title": "1 Riel (Democratic Kampuchea)",
+      "issuer": {
+        "code": "cambodge",
+        "name": "Cambodia"
+      },
+      "min_year": 1975,
+      "max_year": 1975,
+      "face": {
+        "value": 1,
+        "unit": "Riel",
+        "text": "1 Riel"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205045,
+        "title": "1 Riel (Democratic Kampuchea)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "cambodge",
+          "name": "Cambodia"
+        },
+        "min_year": 1975,
+        "max_year": 1975,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/6270d9fe099d87.19804889-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/6270d9fe9ec636.46074766-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205062,
+      "title": "15 000 Riels (15th Anniversary of Coronation of King Norodom Sihamoni)",
+      "issuer": {
+        "code": "cambodge",
+        "name": "Cambodia"
+      },
+      "min_year": 2019,
+      "max_year": 2019,
+      "face": {
+        "value": 15000,
+        "unit": "Riels",
+        "text": "15000 Riels"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205062,
+        "title": "15 000 Riels (15th Anniversary of Coronation of King Norodom Sihamoni)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "cambodge",
+          "name": "Cambodia"
+        },
+        "min_year": 2019,
+        "max_year": 2019,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/635a415990d8d7.82344376-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/635a415a3d2607.39301681-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205860,
+      "title": "500 Riels",
+      "issuer": {
+        "code": "cambodge",
+        "name": "Cambodia"
+      },
+      "min_year": 2002,
+      "max_year": 2014,
+      "face": {
+        "value": 500,
+        "unit": "Riels",
+        "text": "500 Riels"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205860,
+        "title": "500 Riels",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "cambodge",
+          "name": "Cambodia"
+        },
+        "min_year": 2002,
+        "max_year": 2014,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/699a3fa759f225.76467269-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/699a3fa8653d15.08065540-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206056,
+      "title": "20 000 Riels",
+      "issuer": {
+        "code": "cambodge",
+        "name": "Cambodia"
+      },
+      "min_year": 2008,
+      "max_year": 2008,
+      "face": {
+        "value": 20000,
+        "unit": "Riels",
+        "text": "20000 Riels"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206056,
+        "title": "20 000 Riels",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "cambodge",
+          "name": "Cambodia"
+        },
+        "min_year": 2008,
+        "max_year": 2008,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/6741c302b8a419.87786268-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/6741c3051ef099.77065769-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206514,
+      "title": "1 Riel",
+      "issuer": {
+        "code": "cambodge",
+        "name": "Cambodia"
+      },
+      "min_year": 1979,
+      "max_year": 1979,
+      "face": {
+        "value": 1,
+        "unit": "Riel",
+        "text": "1 Riel"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206514,
+        "title": "1 Riel",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "cambodge",
+          "name": "Cambodia"
+        },
+        "min_year": 1979,
+        "max_year": 1979,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/623aea8bc8d092.20637262-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/623aea8c64e9e1.91327951-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206716,
+      "title": "0.1 Riel (1 Kak)",
+      "issuer": {
+        "code": "cambodge",
+        "name": "Cambodia"
+      },
+      "min_year": 1979,
+      "max_year": 1979,
+      "face": {
+        "value": 0.1,
+        "unit": "Riel",
+        "text": "0.1 Riel"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206716,
+        "title": "0.1 Riel (1 Kak)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "cambodge",
+          "name": "Cambodia"
+        },
+        "min_year": 1979,
+        "max_year": 1979,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/63fdd16adaefd9.80380673-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/63fdd16ce80313.71879420-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206723,
+      "title": "0.2 Riel (2 Kak)",
+      "issuer": {
+        "code": "cambodge",
+        "name": "Cambodia"
+      },
+      "min_year": 1979,
+      "max_year": 1979,
+      "face": {
+        "value": 0.2,
+        "unit": "Riel",
+        "text": "0.2 Riel"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206723,
+        "title": "0.2 Riel (2 Kak)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "cambodge",
+          "name": "Cambodia"
+        },
+        "min_year": 1979,
+        "max_year": 1979,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/63d92f968344b8.26800079-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/63d92f97695c53.19827712-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206725,
+      "title": "0.5 Riel (5 Kak)",
+      "issuer": {
+        "code": "cambodge",
+        "name": "Cambodia"
+      },
+      "min_year": 1979,
+      "max_year": 1979,
+      "face": {
+        "value": 0.5,
+        "unit": "Riel",
+        "text": "0.5 Riel"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206725,
+        "title": "0.5 Riel (5 Kak)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "cambodge",
+          "name": "Cambodia"
+        },
+        "min_year": 1979,
+        "max_year": 1979,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/62b9cdc1d4a2b0.92857826-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/62b9cdc289e5f2.74381835-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206744,
+      "title": "5 Riels",
+      "issuer": {
+        "code": "cambodge",
+        "name": "Cambodia"
+      },
+      "min_year": 1979,
+      "max_year": 1979,
+      "face": {
+        "value": 5,
+        "unit": "Riels",
+        "text": "5 Riels"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206744,
+        "title": "5 Riels",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "cambodge",
+          "name": "Cambodia"
+        },
+        "min_year": 1979,
+        "max_year": 1979,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/63fdd5d26f7ea3.26415394-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/63fdd5d5690754.08641687-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206747,
+      "title": "10 Riels",
+      "issuer": {
+        "code": "cambodge",
+        "name": "Cambodia"
+      },
+      "min_year": 1979,
+      "max_year": 1979,
+      "face": {
+        "value": 10,
+        "unit": "Riels",
+        "text": "10 Riels"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206747,
+        "title": "10 Riels",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "cambodge",
+          "name": "Cambodia"
+        },
+        "min_year": 1979,
+        "max_year": 1979,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/63fdd5d8b77cf2.56248926-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/63fdd5dc1bcd11.31722845-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206749,
+      "title": "20 Riels",
+      "issuer": {
+        "code": "cambodge",
+        "name": "Cambodia"
+      },
+      "min_year": 1979,
+      "max_year": 1979,
+      "face": {
+        "value": 20,
+        "unit": "Riels",
+        "text": "20 Riels"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206749,
+        "title": "20 Riels",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "cambodge",
+          "name": "Cambodia"
+        },
+        "min_year": 1979,
+        "max_year": 1979,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/6270da54758842.88372714-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/6270da550c72a8.05729164-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206753,
+      "title": "50 Riels",
+      "issuer": {
+        "code": "cambodge",
+        "name": "Cambodia"
+      },
+      "min_year": 1979,
+      "max_year": 1979,
+      "face": {
+        "value": 50,
+        "unit": "Riels",
+        "text": "50 Riels"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206753,
+        "title": "50 Riels",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "cambodge",
+          "name": "Cambodia"
+        },
+        "min_year": 1979,
+        "max_year": 1979,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/6270da38b99939.17162641-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/6270da3965cd71.17244546-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206836,
+      "title": "1000 Riels",
+      "issuer": {
+        "code": "cambodge",
+        "name": "Cambodia"
+      },
+      "min_year": 2016,
+      "max_year": 2016,
+      "face": {
+        "value": 1000,
+        "unit": "Riels",
+        "text": "1000 Riels"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206836,
+        "title": "1000 Riels",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "cambodge",
+          "name": "Cambodia"
+        },
+        "min_year": 2016,
+        "max_year": 2016,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/62fc7e1471c097.20225926-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/62fc7e151556b2.39552085-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 207355,
+      "title": "2000 Riels",
+      "issuer": {
+        "code": "cambodge",
+        "name": "Cambodia"
+      },
+      "min_year": 2007,
+      "max_year": 2015,
+      "face": {
+        "value": 2000,
+        "unit": "Riels",
+        "text": "2000 Riels"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 207355,
+        "title": "2000 Riels",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "cambodge",
+          "name": "Cambodia"
+        },
+        "min_year": 2007,
+        "max_year": 2015,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/6270db1588ba25.63900952-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/6270db1627f077.61439602-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 207621,
+      "title": "10 Riels",
+      "issuer": {
+        "code": "cambodge",
+        "name": "Cambodia"
+      },
+      "min_year": 1962,
+      "max_year": 1972,
+      "face": {
+        "value": 10,
+        "unit": "Riels",
+        "text": "10 Riels"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 207621,
+        "title": "10 Riels",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "cambodge",
+          "name": "Cambodia"
+        },
+        "min_year": 1962,
+        "max_year": 1972,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/6270d9166fb619.88189256-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/6270d917252e79.10369995-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 207716,
+      "title": "5000 Riels",
+      "issuer": {
+        "code": "cambodge",
+        "name": "Cambodia"
+      },
+      "min_year": 2001,
+      "max_year": 2007,
+      "face": {
+        "value": 5000,
+        "unit": "Riels",
+        "text": "5000 Riels"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 207716,
+        "title": "5000 Riels",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "cambodge",
+          "name": "Cambodia"
+        },
+        "min_year": 2001,
+        "max_year": 2007,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/63fdf75e418932.41151623-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/63fdf7621d8b03.28302740-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 207857,
+      "title": "100 Riels",
+      "issuer": {
+        "code": "cambodge",
+        "name": "Cambodia"
+      },
+      "min_year": 1963,
+      "max_year": 1972,
+      "face": {
+        "value": 100,
+        "unit": "Riels",
+        "text": "100 Riels"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 207857,
+        "title": "100 Riels",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "cambodge",
+          "name": "Cambodia"
+        },
+        "min_year": 1963,
+        "max_year": 1972,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/6270d935a3be79.60687052-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/6270d936469a48.95936164-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 207977,
+      "title": "5 Riels",
+      "issuer": {
+        "code": "cambodge",
+        "name": "Cambodia"
+      },
+      "min_year": 1987,
+      "max_year": 1987,
+      "face": {
+        "value": 5,
+        "unit": "Riels",
+        "text": "5 Riels"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 207977,
+        "title": "5 Riels",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "cambodge",
+          "name": "Cambodia"
+        },
+        "min_year": 1987,
+        "max_year": 1987,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/623aeb07bf4535.49629574-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/623aeb086fd4c7.54786057-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 207982,
+      "title": "10 Riels",
+      "issuer": {
+        "code": "cambodge",
+        "name": "Cambodia"
+      },
+      "min_year": 1987,
+      "max_year": 1987,
+      "face": {
+        "value": 10,
+        "unit": "Riels",
+        "text": "10 Riels"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 207982,
+        "title": "10 Riels",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "cambodge",
+          "name": "Cambodia"
+        },
+        "min_year": 1987,
+        "max_year": 1987,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/623aeb30d8c907.47395146-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/623aeb317735f3.85586075-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 207992,
+      "title": "50 000 Riels",
+      "issuer": {
+        "code": "cambodge",
+        "name": "Cambodia"
+      },
+      "min_year": 2001,
+      "max_year": 2001,
+      "face": {
+        "value": 50000,
+        "unit": "Riels",
+        "text": "50000 Riels"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 207992,
+        "title": "50 000 Riels",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "cambodge",
+          "name": "Cambodia"
+        },
+        "min_year": 2001,
+        "max_year": 2001,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/6559fc15446ad8.69566368-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/6559fc15ad7b61.89589925-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 208176,
+      "title": "100 Riels",
+      "issuer": {
+        "code": "cambodge",
+        "name": "Cambodia"
+      },
+      "min_year": 1956,
+      "max_year": 1972,
+      "face": {
+        "value": 100,
+        "unit": "Riels",
+        "text": "100 Riels"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 208176,
+        "title": "100 Riels",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "cambodge",
+          "name": "Cambodia"
+        },
+        "min_year": 1956,
+        "max_year": 1972,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/62fc7ffa217d62.96409036-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/62fc7ffaabfea8.17300059-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 208247,
+      "title": "1000 Riels (Funeral of King Sihanouk)",
+      "issuer": {
+        "code": "cambodge",
+        "name": "Cambodia"
+      },
+      "min_year": 2012,
+      "max_year": 2012,
+      "face": {
+        "value": 1000,
+        "unit": "Riels",
+        "text": "1000 Riels"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 208247,
+        "title": "1000 Riels (Funeral of King Sihanouk)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "cambodge",
+          "name": "Cambodia"
+        },
+        "min_year": 2012,
+        "max_year": 2012,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/6270db39c07b47.68382254-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/6270db3a682308.36436250-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 208877,
+      "title": "20 000 Riels (65th Anniversary of King Norodom Sihamoni)",
+      "issuer": {
+        "code": "cambodge",
+        "name": "Cambodia"
+      },
+      "min_year": 2017,
+      "max_year": 2017,
+      "face": {
+        "value": 20000,
+        "unit": "Riels",
+        "text": "20000 Riels"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 208877,
+        "title": "20 000 Riels (65th Anniversary of King Norodom Sihamoni)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "cambodge",
+          "name": "Cambodia"
+        },
+        "min_year": 2017,
+        "max_year": 2017,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/6693a7ea635247.38009890-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/6693a7ec5bcbc4.76332665-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 209193,
+      "title": "5 Riels",
+      "issuer": {
+        "code": "cambodge",
+        "name": "Cambodia"
+      },
+      "min_year": 1961,
+      "max_year": 1972,
+      "face": {
+        "value": 5,
+        "unit": "Riels",
+        "text": "5 Riels"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 209193,
+        "title": "5 Riels",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "cambodge",
+          "name": "Cambodia"
+        },
+        "min_year": 1961,
+        "max_year": 1972,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/62fc7f904fcf05.80410867-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/62fc7f90f2ee46.97137502-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 209196,
+      "title": "200 Riels",
+      "issuer": {
+        "code": "cambodge",
+        "name": "Cambodia"
+      },
+      "min_year": 1992,
+      "max_year": 1993,
+      "face": {
+        "value": 200,
+        "unit": "Riels",
+        "text": "200 Riels"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 209196,
+        "title": "200 Riels",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "cambodge",
+          "name": "Cambodia"
+        },
+        "min_year": 1992,
+        "max_year": 1993,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/62fc7f4b53d9c5.91457765-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/62fc7f4bd99476.06030286-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 209198,
+      "title": "200 Riels",
+      "issuer": {
+        "code": "cambodge",
+        "name": "Cambodia"
+      },
+      "min_year": 1995,
+      "max_year": 1998,
+      "face": {
+        "value": 200,
+        "unit": "Riels",
+        "text": "200 Riels"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 209198,
+        "title": "200 Riels",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "cambodge",
+          "name": "Cambodia"
+        },
+        "min_year": 1995,
+        "max_year": 1998,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/62fc7f12d8f436.45984555-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/62fc7f13711568.01954220-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 209219,
+      "title": "100 000 Riels (60th Birthday of King Norodom Sihamoni)",
+      "issuer": {
+        "code": "cambodge",
+        "name": "Cambodia"
+      },
+      "min_year": 2012,
+      "max_year": 2012,
+      "face": {
+        "value": 100000,
+        "unit": "Riels",
+        "text": "100000 Riels"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 209219,
+        "title": "100 000 Riels (60th Birthday of King Norodom Sihamoni)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "cambodge",
+          "name": "Cambodia"
+        },
+        "min_year": 2012,
+        "max_year": 2012,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/6710de938e6675.02072349-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/67120653e83c35.99358092-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 209855,
+      "title": "20 Riels",
+      "issuer": {
+        "code": "cambodge",
+        "name": "Cambodia"
+      },
+      "min_year": 1956,
+      "max_year": 1975,
+      "face": {
+        "value": 20,
+        "unit": "Riels",
+        "text": "20 Riels"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 209855,
+        "title": "20 Riels",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "cambodge",
+          "name": "Cambodia"
+        },
+        "min_year": 1956,
+        "max_year": 1975,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/623ae8c02b5ad0.30840462-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/623ae8c0b6f489.31552110-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 209856,
+      "title": "50 Riels",
+      "issuer": {
+        "code": "cambodge",
+        "name": "Cambodia"
+      },
+      "min_year": 1992,
+      "max_year": 1992,
+      "face": {
+        "value": 50,
+        "unit": "Riels",
+        "text": "50 Riels"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 209856,
+        "title": "50 Riels",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "cambodge",
+          "name": "Cambodia"
+        },
+        "min_year": 1992,
+        "max_year": 1992,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/623aeb7953bd07.14016879-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/623aeb79d885c6.67737339-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 209857,
+      "title": "100 Riels",
+      "issuer": {
+        "code": "cambodge",
+        "name": "Cambodia"
+      },
+      "min_year": 1990,
+      "max_year": 1990,
+      "face": {
+        "value": 100,
+        "unit": "Riels",
+        "text": "100 Riels"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 209857,
+        "title": "100 Riels",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "cambodge",
+          "name": "Cambodia"
+        },
+        "min_year": 1990,
+        "max_year": 1990,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/654011387e25f0.90470592-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/65401139354394.79576992-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 209860,
+      "title": "500 Riels",
+      "issuer": {
+        "code": "cambodge",
+        "name": "Cambodia"
+      },
+      "min_year": 1991,
+      "max_year": 1991,
+      "face": {
+        "value": 500,
+        "unit": "Riels",
+        "text": "500 Riels"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 209860,
+        "title": "500 Riels",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "cambodge",
+          "name": "Cambodia"
+        },
+        "min_year": 1991,
+        "max_year": 1991,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/6390aaa8c95927.83344449-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/6390aaa9b17349.01991590-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 209862,
+      "title": "5000 Riels",
+      "issuer": {
+        "code": "cambodge",
+        "name": "Cambodia"
+      },
+      "min_year": 1974,
+      "max_year": 1974,
+      "face": {
+        "value": 5000,
+        "unit": "Riels",
+        "text": "5000 Riels"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 209862,
+        "title": "5000 Riels",
+        "object_type": {
+          "id": 162,
+          "name": "Non-issued banknotes"
+        },
+        "issuer": {
+          "code": "cambodge",
+          "name": "Cambodia"
+        },
+        "min_year": 1974,
+        "max_year": 1974,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/5eabb8bb8d4249.72393710-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/5eabb8bbd87379.52659006-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 210122,
+      "title": "100 Riels",
+      "issuer": {
+        "code": "cambodge",
+        "name": "Cambodia"
+      },
+      "min_year": 1972,
+      "max_year": 1974,
+      "face": {
+        "value": 100,
+        "unit": "Riels",
+        "text": "100 Riels"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 210122,
+        "title": "100 Riels",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "cambodge",
+          "name": "Cambodia"
+        },
+        "min_year": 1972,
+        "max_year": 1974,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/6270d9b6d63425.82316954-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/6270d9b7882a22.83656903-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 211143,
+      "title": "10 000 Riels",
+      "issuer": {
+        "code": "cambodge",
+        "name": "Cambodia"
+      },
+      "min_year": 2001,
+      "max_year": 2006,
+      "face": {
+        "value": 10000,
+        "unit": "Riels",
+        "text": "10000 Riels"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 211143,
+        "title": "10 000 Riels",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "cambodge",
+          "name": "Cambodia"
+        },
+        "min_year": 2001,
+        "max_year": 2006,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/62e32aa95a87d2.59826994-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/62e32aab07fc23.33771316-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 211651,
+      "title": "50 000 Riels",
+      "issuer": {
+        "code": "cambodge",
+        "name": "Cambodia"
+      },
+      "min_year": 1995,
+      "max_year": 1998,
+      "face": {
+        "value": 50000,
+        "unit": "Riels",
+        "text": "50000 Riels"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 211651,
+        "title": "50 000 Riels",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "cambodge",
+          "name": "Cambodia"
+        },
+        "min_year": 1995,
+        "max_year": 1998,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/5eb053722f4640.16445025-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/5eb05372acc747.91314441-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 211888,
+      "title": "0.5 Riel / 5 Kak (Democratic Kampuchea)",
+      "issuer": {
+        "code": "cambodge",
+        "name": "Cambodia"
+      },
+      "min_year": 1975,
+      "max_year": 1975,
+      "face": {
+        "value": 0.5,
+        "unit": "Riel",
+        "text": "0.5 Riel"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 211888,
+        "title": "0.5 Riel / 5 Kak (Democratic Kampuchea)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "cambodge",
+          "name": "Cambodia"
+        },
+        "min_year": 1975,
+        "max_year": 1975,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/6550f4b40f0719.22459446-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/6550f4b4bd27f2.91812033-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 213603,
+      "title": "2000 Riels (Independence)",
+      "issuer": {
+        "code": "cambodge",
+        "name": "Cambodia"
+      },
+      "min_year": 2013,
+      "max_year": 2013,
+      "face": {
+        "value": 2000,
+        "unit": "Riels",
+        "text": "2000 Riels"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 213603,
+        "title": "2000 Riels (Independence)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "cambodge",
+          "name": "Cambodia"
+        },
+        "min_year": 2013,
+        "max_year": 2013,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/65952c04beb153.34313404-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/65952c06c5e031.58051369-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 214236,
+      "title": "1000 Riels",
+      "issuer": {
+        "code": "cambodge",
+        "name": "Cambodia"
+      },
+      "min_year": 1999,
+      "max_year": 1999,
+      "face": {
+        "value": 1000,
+        "unit": "Riels",
+        "text": "1000 Riels"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 214236,
+        "title": "1000 Riels",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "cambodge",
+          "name": "Cambodia"
+        },
+        "min_year": 1999,
+        "max_year": 1999,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/623aec5a3bb445.91112867-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/623aec5ac3e360.65984377-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 215297,
+      "title": "10 Riels (Democratic Kampuchea)",
+      "issuer": {
+        "code": "cambodge",
+        "name": "Cambodia"
+      },
+      "min_year": 1975,
+      "max_year": 1975,
+      "face": {
+        "value": 10,
+        "unit": "Riels",
+        "text": "10 Riels"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 215297,
+        "title": "10 Riels (Democratic Kampuchea)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "cambodge",
+          "name": "Cambodia"
+        },
+        "min_year": 1975,
+        "max_year": 1975,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/6550f538851015.72435809-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/6550f5392888f2.00699796-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 215303,
+      "title": "50 Riels (Democratic Kampuchea)",
+      "issuer": {
+        "code": "cambodge",
+        "name": "Cambodia"
+      },
+      "min_year": 1975,
+      "max_year": 1975,
+      "face": {
+        "value": 50,
+        "unit": "Riels",
+        "text": "50 Riels"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 215303,
+        "title": "50 Riels (Democratic Kampuchea)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "cambodge",
+          "name": "Cambodia"
+        },
+        "min_year": 1975,
+        "max_year": 1975,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/677ce3d464c2d6.07725574-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/677ce3d6181654.53680692-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 215642,
+      "title": "50 000 Riels",
+      "issuer": {
+        "code": "cambodge",
+        "name": "Cambodia"
+      },
+      "min_year": 2013,
+      "max_year": 2013,
+      "face": {
+        "value": 50000,
+        "unit": "Riels",
+        "text": "50000 Riels"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 215642,
+        "title": "50 000 Riels",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "cambodge",
+          "name": "Cambodia"
+        },
+        "min_year": 2013,
+        "max_year": 2013,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/68f506b3bc1e71.80702210-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/68f506b61b3a91.64117505-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 215643,
+      "title": "5000 Riels",
+      "issuer": {
+        "code": "cambodge",
+        "name": "Cambodia"
+      },
+      "min_year": 2015,
+      "max_year": 2015,
+      "face": {
+        "value": 5000,
+        "unit": "Riels",
+        "text": "5000 Riels"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 215643,
+        "title": "5000 Riels",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "cambodge",
+          "name": "Cambodia"
+        },
+        "min_year": 2015,
+        "max_year": 2015,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/66729b36813aa0.27015591-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/66729b3892ee46.02976424-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 215646,
+      "title": "10 000 Riels (King Sihamoni’s 62nd birthday)",
+      "issuer": {
+        "code": "cambodge",
+        "name": "Cambodia"
+      },
+      "min_year": 2015,
+      "max_year": 2015,
+      "face": {
+        "value": 10000,
+        "unit": "Riels",
+        "text": "10000 Riels"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 215646,
+        "title": "10 000 Riels (King Sihamoni’s 62nd birthday)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "cambodge",
+          "name": "Cambodia"
+        },
+        "min_year": 2015,
+        "max_year": 2015,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/65c3ccdad39898.15010155-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/65c3ccdcdd5d04.03173559-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 217220,
+      "title": "2000 Riels",
+      "issuer": {
+        "code": "cambodge",
+        "name": "Cambodia"
+      },
+      "min_year": 1992,
+      "max_year": 1992,
+      "face": {
+        "value": 2000,
+        "unit": "Riels",
+        "text": "2000 Riels"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 217220,
+        "title": "2000 Riels",
+        "object_type": {
+          "id": 162,
+          "name": "Non-issued banknotes"
+        },
+        "issuer": {
+          "code": "cambodge",
+          "name": "Cambodia"
+        },
+        "min_year": 1992,
+        "max_year": 1992,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/656359494b23b0.37337026-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/6563594a04ff49.60738952-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 217221,
+      "title": "2000 Riels",
+      "issuer": {
+        "code": "cambodge",
+        "name": "Cambodia"
+      },
+      "min_year": 1995,
+      "max_year": 1995,
+      "face": {
+        "value": 2000,
+        "unit": "Riels",
+        "text": "2000 Riels"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 217221,
+        "title": "2000 Riels",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "cambodge",
+          "name": "Cambodia"
+        },
+        "min_year": 1995,
+        "max_year": 1995,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/623aebfd8f4bb5.31628398-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/623aebfe3f5462.04696880-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 217347,
+      "title": "1000 Riels",
+      "issuer": {
+        "code": "cambodge",
+        "name": "Cambodia"
+      },
+      "min_year": 1995,
+      "max_year": 1995,
+      "face": {
+        "value": 1000,
+        "unit": "Riels",
+        "text": "1000 Riels"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 217347,
+        "title": "1000 Riels",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "cambodge",
+          "name": "Cambodia"
+        },
+        "min_year": 1995,
+        "max_year": 1995,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/623aebcd140b82.12255253-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/623aebcdadc896.43339715-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 217613,
+      "title": "500 Riels",
+      "issuer": {
+        "code": "cambodge",
+        "name": "Cambodia"
+      },
+      "min_year": 1958,
+      "max_year": 1970,
+      "face": {
+        "value": 500,
+        "unit": "Riels",
+        "text": "500 Riels"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 217613,
+        "title": "500 Riels",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "cambodge",
+          "name": "Cambodia"
+        },
+        "min_year": 1958,
+        "max_year": 1970,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/654f7db0b624f5.35591460-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/654f7db13f2808.80656668-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 217614,
+      "title": "1000 Riels",
+      "issuer": {
+        "code": "cambodge",
+        "name": "Cambodia"
+      },
+      "min_year": 1992,
+      "max_year": 1992,
+      "face": {
+        "value": 1000,
+        "unit": "Riels",
+        "text": "1000 Riels"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 217614,
+        "title": "1000 Riels",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "cambodge",
+          "name": "Cambodia"
+        },
+        "min_year": 1992,
+        "max_year": 1992,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/67337b6314ddb4.77925040-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/67337b65415bb7.01397245-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 217616,
+      "title": "5000 Riels",
+      "issuer": {
+        "code": "cambodge",
+        "name": "Cambodia"
+      },
+      "min_year": 1995,
+      "max_year": 1998,
+      "face": {
+        "value": 5000,
+        "unit": "Riels",
+        "text": "5000 Riels"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 217616,
+        "title": "5000 Riels",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "cambodge",
+          "name": "Cambodia"
+        },
+        "min_year": 1995,
+        "max_year": 1998,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/5ecb00deaec426.92828116-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/5ecb00df2027d9.58272237-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 217618,
+      "title": "10 000 Riels",
+      "issuer": {
+        "code": "cambodge",
+        "name": "Cambodia"
+      },
+      "min_year": 1995,
+      "max_year": 1998,
+      "face": {
+        "value": 10000,
+        "unit": "Riels",
+        "text": "10000 Riels"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 217618,
+        "title": "10 000 Riels",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "cambodge",
+          "name": "Cambodia"
+        },
+        "min_year": 1995,
+        "max_year": 1998,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/5ecb0287e84b54.03601341-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/5ecb02883f1b26.18610333-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 217619,
+      "title": "20 000 Riels",
+      "issuer": {
+        "code": "cambodge",
+        "name": "Cambodia"
+      },
+      "min_year": 1995,
+      "max_year": 1995,
+      "face": {
+        "value": 20000,
+        "unit": "Riels",
+        "text": "20000 Riels"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 217619,
+        "title": "20 000 Riels",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "cambodge",
+          "name": "Cambodia"
+        },
+        "min_year": 1995,
+        "max_year": 1995,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/5ecb037fb99c74.83871831-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/5ecb0380079286.50880554-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 217621,
+      "title": "100 000 Riels",
+      "issuer": {
+        "code": "cambodge",
+        "name": "Cambodia"
+      },
+      "min_year": 1995,
+      "max_year": 1995,
+      "face": {
+        "value": 100000,
+        "unit": "Riels",
+        "text": "100000 Riels"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 217621,
+        "title": "100 000 Riels",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "cambodge",
+          "name": "Cambodia"
+        },
+        "min_year": 1995,
+        "max_year": 1995,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/5ecb04639190c0.75354369-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/5ecb0463de1722.92783078-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 217751,
+      "title": "5 Riels (Khmer Rouge)",
+      "issuer": {
+        "code": "cambodge",
+        "name": "Cambodia"
+      },
+      "min_year": 1993,
+      "max_year": 1999,
+      "face": {
+        "value": 5,
+        "unit": "Riels",
+        "text": "5 Riels"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 217751,
+        "title": "5 Riels (Khmer Rouge)",
+        "object_type": {
+          "id": 84,
+          "name": "Local banknotes"
+        },
+        "issuer": {
+          "code": "cambodge",
+          "name": "Cambodia"
+        },
+        "min_year": 1993,
+        "max_year": 1999,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/5ecbbc200424c2.14428989-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/5ecbbc205111b1.35162400-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 217752,
+      "title": "10 Riels (Khmer Rouge)",
+      "issuer": {
+        "code": "cambodge",
+        "name": "Cambodia"
+      },
+      "min_year": 1993,
+      "max_year": 1999,
+      "face": {
+        "value": 10,
+        "unit": "Riels",
+        "text": "10 Riels"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 217752,
+        "title": "10 Riels (Khmer Rouge)",
+        "object_type": {
+          "id": 84,
+          "name": "Local banknotes"
+        },
+        "issuer": {
+          "code": "cambodge",
+          "name": "Cambodia"
+        },
+        "min_year": 1993,
+        "max_year": 1999,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/5ecbbcbbce9124.67440886-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/5ecbbcbc430836.70841287-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 217753,
+      "title": "50 Riels (Khmer Rouge)",
+      "issuer": {
+        "code": "cambodge",
+        "name": "Cambodia"
+      },
+      "min_year": 1993,
+      "max_year": 1999,
+      "face": {
+        "value": 50,
+        "unit": "Riels",
+        "text": "50 Riels"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 217753,
+        "title": "50 Riels (Khmer Rouge)",
+        "object_type": {
+          "id": 84,
+          "name": "Local banknotes"
+        },
+        "issuer": {
+          "code": "cambodge",
+          "name": "Cambodia"
+        },
+        "min_year": 1993,
+        "max_year": 1999,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/5ecbbd2813eca0.64580162-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/5ecbbd2863d617.70118585-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 308756,
+      "title": "30 000 Riels (Paris Peace Agreement)",
+      "issuer": {
+        "code": "cambodge",
+        "name": "Cambodia"
+      },
+      "min_year": 2021,
+      "max_year": 2021,
+      "face": {
+        "value": 30000,
+        "unit": "Riels",
+        "text": "30000 Riels"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 308756,
+        "title": "30 000 Riels (Paris Peace Agreement)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "cambodge",
+          "name": "Cambodia"
+        },
+        "min_year": 2021,
+        "max_year": 2021,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/656b01f92fb126.15854660-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/656b01fa64dd49.34118243-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 327970,
+      "title": "2000 Riels (60th Anniversary of Diplomatic Relations Between China and Cambodia)",
+      "issuer": {
+        "code": "cambodge",
+        "name": "Cambodia"
+      },
+      "min_year": 2018,
+      "max_year": 2018,
+      "face": {
+        "value": 2000,
+        "unit": "Riels",
+        "text": "2000 Riels"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 327970,
+        "title": "2000 Riels (60th Anniversary of Diplomatic Relations Between China and Cambodia)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "cambodge",
+          "name": "Cambodia"
+        },
+        "min_year": 2018,
+        "max_year": 2018,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/67fc06c43aef44.07931221-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/67fc06c6637e20.59986080-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 347583,
+      "title": "200 Riels - Norodom Sihamoni",
+      "issuer": {
+        "code": "cambodge",
+        "name": "Cambodia"
+      },
+      "min_year": 2022,
+      "max_year": 2022,
+      "face": {
+        "value": 200,
+        "unit": "Riels",
+        "text": "200 Riels"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 347583,
+        "title": "200 Riels - Norodom Sihamoni",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "cambodge",
+          "name": "Cambodia"
+        },
+        "min_year": 2022,
+        "max_year": 2022,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/644ff499913212.21361932-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/644ff49ac22326.43799878-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 347586,
+      "title": "2000 Riels",
+      "issuer": {
+        "code": "cambodge",
+        "name": "Cambodia"
+      },
+      "min_year": 2022,
+      "max_year": 2022,
+      "face": {
+        "value": 2000,
+        "unit": "Riels",
+        "text": "2000 Riels"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 347586,
+        "title": "2000 Riels",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "cambodge",
+          "name": "Cambodia"
+        },
+        "min_year": 2022,
+        "max_year": 2022,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/653cccb4c09ec8.70570256-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/653cccb6138a63.27185825-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 437953,
+      "title": "200 000 Riels",
+      "issuer": {
+        "code": "cambodge",
+        "name": "Cambodia"
+      },
+      "min_year": 2024,
+      "max_year": 2024,
+      "face": {
+        "value": 200000,
+        "unit": "Riels",
+        "text": "200000 Riels"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 437953,
+        "title": "200 000 Riels",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "cambodge",
+          "name": "Cambodia"
+        },
+        "min_year": 2024,
+        "max_year": 2024,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/671207458a1f86.48484716-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/67120745ce5e26.27151730-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 605387,
+      "title": "50 000 Riels",
+      "issuer": {
+        "code": "cambodge",
+        "name": "Cambodia"
+      },
+      "min_year": 2026,
+      "max_year": 2026,
+      "face": {
+        "value": 50000,
+        "unit": "Riels",
+        "text": "50000 Riels"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 605387,
+        "title": "50 000 Riels",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "cambodge",
+          "name": "Cambodia"
+        },
+        "min_year": 2026,
+        "max_year": 2026,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/6abf5823e2f827.71767416-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/6abf5824bbdbf3.29588729-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 605388,
+      "title": "100 000 Riels (60th Birthday of King Norodom Sihamoni)",
+      "issuer": {
+        "code": "cambodge",
+        "name": "Cambodia"
+      },
+      "min_year": 2026,
+      "max_year": 2026,
+      "face": {
+        "value": 100000,
+        "unit": "Riels",
+        "text": "100000 Riels"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 605388,
+        "title": "100 000 Riels (60th Birthday of King Norodom Sihamoni)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "cambodge",
+          "name": "Cambodia"
+        },
+        "min_year": 2026,
+        "max_year": 2026,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/6abf5929b8fc28.90016670-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/cambodge/6abf592a8c3998.79991576-180.jpg",
+        "category": "banknote"
+      }
+    }
+  ]
+}

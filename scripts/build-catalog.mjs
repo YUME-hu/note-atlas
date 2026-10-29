@@ -259,7 +259,7 @@ async function main() {
         if (record.type_ids.length < 5) record.type_ids.push(typeId)
         unknownUnits.set(key, record)
       }
-      const unitZh = unitInfo?.zh ?? (face.unitRaw ? face.unitRaw : locale.unit)
+      const unitZh = unitInfo?.zh ?? locale.unit
       const denom = round(faceValue * (unitInfo?.factor ?? 1))
 
       const minYear = Number.isFinite(type.min_year) ? Number(type.min_year) : null

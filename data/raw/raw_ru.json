@@ -1,0 +1,1945 @@
+{
+  "meta": {
+    "generated_at": "2026-10-29T13:27:54.903Z",
+    "fixture": false,
+    "api": "numista v3",
+    "issuer": "russie",
+    "iso": "RU",
+    "category": "banknote",
+    "lang": "en",
+    "since": 1960,
+    "listed": 52,
+    "fetched": 52,
+    "details_fetched": 0,
+    "dropped_before_since": 0,
+    "dropped_by_source": {
+      "list": 0,
+      "detail": 0
+    },
+    "issuer_mismatches": 0,
+    "pages": 2,
+    "requests": 0
+  },
+  "types": [
+    {
+      "numista_type_id": 202130,
+      "title": "10 Rubles (Security thread on reverse; \"МОДИФИКАЦИЯ - 2004 г.\" overprint)",
+      "issuer": {
+        "code": "russie",
+        "name": "Russian Federation (1991-date)"
+      },
+      "min_year": 2004,
+      "max_year": 2004,
+      "face": {
+        "value": 10,
+        "unit": "Rubles",
+        "text": "10 Rubles"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202130,
+        "title": "10 Rubles (Security thread on reverse; \"МОДИФИКАЦИЯ - 2004 г.\" overprint)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "russie",
+          "name": "Russian Federation (1991-date)"
+        },
+        "min_year": 2004,
+        "max_year": 2004,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/russie/63d64abf90b216.03419655-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/russie/63d64ac2f26729.85077480-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203815,
+      "title": "100 Rubles (Hidden security thread)",
+      "issuer": {
+        "code": "russie",
+        "name": "Russian Federation (1991-date)"
+      },
+      "min_year": 1997,
+      "max_year": 1997,
+      "face": {
+        "value": 100,
+        "unit": "Rubles",
+        "text": "100 Rubles"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203815,
+        "title": "100 Rubles (Hidden security thread)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "russie",
+          "name": "Russian Federation (1991-date)"
+        },
+        "min_year": 1997,
+        "max_year": 1997,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/russie/65faa4d8ae7eb0.14575298-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/russie/65faa4da2516c4.13003980-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203831,
+      "title": "100 Rubles",
+      "issuer": {
+        "code": "russie",
+        "name": "Russian Federation (1991-date)"
+      },
+      "min_year": 1993,
+      "max_year": 1993,
+      "face": {
+        "value": 100,
+        "unit": "Rubles",
+        "text": "100 Rubles"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203831,
+        "title": "100 Rubles",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "russie",
+          "name": "Russian Federation (1991-date)"
+        },
+        "min_year": 1993,
+        "max_year": 1993,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/russie/63d8f81368b9a3.86548170-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/russie/63d8f8142ad344.49906204-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205196,
+      "title": "100 Rubles (2014 Sochi Olympics)",
+      "issuer": {
+        "code": "russie",
+        "name": "Russian Federation (1991-date)"
+      },
+      "min_year": 2014,
+      "max_year": 2014,
+      "face": {
+        "value": 100,
+        "unit": "Rubles",
+        "text": "100 Rubles"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205196,
+        "title": "100 Rubles (2014 Sochi Olympics)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "russie",
+          "name": "Russian Federation (1991-date)"
+        },
+        "min_year": 2014,
+        "max_year": 2014,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/russie/6818d26d962259.14900065-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/russie/6818d26f1c9697.12716717-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205386,
+      "title": "100 Rubles (2018 FIFA World Cup)",
+      "issuer": {
+        "code": "russie",
+        "name": "Russian Federation (1991-date)"
+      },
+      "min_year": 2018,
+      "max_year": 2018,
+      "face": {
+        "value": 100,
+        "unit": "Rubles",
+        "text": "100 Rubles"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205386,
+        "title": "100 Rubles (2018 FIFA World Cup)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "russie",
+          "name": "Russian Federation (1991-date)"
+        },
+        "min_year": 2018,
+        "max_year": 2018,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/russie/65b30c6b4ea7c1.01389321-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/russie/65b30c6c778826.76201434-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205938,
+      "title": "50 Rubles (Security thread on reverse; \"МОДИФИКАЦИЯ - 2004 г.\" overprint)",
+      "issuer": {
+        "code": "russie",
+        "name": "Russian Federation (1991-date)"
+      },
+      "min_year": 2004,
+      "max_year": 2004,
+      "face": {
+        "value": 50,
+        "unit": "Rubles",
+        "text": "50 Rubles"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205938,
+        "title": "50 Rubles (Security thread on reverse; \"МОДИФИКАЦИЯ - 2004 г.\" overprint)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "russie",
+          "name": "Russian Federation (1991-date)"
+        },
+        "min_year": 2004,
+        "max_year": 2004,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/russie/63d55f1c090944.41191112-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/russie/63d55f1f4e86a3.23085354-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206878,
+      "title": "500 Rubles",
+      "issuer": {
+        "code": "russie",
+        "name": "Russian Federation (1991-date)"
+      },
+      "min_year": 1993,
+      "max_year": 1993,
+      "face": {
+        "value": 500,
+        "unit": "Rubles",
+        "text": "500 Rubles"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206878,
+        "title": "500 Rubles",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "russie",
+          "name": "Russian Federation (1991-date)"
+        },
+        "min_year": 1993,
+        "max_year": 1993,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/russie/623b76aa96da06.78980523-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/russie/623b76ab277871.02628740-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 207005,
+      "title": "100 Rubles (Crimea's Reunification with Russia)",
+      "issuer": {
+        "code": "russie",
+        "name": "Russian Federation (1991-date)"
+      },
+      "min_year": 2015,
+      "max_year": 2015,
+      "face": {
+        "value": 100,
+        "unit": "Rubles",
+        "text": "100 Rubles"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 207005,
+        "title": "100 Rubles (Crimea's Reunification with Russia)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "russie",
+          "name": "Russian Federation (1991-date)"
+        },
+        "min_year": 2015,
+        "max_year": 2015,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/russie/62f8b5ab954346.67427032-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/russie/62f8b5ac213bb2.09004101-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 207356,
+      "title": "500 Rubles (Hidden security thread; \"МОДИФИКАЦИЯ - 2001 г.\" overprint)",
+      "issuer": {
+        "code": "russie",
+        "name": "Russian Federation (1991-date)"
+      },
+      "min_year": 2001,
+      "max_year": 2001,
+      "face": {
+        "value": 500,
+        "unit": "Rubles",
+        "text": "500 Rubles"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 207356,
+        "title": "500 Rubles (Hidden security thread; \"МОДИФИКАЦИЯ - 2001 г.\" overprint)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "russie",
+          "name": "Russian Federation (1991-date)"
+        },
+        "min_year": 2001,
+        "max_year": 2001,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/russie/677d2c79bd2857.39314945-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/russie/677d2c7a9ac3f9.39177940-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 207358,
+      "title": "1000 Rubles (Silver Yaroslavl Coat of Arms)",
+      "issuer": {
+        "code": "russie",
+        "name": "Russian Federation (1991-date)"
+      },
+      "min_year": 1997,
+      "max_year": 1997,
+      "face": {
+        "value": 1000,
+        "unit": "Rubles",
+        "text": "1000 Rubles"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 207358,
+        "title": "1000 Rubles (Silver Yaroslavl Coat of Arms)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "russie",
+          "name": "Russian Federation (1991-date)"
+        },
+        "min_year": 1997,
+        "max_year": 1997,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/russie/6910f326232de6.30133823-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/russie/6910f328657c17.14140705-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 207359,
+      "title": "200 Rubles",
+      "issuer": {
+        "code": "russie",
+        "name": "Russian Federation (1991-date)"
+      },
+      "min_year": 2017,
+      "max_year": 2017,
+      "face": {
+        "value": 200,
+        "unit": "Rubles",
+        "text": "200 Rubles"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 207359,
+        "title": "200 Rubles",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "russie",
+          "name": "Russian Federation (1991-date)"
+        },
+        "min_year": 2017,
+        "max_year": 2017,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/russie/62ca900a80ec97.19027430-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/russie/62ca900b1db9b2.02245715-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 207696,
+      "title": "200 Rubles",
+      "issuer": {
+        "code": "russie",
+        "name": "Russian Federation (1991-date)"
+      },
+      "min_year": 1993,
+      "max_year": 1993,
+      "face": {
+        "value": 200,
+        "unit": "Rubles",
+        "text": "200 Rubles"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 207696,
+        "title": "200 Rubles",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "russie",
+          "name": "Russian Federation (1991-date)"
+        },
+        "min_year": 1993,
+        "max_year": 1993,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/russie/63d55ccf4513c9.22791163-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/russie/63d55cd1c369b2.01956180-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 207839,
+      "title": "1000 Rubles (Overprint on 1000 Rubles of Soviet Union)",
+      "issuer": {
+        "code": "russie",
+        "name": "Russian Federation (1991-date)"
+      },
+      "min_year": 1992,
+      "max_year": 1992,
+      "face": {
+        "value": 1000,
+        "unit": "Rubles",
+        "text": "1000 Rubles"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 207839,
+        "title": "1000 Rubles (Overprint on 1000 Rubles of Soviet Union)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "russie",
+          "name": "Russian Federation (1991-date)"
+        },
+        "min_year": 1992,
+        "max_year": 1992,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/russie/63d55dce7d0865.15135316-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/russie/63d55dd1b50d52.67262337-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 207842,
+      "title": "1000 Rubles",
+      "issuer": {
+        "code": "russie",
+        "name": "Russian Federation (1991-date)"
+      },
+      "min_year": 1993,
+      "max_year": 1993,
+      "face": {
+        "value": 1000,
+        "unit": "Rubles",
+        "text": "1000 Rubles"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 207842,
+        "title": "1000 Rubles",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "russie",
+          "name": "Russian Federation (1991-date)"
+        },
+        "min_year": 1993,
+        "max_year": 1993,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/russie/65a801cde5d4c3.02774020-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/russie/65a801d07a0073.95274713-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 207845,
+      "title": "10 000 Rubles",
+      "issuer": {
+        "code": "russie",
+        "name": "Russian Federation (1991-date)"
+      },
+      "min_year": 1992,
+      "max_year": 1992,
+      "face": {
+        "value": 10000,
+        "unit": "Rubles",
+        "text": "10000 Rubles"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 207845,
+        "title": "10 000 Rubles",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "russie",
+          "name": "Russian Federation (1991-date)"
+        },
+        "min_year": 1992,
+        "max_year": 1992,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/russie/623b7650b76bf7.12820771-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/russie/623b76515592c0.99881653-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 208012,
+      "title": "200 Rubles (Overprint on 200 Rubles of Soviet Union)",
+      "issuer": {
+        "code": "russie",
+        "name": "Russian Federation (1991-date)"
+      },
+      "min_year": 1992,
+      "max_year": 1992,
+      "face": {
+        "value": 200,
+        "unit": "Rubles",
+        "text": "200 Rubles"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 208012,
+        "title": "200 Rubles (Overprint on 200 Rubles of Soviet Union)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "russie",
+          "name": "Russian Federation (1991-date)"
+        },
+        "min_year": 1992,
+        "max_year": 1992,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/russie/65d7b9985fef05.65944079-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/russie/65d7b99aa34155.43561826-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 208013,
+      "title": "500 Rubles (Overprint on 500 Rubles of Soviet Union)",
+      "issuer": {
+        "code": "russie",
+        "name": "Russian Federation (1991-date)"
+      },
+      "min_year": 1992,
+      "max_year": 1992,
+      "face": {
+        "value": 500,
+        "unit": "Rubles",
+        "text": "500 Rubles"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 208013,
+        "title": "500 Rubles (Overprint on 500 Rubles of Soviet Union)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "russie",
+          "name": "Russian Federation (1991-date)"
+        },
+        "min_year": 1992,
+        "max_year": 1992,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/russie/63d55d60e3a4b6.67797046-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/russie/63d55d640722d7.28619576-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 208823,
+      "title": "10 000 Rubles",
+      "issuer": {
+        "code": "russie",
+        "name": "Russian Federation (1991-date)"
+      },
+      "min_year": 1993,
+      "max_year": 1994,
+      "face": {
+        "value": 10000,
+        "unit": "Rubles",
+        "text": "10000 Rubles"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 208823,
+        "title": "10 000 Rubles",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "russie",
+          "name": "Russian Federation (1991-date)"
+        },
+        "min_year": 1993,
+        "max_year": 1994,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/russie/5ea89c3531fb90.69133662-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/russie/5ea89c36ade630.17127548-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 210260,
+      "title": "50 Rubles (Overprint on 50 Rubles of Soviet Union)",
+      "issuer": {
+        "code": "russie",
+        "name": "Russian Federation (1991-date)"
+      },
+      "min_year": 1992,
+      "max_year": 1992,
+      "face": {
+        "value": 50,
+        "unit": "Rubles",
+        "text": "50 Rubles"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 210260,
+        "title": "50 Rubles (Overprint on 50 Rubles of Soviet Union)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "russie",
+          "name": "Russian Federation (1991-date)"
+        },
+        "min_year": 1992,
+        "max_year": 1992,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/russie/66ef28a57e0930.01891649-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/russie/66ef28a5977a38.90147545-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 210633,
+      "title": "1000 Rubles",
+      "issuer": {
+        "code": "russie",
+        "name": "Russian Federation (1991-date)"
+      },
+      "min_year": 1995,
+      "max_year": 1995,
+      "face": {
+        "value": 1000,
+        "unit": "Rubles",
+        "text": "1000 Rubles"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 210633,
+        "title": "1000 Rubles",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "russie",
+          "name": "Russian Federation (1991-date)"
+        },
+        "min_year": 1995,
+        "max_year": 1995,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/russie/63d55e5a0922f2.07068552-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/russie/63d55e5cd6fd67.30732189-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 210635,
+      "title": "5000 Rubles",
+      "issuer": {
+        "code": "russie",
+        "name": "Russian Federation (1991-date)"
+      },
+      "min_year": 1992,
+      "max_year": 1992,
+      "face": {
+        "value": 5000,
+        "unit": "Rubles",
+        "text": "5000 Rubles"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 210635,
+        "title": "5000 Rubles",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "russie",
+          "name": "Russian Federation (1991-date)"
+        },
+        "min_year": 1992,
+        "max_year": 1992,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/russie/626e4c07a5e007.17476974-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/russie/626e4c08a6ddf4.65222679-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 210868,
+      "title": "2000 Rubles",
+      "issuer": {
+        "code": "russie",
+        "name": "Russian Federation (1991-date)"
+      },
+      "min_year": 2017,
+      "max_year": 2017,
+      "face": {
+        "value": 2000,
+        "unit": "Rubles",
+        "text": "2000 Rubles"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 210868,
+        "title": "2000 Rubles",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "russie",
+          "name": "Russian Federation (1991-date)"
+        },
+        "min_year": 2017,
+        "max_year": 2017,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/russie/5ed606da9f35c3.65043949-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/russie/5ed606db292005.10613318-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 212831,
+      "title": "5000 Rubles",
+      "issuer": {
+        "code": "russie",
+        "name": "Russian Federation (1991-date)"
+      },
+      "min_year": 1993,
+      "max_year": 1993,
+      "face": {
+        "value": 5000,
+        "unit": "Rubles",
+        "text": "5000 Rubles"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 212831,
+        "title": "5000 Rubles",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "russie",
+          "name": "Russian Federation (1991-date)"
+        },
+        "min_year": 1993,
+        "max_year": 1993,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/russie/606a230be440f3.40236834-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/russie/606a230c391f18.07630362-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 213057,
+      "title": "50 000 Rubles",
+      "issuer": {
+        "code": "russie",
+        "name": "Russian Federation (1991-date)"
+      },
+      "min_year": 1993,
+      "max_year": 1994,
+      "face": {
+        "value": 50000,
+        "unit": "Rubles",
+        "text": "50000 Rubles"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 213057,
+        "title": "50 000 Rubles",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "russie",
+          "name": "Russian Federation (1991-date)"
+        },
+        "min_year": 1993,
+        "max_year": 1994,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/russie/5ec0d82ac45706.84450377-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/russie/5ec0d82bceb272.30034426-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 213060,
+      "title": "5000 Rubles",
+      "issuer": {
+        "code": "russie",
+        "name": "Russian Federation (1991-date)"
+      },
+      "min_year": 1995,
+      "max_year": 1995,
+      "face": {
+        "value": 5000,
+        "unit": "Rubles",
+        "text": "5000 Rubles"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 213060,
+        "title": "5000 Rubles",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "russie",
+          "name": "Russian Federation (1991-date)"
+        },
+        "min_year": 1995,
+        "max_year": 1995,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/russie/5ec0e2c2963f75.76658268-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/russie/5ec0e2c3d63477.79632123-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 213061,
+      "title": "10 000 Rubles",
+      "issuer": {
+        "code": "russie",
+        "name": "Russian Federation (1991-date)"
+      },
+      "min_year": 1995,
+      "max_year": 1995,
+      "face": {
+        "value": 10000,
+        "unit": "Rubles",
+        "text": "10000 Rubles"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 213061,
+        "title": "10 000 Rubles",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "russie",
+          "name": "Russian Federation (1991-date)"
+        },
+        "min_year": 1995,
+        "max_year": 1995,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/russie/5ec0e3217c9955.05657524-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/russie/5ec0e32292b574.98379558-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 213062,
+      "title": "50 000 Rubles",
+      "issuer": {
+        "code": "russie",
+        "name": "Russian Federation (1991-date)"
+      },
+      "min_year": 1995,
+      "max_year": 1995,
+      "face": {
+        "value": 50000,
+        "unit": "Rubles",
+        "text": "50000 Rubles"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 213062,
+        "title": "50 000 Rubles",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "russie",
+          "name": "Russian Federation (1991-date)"
+        },
+        "min_year": 1995,
+        "max_year": 1995,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/russie/5eb9b4fc4a0000.86740911-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/russie/5eb9b4fca288a9.09442084-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 213063,
+      "title": "100 000 Rubles",
+      "issuer": {
+        "code": "russie",
+        "name": "Russian Federation (1991-date)"
+      },
+      "min_year": 1995,
+      "max_year": 1995,
+      "face": {
+        "value": 100000,
+        "unit": "Rubles",
+        "text": "100000 Rubles"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 213063,
+        "title": "100 000 Rubles",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "russie",
+          "name": "Russian Federation (1991-date)"
+        },
+        "min_year": 1995,
+        "max_year": 1995,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/russie/5ec0e367588546.70751809-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/russie/5ec0e3685b6049.58156948-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 213065,
+      "title": "500 000 Rubles",
+      "issuer": {
+        "code": "russie",
+        "name": "Russian Federation (1991-date)"
+      },
+      "min_year": 1995,
+      "max_year": 1995,
+      "face": {
+        "value": 500000,
+        "unit": "Rubles",
+        "text": "500000 Rubles"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 213065,
+        "title": "500 000 Rubles",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "russie",
+          "name": "Russian Federation (1991-date)"
+        },
+        "min_year": 1995,
+        "max_year": 1995,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/russie/60176b91ccce53.20628227-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/russie/60176b92232769.50759451-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 213066,
+      "title": "5000 Rubles (Purple iridescent Khabarovsk Coat of Arms)",
+      "issuer": {
+        "code": "russie",
+        "name": "Russian Federation (1991-date)"
+      },
+      "min_year": 1997,
+      "max_year": 1997,
+      "face": {
+        "value": 5000,
+        "unit": "Rubles",
+        "text": "5000 Rubles"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 213066,
+        "title": "5000 Rubles (Purple iridescent Khabarovsk Coat of Arms)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "russie",
+          "name": "Russian Federation (1991-date)"
+        },
+        "min_year": 1997,
+        "max_year": 1997,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/russie/5ed6074d6d79d0.89340098-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/russie/5ed6074dd04a62.60914487-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 217293,
+      "title": "5 Rubles",
+      "issuer": {
+        "code": "russie",
+        "name": "Russian Federation (1991-date)"
+      },
+      "min_year": 1997,
+      "max_year": 2026,
+      "face": {
+        "value": 5,
+        "unit": "Rubles",
+        "text": "5 Rubles"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 217293,
+        "title": "5 Rubles",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "russie",
+          "name": "Russian Federation (1991-date)"
+        },
+        "min_year": 1997,
+        "max_year": 2026,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/russie/63d8f84f21d097.43339573-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/russie/63d8f84fd167f3.79878276-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 332589,
+      "title": "100 Rubles (Map of Russia)",
+      "issuer": {
+        "code": "russie",
+        "name": "Russian Federation (1991-date)"
+      },
+      "min_year": 2022,
+      "max_year": 2022,
+      "face": {
+        "value": 100,
+        "unit": "Rubles",
+        "text": "100 Rubles"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 332589,
+        "title": "100 Rubles (Map of Russia)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "russie",
+          "name": "Russian Federation (1991-date)"
+        },
+        "min_year": 2022,
+        "max_year": 2022,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/russie/650485e75fc4d6.60323068-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/russie/650485e8a4a950.66421716-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 377297,
+      "title": "500 Rubles (Security thread on obverse; \"МОДИФИКАЦИЯ 2010 ГОДА\" overprint)",
+      "issuer": {
+        "code": "russie",
+        "name": "Russian Federation (1991-date)"
+      },
+      "min_year": 2010,
+      "max_year": 2010,
+      "face": {
+        "value": 500,
+        "unit": "Rubles",
+        "text": "500 Rubles"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 377297,
+        "title": "500 Rubles (Security thread on obverse; \"МОДИФИКАЦИЯ 2010 ГОДА\" overprint)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "russie",
+          "name": "Russian Federation (1991-date)"
+        },
+        "min_year": 2010,
+        "max_year": 2010,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/russie/64f77bd0ccb390.22423622-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/russie/64f77bd2191df5.51644324-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 382070,
+      "title": "1000 Rubles (Tatarstan Statehood History Museum on reverse)",
+      "issuer": {
+        "code": "russie",
+        "name": "Russian Federation (1991-date)"
+      },
+      "min_year": 2023,
+      "max_year": 2023,
+      "face": {
+        "value": 1000,
+        "unit": "Rubles",
+        "text": "1000 Rubles"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 382070,
+        "title": "1000 Rubles (Tatarstan Statehood History Museum on reverse)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "russie",
+          "name": "Russian Federation (1991-date)"
+        },
+        "min_year": 2023,
+        "max_year": 2023,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/russie/652d3a4b064725.51325210-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/russie/652d3a4bab9b42.11587597-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 382378,
+      "title": "5000 Rubles",
+      "issuer": {
+        "code": "russie",
+        "name": "Russian Federation (1991-date)"
+      },
+      "min_year": 2023,
+      "max_year": 2023,
+      "face": {
+        "value": 5000,
+        "unit": "Rubles",
+        "text": "5000 Rubles"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 382378,
+        "title": "5000 Rubles",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "russie",
+          "name": "Russian Federation (1991-date)"
+        },
+        "min_year": 2023,
+        "max_year": 2023,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/russie/652fcb060a6dd6.04758376-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/russie/652fcb06611926.31714123-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 389684,
+      "title": "100 000 Rubles",
+      "issuer": {
+        "code": "russie",
+        "name": "Russian Federation (1991-date)"
+      },
+      "min_year": 1993,
+      "max_year": 1993,
+      "face": {
+        "value": 100000,
+        "unit": "Rubles",
+        "text": "100000 Rubles"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 389684,
+        "title": "100 000 Rubles",
+        "object_type": {
+          "id": 89,
+          "name": "Banknote patterns and trials"
+        },
+        "issuer": {
+          "code": "russie",
+          "name": "Russian Federation (1991-date)"
+        },
+        "min_year": 1993,
+        "max_year": 1993,
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 391084,
+      "title": "100 Rubles",
+      "issuer": {
+        "code": "russie",
+        "name": "Russian Federation (1991-date)"
+      },
+      "min_year": 1993,
+      "max_year": 1993,
+      "face": {
+        "value": 100,
+        "unit": "Rubles",
+        "text": "100 Rubles"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 391084,
+        "title": "100 Rubles",
+        "object_type": {
+          "id": 89,
+          "name": "Banknote patterns and trials"
+        },
+        "issuer": {
+          "code": "russie",
+          "name": "Russian Federation (1991-date)"
+        },
+        "min_year": 1993,
+        "max_year": 1993,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/russie/67e2c33ac4c561.67614904-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/russie/67e2c33bae0783.10165310-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 391086,
+      "title": "5 Rubles",
+      "issuer": {
+        "code": "russie",
+        "name": "Russian Federation (1991-date)"
+      },
+      "min_year": 1995,
+      "max_year": 1995,
+      "face": {
+        "value": 5,
+        "unit": "Rubles",
+        "text": "5 Rubles"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 391086,
+        "title": "5 Rubles",
+        "object_type": {
+          "id": 89,
+          "name": "Banknote patterns and trials"
+        },
+        "issuer": {
+          "code": "russie",
+          "name": "Russian Federation (1991-date)"
+        },
+        "min_year": 1995,
+        "max_year": 1995,
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 399395,
+      "title": "1000 Rubles (Purple iridescent Yaroslavl Coat of Arms)",
+      "issuer": {
+        "code": "russie",
+        "name": "Russian Federation (1991-date)"
+      },
+      "min_year": 2004,
+      "max_year": 2004,
+      "face": {
+        "value": 1000,
+        "unit": "Rubles",
+        "text": "1000 Rubles"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 399395,
+        "title": "1000 Rubles (Purple iridescent Yaroslavl Coat of Arms)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "russie",
+          "name": "Russian Federation (1991-date)"
+        },
+        "min_year": 2004,
+        "max_year": 2004,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/russie/66a69a87c8e351.84456639-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/russie/66a69a8a3b6a42.98555057-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 399397,
+      "title": "1000 Rubles (Green iridescent Yaroslavl Coat of Arms)",
+      "issuer": {
+        "code": "russie",
+        "name": "Russian Federation (1991-date)"
+      },
+      "min_year": 2010,
+      "max_year": 2010,
+      "face": {
+        "value": 1000,
+        "unit": "Rubles",
+        "text": "1000 Rubles"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 399397,
+        "title": "1000 Rubles (Green iridescent Yaroslavl Coat of Arms)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "russie",
+          "name": "Russian Federation (1991-date)"
+        },
+        "min_year": 2010,
+        "max_year": 2010,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/russie/65d7c651962fb3.62891632-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/russie/65d7c654200556.02641964-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 399399,
+      "title": "5000 Rubles (Green iridescent Khabarovsk Coat of Arms)",
+      "issuer": {
+        "code": "russie",
+        "name": "Russian Federation (1991-date)"
+      },
+      "min_year": 2010,
+      "max_year": 2010,
+      "face": {
+        "value": 5000,
+        "unit": "Rubles",
+        "text": "5000 Rubles"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 399399,
+        "title": "5000 Rubles (Green iridescent Khabarovsk Coat of Arms)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "russie",
+          "name": "Russian Federation (1991-date)"
+        },
+        "min_year": 2010,
+        "max_year": 2010,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/russie/69342254a38491.79004922-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/russie/69342258933471.45976225-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 399802,
+      "title": "500 Rubles (Security thread on reverse; \"МОДИФИКАЦИЯ - 2004 г.\" overprint)",
+      "issuer": {
+        "code": "russie",
+        "name": "Russian Federation (1991-date)"
+      },
+      "min_year": 2004,
+      "max_year": 2004,
+      "face": {
+        "value": 500,
+        "unit": "Rubles",
+        "text": "500 Rubles"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 399802,
+        "title": "500 Rubles (Security thread on reverse; \"МОДИФИКАЦИЯ - 2004 г.\" overprint)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "russie",
+          "name": "Russian Federation (1991-date)"
+        },
+        "min_year": 2004,
+        "max_year": 2004,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/russie/677d2cb4e7edb9.12918621-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/russie/677d2cb5c67bb8.35730751-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 399805,
+      "title": "100 Rubles (Security thread on reverse; \"МОДИФИКАЦИЯ - 2004 г.\" overprint)",
+      "issuer": {
+        "code": "russie",
+        "name": "Russian Federation (1991-date)"
+      },
+      "min_year": 2004,
+      "max_year": 2004,
+      "face": {
+        "value": 100,
+        "unit": "Rubles",
+        "text": "100 Rubles"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 399805,
+        "title": "100 Rubles (Security thread on reverse; \"МОДИФИКАЦИЯ - 2004 г.\" overprint)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "russie",
+          "name": "Russian Federation (1991-date)"
+        },
+        "min_year": 2004,
+        "max_year": 2004,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/russie/65d0d31d4b07b6.37077421-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/russie/65d0d324354393.89102094-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 399827,
+      "title": "50 Rubles (Hidden security thread)",
+      "issuer": {
+        "code": "russie",
+        "name": "Russian Federation (1991-date)"
+      },
+      "min_year": 1997,
+      "max_year": 1997,
+      "face": {
+        "value": 50,
+        "unit": "Rubles",
+        "text": "50 Rubles"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 399827,
+        "title": "50 Rubles (Hidden security thread)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "russie",
+          "name": "Russian Federation (1991-date)"
+        },
+        "min_year": 1997,
+        "max_year": 1997,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/russie/65faa54a97c6c9.81660669-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/russie/65faa54b515f00.00598173-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 401635,
+      "title": "5000 Rubles (Khakassia)",
+      "issuer": {
+        "code": "russie",
+        "name": "Russian Federation (1991-date)"
+      },
+      "min_year": 1996,
+      "max_year": 1996,
+      "face": {
+        "value": 5000,
+        "unit": "Rubles",
+        "text": "5000 Rubles"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 401635,
+        "title": "5000 Rubles (Khakassia)",
+        "object_type": {
+          "id": 84,
+          "name": "Local banknotes"
+        },
+        "issuer": {
+          "code": "russie",
+          "name": "Russian Federation (1991-date)"
+        },
+        "min_year": 1996,
+        "max_year": 1996,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/russie/65dd23c7819468.72307377-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/russie/65dd23c8991012.21367196-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 406204,
+      "title": "10 Rubles (Hidden security thread)",
+      "issuer": {
+        "code": "russie",
+        "name": "Russian Federation (1991-date)"
+      },
+      "min_year": 1997,
+      "max_year": 1997,
+      "face": {
+        "value": 10,
+        "unit": "Rubles",
+        "text": "10 Rubles"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 406204,
+        "title": "10 Rubles (Hidden security thread)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "russie",
+          "name": "Russian Federation (1991-date)"
+        },
+        "min_year": 1997,
+        "max_year": 1997,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/russie/677d2ce347eef3.79497561-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/russie/677d2ce4051d34.66293378-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 544525,
+      "title": "1000 Rubles (Saratov Road Bridge on reverse)",
+      "issuer": {
+        "code": "russie",
+        "name": "Russian Federation (1991-date)"
+      },
+      "min_year": 2025,
+      "max_year": 2025,
+      "face": {
+        "value": 1000,
+        "unit": "Rubles",
+        "text": "1000 Rubles"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 544525,
+        "title": "1000 Rubles (Saratov Road Bridge on reverse)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "russie",
+          "name": "Russian Federation (1991-date)"
+        },
+        "min_year": 2025,
+        "max_year": 2025,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/russie/694e6826ddd143.04291815-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/russie/694e68273a04c3.91328253-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 591539,
+      "title": "100 Rubles (Map of Central Federal District)",
+      "issuer": {
+        "code": "russie",
+        "name": "Russian Federation (1991-date)"
+      },
+      "min_year": 2026,
+      "max_year": 2026,
+      "face": {
+        "value": 100,
+        "unit": "Rubles",
+        "text": "100 Rubles"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 591539,
+        "title": "100 Rubles (Map of Central Federal District)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "russie",
+          "name": "Russian Federation (1991-date)"
+        },
+        "min_year": 2026,
+        "max_year": 2026,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/russie/6abf7b3387d366.42798382-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/russie/6abf7b35a20f44.90481604-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 605705,
+      "title": "10 Rubles (Hidden security thread; \"МОДИФИКАЦИЯ - 2001 г.\" overprint)",
+      "issuer": {
+        "code": "russie",
+        "name": "Russian Federation (1991-date)"
+      },
+      "min_year": 2001,
+      "max_year": 2001,
+      "face": {
+        "value": 10,
+        "unit": "Rubles",
+        "text": "10 Rubles"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 605705,
+        "title": "10 Rubles (Hidden security thread; \"МОДИФИКАЦИЯ - 2001 г.\" overprint)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "russie",
+          "name": "Russian Federation (1991-date)"
+        },
+        "min_year": 2001,
+        "max_year": 2001,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/russie/6ac1d3f7c81c31.79582594-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/russie/6ac1d3fba94113.23849416-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 605910,
+      "title": "50 Rubles (Hidden security thread; \"МОДИФИКАЦИЯ - 2001 г.\" overprint)",
+      "issuer": {
+        "code": "russie",
+        "name": "Russian Federation (1991-date)"
+      },
+      "min_year": 2001,
+      "max_year": 2001,
+      "face": {
+        "value": 50,
+        "unit": "Rubles",
+        "text": "50 Rubles"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 605910,
+        "title": "50 Rubles (Hidden security thread; \"МОДИФИКАЦИЯ - 2001 г.\" overprint)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "russie",
+          "name": "Russian Federation (1991-date)"
+        },
+        "min_year": 2001,
+        "max_year": 2001,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/russie/6ac5261d6ddc46.33632709-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/russie/6ac5261dddd508.78970961-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 605911,
+      "title": "100 Rubles (Hidden security thread; \"МОДИФИКАЦИЯ - 2001 г.\" overprint)",
+      "issuer": {
+        "code": "russie",
+        "name": "Russian Federation (1991-date)"
+      },
+      "min_year": 2001,
+      "max_year": 2001,
+      "face": {
+        "value": 100,
+        "unit": "Rubles",
+        "text": "100 Rubles"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 605911,
+        "title": "100 Rubles (Hidden security thread; \"МОДИФИКАЦИЯ - 2001 г.\" overprint)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "russie",
+          "name": "Russian Federation (1991-date)"
+        },
+        "min_year": 2001,
+        "max_year": 2001,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/russie/6ac5caa7a54277.37010813-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/russie/6ac5caa7efab38.21261638-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 605912,
+      "title": "500 Rubles (Hidden security thread)",
+      "issuer": {
+        "code": "russie",
+        "name": "Russian Federation (1991-date)"
+      },
+      "min_year": 1997,
+      "max_year": 1997,
+      "face": {
+        "value": 500,
+        "unit": "Rubles",
+        "text": "500 Rubles"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 605912,
+        "title": "500 Rubles (Hidden security thread)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "russie",
+          "name": "Russian Federation (1991-date)"
+        },
+        "min_year": 1997,
+        "max_year": 1997,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/russie/6ad1d264f42346.43819807-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/russie/6ad1d2654e4eb7.68949848-180.jpg",
+        "category": "banknote"
+      }
+    }
+  ]
+}

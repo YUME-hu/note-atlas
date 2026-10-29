@@ -1,0 +1,1061 @@
+{
+  "meta": {
+    "generated_at": "2026-10-29T13:27:52.251Z",
+    "fixture": false,
+    "api": "numista v3",
+    "issuer": "portugal",
+    "iso": "PT",
+    "category": "banknote",
+    "lang": "en",
+    "since": 1960,
+    "listed": 141,
+    "fetched": 28,
+    "details_fetched": 0,
+    "dropped_before_since": 113,
+    "dropped_by_source": {
+      "list": 113,
+      "detail": 0
+    },
+    "issuer_mismatches": 0,
+    "pages": 3,
+    "requests": 0
+  },
+  "types": [
+    {
+      "numista_type_id": 202082,
+      "title": "2000 Escudos (2nd. print)",
+      "issuer": {
+        "code": "portugal",
+        "name": "Portugal"
+      },
+      "min_year": 1995,
+      "max_year": 2000,
+      "face": {
+        "value": 2000,
+        "unit": "Escudos",
+        "text": "2000 Escudos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202082,
+        "title": "2000 Escudos (2nd. print)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "portugal",
+          "name": "Portugal"
+        },
+        "min_year": 1995,
+        "max_year": 2000,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5e9746b3b431e2.64082793-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5e9746b410b009.72923208-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202243,
+      "title": "20 Escudos (9th. print)",
+      "issuer": {
+        "code": "portugal",
+        "name": "Portugal"
+      },
+      "min_year": 1978,
+      "max_year": 1978,
+      "face": {
+        "value": 20,
+        "unit": "Escudos",
+        "text": "20 Escudos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202243,
+        "title": "20 Escudos (9th. print)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "portugal",
+          "name": "Portugal"
+        },
+        "min_year": 1978,
+        "max_year": 1978,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/627367310e9b71.45407376-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/62736731988983.67513316-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202251,
+      "title": "20 Escudos (8th. print)",
+      "issuer": {
+        "code": "portugal",
+        "name": "Portugal"
+      },
+      "min_year": 1971,
+      "max_year": 1971,
+      "face": {
+        "value": 20,
+        "unit": "Escudos",
+        "text": "20 Escudos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202251,
+        "title": "20 Escudos (8th. print)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "portugal",
+          "name": "Portugal"
+        },
+        "min_year": 1971,
+        "max_year": 1971,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5ec4750959f866.05376248-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5ec47509a19c00.45742554-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202260,
+      "title": "1000 Escudos (11th. print)",
+      "issuer": {
+        "code": "portugal",
+        "name": "Portugal"
+      },
+      "min_year": 1968,
+      "max_year": 1982,
+      "face": {
+        "value": 1000,
+        "unit": "Escudos",
+        "text": "1000 Escudos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202260,
+        "title": "1000 Escudos (11th. print)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "portugal",
+          "name": "Portugal"
+        },
+        "min_year": 1968,
+        "max_year": 1982,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5e974a66383411.75232498-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5e974a6684da36.60619539-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202771,
+      "title": "20 Escudos (7th. print)",
+      "issuer": {
+        "code": "portugal",
+        "name": "Portugal"
+      },
+      "min_year": 1964,
+      "max_year": 1964,
+      "face": {
+        "value": 20,
+        "unit": "Escudos",
+        "text": "20 Escudos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202771,
+        "title": "20 Escudos (7th. print)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "portugal",
+          "name": "Portugal"
+        },
+        "min_year": 1964,
+        "max_year": 1964,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/6a2c6fb0e611d8.14483295-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/6a2c6fb1ec0272.64952026-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202789,
+      "title": "100 Escudos (9th. print)",
+      "issuer": {
+        "code": "portugal",
+        "name": "Portugal"
+      },
+      "min_year": 1986,
+      "max_year": 1988,
+      "face": {
+        "value": 100,
+        "unit": "Escudos",
+        "text": "100 Escudos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202789,
+        "title": "100 Escudos (9th. print)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "portugal",
+          "name": "Portugal"
+        },
+        "min_year": 1986,
+        "max_year": 1988,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/660ec5245f0401.25344961-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/660ec526bb0b24.80660058-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202800,
+      "title": "50 Escudos (8th. print)",
+      "issuer": {
+        "code": "portugal",
+        "name": "Portugal"
+      },
+      "min_year": 1964,
+      "max_year": 1964,
+      "face": {
+        "value": 50,
+        "unit": "Escudos",
+        "text": "50 Escudos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202800,
+        "title": "50 Escudos (8th. print)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "portugal",
+          "name": "Portugal"
+        },
+        "min_year": 1964,
+        "max_year": 1964,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5e97272c356a23.11217168-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5e97272c889931.31329269-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202803,
+      "title": "50 Escudos (9th. print)",
+      "issuer": {
+        "code": "portugal",
+        "name": "Portugal"
+      },
+      "min_year": 1968,
+      "max_year": 1980,
+      "face": {
+        "value": 50,
+        "unit": "Escudos",
+        "text": "50 Escudos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202803,
+        "title": "50 Escudos (9th. print)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "portugal",
+          "name": "Portugal"
+        },
+        "min_year": 1968,
+        "max_year": 1980,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/66891a917d7bc8.69115442-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/66891a92588f60.91328883-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202847,
+      "title": "100 Escudos (8th. print)",
+      "issuer": {
+        "code": "portugal",
+        "name": "Portugal"
+      },
+      "min_year": 1980,
+      "max_year": 1985,
+      "face": {
+        "value": 100,
+        "unit": "Escudos",
+        "text": "100 Escudos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202847,
+        "title": "100 Escudos (8th. print)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "portugal",
+          "name": "Portugal"
+        },
+        "min_year": 1980,
+        "max_year": 1985,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/63e4a035c0ea06.57664349-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/63e4a0368c03a9.89631449-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203927,
+      "title": "1000 Escudos (13th. print)",
+      "issuer": {
+        "code": "portugal",
+        "name": "Portugal"
+      },
+      "min_year": 1996,
+      "max_year": 2000,
+      "face": {
+        "value": 1000,
+        "unit": "Escudos",
+        "text": "1000 Escudos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203927,
+        "title": "1000 Escudos (13th. print)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "portugal",
+          "name": "Portugal"
+        },
+        "min_year": 1996,
+        "max_year": 2000,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/62ea8b13940711.84680406-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/62ea8b13d8f7b5.20518859-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204655,
+      "title": "500 Escudos (12th. print)",
+      "issuer": {
+        "code": "portugal",
+        "name": "Portugal"
+      },
+      "min_year": 1987,
+      "max_year": 1994,
+      "face": {
+        "value": 500,
+        "unit": "Escudos",
+        "text": "500 Escudos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204655,
+        "title": "500 Escudos (12th. print)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "portugal",
+          "name": "Portugal"
+        },
+        "min_year": 1987,
+        "max_year": 1994,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5ea0cc97a50f43.29004659-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5ea0cc989f4ff8.27358099-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205139,
+      "title": "5000 Escudos (1st. print)",
+      "issuer": {
+        "code": "portugal",
+        "name": "Portugal"
+      },
+      "min_year": 1980,
+      "max_year": 1986,
+      "face": {
+        "value": 5000,
+        "unit": "Escudos",
+        "text": "5000 Escudos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205139,
+        "title": "5000 Escudos (1st. print)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "portugal",
+          "name": "Portugal"
+        },
+        "min_year": 1980,
+        "max_year": 1986,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5e9d58947ec1a4.84197382-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5e9d5895249be9.71001431-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206012,
+      "title": "20 Escudos (6th. print; 2nd. type)",
+      "issuer": {
+        "code": "portugal",
+        "name": "Portugal"
+      },
+      "min_year": 1960,
+      "max_year": 1960,
+      "face": {
+        "value": 20,
+        "unit": "Escudos",
+        "text": "20 Escudos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206012,
+        "title": "20 Escudos (6th. print; 2nd. type)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "portugal",
+          "name": "Portugal"
+        },
+        "min_year": 1960,
+        "max_year": 1960,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/602d5469e022f1.36259000-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/602d546b434655.35041051-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206015,
+      "title": "100 Escudos (7th. print)",
+      "issuer": {
+        "code": "portugal",
+        "name": "Portugal"
+      },
+      "min_year": 1965,
+      "max_year": 1978,
+      "face": {
+        "value": 100,
+        "unit": "Escudos",
+        "text": "100 Escudos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206015,
+        "title": "100 Escudos (7th. print)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "portugal",
+          "name": "Portugal"
+        },
+        "min_year": 1965,
+        "max_year": 1978,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/652bd1324587e4.30221060-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/652bd132baa6b8.29232209-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206291,
+      "title": "1000 Escudos (12th. print)",
+      "issuer": {
+        "code": "portugal",
+        "name": "Portugal"
+      },
+      "min_year": 1983,
+      "max_year": 1994,
+      "face": {
+        "value": 1000,
+        "unit": "Escudos",
+        "text": "1000 Escudos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206291,
+        "title": "1000 Escudos (12th. print)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "portugal",
+          "name": "Portugal"
+        },
+        "min_year": 1983,
+        "max_year": 1994,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/66917909d07533.58327411-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/6691790a4fa735.22665619-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206294,
+      "title": "2000 Escudos (1st. print)",
+      "issuer": {
+        "code": "portugal",
+        "name": "Portugal"
+      },
+      "min_year": 1991,
+      "max_year": 1993,
+      "face": {
+        "value": 2000,
+        "unit": "Escudos",
+        "text": "2000 Escudos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206294,
+        "title": "2000 Escudos (1st. print)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "portugal",
+          "name": "Portugal"
+        },
+        "min_year": 1991,
+        "max_year": 1993,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5ed563a7269e90.07434270-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5ed6c3f14165e8.37964210-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206535,
+      "title": "500 Escudos (13th. print)",
+      "issuer": {
+        "code": "portugal",
+        "name": "Portugal"
+      },
+      "min_year": 1997,
+      "max_year": 2000,
+      "face": {
+        "value": 500,
+        "unit": "Escudos",
+        "text": "500 Escudos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206535,
+        "title": "500 Escudos (13th. print)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "portugal",
+          "name": "Portugal"
+        },
+        "min_year": 1997,
+        "max_year": 2000,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/640d21f10bfed9.63892275-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/640d21f1da64a0.97529952-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 208024,
+      "title": "5000 Escudos (2nd. print)",
+      "issuer": {
+        "code": "portugal",
+        "name": "Portugal"
+      },
+      "min_year": 1987,
+      "max_year": 1993,
+      "face": {
+        "value": 5000,
+        "unit": "Escudos",
+        "text": "5000 Escudos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 208024,
+        "title": "5000 Escudos (2nd. print)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "portugal",
+          "name": "Portugal"
+        },
+        "min_year": 1987,
+        "max_year": 1993,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5ea60a6a8543b8.72615767-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5ea60a6b124642.96232553-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 209244,
+      "title": "500 Escudos (10th. print)",
+      "issuer": {
+        "code": "portugal",
+        "name": "Portugal"
+      },
+      "min_year": 1966,
+      "max_year": 1979,
+      "face": {
+        "value": 500,
+        "unit": "Escudos",
+        "text": "500 Escudos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 209244,
+        "title": "500 Escudos (10th. print)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "portugal",
+          "name": "Portugal"
+        },
+        "min_year": 1966,
+        "max_year": 1979,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5ec0a5207fc860.94946946-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5ec0a520c5eed4.93336073-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 211355,
+      "title": "10 000 Escudos (1st. print)",
+      "issuer": {
+        "code": "portugal",
+        "name": "Portugal"
+      },
+      "min_year": 1989,
+      "max_year": 1991,
+      "face": {
+        "value": 10000,
+        "unit": "Escudos",
+        "text": "10000 Escudos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 211355,
+        "title": "10 000 Escudos (1st. print)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "portugal",
+          "name": "Portugal"
+        },
+        "min_year": 1989,
+        "max_year": 1991,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5eaf85e3a33b55.34763958-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5eaf85e40b8750.30959929-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 211880,
+      "title": "500 Escudos (11th. print)",
+      "issuer": {
+        "code": "portugal",
+        "name": "Portugal"
+      },
+      "min_year": 1979,
+      "max_year": 1979,
+      "face": {
+        "value": 500,
+        "unit": "Escudos",
+        "text": "500 Escudos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 211880,
+        "title": "500 Escudos (11th. print)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "portugal",
+          "name": "Portugal"
+        },
+        "min_year": 1979,
+        "max_year": 1979,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5ecc725bcd88a6.94418033-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5ecc725c54a982.76277903-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 215540,
+      "title": "1000 Escudos (9th. print)",
+      "issuer": {
+        "code": "portugal",
+        "name": "Portugal"
+      },
+      "min_year": 1965,
+      "max_year": 1965,
+      "face": {
+        "value": 1000,
+        "unit": "Escudos",
+        "text": "1000 Escudos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 215540,
+        "title": "1000 Escudos (9th. print)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "portugal",
+          "name": "Portugal"
+        },
+        "min_year": 1965,
+        "max_year": 1965,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5ec0a648825872.01986607-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5ec0a648ecf597.93423952-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 216986,
+      "title": "10 000 Escudos (2nd. print)",
+      "issuer": {
+        "code": "portugal",
+        "name": "Portugal"
+      },
+      "min_year": 1996,
+      "max_year": 1998,
+      "face": {
+        "value": 10000,
+        "unit": "Escudos",
+        "text": "10000 Escudos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 216986,
+        "title": "10 000 Escudos (2nd. print)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "portugal",
+          "name": "Portugal"
+        },
+        "min_year": 1996,
+        "max_year": 1998,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5ec7003f1877e4.10914412-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5ec7003f9eaa37.00774995-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 216993,
+      "title": "1000 Escudos (10th. print)",
+      "issuer": {
+        "code": "portugal",
+        "name": "Portugal"
+      },
+      "min_year": 1967,
+      "max_year": 1967,
+      "face": {
+        "value": 1000,
+        "unit": "Escudos",
+        "text": "1000 Escudos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 216993,
+        "title": "1000 Escudos (10th. print)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "portugal",
+          "name": "Portugal"
+        },
+        "min_year": 1967,
+        "max_year": 1967,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5ec71375db2c49.46166320-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5ec7137670e288.04548933-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 217056,
+      "title": "50 Escudos (7th. print; 2nd. type)",
+      "issuer": {
+        "code": "portugal",
+        "name": "Portugal"
+      },
+      "min_year": 1960,
+      "max_year": 1960,
+      "face": {
+        "value": 50,
+        "unit": "Escudos",
+        "text": "50 Escudos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 217056,
+        "title": "50 Escudos (7th. print; 2nd. type)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "portugal",
+          "name": "Portugal"
+        },
+        "min_year": 1960,
+        "max_year": 1960,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/6595c822aab803.79744328-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/6595c824b975b5.20552898-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 217068,
+      "title": "100 Escudos (6th. print; 2nd. type)",
+      "issuer": {
+        "code": "portugal",
+        "name": "Portugal"
+      },
+      "min_year": 1961,
+      "max_year": 1961,
+      "face": {
+        "value": 100,
+        "unit": "Escudos",
+        "text": "100 Escudos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 217068,
+        "title": "100 Escudos (6th. print; 2nd. type)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "portugal",
+          "name": "Portugal"
+        },
+        "min_year": 1961,
+        "max_year": 1961,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5ec7b31190b343.19643478-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5ec7b3122efa98.89558385-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 217383,
+      "title": "1000 Escudos (8th. print; 2nd. type)",
+      "issuer": {
+        "code": "portugal",
+        "name": "Portugal"
+      },
+      "min_year": 1961,
+      "max_year": 1961,
+      "face": {
+        "value": 1000,
+        "unit": "Escudos",
+        "text": "1000 Escudos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 217383,
+        "title": "1000 Escudos (8th. print; 2nd. type)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "portugal",
+          "name": "Portugal"
+        },
+        "min_year": 1961,
+        "max_year": 1961,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5ec9a617856f85.16743737-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5ec9a6184b5190.27762795-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 217817,
+      "title": "5000 Escudos (3rd. print)",
+      "issuer": {
+        "code": "portugal",
+        "name": "Portugal"
+      },
+      "min_year": 1995,
+      "max_year": 1998,
+      "face": {
+        "value": 5000,
+        "unit": "Escudos",
+        "text": "5000 Escudos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 217817,
+        "title": "5000 Escudos (3rd. print)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "portugal",
+          "name": "Portugal"
+        },
+        "min_year": 1995,
+        "max_year": 1998,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5ecc02d8f0ebd8.17722900-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/portugal/5ecc02d951b816.73281376-180.jpg",
+        "category": "banknote"
+      }
+    }
+  ]
+}

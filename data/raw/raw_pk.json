@@ -1,0 +1,1986 @@
+{
+  "meta": {
+    "generated_at": "2026-10-29T13:27:59.062Z",
+    "fixture": false,
+    "api": "numista v3",
+    "issuer": "pakistan",
+    "iso": "PK",
+    "category": "banknote",
+    "lang": "en",
+    "since": 1960,
+    "listed": 66,
+    "fetched": 53,
+    "details_fetched": 0,
+    "dropped_before_since": 13,
+    "dropped_by_source": {
+      "list": 13,
+      "detail": 0
+    },
+    "issuer_mismatches": 0,
+    "pages": 2,
+    "requests": 0
+  },
+  "types": [
+    {
+      "numista_type_id": 201856,
+      "title": "10 Rupees",
+      "issuer": {
+        "code": "pakistan",
+        "name": "Pakistan"
+      },
+      "min_year": 1948,
+      "max_year": 1970,
+      "face": {
+        "value": 10,
+        "unit": "Rupees",
+        "text": "10 Rupees"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 201856,
+        "title": "10 Rupees",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "pakistan",
+          "name": "Pakistan"
+        },
+        "min_year": 1948,
+        "max_year": 1970,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pakistan/6adac337852355.98155282-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pakistan/6adac339841de9.64162821-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203020,
+      "title": "2 Rupees",
+      "issuer": {
+        "code": "pakistan",
+        "name": "Pakistan"
+      },
+      "min_year": 1978,
+      "max_year": 1999,
+      "face": {
+        "value": 2,
+        "unit": "Rupees",
+        "text": "2 Rupees"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203020,
+        "title": "2 Rupees",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "pakistan",
+          "name": "Pakistan"
+        },
+        "min_year": 1978,
+        "max_year": 1999,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pakistan/626d3d39db4e73.37369609-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pakistan/626d3d3a6ac599.19002154-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203134,
+      "title": "10 Rupees",
+      "issuer": {
+        "code": "pakistan",
+        "name": "Pakistan"
+      },
+      "min_year": 2006,
+      "max_year": 2026,
+      "face": {
+        "value": 10,
+        "unit": "Rupees",
+        "text": "10 Rupees"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203134,
+        "title": "10 Rupees",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "pakistan",
+          "name": "Pakistan"
+        },
+        "min_year": 2006,
+        "max_year": 2026,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pakistan/626d3cf8a68472.63205980-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pakistan/626d3cf9618813.31429518-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203206,
+      "title": "1 Rupee (with Urdu text \"Type B\" on reverse)",
+      "issuer": {
+        "code": "pakistan",
+        "name": "Pakistan"
+      },
+      "min_year": 1984,
+      "max_year": 2002,
+      "face": {
+        "value": 1,
+        "unit": "Rupee",
+        "text": "1 Rupee"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203206,
+        "title": "1 Rupee (with Urdu text \"Type B\" on reverse)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "pakistan",
+          "name": "Pakistan"
+        },
+        "min_year": 1984,
+        "max_year": 2002,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pakistan/626d3d90a19af8.60835570-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pakistan/626d3d914f7215.59464772-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203519,
+      "title": "1 Rupee (without Urdu text on reverse)",
+      "issuer": {
+        "code": "pakistan",
+        "name": "Pakistan"
+      },
+      "min_year": 1981,
+      "max_year": 1982,
+      "face": {
+        "value": 1,
+        "unit": "Rupee",
+        "text": "1 Rupee"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203519,
+        "title": "1 Rupee (without Urdu text on reverse)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "pakistan",
+          "name": "Pakistan"
+        },
+        "min_year": 1981,
+        "max_year": 1982,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pakistan/691d43af6e5af7.58116912-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pakistan/691d43b2b23ad6.61022563-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203525,
+      "title": "1 Rupee (with Urdu text \"Type A\" on reverse)",
+      "issuer": {
+        "code": "pakistan",
+        "name": "Pakistan"
+      },
+      "min_year": 1982,
+      "max_year": 1984,
+      "face": {
+        "value": 1,
+        "unit": "Rupee",
+        "text": "1 Rupee"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203525,
+        "title": "1 Rupee (with Urdu text \"Type A\" on reverse)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "pakistan",
+          "name": "Pakistan"
+        },
+        "min_year": 1982,
+        "max_year": 1984,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pakistan/626d3db694ab13.45750304-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pakistan/626d3db7541867.61882636-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203685,
+      "title": "20 Rupees",
+      "issuer": {
+        "code": "pakistan",
+        "name": "Pakistan"
+      },
+      "min_year": 2005,
+      "max_year": 2007,
+      "face": {
+        "value": 20,
+        "unit": "Rupees",
+        "text": "20 Rupees"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203685,
+        "title": "20 Rupees",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "pakistan",
+          "name": "Pakistan"
+        },
+        "min_year": 2005,
+        "max_year": 2007,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pakistan/62f16d3406e9a6.26649568-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pakistan/62f16d355a7ab2.24396979-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203693,
+      "title": "50 Rupees",
+      "issuer": {
+        "code": "pakistan",
+        "name": "Pakistan"
+      },
+      "min_year": 2008,
+      "max_year": 2026,
+      "face": {
+        "value": 50,
+        "unit": "Rupees",
+        "text": "50 Rupees"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203693,
+        "title": "50 Rupees",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "pakistan",
+          "name": "Pakistan"
+        },
+        "min_year": 2008,
+        "max_year": 2026,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pakistan/62f180652c6da2.34050725-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pakistan/62f180666d4e07.89364861-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204464,
+      "title": "5 Rupees",
+      "issuer": {
+        "code": "pakistan",
+        "name": "Pakistan"
+      },
+      "min_year": 1972,
+      "max_year": 1976,
+      "face": {
+        "value": 5,
+        "unit": "Rupees",
+        "text": "5 Rupees"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204464,
+        "title": "5 Rupees",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "pakistan",
+          "name": "Pakistan"
+        },
+        "min_year": 1972,
+        "max_year": 1976,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pakistan/5f524c4821d758.90793054-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pakistan/5f524c49a47533.67008161-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 207753,
+      "title": "5000 Rupees",
+      "issuer": {
+        "code": "pakistan",
+        "name": "Pakistan"
+      },
+      "min_year": 2006,
+      "max_year": 2025,
+      "face": {
+        "value": 5000,
+        "unit": "Rupees",
+        "text": "5000 Rupees"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 207753,
+        "title": "5000 Rupees",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "pakistan",
+          "name": "Pakistan"
+        },
+        "min_year": 2006,
+        "max_year": 2025,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pakistan/636e6230570365.13354089-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pakistan/636e6231a32278.84677744-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 207929,
+      "title": "5 Rupees",
+      "issuer": {
+        "code": "pakistan",
+        "name": "Pakistan"
+      },
+      "min_year": 2008,
+      "max_year": 2010,
+      "face": {
+        "value": 5,
+        "unit": "Rupees",
+        "text": "5 Rupees"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 207929,
+        "title": "5 Rupees",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "pakistan",
+          "name": "Pakistan"
+        },
+        "min_year": 2008,
+        "max_year": 2010,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pakistan/623b640bae7c70.95030430-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pakistan/623b640c2304e8.99619592-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 208371,
+      "title": "10 Rupees (Urdu text “Type B”)",
+      "issuer": {
+        "code": "pakistan",
+        "name": "Pakistan"
+      },
+      "min_year": 1978,
+      "max_year": 2006,
+      "face": {
+        "value": 10,
+        "unit": "Rupees",
+        "text": "10 Rupees"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 208371,
+        "title": "10 Rupees (Urdu text “Type B”)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "pakistan",
+          "name": "Pakistan"
+        },
+        "min_year": 1978,
+        "max_year": 2006,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pakistan/65d8969ec25fc2.74189533-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pakistan/65d896a13c0726.95470268-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 208374,
+      "title": "5 Rupees (Urdu text “Type B”)",
+      "issuer": {
+        "code": "pakistan",
+        "name": "Pakistan"
+      },
+      "min_year": 1984,
+      "max_year": 2005,
+      "face": {
+        "value": 5,
+        "unit": "Rupees",
+        "text": "5 Rupees"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 208374,
+        "title": "5 Rupees (Urdu text “Type B”)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "pakistan",
+          "name": "Pakistan"
+        },
+        "min_year": 1984,
+        "max_year": 2005,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pakistan/626b82c63d6215.52169141-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pakistan/626b82c6e14046.76358007-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 210860,
+      "title": "100 Rupees",
+      "issuer": {
+        "code": "pakistan",
+        "name": "Pakistan"
+      },
+      "min_year": 2006,
+      "max_year": 2026,
+      "face": {
+        "value": 100,
+        "unit": "Rupees",
+        "text": "100 Rupees"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 210860,
+        "title": "100 Rupees",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "pakistan",
+          "name": "Pakistan"
+        },
+        "min_year": 2006,
+        "max_year": 2026,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pakistan/63c4fea0cc5490.75101443-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pakistan/63c4fea1e3e555.72825111-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 210863,
+      "title": "500 Rupees (with flag)",
+      "issuer": {
+        "code": "pakistan",
+        "name": "Pakistan"
+      },
+      "min_year": 2009,
+      "max_year": 2026,
+      "face": {
+        "value": 500,
+        "unit": "Rupees",
+        "text": "500 Rupees"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 210863,
+        "title": "500 Rupees (with flag)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "pakistan",
+          "name": "Pakistan"
+        },
+        "min_year": 2009,
+        "max_year": 2026,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pakistan/636e61e17a6836.79164004-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pakistan/636e61e2d5b2b7.42325365-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 210867,
+      "title": "1000 Rupees",
+      "issuer": {
+        "code": "pakistan",
+        "name": "Pakistan"
+      },
+      "min_year": 2006,
+      "max_year": 2026,
+      "face": {
+        "value": 1000,
+        "unit": "Rupees",
+        "text": "1000 Rupees"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 210867,
+        "title": "1000 Rupees",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "pakistan",
+          "name": "Pakistan"
+        },
+        "min_year": 2006,
+        "max_year": 2026,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pakistan/630dbf0c5e37a1.87247404-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pakistan/630dbf0cdf8a18.73823660-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 211151,
+      "title": "1 Rupee (Brown type)",
+      "issuer": {
+        "code": "pakistan",
+        "name": "Pakistan"
+      },
+      "min_year": 1972,
+      "max_year": 1977,
+      "face": {
+        "value": 1,
+        "unit": "Rupee",
+        "text": "1 Rupee"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 211151,
+        "title": "1 Rupee (Brown type)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "pakistan",
+          "name": "Pakistan"
+        },
+        "min_year": 1972,
+        "max_year": 1977,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pakistan/65d88c1d0b5d48.99545660-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pakistan/65d88c1e876528.66194159-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 211156,
+      "title": "10 Rupees",
+      "issuer": {
+        "code": "pakistan",
+        "name": "Pakistan"
+      },
+      "min_year": 1971,
+      "max_year": 1975,
+      "face": {
+        "value": 10,
+        "unit": "Rupees",
+        "text": "10 Rupees"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 211156,
+        "title": "10 Rupees",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "pakistan",
+          "name": "Pakistan"
+        },
+        "min_year": 1971,
+        "max_year": 1975,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pakistan/65d88d52b98873.83371986-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pakistan/65d88d550e4d06.09142345-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 211571,
+      "title": "20 Rupees",
+      "issuer": {
+        "code": "pakistan",
+        "name": "Pakistan"
+      },
+      "min_year": 2007,
+      "max_year": 2026,
+      "face": {
+        "value": 20,
+        "unit": "Rupees",
+        "text": "20 Rupees"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 211571,
+        "title": "20 Rupees",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "pakistan",
+          "name": "Pakistan"
+        },
+        "min_year": 2007,
+        "max_year": 2026,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pakistan/637c906b703f96.63490282-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pakistan/637c906ca60e66.53394843-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 211850,
+      "title": "5 Rupees",
+      "issuer": {
+        "code": "pakistan",
+        "name": "Pakistan"
+      },
+      "min_year": 1966,
+      "max_year": 1971,
+      "face": {
+        "value": 5,
+        "unit": "Rupees",
+        "text": "5 Rupees"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 211850,
+        "title": "5 Rupees",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "pakistan",
+          "name": "Pakistan"
+        },
+        "min_year": 1966,
+        "max_year": 1971,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pakistan/5f5246dcced986.59754035-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pakistan/5f5246de017035.31516275-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 211922,
+      "title": "100 Rupees (Urdu text “Type B”)",
+      "issuer": {
+        "code": "pakistan",
+        "name": "Pakistan"
+      },
+      "min_year": 1986,
+      "max_year": 2009,
+      "face": {
+        "value": 100,
+        "unit": "Rupees",
+        "text": "100 Rupees"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 211922,
+        "title": "100 Rupees (Urdu text “Type B”)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "pakistan",
+          "name": "Pakistan"
+        },
+        "min_year": 1986,
+        "max_year": 2009,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pakistan/62f180f79bb543.78908155-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pakistan/62f180f88daa61.53253996-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 212226,
+      "title": "1 Rupee",
+      "issuer": {
+        "code": "pakistan",
+        "name": "Pakistan"
+      },
+      "min_year": 1964,
+      "max_year": 1972,
+      "face": {
+        "value": 1,
+        "unit": "Rupee",
+        "text": "1 Rupee"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 212226,
+        "title": "1 Rupee",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "pakistan",
+          "name": "Pakistan"
+        },
+        "min_year": 1964,
+        "max_year": 1972,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pakistan/6838e5b4dbf3d2.64448847-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pakistan/6838e5b5c35568.41449029-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 212507,
+      "title": "5 Rupees (Golden Jubilee of Independence)",
+      "issuer": {
+        "code": "pakistan",
+        "name": "Pakistan"
+      },
+      "min_year": 1997,
+      "max_year": 1997,
+      "face": {
+        "value": 5,
+        "unit": "Rupees",
+        "text": "5 Rupees"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 212507,
+        "title": "5 Rupees (Golden Jubilee of Independence)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "pakistan",
+          "name": "Pakistan"
+        },
+        "min_year": 1997,
+        "max_year": 1997,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pakistan/5eb314a32a9e12.65755084-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pakistan/5eb314a361f5d1.70044912-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 213187,
+      "title": "1 Rupee",
+      "issuer": {
+        "code": "pakistan",
+        "name": "Pakistan"
+      },
+      "min_year": 1975,
+      "max_year": 1981,
+      "face": {
+        "value": 1,
+        "unit": "Rupee",
+        "text": "1 Rupee"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 213187,
+        "title": "1 Rupee",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "pakistan",
+          "name": "Pakistan"
+        },
+        "min_year": 1975,
+        "max_year": 1981,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pakistan/62ffbd6d2ad316.86134526-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pakistan/62ffbd6dc48604.41305845-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 213193,
+      "title": "50 Rupees (Urdu text “Type B”)",
+      "issuer": {
+        "code": "pakistan",
+        "name": "Pakistan"
+      },
+      "min_year": 1986,
+      "max_year": 2009,
+      "face": {
+        "value": 50,
+        "unit": "Rupees",
+        "text": "50 Rupees"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 213193,
+        "title": "50 Rupees (Urdu text “Type B”)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "pakistan",
+          "name": "Pakistan"
+        },
+        "min_year": 1986,
+        "max_year": 2009,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pakistan/62f16fa7775102.09609119-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pakistan/62f16fa84ef561.66352965-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 214005,
+      "title": "500 Rupees",
+      "issuer": {
+        "code": "pakistan",
+        "name": "Pakistan"
+      },
+      "min_year": 1986,
+      "max_year": 2006,
+      "face": {
+        "value": 500,
+        "unit": "Rupees",
+        "text": "500 Rupees"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 214005,
+        "title": "500 Rupees",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "pakistan",
+          "name": "Pakistan"
+        },
+        "min_year": 1986,
+        "max_year": 2006,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pakistan/66dfd21dbf8de7.42582644-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pakistan/66dfd2254185a9.55149307-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 214012,
+      "title": "10 Rupees (without Urdu text on reverse)",
+      "issuer": {
+        "code": "pakistan",
+        "name": "Pakistan"
+      },
+      "min_year": 1975,
+      "max_year": 1982,
+      "face": {
+        "value": 10,
+        "unit": "Rupees",
+        "text": "10 Rupees"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 214012,
+        "title": "10 Rupees (without Urdu text on reverse)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "pakistan",
+          "name": "Pakistan"
+        },
+        "min_year": 1975,
+        "max_year": 1982,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pakistan/65d897d76d0d23.59820383-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pakistan/65d897d9c45ee9.10646690-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 224293,
+      "title": "50 Rupees (without Urdu text on reverse)",
+      "issuer": {
+        "code": "pakistan",
+        "name": "Pakistan"
+      },
+      "min_year": 1975,
+      "max_year": 1982,
+      "face": {
+        "value": 50,
+        "unit": "Rupees",
+        "text": "50 Rupees"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 224293,
+        "title": "50 Rupees (without Urdu text on reverse)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "pakistan",
+          "name": "Pakistan"
+        },
+        "min_year": 1975,
+        "max_year": 1982,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pakistan/65d89b967e1218.63800754-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pakistan/65d89b995f4044.56479695-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 224294,
+      "title": "10 Rupees (Urdu text “Type A”)",
+      "issuer": {
+        "code": "pakistan",
+        "name": "Pakistan"
+      },
+      "min_year": 1982,
+      "max_year": 1984,
+      "face": {
+        "value": 10,
+        "unit": "Rupees",
+        "text": "10 Rupees"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 224294,
+        "title": "10 Rupees (Urdu text “Type A”)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "pakistan",
+          "name": "Pakistan"
+        },
+        "min_year": 1982,
+        "max_year": 1984,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pakistan/6a739c0047d6e1.07774072-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pakistan/6a739c01a55336.20462532-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 224295,
+      "title": "5 Rupees (Urdu text “Type A”)",
+      "issuer": {
+        "code": "pakistan",
+        "name": "Pakistan"
+      },
+      "min_year": 1982,
+      "max_year": 1984,
+      "face": {
+        "value": 5,
+        "unit": "Rupees",
+        "text": "5 Rupees"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 224295,
+        "title": "5 Rupees (Urdu text “Type A”)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "pakistan",
+          "name": "Pakistan"
+        },
+        "min_year": 1982,
+        "max_year": 1984,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pakistan/65d89ddddb4f09.14055741-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pakistan/65d89dde3ed9d2.86127566-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 224296,
+      "title": "5 Rupees (without Urdu text on reverse)",
+      "issuer": {
+        "code": "pakistan",
+        "name": "Pakistan"
+      },
+      "min_year": 1975,
+      "max_year": 1982,
+      "face": {
+        "value": 5,
+        "unit": "Rupees",
+        "text": "5 Rupees"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 224296,
+        "title": "5 Rupees (without Urdu text on reverse)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "pakistan",
+          "name": "Pakistan"
+        },
+        "min_year": 1975,
+        "max_year": 1982,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pakistan/65d8c083b96384.95061240-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pakistan/65d8c085bef730.97662022-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 225727,
+      "title": "5 Rupees",
+      "issuer": {
+        "code": "pakistan",
+        "name": "Pakistan"
+      },
+      "min_year": 1951,
+      "max_year": 1967,
+      "face": {
+        "value": 5,
+        "unit": "Rupees",
+        "text": "5 Rupees"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 225727,
+        "title": "5 Rupees",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "pakistan",
+          "name": "Pakistan"
+        },
+        "min_year": 1951,
+        "max_year": 1967,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pakistan/66e5e324786936.65953653-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pakistan/66e5e325214d66.81690026-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 225873,
+      "title": "10 Rupees Haj issue",
+      "issuer": {
+        "code": "pakistan",
+        "name": "Pakistan"
+      },
+      "min_year": 1982,
+      "max_year": 1982,
+      "face": {
+        "value": 10,
+        "unit": "Rupees Haj issue",
+        "text": "10 Rupees Haj issue"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 225873,
+        "title": "10 Rupees Haj issue",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "pakistan",
+          "name": "Pakistan"
+        },
+        "min_year": 1982,
+        "max_year": 1982,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pakistan/5f05b58412e7e1.92609282-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pakistan/5f05b5852e0839.48554096-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 225893,
+      "title": "100 Rupees",
+      "issuer": {
+        "code": "pakistan",
+        "name": "Pakistan"
+      },
+      "min_year": 1957,
+      "max_year": 1971,
+      "face": {
+        "value": 100,
+        "unit": "Rupees",
+        "text": "100 Rupees"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 225893,
+        "title": "100 Rupees",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "pakistan",
+          "name": "Pakistan"
+        },
+        "min_year": 1957,
+        "max_year": 1971,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pakistan/60a3276f625e96.71468506-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pakistan/60a32771cd78a8.01459993-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 226982,
+      "title": "1000 Rupees",
+      "issuer": {
+        "code": "pakistan",
+        "name": "Pakistan"
+      },
+      "min_year": 1986,
+      "max_year": 2006,
+      "face": {
+        "value": 1000,
+        "unit": "Rupees",
+        "text": "1000 Rupees"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 226982,
+        "title": "1000 Rupees",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "pakistan",
+          "name": "Pakistan"
+        },
+        "min_year": 1986,
+        "max_year": 2006,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pakistan/6847716389d373.32939776-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pakistan/684771642887c8.61816931-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 226983,
+      "title": "50 Rupees",
+      "issuer": {
+        "code": "pakistan",
+        "name": "Pakistan"
+      },
+      "min_year": 1960,
+      "max_year": 1971,
+      "face": {
+        "value": 50,
+        "unit": "Rupees",
+        "text": "50 Rupees"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 226983,
+        "title": "50 Rupees",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "pakistan",
+          "name": "Pakistan"
+        },
+        "min_year": 1960,
+        "max_year": 1971,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pakistan/683c322f812872.80571024-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pakistan/683c3230772ec8.20474477-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 232584,
+      "title": "10 Rupee (Haj issue)",
+      "issuer": {
+        "code": "pakistan",
+        "name": "Pakistan"
+      },
+      "min_year": 1972,
+      "max_year": 1972,
+      "face": {
+        "value": 10,
+        "unit": "Rupee",
+        "text": "10 Rupee"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 232584,
+        "title": "10 Rupee (Haj issue)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "pakistan",
+          "name": "Pakistan"
+        },
+        "min_year": 1972,
+        "max_year": 1972,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pakistan/6ae0ea873e8961.12923110-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pakistan/6ae0ea898b4148.45358152-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 232588,
+      "title": "1 Rupee (Blue reverse)",
+      "issuer": {
+        "code": "pakistan",
+        "name": "Pakistan"
+      },
+      "min_year": 1953,
+      "max_year": 1961,
+      "face": {
+        "value": 1,
+        "unit": "Rupee",
+        "text": "1 Rupee"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 232588,
+        "title": "1 Rupee (Blue reverse)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "pakistan",
+          "name": "Pakistan"
+        },
+        "min_year": 1953,
+        "max_year": 1961,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pakistan/5f3774144cf5a7.74698479-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pakistan/5f377414b8fd47.27524056-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 232591,
+      "title": "10 Rupees",
+      "issuer": {
+        "code": "pakistan",
+        "name": "Pakistan"
+      },
+      "min_year": 1970,
+      "max_year": 1971,
+      "face": {
+        "value": 10,
+        "unit": "Rupees",
+        "text": "10 Rupees"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 232591,
+        "title": "10 Rupees",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "pakistan",
+          "name": "Pakistan"
+        },
+        "min_year": 1970,
+        "max_year": 1971,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pakistan/5f378811f1ebf4.73830770-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pakistan/5f378813659302.30338378-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 232601,
+      "title": "100 Rupees",
+      "issuer": {
+        "code": "pakistan",
+        "name": "Pakistan"
+      },
+      "min_year": 1971,
+      "max_year": 1978,
+      "face": {
+        "value": 100,
+        "unit": "Rupees",
+        "text": "100 Rupees"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 232601,
+        "title": "100 Rupees",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "pakistan",
+          "name": "Pakistan"
+        },
+        "min_year": 1971,
+        "max_year": 1978,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pakistan/636e62d7d87255.95802828-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pakistan/636e62d9e1aff8.56309663-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 232605,
+      "title": "500 Rupees",
+      "issuer": {
+        "code": "pakistan",
+        "name": "Pakistan"
+      },
+      "min_year": 1964,
+      "max_year": 1971,
+      "face": {
+        "value": 500,
+        "unit": "Rupees",
+        "text": "500 Rupees"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 232605,
+        "title": "500 Rupees",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "pakistan",
+          "name": "Pakistan"
+        },
+        "min_year": 1964,
+        "max_year": 1971,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pakistan/5f37b131845386.20395563-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pakistan/5f37b133ace978.68919470-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 232617,
+      "title": "50 Rupees (Urdu text “Type A”)",
+      "issuer": {
+        "code": "pakistan",
+        "name": "Pakistan"
+      },
+      "min_year": 1982,
+      "max_year": 1984,
+      "face": {
+        "value": 50,
+        "unit": "Rupees",
+        "text": "50 Rupees"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 232617,
+        "title": "50 Rupees (Urdu text “Type A”)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "pakistan",
+          "name": "Pakistan"
+        },
+        "min_year": 1982,
+        "max_year": 1984,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pakistan/6a6e41712be9f5.82394264-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pakistan/6a6e4172d2a078.85272378-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 232636,
+      "title": "50 Rupees",
+      "issuer": {
+        "code": "pakistan",
+        "name": "Pakistan"
+      },
+      "min_year": 1972,
+      "max_year": 1977,
+      "face": {
+        "value": 50,
+        "unit": "Rupees",
+        "text": "50 Rupees"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 232636,
+        "title": "50 Rupees",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "pakistan",
+          "name": "Pakistan"
+        },
+        "min_year": 1972,
+        "max_year": 1977,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pakistan/6adc1ae27adea9.42400892-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pakistan/6adc1ae43452e0.14860653-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 232682,
+      "title": "1 Rupee (latent Urdu text in lower border)",
+      "issuer": {
+        "code": "pakistan",
+        "name": "Pakistan"
+      },
+      "min_year": 1974,
+      "max_year": 1974,
+      "face": {
+        "value": 1,
+        "unit": "Rupee",
+        "text": "1 Rupee"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 232682,
+        "title": "1 Rupee (latent Urdu text in lower border)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "pakistan",
+          "name": "Pakistan"
+        },
+        "min_year": 1974,
+        "max_year": 1974,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pakistan/6848d9ebba34e7.17529557-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pakistan/6848d9ec30de05.24031818-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 232908,
+      "title": "10 Rupees (Haj Note)",
+      "issuer": {
+        "code": "pakistan",
+        "name": "Pakistan"
+      },
+      "min_year": 1948,
+      "max_year": 1971,
+      "face": {
+        "value": 10,
+        "unit": "Rupees",
+        "text": "10 Rupees"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 232908,
+        "title": "10 Rupees (Haj Note)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "pakistan",
+          "name": "Pakistan"
+        },
+        "min_year": 1948,
+        "max_year": 1971,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pakistan/5fc4b32d29b254.93977400-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pakistan/5fc4b32d6e6904.60371788-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 232911,
+      "title": "10 Rupees (Haj Note)",
+      "issuer": {
+        "code": "pakistan",
+        "name": "Pakistan"
+      },
+      "min_year": 1967,
+      "max_year": 1971,
+      "face": {
+        "value": 10,
+        "unit": "Rupees",
+        "text": "10 Rupees"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 232911,
+        "title": "10 Rupees (Haj Note)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "pakistan",
+          "name": "Pakistan"
+        },
+        "min_year": 1967,
+        "max_year": 1971,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pakistan/5f54c0bd84e4d6.27402662-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pakistan/5f54c0bdf12a90.57965630-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 232912,
+      "title": "100 Rupees (Haj Note)",
+      "issuer": {
+        "code": "pakistan",
+        "name": "Pakistan"
+      },
+      "min_year": 1972,
+      "max_year": 1972,
+      "face": {
+        "value": 100,
+        "unit": "Rupees",
+        "text": "100 Rupees"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 232912,
+        "title": "100 Rupees (Haj Note)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "pakistan",
+          "name": "Pakistan"
+        },
+        "min_year": 1972,
+        "max_year": 1972,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pakistan/5f3a6cd608cbf5.96147302-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pakistan/5f3a6cd71e32f8.21064466-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 232919,
+      "title": "100 Rupees (Haj Note)",
+      "issuer": {
+        "code": "pakistan",
+        "name": "Pakistan"
+      },
+      "min_year": 1975,
+      "max_year": 1982,
+      "face": {
+        "value": 100,
+        "unit": "Rupees",
+        "text": "100 Rupees"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 232919,
+        "title": "100 Rupees (Haj Note)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "pakistan",
+          "name": "Pakistan"
+        },
+        "min_year": 1975,
+        "max_year": 1982,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pakistan/6ae0ef9f408011.43713331-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pakistan/6ae0efa566a427.57435588-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 235877,
+      "title": "100 Rupees (without Urdu text on reverse)",
+      "issuer": {
+        "code": "pakistan",
+        "name": "Pakistan"
+      },
+      "min_year": 1976,
+      "max_year": 1983,
+      "face": {
+        "value": 100,
+        "unit": "Rupees",
+        "text": "100 Rupees"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 235877,
+        "title": "100 Rupees (without Urdu text on reverse)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "pakistan",
+          "name": "Pakistan"
+        },
+        "min_year": 1976,
+        "max_year": 1983,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pakistan/691d44e7562c12.91093638-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pakistan/691d44ed7cf8d3.28922045-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 235879,
+      "title": "100 Rupees (Urdu text “Type A”)",
+      "issuer": {
+        "code": "pakistan",
+        "name": "Pakistan"
+      },
+      "min_year": 1982,
+      "max_year": 1984,
+      "face": {
+        "value": 100,
+        "unit": "Rupees",
+        "text": "100 Rupees"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 235879,
+        "title": "100 Rupees (Urdu text “Type A”)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "pakistan",
+          "name": "Pakistan"
+        },
+        "min_year": 1982,
+        "max_year": 1984,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pakistan/6a6e3f102fb568.48750603-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pakistan/6a6e3f11436839.62711577-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 337073,
+      "title": "75 Rupees (Independence)",
+      "issuer": {
+        "code": "pakistan",
+        "name": "Pakistan"
+      },
+      "min_year": 2022,
+      "max_year": 2022,
+      "face": {
+        "value": 75,
+        "unit": "Rupees",
+        "text": "75 Rupees"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 337073,
+        "title": "75 Rupees (Independence)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "pakistan",
+          "name": "Pakistan"
+        },
+        "min_year": 2022,
+        "max_year": 2022,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pakistan/637bbe799c8489.26422552-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pakistan/637bbe7a6d6851.32455483-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 370853,
+      "title": "75 Rupees (State Bank of Pakistan)",
+      "issuer": {
+        "code": "pakistan",
+        "name": "Pakistan"
+      },
+      "min_year": 2023,
+      "max_year": 2023,
+      "face": {
+        "value": 75,
+        "unit": "Rupees",
+        "text": "75 Rupees"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 370853,
+        "title": "75 Rupees (State Bank of Pakistan)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "pakistan",
+          "name": "Pakistan"
+        },
+        "min_year": 2023,
+        "max_year": 2023,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pakistan/64d123c78c10f8.39001592-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pakistan/64d123c8d246e1.73170689-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 375904,
+      "title": "500 Rupees (without flag)",
+      "issuer": {
+        "code": "pakistan",
+        "name": "Pakistan"
+      },
+      "min_year": 2006,
+      "max_year": 2008,
+      "face": {
+        "value": 500,
+        "unit": "Rupees",
+        "text": "500 Rupees"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 375904,
+        "title": "500 Rupees (without flag)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "pakistan",
+          "name": "Pakistan"
+        },
+        "min_year": 2006,
+        "max_year": 2008,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pakistan/64e657ed8cb009.23743222-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pakistan/64e657edd7e015.06965530-180.jpg",
+        "category": "banknote"
+      }
+    }
+  ]
+}

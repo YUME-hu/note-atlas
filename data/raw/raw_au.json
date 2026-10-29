@@ -1,0 +1,1246 @@
+{
+  "meta": {
+    "generated_at": "2026-10-29T13:28:00.649Z",
+    "fixture": false,
+    "api": "numista v3",
+    "issuer": "australie",
+    "iso": "AU",
+    "category": "banknote",
+    "lang": "en",
+    "since": 1960,
+    "listed": 65,
+    "fetched": 33,
+    "details_fetched": 0,
+    "dropped_before_since": 32,
+    "dropped_by_source": {
+      "list": 32,
+      "detail": 0
+    },
+    "issuer_mismatches": 0,
+    "pages": 2,
+    "requests": 0
+  },
+  "types": [
+    {
+      "numista_type_id": 202026,
+      "title": "5 Dollars - Elizabeth II",
+      "issuer": {
+        "code": "australie",
+        "name": "Australia"
+      },
+      "min_year": 2016,
+      "max_year": 2021,
+      "face": {
+        "value": 5,
+        "unit": "Dollars",
+        "text": "5 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202026,
+        "title": "5 Dollars - Elizabeth II",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "australie",
+          "name": "Australia"
+        },
+        "min_year": 2016,
+        "max_year": 2021,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/australie/64de5cf08fdf39.36370719-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/australie/64de5cf1bf59a7.12246953-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202357,
+      "title": "10 Shillings (Commonwealth Bank)",
+      "issuer": {
+        "code": "australie",
+        "name": "Australia"
+      },
+      "min_year": 1954,
+      "max_year": 1960,
+      "face": {
+        "value": 10,
+        "unit": "Shillings",
+        "text": "10 Shillings"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202357,
+        "title": "10 Shillings (Commonwealth Bank)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "australie",
+          "name": "Australia"
+        },
+        "min_year": 1954,
+        "max_year": 1960,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/australie/67eac4ad42a7f0.72837465-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/australie/67eac4b2533db8.31731345-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202358,
+      "title": "10 Shillings (Reserve Bank)",
+      "issuer": {
+        "code": "australie",
+        "name": "Australia"
+      },
+      "min_year": 1961,
+      "max_year": 1965,
+      "face": {
+        "value": 10,
+        "unit": "Shillings",
+        "text": "10 Shillings"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202358,
+        "title": "10 Shillings (Reserve Bank)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "australie",
+          "name": "Australia"
+        },
+        "min_year": 1961,
+        "max_year": 1965,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/australie/5ec15acd1a0fa4.68994226-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/australie/5ec15acd864df5.59998294-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202360,
+      "title": "1 Pound - Elizabeth II (Reserve Bank)",
+      "issuer": {
+        "code": "australie",
+        "name": "Australia"
+      },
+      "min_year": 1961,
+      "max_year": 1965,
+      "face": {
+        "value": 1,
+        "unit": "Pound",
+        "text": "1 Pound"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202360,
+        "title": "1 Pound - Elizabeth II (Reserve Bank)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "australie",
+          "name": "Australia"
+        },
+        "min_year": 1961,
+        "max_year": 1965,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/australie/5e99f912c6e267.76240476-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/australie/5e99f913131217.42367556-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202361,
+      "title": "1 Pound - Elizabeth II (Commonwealth Bank)",
+      "issuer": {
+        "code": "australie",
+        "name": "Australia"
+      },
+      "min_year": 1953,
+      "max_year": 1960,
+      "face": {
+        "value": 1,
+        "unit": "Pound",
+        "text": "1 Pound"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202361,
+        "title": "1 Pound - Elizabeth II (Commonwealth Bank)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "australie",
+          "name": "Australia"
+        },
+        "min_year": 1953,
+        "max_year": 1960,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/australie/5ea82a9bce3273.85537029-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/australie/5ea82a9dafe6b1.52931772-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202364,
+      "title": "5 Pounds (Reserve Bank)",
+      "issuer": {
+        "code": "australie",
+        "name": "Australia"
+      },
+      "min_year": 1960,
+      "max_year": 1965,
+      "face": {
+        "value": 5,
+        "unit": "Pounds",
+        "text": "5 Pounds"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202364,
+        "title": "5 Pounds (Reserve Bank)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "australie",
+          "name": "Australia"
+        },
+        "min_year": 1960,
+        "max_year": 1965,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/australie/5ea9789268bc65.42973520-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/australie/5ea97894e02334.59455478-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202366,
+      "title": "10 Pounds (Reserve Bank)",
+      "issuer": {
+        "code": "australie",
+        "name": "Australia"
+      },
+      "min_year": 1960,
+      "max_year": 1965,
+      "face": {
+        "value": 10,
+        "unit": "Pounds",
+        "text": "10 Pounds"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202366,
+        "title": "10 Pounds (Reserve Bank)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "australie",
+          "name": "Australia"
+        },
+        "min_year": 1960,
+        "max_year": 1965,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/australie/5e9eab27602487.77169644-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/australie/5e9eab29d49604.57404850-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202367,
+      "title": "10 Pounds (Commonwealth Bank)",
+      "issuer": {
+        "code": "australie",
+        "name": "Australia"
+      },
+      "min_year": 1954,
+      "max_year": 1960,
+      "face": {
+        "value": 10,
+        "unit": "Pounds",
+        "text": "10 Pounds"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202367,
+        "title": "10 Pounds (Commonwealth Bank)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "australie",
+          "name": "Australia"
+        },
+        "min_year": 1954,
+        "max_year": 1960,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/australie/5e9ea4b15eb393.14148700-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/australie/5e9ea4b383f542.62383094-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202368,
+      "title": "2 Dollars (Commonwealth of Australia)",
+      "issuer": {
+        "code": "australie",
+        "name": "Australia"
+      },
+      "min_year": 1966,
+      "max_year": 1973,
+      "face": {
+        "value": 2,
+        "unit": "Dollars",
+        "text": "2 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202368,
+        "title": "2 Dollars (Commonwealth of Australia)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "australie",
+          "name": "Australia"
+        },
+        "min_year": 1966,
+        "max_year": 1973,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/australie/65ac5bd50fa460.82409542-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/australie/65ac5bd611d303.03924294-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202380,
+      "title": "1 Dollar (Commonwealth of Australia)",
+      "issuer": {
+        "code": "australie",
+        "name": "Australia"
+      },
+      "min_year": 1966,
+      "max_year": 1973,
+      "face": {
+        "value": 1,
+        "unit": "Dollar",
+        "text": "1 Dollar"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202380,
+        "title": "1 Dollar (Commonwealth of Australia)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "australie",
+          "name": "Australia"
+        },
+        "min_year": 1966,
+        "max_year": 1973,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/australie/5e9bac5accce82.56271960-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/australie/5e9bac5c8aab58.70771382-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202381,
+      "title": "1 Dollar - Elizabeth II (Australia)",
+      "issuer": {
+        "code": "australie",
+        "name": "Australia"
+      },
+      "min_year": 1974,
+      "max_year": 1984,
+      "face": {
+        "value": 1,
+        "unit": "Dollar",
+        "text": "1 Dollar"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202381,
+        "title": "1 Dollar - Elizabeth II (Australia)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "australie",
+          "name": "Australia"
+        },
+        "min_year": 1974,
+        "max_year": 1984,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/australie/63f62fce7d1358.58957145-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/australie/63f62fd1a66d79.74858180-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202384,
+      "title": "2 Dollars (Australia)",
+      "issuer": {
+        "code": "australie",
+        "name": "Australia"
+      },
+      "min_year": 1974,
+      "max_year": 1985,
+      "face": {
+        "value": 2,
+        "unit": "Dollars",
+        "text": "2 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202384,
+        "title": "2 Dollars (Australia)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "australie",
+          "name": "Australia"
+        },
+        "min_year": 1974,
+        "max_year": 1985,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/australie/63f63002b5b154.23870163-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/australie/63f63005c53600.35305335-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202387,
+      "title": "5 Dollars (Commonwealth of Australia)",
+      "issuer": {
+        "code": "australie",
+        "name": "Australia"
+      },
+      "min_year": 1967,
+      "max_year": 1972,
+      "face": {
+        "value": 5,
+        "unit": "Dollars",
+        "text": "5 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202387,
+        "title": "5 Dollars (Commonwealth of Australia)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "australie",
+          "name": "Australia"
+        },
+        "min_year": 1967,
+        "max_year": 1972,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/australie/5e9faca8687fc6.24364679-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/australie/5e9faca8b414c8.48797987-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202388,
+      "title": "5 Dollars (Australia)",
+      "issuer": {
+        "code": "australie",
+        "name": "Australia"
+      },
+      "min_year": 1974,
+      "max_year": 1991,
+      "face": {
+        "value": 5,
+        "unit": "Dollars",
+        "text": "5 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202388,
+        "title": "5 Dollars (Australia)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "australie",
+          "name": "Australia"
+        },
+        "min_year": 1974,
+        "max_year": 1991,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/australie/623896ad5631d7.51145287-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/australie/623896ae355aa7.48093184-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202390,
+      "title": "10 Dollars (Australia)",
+      "issuer": {
+        "code": "australie",
+        "name": "Australia"
+      },
+      "min_year": 1974,
+      "max_year": 1991,
+      "face": {
+        "value": 10,
+        "unit": "Dollars",
+        "text": "10 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202390,
+        "title": "10 Dollars (Australia)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "australie",
+          "name": "Australia"
+        },
+        "min_year": 1974,
+        "max_year": 1991,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/australie/61ccd2b276bf78.05460687-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/australie/61ccd2b2e5d2f7.47048408-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202392,
+      "title": "10 Dollars (Commonwealth of Australia)",
+      "issuer": {
+        "code": "australie",
+        "name": "Australia"
+      },
+      "min_year": 1966,
+      "max_year": 1972,
+      "face": {
+        "value": 10,
+        "unit": "Dollars",
+        "text": "10 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202392,
+        "title": "10 Dollars (Commonwealth of Australia)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "australie",
+          "name": "Australia"
+        },
+        "min_year": 1966,
+        "max_year": 1972,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/australie/5ea51a55e75e34.11381614-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/australie/5ea51a579d1a05.67196551-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202393,
+      "title": "20 Dollars (Commonwealth of Australia)",
+      "issuer": {
+        "code": "australie",
+        "name": "Australia"
+      },
+      "min_year": 1966,
+      "max_year": 1973,
+      "face": {
+        "value": 20,
+        "unit": "Dollars",
+        "text": "20 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202393,
+        "title": "20 Dollars (Commonwealth of Australia)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "australie",
+          "name": "Australia"
+        },
+        "min_year": 1966,
+        "max_year": 1973,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/australie/5ea12a6bd8ab57.23530415-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/australie/5ea12a6da86c40.17652945-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202395,
+      "title": "20 Dollars (Australia)",
+      "issuer": {
+        "code": "australie",
+        "name": "Australia"
+      },
+      "min_year": 1974,
+      "max_year": 1994,
+      "face": {
+        "value": 20,
+        "unit": "Dollars",
+        "text": "20 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202395,
+        "title": "20 Dollars (Australia)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "australie",
+          "name": "Australia"
+        },
+        "min_year": 1974,
+        "max_year": 1994,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/australie/63f6318aa15eb3.36320038-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/australie/63f6318da15d88.07735787-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202399,
+      "title": "50 Dollars",
+      "issuer": {
+        "code": "australie",
+        "name": "Australia"
+      },
+      "min_year": 1973,
+      "max_year": 1994,
+      "face": {
+        "value": 50,
+        "unit": "Dollars",
+        "text": "50 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202399,
+        "title": "50 Dollars",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "australie",
+          "name": "Australia"
+        },
+        "min_year": 1973,
+        "max_year": 1994,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/australie/67a20724651b82.44669422-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/australie/67a20726098a75.67325270-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202402,
+      "title": "100 Dollars",
+      "issuer": {
+        "code": "australie",
+        "name": "Australia"
+      },
+      "min_year": 1984,
+      "max_year": 1996,
+      "face": {
+        "value": 100,
+        "unit": "Dollars",
+        "text": "100 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202402,
+        "title": "100 Dollars",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "australie",
+          "name": "Australia"
+        },
+        "min_year": 1984,
+        "max_year": 1996,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/australie/65960bbad1d146.39959760-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/australie/65960bbb6f5502.11307661-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202727,
+      "title": "5 Dollars - Elizabeth II (pale)",
+      "issuer": {
+        "code": "australie",
+        "name": "Australia"
+      },
+      "min_year": 1992,
+      "max_year": 1994,
+      "face": {
+        "value": 5,
+        "unit": "Dollars",
+        "text": "5 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202727,
+        "title": "5 Dollars - Elizabeth II (pale)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "australie",
+          "name": "Australia"
+        },
+        "min_year": 1992,
+        "max_year": 1994,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/australie/699887a88aff75.29644751-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/australie/699887aa1b3606.70523122-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202731,
+      "title": "5 Dollars - Elizabeth II",
+      "issuer": {
+        "code": "australie",
+        "name": "Australia"
+      },
+      "min_year": 1995,
+      "max_year": 2015,
+      "face": {
+        "value": 5,
+        "unit": "Dollars",
+        "text": "5 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202731,
+        "title": "5 Dollars - Elizabeth II",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "australie",
+          "name": "Australia"
+        },
+        "min_year": 1995,
+        "max_year": 2015,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/australie/62caa4ae4e8e11.30542156-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/australie/62caa4aeec5172.06465327-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202857,
+      "title": "10 Dollars",
+      "issuer": {
+        "code": "australie",
+        "name": "Australia"
+      },
+      "min_year": 1993,
+      "max_year": 2015,
+      "face": {
+        "value": 10,
+        "unit": "Dollars",
+        "text": "10 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202857,
+        "title": "10 Dollars",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "australie",
+          "name": "Australia"
+        },
+        "min_year": 1993,
+        "max_year": 2015,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/australie/63f630d1f09a82.89883633-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/australie/63f630d5af4e98.91877378-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202860,
+      "title": "10 Dollars",
+      "issuer": {
+        "code": "australie",
+        "name": "Australia"
+      },
+      "min_year": 2017,
+      "max_year": 2017,
+      "face": {
+        "value": 10,
+        "unit": "Dollars",
+        "text": "10 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202860,
+        "title": "10 Dollars",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "australie",
+          "name": "Australia"
+        },
+        "min_year": 2017,
+        "max_year": 2017,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/australie/64df38f97e04d8.27562042-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/australie/64df38faa7b6f6.36487394-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202864,
+      "title": "20 Dollars",
+      "issuer": {
+        "code": "australie",
+        "name": "Australia"
+      },
+      "min_year": 1994,
+      "max_year": 2013,
+      "face": {
+        "value": 20,
+        "unit": "Dollars",
+        "text": "20 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202864,
+        "title": "20 Dollars",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "australie",
+          "name": "Australia"
+        },
+        "min_year": 1994,
+        "max_year": 2013,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/australie/63f6310d440324.49306179-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/australie/63f63110d42532.60619109-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202865,
+      "title": "20 Dollars",
+      "issuer": {
+        "code": "australie",
+        "name": "Australia"
+      },
+      "min_year": 2019,
+      "max_year": 2022,
+      "face": {
+        "value": 20,
+        "unit": "Dollars",
+        "text": "20 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202865,
+        "title": "20 Dollars",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "australie",
+          "name": "Australia"
+        },
+        "min_year": 2019,
+        "max_year": 2022,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/australie/651aeee01fee69.92021469-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/australie/651aeee114ee31.47490172-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202868,
+      "title": "50 Dollars",
+      "issuer": {
+        "code": "australie",
+        "name": "Australia"
+      },
+      "min_year": 1995,
+      "max_year": 2016,
+      "face": {
+        "value": 50,
+        "unit": "Dollars",
+        "text": "50 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202868,
+        "title": "50 Dollars",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "australie",
+          "name": "Australia"
+        },
+        "min_year": 1995,
+        "max_year": 2016,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/australie/63f6312b013147.56641472-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/australie/63f6312e4051c3.18030033-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202870,
+      "title": "50 Dollars",
+      "issuer": {
+        "code": "australie",
+        "name": "Australia"
+      },
+      "min_year": 2018,
+      "max_year": 2023,
+      "face": {
+        "value": 50,
+        "unit": "Dollars",
+        "text": "50 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202870,
+        "title": "50 Dollars",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "australie",
+          "name": "Australia"
+        },
+        "min_year": 2018,
+        "max_year": 2023,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/australie/66c060efdd3034.30643770-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/australie/66c060f19fc828.54445354-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202872,
+      "title": "100 Dollars",
+      "issuer": {
+        "code": "australie",
+        "name": "Australia"
+      },
+      "min_year": 1996,
+      "max_year": 2017,
+      "face": {
+        "value": 100,
+        "unit": "Dollars",
+        "text": "100 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202872,
+        "title": "100 Dollars",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "australie",
+          "name": "Australia"
+        },
+        "min_year": 1996,
+        "max_year": 2017,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/australie/63f63159764f85.28178807-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/australie/63f6315d29e3c2.40545716-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204026,
+      "title": "10 Dollars (Bicentenary of European Settlement)",
+      "issuer": {
+        "code": "australie",
+        "name": "Australia"
+      },
+      "min_year": 1988,
+      "max_year": 1988,
+      "face": {
+        "value": 10,
+        "unit": "Dollars",
+        "text": "10 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204026,
+        "title": "10 Dollars (Bicentenary of European Settlement)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "australie",
+          "name": "Australia"
+        },
+        "min_year": 1988,
+        "max_year": 1988,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/australie/63f6309d003148.49612783-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/australie/63f630a06fc0a3.49928511-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206839,
+      "title": "5 Dollars (Centenary of Federation)",
+      "issuer": {
+        "code": "australie",
+        "name": "Australia"
+      },
+      "min_year": 2001,
+      "max_year": 2001,
+      "face": {
+        "value": 5,
+        "unit": "Dollars",
+        "text": "5 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206839,
+        "title": "5 Dollars (Centenary of Federation)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "australie",
+          "name": "Australia"
+        },
+        "min_year": 2001,
+        "max_year": 2001,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/australie/63f7924d0acab7.84113854-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/australie/63f63070a7f442.36931363-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 239038,
+      "title": "100 Dollars",
+      "issuer": {
+        "code": "australie",
+        "name": "Australia"
+      },
+      "min_year": 2019,
+      "max_year": 2023,
+      "face": {
+        "value": 100,
+        "unit": "Dollars",
+        "text": "100 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 239038,
+        "title": "100 Dollars",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "australie",
+          "name": "Australia"
+        },
+        "min_year": 2019,
+        "max_year": 2023,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/australie/5fa4eb59d5e512.61139737-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/australie/5fa4eb5c515448.57464857-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 557385,
+      "title": "5 Dollars - Elizabeth II (Hong Kong handover)",
+      "issuer": {
+        "code": "australie",
+        "name": "Australia"
+      },
+      "min_year": 1997,
+      "max_year": 1997,
+      "face": {
+        "value": 5,
+        "unit": "Dollars",
+        "text": "5 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 557385,
+        "title": "5 Dollars - Elizabeth II (Hong Kong handover)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "australie",
+          "name": "Australia"
+        },
+        "min_year": 1997,
+        "max_year": 1997,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/australie/69875a3476d4c9.65751518-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/australie/69875a34b94ac7.43189512-180.jpg",
+        "category": "banknote"
+      }
+    }
+  ]
+}

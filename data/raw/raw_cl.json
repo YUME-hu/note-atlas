@@ -1,0 +1,1468 @@
+{
+  "meta": {
+    "generated_at": "2026-10-29T13:27:56.501Z",
+    "fixture": false,
+    "api": "numista v3",
+    "issuer": "chili",
+    "iso": "CL",
+    "category": "banknote",
+    "lang": "en",
+    "since": 1960,
+    "listed": 147,
+    "fetched": 39,
+    "details_fetched": 0,
+    "dropped_before_since": 108,
+    "dropped_by_source": {
+      "list": 108,
+      "detail": 0
+    },
+    "issuer_mismatches": 0,
+    "pages": 3,
+    "requests": 0
+  },
+  "types": [
+    {
+      "numista_type_id": 202327,
+      "title": "1000 Pesos",
+      "issuer": {
+        "code": "chili",
+        "name": "Chile"
+      },
+      "min_year": 2010,
+      "max_year": 2025,
+      "face": {
+        "value": 1000,
+        "unit": "Pesos",
+        "text": "1000 Pesos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202327,
+        "title": "1000 Pesos",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "chili",
+          "name": "Chile"
+        },
+        "min_year": 2010,
+        "max_year": 2025,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/chili/623ca045ec1566.66634903-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/chili/623ca046ac8290.88741233-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202813,
+      "title": "½ Escudo / 50 Centésimos de Escudo",
+      "issuer": {
+        "code": "chili",
+        "name": "Chile"
+      },
+      "min_year": 1962,
+      "max_year": 1975,
+      "face": {
+        "value": null,
+        "unit": null,
+        "text": null
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202813,
+        "title": "½ Escudo / 50 Centésimos de Escudo",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "chili",
+          "name": "Chile"
+        },
+        "min_year": 1962,
+        "max_year": 1975,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/chili/67a4d6e831f740.61228279-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/chili/67a4d6e9ac9445.09016989-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202818,
+      "title": "1 Escudo",
+      "issuer": {
+        "code": "chili",
+        "name": "Chile"
+      },
+      "min_year": 1962,
+      "max_year": 1973,
+      "face": {
+        "value": 1,
+        "unit": "Escudo",
+        "text": "1 Escudo"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202818,
+        "title": "1 Escudo",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "chili",
+          "name": "Chile"
+        },
+        "min_year": 1962,
+        "max_year": 1973,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/chili/5eb885f04daa38.99365235-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/chili/5eb885f13bc984.43099268-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202831,
+      "title": "5 Escudos (2nd. type; red)",
+      "issuer": {
+        "code": "chili",
+        "name": "Chile"
+      },
+      "min_year": 1964,
+      "max_year": 1970,
+      "face": {
+        "value": 5,
+        "unit": "Escudos",
+        "text": "5 Escudos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202831,
+        "title": "5 Escudos (2nd. type; red)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "chili",
+          "name": "Chile"
+        },
+        "min_year": 1964,
+        "max_year": 1970,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/chili/5ec2d39aa1a1b6.41345838-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/chili/5ec2d39ae8af54.45446941-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202856,
+      "title": "50 Escudos",
+      "issuer": {
+        "code": "chili",
+        "name": "Chile"
+      },
+      "min_year": 1962,
+      "max_year": 1975,
+      "face": {
+        "value": 50,
+        "unit": "Escudos",
+        "text": "50 Escudos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202856,
+        "title": "50 Escudos",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "chili",
+          "name": "Chile"
+        },
+        "min_year": 1962,
+        "max_year": 1975,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/chili/677e2ce58803f9.12837728-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/chili/677e2ce7bf5041.86171760-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202913,
+      "title": "100 Escudos",
+      "issuer": {
+        "code": "chili",
+        "name": "Chile"
+      },
+      "min_year": 1964,
+      "max_year": 1973,
+      "face": {
+        "value": 100,
+        "unit": "Escudos",
+        "text": "100 Escudos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202913,
+        "title": "100 Escudos",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "chili",
+          "name": "Chile"
+        },
+        "min_year": 1964,
+        "max_year": 1973,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/chili/61cdd30a27fa79.21965204-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/chili/61cdd30a9299d8.83375681-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203431,
+      "title": "1000 Pesos",
+      "issuer": {
+        "code": "chili",
+        "name": "Chile"
+      },
+      "min_year": 1978,
+      "max_year": 2009,
+      "face": {
+        "value": 1000,
+        "unit": "Pesos",
+        "text": "1000 Pesos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203431,
+        "title": "1000 Pesos",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "chili",
+          "name": "Chile"
+        },
+        "min_year": 1978,
+        "max_year": 2009,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/chili/64aadf39912af3.47121163-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/chili/64aadf3a149c22.92410668-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203633,
+      "title": "2000 Pesos",
+      "issuer": {
+        "code": "chili",
+        "name": "Chile"
+      },
+      "min_year": 2009,
+      "max_year": 2021,
+      "face": {
+        "value": 2000,
+        "unit": "Pesos",
+        "text": "2000 Pesos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203633,
+        "title": "2000 Pesos",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "chili",
+          "name": "Chile"
+        },
+        "min_year": 2009,
+        "max_year": 2021,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/chili/6753578edd26f0.89034457-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/chili/6753578f67f0a8.33311527-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204425,
+      "title": "10 Centesimos (Overprint on 100 Pesos P#122)",
+      "issuer": {
+        "code": "chili",
+        "name": "Chile"
+      },
+      "min_year": 1960,
+      "max_year": 1963,
+      "face": {
+        "value": 10,
+        "unit": "Centesimos",
+        "text": "10 Centesimos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204425,
+        "title": "10 Centesimos (Overprint on 100 Pesos P#122)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "chili",
+          "name": "Chile"
+        },
+        "min_year": 1960,
+        "max_year": 1963,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/chili/5e9bad31114441.03943898-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/chili/5e9bad31a02623.70112752-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204783,
+      "title": "2000 Pesos (Polymer)",
+      "issuer": {
+        "code": "chili",
+        "name": "Chile"
+      },
+      "min_year": 2004,
+      "max_year": 2008,
+      "face": {
+        "value": 2000,
+        "unit": "Pesos",
+        "text": "2000 Pesos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204783,
+        "title": "2000 Pesos (Polymer)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "chili",
+          "name": "Chile"
+        },
+        "min_year": 2004,
+        "max_year": 2008,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/chili/64aae597d5c566.84138474-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/chili/64aae59853add4.15270710-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205210,
+      "title": "5 Centesimos (Overprint on 50 Pesos P#121)",
+      "issuer": {
+        "code": "chili",
+        "name": "Chile"
+      },
+      "min_year": 1959,
+      "max_year": 1964,
+      "face": {
+        "value": 5,
+        "unit": "Centesimos",
+        "text": "5 Centesimos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205210,
+        "title": "5 Centesimos (Overprint on 50 Pesos P#121)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "chili",
+          "name": "Chile"
+        },
+        "min_year": 1959,
+        "max_year": 1964,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/chili/5f0d295bedad61.46360403-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/chili/5f0d295c7fc9a5.26749223-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205218,
+      "title": "10 Escudos",
+      "issuer": {
+        "code": "chili",
+        "name": "Chile"
+      },
+      "min_year": 1962,
+      "max_year": 1970,
+      "face": {
+        "value": 10,
+        "unit": "Escudos",
+        "text": "10 Escudos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205218,
+        "title": "10 Escudos",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "chili",
+          "name": "Chile"
+        },
+        "min_year": 1962,
+        "max_year": 1970,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/chili/5ec2d32a47c905.07419045-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/chili/5ec2d32a987612.84304587-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205219,
+      "title": "10 Escudos (2nd. type; blue/black serial)",
+      "issuer": {
+        "code": "chili",
+        "name": "Chile"
+      },
+      "min_year": 1973,
+      "max_year": 1974,
+      "face": {
+        "value": 10,
+        "unit": "Escudos",
+        "text": "10 Escudos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205219,
+        "title": "10 Escudos (2nd. type; blue/black serial)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "chili",
+          "name": "Chile"
+        },
+        "min_year": 1973,
+        "max_year": 1974,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/chili/63e0d7f575fa12.69458620-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/chili/63e0d7f88e3035.54082486-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205221,
+      "title": "10 Escudos (1st. type; red serial)",
+      "issuer": {
+        "code": "chili",
+        "name": "Chile"
+      },
+      "min_year": 1970,
+      "max_year": 1971,
+      "face": {
+        "value": 10,
+        "unit": "Escudos",
+        "text": "10 Escudos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205221,
+        "title": "10 Escudos (1st. type; red serial)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "chili",
+          "name": "Chile"
+        },
+        "min_year": 1970,
+        "max_year": 1971,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/chili/5f0e6f59796716.02909341-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/chili/5f0e6f5a3a9161.77575397-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205230,
+      "title": "500 Pesos",
+      "issuer": {
+        "code": "chili",
+        "name": "Chile"
+      },
+      "min_year": 1977,
+      "max_year": 2000,
+      "face": {
+        "value": 500,
+        "unit": "Pesos",
+        "text": "500 Pesos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205230,
+        "title": "500 Pesos",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "chili",
+          "name": "Chile"
+        },
+        "min_year": 1977,
+        "max_year": 2000,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/chili/5ec2d2926f1363.75851938-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/chili/5ec2d292bec084.02712907-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205231,
+      "title": "20 000 Pesos",
+      "issuer": {
+        "code": "chili",
+        "name": "Chile"
+      },
+      "min_year": 2009,
+      "max_year": 2025,
+      "face": {
+        "value": 20000,
+        "unit": "Pesos",
+        "text": "20000 Pesos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205231,
+        "title": "20 000 Pesos",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "chili",
+          "name": "Chile"
+        },
+        "min_year": 2009,
+        "max_year": 2025,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/chili/63b070270baaa1.09169578-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/chili/63b0702773ca37.86872649-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205233,
+      "title": "10 000 Pesos",
+      "issuer": {
+        "code": "chili",
+        "name": "Chile"
+      },
+      "min_year": 2009,
+      "max_year": 2025,
+      "face": {
+        "value": 10000,
+        "unit": "Pesos",
+        "text": "10000 Pesos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205233,
+        "title": "10 000 Pesos",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "chili",
+          "name": "Chile"
+        },
+        "min_year": 2009,
+        "max_year": 2025,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/chili/679b9162a7b5a8.43992750-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/chili/679b9164c360b5.57871215-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205234,
+      "title": "5000 Pesos",
+      "issuer": {
+        "code": "chili",
+        "name": "Chile"
+      },
+      "min_year": 2009,
+      "max_year": 2021,
+      "face": {
+        "value": 5000,
+        "unit": "Pesos",
+        "text": "5000 Pesos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205234,
+        "title": "5000 Pesos",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "chili",
+          "name": "Chile"
+        },
+        "min_year": 2009,
+        "max_year": 2021,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/chili/6270db874f3ba4.34290649-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/chili/6270db880cea25.88516288-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205241,
+      "title": "100 Pesos",
+      "issuer": {
+        "code": "chili",
+        "name": "Chile"
+      },
+      "min_year": 1976,
+      "max_year": 1984,
+      "face": {
+        "value": 100,
+        "unit": "Pesos",
+        "text": "100 Pesos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205241,
+        "title": "100 Pesos",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "chili",
+          "name": "Chile"
+        },
+        "min_year": 1976,
+        "max_year": 1984,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/chili/64a702a0017591.73473653-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/chili/64a702a06e9773.71436128-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205243,
+      "title": "50 Pesos",
+      "issuer": {
+        "code": "chili",
+        "name": "Chile"
+      },
+      "min_year": 1975,
+      "max_year": 1981,
+      "face": {
+        "value": 50,
+        "unit": "Pesos",
+        "text": "50 Pesos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205243,
+        "title": "50 Pesos",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "chili",
+          "name": "Chile"
+        },
+        "min_year": 1975,
+        "max_year": 1981,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/chili/64a7025f9131c7.87064255-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/chili/64a70260091e16.42465918-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205659,
+      "title": "5000 Pesos",
+      "issuer": {
+        "code": "chili",
+        "name": "Chile"
+      },
+      "min_year": 1981,
+      "max_year": 2008,
+      "face": {
+        "value": 5000,
+        "unit": "Pesos",
+        "text": "5000 Pesos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205659,
+        "title": "5000 Pesos",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "chili",
+          "name": "Chile"
+        },
+        "min_year": 1981,
+        "max_year": 2008,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/chili/64aadfedd74b43.08969834-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/chili/64aadfee521d33.57951458-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 207849,
+      "title": "5000 Escudos",
+      "issuer": {
+        "code": "chili",
+        "name": "Chile"
+      },
+      "min_year": 1974,
+      "max_year": 1975,
+      "face": {
+        "value": 5000,
+        "unit": "Escudos",
+        "text": "5000 Escudos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 207849,
+        "title": "5000 Escudos",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "chili",
+          "name": "Chile"
+        },
+        "min_year": 1974,
+        "max_year": 1975,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/chili/5ea582c33531c4.00998928-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/chili/5ea582c39da777.70548662-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 214912,
+      "title": "10 000 Pesos (Segmented security thread)",
+      "issuer": {
+        "code": "chili",
+        "name": "Chile"
+      },
+      "min_year": 1994,
+      "max_year": 2008,
+      "face": {
+        "value": 10000,
+        "unit": "Pesos",
+        "text": "10000 Pesos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 214912,
+        "title": "10 000 Pesos (Segmented security thread)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "chili",
+          "name": "Chile"
+        },
+        "min_year": 1994,
+        "max_year": 2008,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/chili/64aae13dc2ed61.63871591-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/chili/64aae13e376ec3.26454362-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 223590,
+      "title": "10 000 Escudos",
+      "issuer": {
+        "code": "chili",
+        "name": "Chile"
+      },
+      "min_year": 1974,
+      "max_year": 1975,
+      "face": {
+        "value": 10000,
+        "unit": "Escudos",
+        "text": "10000 Escudos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 223590,
+        "title": "10 000 Escudos",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "chili",
+          "name": "Chile"
+        },
+        "min_year": 1974,
+        "max_year": 1975,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/chili/5ef2aadc5ccb57.43987435-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/chili/64a6f9e3138196.00349176-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 224941,
+      "title": "5 Pesos",
+      "issuer": {
+        "code": "chili",
+        "name": "Chile"
+      },
+      "min_year": 1975,
+      "max_year": 1976,
+      "face": {
+        "value": 5,
+        "unit": "Pesos",
+        "text": "5 Pesos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 224941,
+        "title": "5 Pesos",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "chili",
+          "name": "Chile"
+        },
+        "min_year": 1975,
+        "max_year": 1976,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/chili/5f297d5b77d300.09943618-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/chili/64a6fcd07ec401.53248503-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 224942,
+      "title": "500 Escudos (Nationalization of Mining)",
+      "issuer": {
+        "code": "chili",
+        "name": "Chile"
+      },
+      "min_year": 1971,
+      "max_year": 1973,
+      "face": {
+        "value": 500,
+        "unit": "Escudos",
+        "text": "500 Escudos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 224942,
+        "title": "500 Escudos (Nationalization of Mining)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "chili",
+          "name": "Chile"
+        },
+        "min_year": 1971,
+        "max_year": 1973,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/chili/64a6f5b1cd74f6.13808690-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/chili/64a6f5b2383206.33160309-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 224943,
+      "title": "1000 Escudos",
+      "issuer": {
+        "code": "chili",
+        "name": "Chile"
+      },
+      "min_year": 1973,
+      "max_year": 1975,
+      "face": {
+        "value": 1000,
+        "unit": "Escudos",
+        "text": "1000 Escudos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 224943,
+        "title": "1000 Escudos",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "chili",
+          "name": "Chile"
+        },
+        "min_year": 1973,
+        "max_year": 1975,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/chili/64a6fd089421f7.55003581-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/chili/64a6fd090d8015.21552610-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 225701,
+      "title": "2000 Pesos",
+      "issuer": {
+        "code": "chili",
+        "name": "Chile"
+      },
+      "min_year": 1997,
+      "max_year": 2003,
+      "face": {
+        "value": 2000,
+        "unit": "Pesos",
+        "text": "2000 Pesos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 225701,
+        "title": "2000 Pesos",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "chili",
+          "name": "Chile"
+        },
+        "min_year": 1997,
+        "max_year": 2003,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/chili/6402081d897b94.54689231-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/chili/6402081e5c65b9.25169860-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 230695,
+      "title": "10 Pesos",
+      "issuer": {
+        "code": "chili",
+        "name": "Chile"
+      },
+      "min_year": 1975,
+      "max_year": 1976,
+      "face": {
+        "value": 10,
+        "unit": "Pesos",
+        "text": "10 Pesos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 230695,
+        "title": "10 Pesos",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "chili",
+          "name": "Chile"
+        },
+        "min_year": 1975,
+        "max_year": 1976,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/chili/6597cdb393b818.70186028-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/chili/6597cdb62ba077.92905773-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 232327,
+      "title": "20 000 Pesos",
+      "issuer": {
+        "code": "chili",
+        "name": "Chile"
+      },
+      "min_year": 1998,
+      "max_year": 2008,
+      "face": {
+        "value": 20000,
+        "unit": "Pesos",
+        "text": "20000 Pesos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 232327,
+        "title": "20 000 Pesos",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "chili",
+          "name": "Chile"
+        },
+        "min_year": 1998,
+        "max_year": 2008,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/chili/5f34c108d42e06.54983192-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/chili/5f34c10a8b9d31.30626297-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 233694,
+      "title": "1 Centesimo (Overprint on 10 Pesos P#120)",
+      "issuer": {
+        "code": "chili",
+        "name": "Chile"
+      },
+      "min_year": 1958,
+      "max_year": 1961,
+      "face": {
+        "value": 1,
+        "unit": "Centesimo",
+        "text": "1 Centesimo"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 233694,
+        "title": "1 Centesimo (Overprint on 10 Pesos P#120)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "chili",
+          "name": "Chile"
+        },
+        "min_year": 1958,
+        "max_year": 1961,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/chili/5f408da3546c92.62706651-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/chili/5f408da3af96e5.78107155-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 277621,
+      "title": "50 Escudos (Overprint on 50 000 Pesos P#123)",
+      "issuer": {
+        "code": "chili",
+        "name": "Chile"
+      },
+      "min_year": 1960,
+      "max_year": 1961,
+      "face": {
+        "value": 50,
+        "unit": "Escudos",
+        "text": "50 Escudos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 277621,
+        "title": "50 Escudos (Overprint on 50 000 Pesos P#123)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "chili",
+          "name": "Chile"
+        },
+        "min_year": 1960,
+        "max_year": 1961,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/chili/603f164843d598.56543241-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/chili/603f1648832b65.21313188-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 277622,
+      "title": "10 Escudos (Overprint on 10 000 Pesos P#118)",
+      "issuer": {
+        "code": "chili",
+        "name": "Chile"
+      },
+      "min_year": 1960,
+      "max_year": 1961,
+      "face": {
+        "value": 10,
+        "unit": "Escudos",
+        "text": "10 Escudos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 277622,
+        "title": "10 Escudos (Overprint on 10 000 Pesos P#118)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "chili",
+          "name": "Chile"
+        },
+        "min_year": 1960,
+        "max_year": 1961,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/chili/659cfc639a54e1.88809043-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/chili/659cfc64654ad2.74988275-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 290369,
+      "title": "50 Centesimos (Overprint on 500 Pesos P#115)",
+      "issuer": {
+        "code": "chili",
+        "name": "Chile"
+      },
+      "min_year": 1960,
+      "max_year": 1961,
+      "face": {
+        "value": 50,
+        "unit": "Centesimos",
+        "text": "50 Centesimos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 290369,
+        "title": "50 Centesimos (Overprint on 500 Pesos P#115)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "chili",
+          "name": "Chile"
+        },
+        "min_year": 1960,
+        "max_year": 1961,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/chili/659ae9d05b0f25.73712123-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/chili/659ae9d3385607.22736926-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 290376,
+      "title": "1 Escudo (Overprint on 1000 Pesos P#116)",
+      "issuer": {
+        "code": "chili",
+        "name": "Chile"
+      },
+      "min_year": 1960,
+      "max_year": 1961,
+      "face": {
+        "value": 1,
+        "unit": "Escudo",
+        "text": "1 Escudo"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 290376,
+        "title": "1 Escudo (Overprint on 1000 Pesos P#116)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "chili",
+          "name": "Chile"
+        },
+        "min_year": 1960,
+        "max_year": 1961,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/chili/659ae64bda6a38.34472695-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/chili/659ae64eb3b583.91525411-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 290378,
+      "title": "5 Escudos (Overprint on 5000 Pesos P#117)",
+      "issuer": {
+        "code": "chili",
+        "name": "Chile"
+      },
+      "min_year": 1960,
+      "max_year": 1962,
+      "face": {
+        "value": 5,
+        "unit": "Escudos",
+        "text": "5 Escudos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 290378,
+        "title": "5 Escudos (Overprint on 5000 Pesos P#117)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "chili",
+          "name": "Chile"
+        },
+        "min_year": 1960,
+        "max_year": 1962,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/chili/6599fc49751d02.24000442-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/chili/6599fc4b89b0f9.25939634-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 290379,
+      "title": "5 Escudos (1st. type; brown)",
+      "issuer": {
+        "code": "chili",
+        "name": "Chile"
+      },
+      "min_year": 1962,
+      "max_year": 1962,
+      "face": {
+        "value": 5,
+        "unit": "Escudos",
+        "text": "5 Escudos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 290379,
+        "title": "5 Escudos (1st. type; brown)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "chili",
+          "name": "Chile"
+        },
+        "min_year": 1962,
+        "max_year": 1962,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/chili/6599c89348c4c6.03687361-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/chili/6599c8ae875900.99011233-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 378449,
+      "title": "½ Centesimo (Overprint on 5 Pesos P#119)",
+      "issuer": {
+        "code": "chili",
+        "name": "Chile"
+      },
+      "min_year": 1960,
+      "max_year": 1961,
+      "face": {
+        "value": null,
+        "unit": null,
+        "text": null
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 378449,
+        "title": "½ Centesimo (Overprint on 5 Pesos P#119)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "chili",
+          "name": "Chile"
+        },
+        "min_year": 1960,
+        "max_year": 1961,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/chili/6506cc6b347032.79852979-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/chili/6506cc6bed69e5.89819734-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 393811,
+      "title": "10 000 Pesos (Plain security thread)",
+      "issuer": {
+        "code": "chili",
+        "name": "Chile"
+      },
+      "min_year": 1989,
+      "max_year": 1994,
+      "face": {
+        "value": 10000,
+        "unit": "Pesos",
+        "text": "10000 Pesos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 393811,
+        "title": "10 000 Pesos (Plain security thread)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "chili",
+          "name": "Chile"
+        },
+        "min_year": 1989,
+        "max_year": 1994,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/chili/6597149962e2c7.79992274-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/chili/659714b43489f2.97444091-180.jpg",
+        "category": "banknote"
+      }
+    }
+  ]
+}

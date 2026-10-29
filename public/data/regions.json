@@ -1,5 +1,95 @@
 [
   {
+    "id": "ar",
+    "name": "阿根廷",
+    "iso": "AR",
+    "flag": "",
+    "parent": null,
+    "issuers": [
+      "阿根廷中央银行"
+    ]
+  },
+  {
+    "id": "au",
+    "name": "澳大利亚",
+    "iso": "AU",
+    "flag": "",
+    "parent": null,
+    "issuers": [
+      "澳大利亚储备银行"
+    ]
+  },
+  {
+    "id": "be",
+    "name": "比利时",
+    "iso": "BE",
+    "flag": "",
+    "parent": null,
+    "issuers": [
+      "比利时国家银行"
+    ]
+  },
+  {
+    "id": "br",
+    "name": "巴西",
+    "iso": "BR",
+    "flag": "",
+    "parent": null,
+    "issuers": [
+      "巴西中央银行"
+    ]
+  },
+  {
+    "id": "bt",
+    "name": "不丹",
+    "iso": "BT",
+    "flag": "🇧🇹",
+    "parent": null,
+    "issuers": [
+      "不丹皇家金融管理局"
+    ]
+  },
+  {
+    "id": "by",
+    "name": "白俄罗斯",
+    "iso": "BY",
+    "flag": "🇧🇾",
+    "parent": null,
+    "issuers": [
+      "白俄罗斯国家银行"
+    ]
+  },
+  {
+    "id": "ca",
+    "name": "加拿大",
+    "iso": "CA",
+    "flag": "",
+    "parent": null,
+    "issuers": [
+      "加拿大银行"
+    ]
+  },
+  {
+    "id": "ch",
+    "name": "瑞士",
+    "iso": "CH",
+    "flag": "",
+    "parent": null,
+    "issuers": [
+      "瑞士国家银行"
+    ]
+  },
+  {
+    "id": "cl",
+    "name": "智利",
+    "iso": "CL",
+    "flag": "",
+    "parent": null,
+    "issuers": [
+      "智利中央银行"
+    ]
+  },
+  {
     "id": "cn",
     "name": "中国",
     "iso": "CN",
@@ -7,6 +97,106 @@
     "parent": null,
     "issuers": [
       "中国人民银行"
+    ]
+  },
+  {
+    "id": "de",
+    "name": "德国",
+    "iso": "DE",
+    "flag": "",
+    "parent": null,
+    "issuers": [
+      "德意志联邦银行"
+    ]
+  },
+  {
+    "id": "dk",
+    "name": "丹麦",
+    "iso": "DK",
+    "flag": "",
+    "parent": null,
+    "issuers": [
+      "丹麦国家银行"
+    ]
+  },
+  {
+    "id": "eg",
+    "name": "埃及",
+    "iso": "EG",
+    "flag": "",
+    "parent": null,
+    "issuers": [
+      "埃及中央银行"
+    ]
+  },
+  {
+    "id": "es",
+    "name": "西班牙",
+    "iso": "ES",
+    "flag": "",
+    "parent": null,
+    "issuers": [
+      "西班牙银行"
+    ]
+  },
+  {
+    "id": "fr",
+    "name": "法国",
+    "iso": "FR",
+    "flag": "",
+    "parent": null,
+    "issuers": [
+      "法兰西银行"
+    ]
+  },
+  {
+    "id": "gb",
+    "name": "英国",
+    "iso": "GB",
+    "flag": "🇬🇧",
+    "parent": null,
+    "issuers": [
+      "英格兰银行"
+    ]
+  },
+  {
+    "id": "id",
+    "name": "印度尼西亚",
+    "iso": "ID",
+    "flag": "🇮🇩",
+    "parent": null,
+    "issuers": [
+      "印度尼西亚银行"
+    ]
+  },
+  {
+    "id": "il",
+    "name": "以色列",
+    "iso": "IL",
+    "flag": "",
+    "parent": null,
+    "issuers": [
+      "以色列银行"
+    ]
+  },
+  {
+    "id": "in",
+    "name": "印度",
+    "iso": "IN",
+    "flag": "",
+    "parent": null,
+    "issuers": [
+      "印度储备银行"
+    ]
+  },
+  {
+    "id": "it",
+    "name": "意大利",
+    "iso": "IT",
+    "flag": "",
+    "parent": null,
+    "issuers": [
+      "意大利银行"
     ]
   },
   {
@@ -20,6 +210,176 @@
     ]
   },
   {
+    "id": "kh",
+    "name": "柬埔寨",
+    "iso": "KH",
+    "flag": "🇰🇭",
+    "parent": null,
+    "issuers": [
+      "柬埔寨国家银行"
+    ]
+  },
+  {
+    "id": "kr",
+    "name": "韩国",
+    "iso": "KR",
+    "flag": "",
+    "parent": null,
+    "issuers": [
+      "韩国银行"
+    ]
+  },
+  {
+    "id": "mx",
+    "name": "墨西哥",
+    "iso": "MX",
+    "flag": "",
+    "parent": null,
+    "issuers": [
+      "墨西哥银行"
+    ]
+  },
+  {
+    "id": "my",
+    "name": "马来西亚",
+    "iso": "MY",
+    "flag": "",
+    "parent": null,
+    "issuers": [
+      "马来西亚国家银行"
+    ]
+  },
+  {
+    "id": "nl",
+    "name": "荷兰",
+    "iso": "NL",
+    "flag": "",
+    "parent": null,
+    "issuers": [
+      "荷兰银行"
+    ]
+  },
+  {
+    "id": "no",
+    "name": "挪威",
+    "iso": "NO",
+    "flag": "",
+    "parent": null,
+    "issuers": [
+      "挪威央行"
+    ]
+  },
+  {
+    "id": "nz",
+    "name": "新西兰",
+    "iso": "NZ",
+    "flag": "",
+    "parent": null,
+    "issuers": [
+      "新西兰储备银行"
+    ]
+  },
+  {
+    "id": "ph",
+    "name": "菲律宾",
+    "iso": "PH",
+    "flag": "",
+    "parent": null,
+    "issuers": [
+      "菲律宾中央银行"
+    ]
+  },
+  {
+    "id": "pk",
+    "name": "巴基斯坦",
+    "iso": "PK",
+    "flag": "",
+    "parent": null,
+    "issuers": [
+      "巴基斯坦国家银行"
+    ]
+  },
+  {
+    "id": "pl",
+    "name": "波兰",
+    "iso": "PL",
+    "flag": "",
+    "parent": null,
+    "issuers": [
+      "波兰国家银行"
+    ]
+  },
+  {
+    "id": "pt",
+    "name": "葡萄牙",
+    "iso": "PT",
+    "flag": "",
+    "parent": null,
+    "issuers": [
+      "葡萄牙银行"
+    ]
+  },
+  {
+    "id": "ru",
+    "name": "俄罗斯",
+    "iso": "RU",
+    "flag": "",
+    "parent": null,
+    "issuers": [
+      "俄罗斯银行"
+    ]
+  },
+  {
+    "id": "se",
+    "name": "瑞典",
+    "iso": "SE",
+    "flag": "",
+    "parent": null,
+    "issuers": [
+      "瑞典央行"
+    ]
+  },
+  {
+    "id": "sg",
+    "name": "新加坡",
+    "iso": "SG",
+    "flag": "",
+    "parent": null,
+    "issuers": [
+      "新加坡金融管理局"
+    ]
+  },
+  {
+    "id": "sy",
+    "name": "叙利亚",
+    "iso": "SY",
+    "flag": "🇸🇾",
+    "parent": null,
+    "issuers": [
+      "叙利亚中央银行"
+    ]
+  },
+  {
+    "id": "th",
+    "name": "泰国",
+    "iso": "TH",
+    "flag": "",
+    "parent": null,
+    "issuers": [
+      "泰国银行"
+    ]
+  },
+  {
+    "id": "tr",
+    "name": "土耳其",
+    "iso": "TR",
+    "flag": "",
+    "parent": null,
+    "issuers": [
+      "土耳其共和国中央银行"
+    ]
+  },
+  {
     "id": "us",
     "name": "美国",
     "iso": "US",
@@ -28,6 +388,36 @@
     "issuers": [
       "美国财政部",
       "联邦储备委员会"
+    ]
+  },
+  {
+    "id": "ve",
+    "name": "委内瑞拉",
+    "iso": "VE",
+    "flag": "🇻🇪",
+    "parent": null,
+    "issuers": [
+      "委内瑞拉中央银行"
+    ]
+  },
+  {
+    "id": "vn",
+    "name": "越南",
+    "iso": "VN",
+    "flag": "",
+    "parent": null,
+    "issuers": [
+      "越南国家银行"
+    ]
+  },
+  {
+    "id": "za",
+    "name": "南非",
+    "iso": "ZA",
+    "flag": "",
+    "parent": null,
+    "issuers": [
+      "南非储备银行"
     ]
   }
 ]

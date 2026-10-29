@@ -1,0 +1,1320 @@
+{
+  "meta": {
+    "generated_at": "2026-10-29T13:27:50.880Z",
+    "fixture": false,
+    "api": "numista v3",
+    "issuer": "allemagne",
+    "iso": "DE",
+    "category": "banknote",
+    "lang": "en",
+    "since": 1960,
+    "listed": 53,
+    "fetched": 35,
+    "details_fetched": 0,
+    "dropped_before_since": 18,
+    "dropped_by_source": {
+      "list": 18,
+      "detail": 0
+    },
+    "issuer_mismatches": 0,
+    "pages": 2,
+    "requests": 0
+  },
+  "types": [
+    {
+      "numista_type_id": 203583,
+      "title": "50 Deutsche Mark",
+      "issuer": {
+        "code": "allemagne",
+        "name": "Germany, Federal Republic of"
+      },
+      "min_year": 1960,
+      "max_year": 1980,
+      "face": {
+        "value": 50,
+        "unit": "Deutsche Mark",
+        "text": "50 Deutsche Mark"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203583,
+        "title": "50 Deutsche Mark",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "allemagne",
+          "name": "Germany, Federal Republic of"
+        },
+        "min_year": 1960,
+        "max_year": 1980,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/allemagne/5e996a57ad6673.43036055-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/allemagne/5e996a58385ca0.92906451-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203838,
+      "title": "20 Deutsche Mark",
+      "issuer": {
+        "code": "allemagne",
+        "name": "Germany, Federal Republic of"
+      },
+      "min_year": 1991,
+      "max_year": 1993,
+      "face": {
+        "value": 20,
+        "unit": "Deutsche Mark",
+        "text": "20 Deutsche Mark"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203838,
+        "title": "20 Deutsche Mark",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "allemagne",
+          "name": "Germany, Federal Republic of"
+        },
+        "min_year": 1991,
+        "max_year": 1993,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/allemagne/5e99d11b25a901.54493838-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/allemagne/5e99d11b861359.14073740-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203947,
+      "title": "5 Deutsche Mark",
+      "issuer": {
+        "code": "allemagne",
+        "name": "Germany, Federal Republic of"
+      },
+      "min_year": 1991,
+      "max_year": 1991,
+      "face": {
+        "value": 5,
+        "unit": "Deutsche Mark",
+        "text": "5 Deutsche Mark"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203947,
+        "title": "5 Deutsche Mark",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "allemagne",
+          "name": "Germany, Federal Republic of"
+        },
+        "min_year": 1991,
+        "max_year": 1991,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/allemagne/63ec9d8601d2d1.09979257-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/allemagne/63ec9d895334e9.84983008-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203955,
+      "title": "10 Deutsche Mark",
+      "issuer": {
+        "code": "allemagne",
+        "name": "Germany, Federal Republic of"
+      },
+      "min_year": 1989,
+      "max_year": 1999,
+      "face": {
+        "value": 10,
+        "unit": "Deutsche Mark",
+        "text": "10 Deutsche Mark"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203955,
+        "title": "10 Deutsche Mark",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "allemagne",
+          "name": "Germany, Federal Republic of"
+        },
+        "min_year": 1989,
+        "max_year": 1999,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/allemagne/63ec9dabb67176.35946463-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/allemagne/63ec9daeb78fa1.55222353-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204318,
+      "title": "50 Deutsche Mark (with holographic device)",
+      "issuer": {
+        "code": "allemagne",
+        "name": "Germany, Federal Republic of"
+      },
+      "min_year": 1996,
+      "max_year": 1996,
+      "face": {
+        "value": 50,
+        "unit": "Deutsche Mark",
+        "text": "50 Deutsche Mark"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204318,
+        "title": "50 Deutsche Mark (with holographic device)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "allemagne",
+          "name": "Germany, Federal Republic of"
+        },
+        "min_year": 1996,
+        "max_year": 1996,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/allemagne/5e9b4829360545.76129698-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/allemagne/5e9b482a934cb1.29130523-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204797,
+      "title": "10 Deutsche Mark",
+      "issuer": {
+        "code": "allemagne",
+        "name": "Germany, Federal Republic of"
+      },
+      "min_year": 1960,
+      "max_year": 1980,
+      "face": {
+        "value": 10,
+        "unit": "Deutsche Mark",
+        "text": "10 Deutsche Mark"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204797,
+        "title": "10 Deutsche Mark",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "allemagne",
+          "name": "Germany, Federal Republic of"
+        },
+        "min_year": 1960,
+        "max_year": 1980,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/allemagne/6adc8c3f3e9297.91717848-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/allemagne/6adc8c41024b16.46350197-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204837,
+      "title": "100 Deutsche Mark (with holographic device)",
+      "issuer": {
+        "code": "allemagne",
+        "name": "Germany, Federal Republic of"
+      },
+      "min_year": 1996,
+      "max_year": 1996,
+      "face": {
+        "value": 100,
+        "unit": "Deutsche Mark",
+        "text": "100 Deutsche Mark"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204837,
+        "title": "100 Deutsche Mark (with holographic device)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "allemagne",
+          "name": "Germany, Federal Republic of"
+        },
+        "min_year": 1996,
+        "max_year": 1996,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/allemagne/631052919fc2b8.26852960-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/allemagne/631052931bfc23.60135115-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206563,
+      "title": "500 Deutsche Mark",
+      "issuer": {
+        "code": "allemagne",
+        "name": "Germany, Federal Republic of"
+      },
+      "min_year": 1991,
+      "max_year": 1993,
+      "face": {
+        "value": 500,
+        "unit": "Deutsche Mark",
+        "text": "500 Deutsche Mark"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206563,
+        "title": "500 Deutsche Mark",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "allemagne",
+          "name": "Germany, Federal Republic of"
+        },
+        "min_year": 1991,
+        "max_year": 1993,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/allemagne/5ea109a1e2e8c9.20106007-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/allemagne/5ea109a2420e47.05898002-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206564,
+      "title": "50 Deutsche Mark",
+      "issuer": {
+        "code": "allemagne",
+        "name": "Germany, Federal Republic of"
+      },
+      "min_year": 1989,
+      "max_year": 1993,
+      "face": {
+        "value": 50,
+        "unit": "Deutsche Mark",
+        "text": "50 Deutsche Mark"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206564,
+        "title": "50 Deutsche Mark",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "allemagne",
+          "name": "Germany, Federal Republic of"
+        },
+        "min_year": 1989,
+        "max_year": 1993,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/allemagne/5f1359cfafa5d9.70547323-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/allemagne/5f1486bfebc220.61136931-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206567,
+      "title": "100 Deutsche Mark",
+      "issuer": {
+        "code": "allemagne",
+        "name": "Germany, Federal Republic of"
+      },
+      "min_year": 1989,
+      "max_year": 1993,
+      "face": {
+        "value": 100,
+        "unit": "Deutsche Mark",
+        "text": "100 Deutsche Mark"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206567,
+        "title": "100 Deutsche Mark",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "allemagne",
+          "name": "Germany, Federal Republic of"
+        },
+        "min_year": 1989,
+        "max_year": 1993,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/allemagne/5f135f1bcd0908.23895345-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/allemagne/5f135f1c23a997.17096481-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206869,
+      "title": "1000 Deutsche Mark",
+      "issuer": {
+        "code": "allemagne",
+        "name": "Germany, Federal Republic of"
+      },
+      "min_year": 1991,
+      "max_year": 1993,
+      "face": {
+        "value": 1000,
+        "unit": "Deutsche Mark",
+        "text": "1000 Deutsche Mark"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206869,
+        "title": "1000 Deutsche Mark",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "allemagne",
+          "name": "Germany, Federal Republic of"
+        },
+        "min_year": 1991,
+        "max_year": 1993,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/allemagne/63e79e8bea74a2.62655549-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/allemagne/63e79e8cab2ce6.96448609-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206873,
+      "title": "5 Pfennig (Federal Treasury Note)",
+      "issuer": {
+        "code": "allemagne",
+        "name": "Germany, Federal Republic of"
+      },
+      "min_year": 1967,
+      "max_year": 1967,
+      "face": {
+        "value": 5,
+        "unit": "Pfennig",
+        "text": "5 Pfennig"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206873,
+        "title": "5 Pfennig (Federal Treasury Note)",
+        "object_type": {
+          "id": 162,
+          "name": "Non-issued banknotes"
+        },
+        "issuer": {
+          "code": "allemagne",
+          "name": "Germany, Federal Republic of"
+        },
+        "min_year": 1967,
+        "max_year": 1967,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/allemagne/5eba0fc99f2150.01763229-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/allemagne/5eba0fc9d40c61.73417234-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 207879,
+      "title": "5 Deutsche Mark",
+      "issuer": {
+        "code": "allemagne",
+        "name": "Germany, Federal Republic of"
+      },
+      "min_year": 1960,
+      "max_year": 1980,
+      "face": {
+        "value": 5,
+        "unit": "Deutsche Mark",
+        "text": "5 Deutsche Mark"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 207879,
+        "title": "5 Deutsche Mark",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "allemagne",
+          "name": "Germany, Federal Republic of"
+        },
+        "min_year": 1960,
+        "max_year": 1980,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/allemagne/63ec9d54a99da0.60602401-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/allemagne/63ec9d575a1741.03843938-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 208828,
+      "title": "200 Deutsche Mark",
+      "issuer": {
+        "code": "allemagne",
+        "name": "Germany, Federal Republic of"
+      },
+      "min_year": 1989,
+      "max_year": 1989,
+      "face": {
+        "value": 200,
+        "unit": "Deutsche Mark",
+        "text": "200 Deutsche Mark"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 208828,
+        "title": "200 Deutsche Mark",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "allemagne",
+          "name": "Germany, Federal Republic of"
+        },
+        "min_year": 1989,
+        "max_year": 1989,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/allemagne/5f1488cd3b93f9.76716532-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/allemagne/5f1488cd8d8266.71371414-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 208829,
+      "title": "200 Deutsche Mark (with holographic device)",
+      "issuer": {
+        "code": "allemagne",
+        "name": "Germany, Federal Republic of"
+      },
+      "min_year": 1996,
+      "max_year": 1996,
+      "face": {
+        "value": 200,
+        "unit": "Deutsche Mark",
+        "text": "200 Deutsche Mark"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 208829,
+        "title": "200 Deutsche Mark (with holographic device)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "allemagne",
+          "name": "Germany, Federal Republic of"
+        },
+        "min_year": 1996,
+        "max_year": 1996,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/allemagne/5f134868514939.15528390-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/allemagne/5f134868aeb444.55286640-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 208988,
+      "title": "20 Deutsche Mark",
+      "issuer": {
+        "code": "allemagne",
+        "name": "Germany, Federal Republic of"
+      },
+      "min_year": 1960,
+      "max_year": 1980,
+      "face": {
+        "value": 20,
+        "unit": "Deutsche Mark",
+        "text": "20 Deutsche Mark"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 208988,
+        "title": "20 Deutsche Mark",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "allemagne",
+          "name": "Germany, Federal Republic of"
+        },
+        "min_year": 1960,
+        "max_year": 1980,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/allemagne/63ec9dda0e4064.89387590-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/allemagne/63ec9ddca286e3.20125908-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 209176,
+      "title": "100 Deutsche Mark",
+      "issuer": {
+        "code": "allemagne",
+        "name": "Germany, Federal Republic of"
+      },
+      "min_year": 1960,
+      "max_year": 1980,
+      "face": {
+        "value": 100,
+        "unit": "Deutsche Mark",
+        "text": "100 Deutsche Mark"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 209176,
+        "title": "100 Deutsche Mark",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "allemagne",
+          "name": "Germany, Federal Republic of"
+        },
+        "min_year": 1960,
+        "max_year": 1980,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/allemagne/5ea9a224373656.95408749-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/allemagne/5ea9a225a52ee3.71210290-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 240785,
+      "title": "10 Pfennig (Federal Treasury Note)",
+      "issuer": {
+        "code": "allemagne",
+        "name": "Germany, Federal Republic of"
+      },
+      "min_year": 1967,
+      "max_year": 1967,
+      "face": {
+        "value": 10,
+        "unit": "Pfennig",
+        "text": "10 Pfennig"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 240785,
+        "title": "10 Pfennig (Federal Treasury Note)",
+        "object_type": {
+          "id": 162,
+          "name": "Non-issued banknotes"
+        },
+        "issuer": {
+          "code": "allemagne",
+          "name": "Germany, Federal Republic of"
+        },
+        "min_year": 1967,
+        "max_year": 1967,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/allemagne/62435e38a26981.82392832-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/allemagne/5f8a1319ba7531.61924492-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 352697,
+      "title": "2000 (Giesecke & Devrient; Pattern)",
+      "issuer": {
+        "code": "allemagne",
+        "name": "Germany, Federal Republic of"
+      },
+      "min_year": 2000,
+      "max_year": 2000,
+      "face": {
+        "value": 2000,
+        "unit": null,
+        "text": "2000"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 352697,
+        "title": "2000 (Giesecke & Devrient; Pattern)",
+        "object_type": {
+          "id": 89,
+          "name": "Banknote patterns and trials"
+        },
+        "issuer": {
+          "code": "allemagne",
+          "name": "Germany, Federal Republic of"
+        },
+        "min_year": 2000,
+        "max_year": 2000,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/allemagne/63c2830dec0b10.71999391-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/allemagne/63c2830fd917f2.04862857-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 359477,
+      "title": "500 Deutsche Mark",
+      "issuer": {
+        "code": "allemagne",
+        "name": "Germany, Federal Republic of"
+      },
+      "min_year": 1960,
+      "max_year": 1980,
+      "face": {
+        "value": 500,
+        "unit": "Deutsche Mark",
+        "text": "500 Deutsche Mark"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 359477,
+        "title": "500 Deutsche Mark",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "allemagne",
+          "name": "Germany, Federal Republic of"
+        },
+        "min_year": 1960,
+        "max_year": 1980,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/allemagne/64174d21bff184.14468185-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/allemagne/64174d233551f9.78799288-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 372617,
+      "title": "1000 Deutsche Mark",
+      "issuer": {
+        "code": "allemagne",
+        "name": "Germany, Federal Republic of"
+      },
+      "min_year": 1960,
+      "max_year": 1980,
+      "face": {
+        "value": 1000,
+        "unit": "Deutsche Mark",
+        "text": "1000 Deutsche Mark"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 372617,
+        "title": "1000 Deutsche Mark",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "allemagne",
+          "name": "Germany, Federal Republic of"
+        },
+        "min_year": 1960,
+        "max_year": 1980,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/allemagne/64bda68b80b676.21933562-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/allemagne/64bda68c67eb09.89097500-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 383011,
+      "title": "50 Pfennig (Federal Treasury Note)",
+      "issuer": {
+        "code": "allemagne",
+        "name": "Germany, Federal Republic of"
+      },
+      "min_year": 1967,
+      "max_year": 1967,
+      "face": {
+        "value": 50,
+        "unit": "Pfennig",
+        "text": "50 Pfennig"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 383011,
+        "title": "50 Pfennig (Federal Treasury Note)",
+        "object_type": {
+          "id": 162,
+          "name": "Non-issued banknotes"
+        },
+        "issuer": {
+          "code": "allemagne",
+          "name": "Germany, Federal Republic of"
+        },
+        "min_year": 1967,
+        "max_year": 1967,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/allemagne/65350d687f02c6.34049685-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/allemagne/65350d690555c5.43906083-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 383014,
+      "title": "1 Mark (Federal Treasury Note)",
+      "issuer": {
+        "code": "allemagne",
+        "name": "Germany, Federal Republic of"
+      },
+      "min_year": 1967,
+      "max_year": 1967,
+      "face": {
+        "value": 1,
+        "unit": "Mark",
+        "text": "1 Mark"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 383014,
+        "title": "1 Mark (Federal Treasury Note)",
+        "object_type": {
+          "id": 162,
+          "name": "Non-issued banknotes"
+        },
+        "issuer": {
+          "code": "allemagne",
+          "name": "Germany, Federal Republic of"
+        },
+        "min_year": 1967,
+        "max_year": 1967,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/allemagne/65350e5858cae9.31030909-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/allemagne/65350e7f862487.91611434-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 383018,
+      "title": "2 Mark (Federal Treasury Note)",
+      "issuer": {
+        "code": "allemagne",
+        "name": "Germany, Federal Republic of"
+      },
+      "min_year": 1967,
+      "max_year": 1967,
+      "face": {
+        "value": 2,
+        "unit": "Mark",
+        "text": "2 Mark"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 383018,
+        "title": "2 Mark (Federal Treasury Note)",
+        "object_type": {
+          "id": 162,
+          "name": "Non-issued banknotes"
+        },
+        "issuer": {
+          "code": "allemagne",
+          "name": "Germany, Federal Republic of"
+        },
+        "min_year": 1967,
+        "max_year": 1967,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/allemagne/65350f60519380.96445083-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/allemagne/65350f60a7e7d5.93434673-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 452129,
+      "title": "Marie Kőnigin von Bayern (Pattern)",
+      "issuer": {
+        "code": "allemagne",
+        "name": "Germany, Federal Republic of"
+      },
+      "min_year": 2000,
+      "max_year": 2000,
+      "face": {
+        "value": null,
+        "unit": null,
+        "text": null
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 452129,
+        "title": "Marie Kőnigin von Bayern (Pattern)",
+        "object_type": {
+          "id": 89,
+          "name": "Banknote patterns and trials"
+        },
+        "issuer": {
+          "code": "allemagne",
+          "name": "Germany, Federal Republic of"
+        },
+        "min_year": 2000,
+        "max_year": 2000,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/allemagne/6793d5007bd995.24513026-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/allemagne/6793d5023fb740.06033709-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 452131,
+      "title": "Yvonne (Louisenthal)",
+      "issuer": {
+        "code": "allemagne",
+        "name": "Germany, Federal Republic of"
+      },
+      "min_year": 2010,
+      "max_year": 2010,
+      "face": {
+        "value": null,
+        "unit": null,
+        "text": null
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 452131,
+        "title": "Yvonne (Louisenthal)",
+        "object_type": {
+          "id": 89,
+          "name": "Banknote patterns and trials"
+        },
+        "issuer": {
+          "code": "allemagne",
+          "name": "Germany, Federal Republic of"
+        },
+        "min_year": 2010,
+        "max_year": 2010,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/allemagne/6793da20c937a9.15787439-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/allemagne/6793da227ece15.60121655-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 579529,
+      "title": "10 Deutsche Mark",
+      "issuer": {
+        "code": "allemagne",
+        "name": "Germany, Federal Republic of"
+      },
+      "min_year": 1960,
+      "max_year": 1960,
+      "face": {
+        "value": 10,
+        "unit": "Deutsche Mark",
+        "text": "10 Deutsche Mark"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 579529,
+        "title": "10 Deutsche Mark",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "allemagne",
+          "name": "Germany, Federal Republic of"
+        },
+        "min_year": 1960,
+        "max_year": 1960,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/allemagne/6a09f206472091.96463000-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/allemagne/6a09f206ebc857.23876844-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 579531,
+      "title": "20 Deutsche Mark",
+      "issuer": {
+        "code": "allemagne",
+        "name": "Germany, Federal Republic of"
+      },
+      "min_year": 1960,
+      "max_year": 1960,
+      "face": {
+        "value": 20,
+        "unit": "Deutsche Mark",
+        "text": "20 Deutsche Mark"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 579531,
+        "title": "20 Deutsche Mark",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "allemagne",
+          "name": "Germany, Federal Republic of"
+        },
+        "min_year": 1960,
+        "max_year": 1960,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/allemagne/6a09f532202036.32824158-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/allemagne/6a09f5330096f9.65884412-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 579532,
+      "title": "50 Deutsche Mark",
+      "issuer": {
+        "code": "allemagne",
+        "name": "Germany, Federal Republic of"
+      },
+      "min_year": 1960,
+      "max_year": 1960,
+      "face": {
+        "value": 50,
+        "unit": "Deutsche Mark",
+        "text": "50 Deutsche Mark"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 579532,
+        "title": "50 Deutsche Mark",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "allemagne",
+          "name": "Germany, Federal Republic of"
+        },
+        "min_year": 1960,
+        "max_year": 1960,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/allemagne/6a09f7828dabe0.71325374-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/allemagne/6a09f78392ca09.08059521-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 579533,
+      "title": "100 Deutsche Mark",
+      "issuer": {
+        "code": "allemagne",
+        "name": "Germany, Federal Republic of"
+      },
+      "min_year": 1960,
+      "max_year": 1960,
+      "face": {
+        "value": 100,
+        "unit": "Deutsche Mark",
+        "text": "100 Deutsche Mark"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 579533,
+        "title": "100 Deutsche Mark",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "allemagne",
+          "name": "Germany, Federal Republic of"
+        },
+        "min_year": 1960,
+        "max_year": 1960,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/allemagne/6a09f9e5f2f0f3.81131251-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/allemagne/6a09f9e6c61b50.42365856-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 606335,
+      "title": "5 Deutsche Mark (BBK II Berlin)",
+      "issuer": {
+        "code": "allemagne",
+        "name": "Germany, Federal Republic of"
+      },
+      "min_year": 1963,
+      "max_year": 1963,
+      "face": {
+        "value": 5,
+        "unit": "Deutsche Mark",
+        "text": "5 Deutsche Mark"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 606335,
+        "title": "5 Deutsche Mark (BBK II Berlin)",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "allemagne",
+          "name": "Germany, Federal Republic of"
+        },
+        "min_year": 1963,
+        "max_year": 1963,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/allemagne/6ac8f16047a320.54076615-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/allemagne/6ac8f161140471.56058162-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 606336,
+      "title": "10 Deutsche Mark (BBK II Berlin)",
+      "issuer": {
+        "code": "allemagne",
+        "name": "Germany, Federal Republic of"
+      },
+      "min_year": 1963,
+      "max_year": 1963,
+      "face": {
+        "value": 10,
+        "unit": "Deutsche Mark",
+        "text": "10 Deutsche Mark"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 606336,
+        "title": "10 Deutsche Mark (BBK II Berlin)",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "allemagne",
+          "name": "Germany, Federal Republic of"
+        },
+        "min_year": 1963,
+        "max_year": 1963,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/allemagne/6ac8f18bc57a92.64832480-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/allemagne/6ac8f18c6a4839.22170637-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 606337,
+      "title": "20 Deutsche Mark (BBK II Berlin)",
+      "issuer": {
+        "code": "allemagne",
+        "name": "Germany, Federal Republic of"
+      },
+      "min_year": 1963,
+      "max_year": 1963,
+      "face": {
+        "value": 20,
+        "unit": "Deutsche Mark",
+        "text": "20 Deutsche Mark"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 606337,
+        "title": "20 Deutsche Mark (BBK II Berlin)",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "allemagne",
+          "name": "Germany, Federal Republic of"
+        },
+        "min_year": 1963,
+        "max_year": 1963,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/allemagne/6ac8f1b4a0d563.01017904-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/allemagne/6ac8f1b55ead28.21240897-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 606338,
+      "title": "50 Deutsche Mark (BBK II Berlin)",
+      "issuer": {
+        "code": "allemagne",
+        "name": "Germany, Federal Republic of"
+      },
+      "min_year": 1963,
+      "max_year": 1963,
+      "face": {
+        "value": 50,
+        "unit": "Deutsche Mark",
+        "text": "50 Deutsche Mark"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 606338,
+        "title": "50 Deutsche Mark (BBK II Berlin)",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "allemagne",
+          "name": "Germany, Federal Republic of"
+        },
+        "min_year": 1963,
+        "max_year": 1963,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/allemagne/6ac8f1ce4284b9.08125964-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/allemagne/6ac8f1cee84021.53885174-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 606339,
+      "title": "100 Deutsche Mark (BBK II Berlin)",
+      "issuer": {
+        "code": "allemagne",
+        "name": "Germany, Federal Republic of"
+      },
+      "min_year": 1963,
+      "max_year": 1963,
+      "face": {
+        "value": 100,
+        "unit": "Deutsche Mark",
+        "text": "100 Deutsche Mark"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 606339,
+        "title": "100 Deutsche Mark (BBK II Berlin)",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "allemagne",
+          "name": "Germany, Federal Republic of"
+        },
+        "min_year": 1963,
+        "max_year": 1963,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/allemagne/6ac8f1e648be09.70629307-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/allemagne/6ac8f1e7085821.91404170-180.jpg",
+        "category": "banknote"
+      }
+    }
+  ]
+}

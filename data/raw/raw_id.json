@@ -1,0 +1,3873 @@
+{
+  "meta": {
+    "generated_at": "2026-10-29T13:27:49.249Z",
+    "fixture": false,
+    "api": "numista v3",
+    "issuer": "indonesia",
+    "iso": "ID",
+    "category": "banknote",
+    "lang": "en",
+    "since": 1960,
+    "listed": 323,
+    "fetched": 104,
+    "details_fetched": 0,
+    "dropped_before_since": 219,
+    "dropped_by_source": {
+      "list": 219,
+      "detail": 0
+    },
+    "issuer_mismatches": 10,
+    "pages": 7,
+    "requests": 0
+  },
+  "types": [
+    {
+      "numista_type_id": 202080,
+      "title": "2½ Rupiah (1960 Issue)",
+      "issuer": {
+        "code": "indonesie",
+        "name": "Indonesia (1949-date)"
+      },
+      "min_year": 1960,
+      "max_year": 1961,
+      "face": {
+        "value": 2.5,
+        "unit": "Rupiah",
+        "text": "2.5 Rupiah"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202080,
+        "title": "2½ Rupiah (1960 Issue)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "indonesie",
+          "name": "Indonesia (1949-date)"
+        },
+        "min_year": 1960,
+        "max_year": 1961,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/626e2eeb7c9c75.02526972-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/626e2eec5f6512.60782267-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202083,
+      "title": "2½ Rupiah",
+      "issuer": {
+        "code": "indonesie",
+        "name": "Indonesia (1949-date)"
+      },
+      "min_year": 1968,
+      "max_year": 1968,
+      "face": {
+        "value": 2.5,
+        "unit": "Rupiah",
+        "text": "2.5 Rupiah"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202083,
+        "title": "2½ Rupiah",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "indonesie",
+          "name": "Indonesia (1949-date)"
+        },
+        "min_year": 1968,
+        "max_year": 1968,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/5e95c7c5b0e058.49731338-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/5e95c7c6241189.00513193-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202129,
+      "title": "2000 Rupiah",
+      "issuer": {
+        "code": "indonesie",
+        "name": "Indonesia (1949-date)"
+      },
+      "min_year": 2009,
+      "max_year": 2016,
+      "face": {
+        "value": 2000,
+        "unit": "Rupiah",
+        "text": "2000 Rupiah"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202129,
+        "title": "2000 Rupiah",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "indonesie",
+          "name": "Indonesia (1949-date)"
+        },
+        "min_year": 2009,
+        "max_year": 2016,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/623adad3df2fe7.98597422-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/623adad4580784.30440544-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202148,
+      "title": "25 Rupiah (Dated 1960, Issued 1964)",
+      "issuer": {
+        "code": "indonesie",
+        "name": "Indonesia (1949-date)"
+      },
+      "min_year": 1960,
+      "max_year": 1960,
+      "face": {
+        "value": 25,
+        "unit": "Rupiah",
+        "text": "25 Rupiah"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202148,
+        "title": "25 Rupiah (Dated 1960, Issued 1964)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "indonesie",
+          "name": "Indonesia (1949-date)"
+        },
+        "min_year": 1960,
+        "max_year": 1960,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/5e95f3185621e5.58410391-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/5e95f319159348.46316121-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202152,
+      "title": "5 Rupiah",
+      "issuer": {
+        "code": "indonesie",
+        "name": "Indonesia (1949-date)"
+      },
+      "min_year": 1968,
+      "max_year": 1968,
+      "face": {
+        "value": 5,
+        "unit": "Rupiah",
+        "text": "5 Rupiah"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202152,
+        "title": "5 Rupiah",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "indonesie",
+          "name": "Indonesia (1949-date)"
+        },
+        "min_year": 1968,
+        "max_year": 1968,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/5e95f548788ad0.50963067-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/5e95f54927d8a5.20028738-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202305,
+      "title": "2000 Rupiah",
+      "issuer": {
+        "code": "indonesie",
+        "name": "Indonesia (1949-date)"
+      },
+      "min_year": 2016,
+      "max_year": 2021,
+      "face": {
+        "value": 2000,
+        "unit": "Rupiah",
+        "text": "2000 Rupiah"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202305,
+        "title": "2000 Rupiah",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "indonesie",
+          "name": "Indonesia (1949-date)"
+        },
+        "min_year": 2016,
+        "max_year": 2021,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/623adb1982aff7.06090416-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/623adb1a2f5805.21295357-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202984,
+      "title": "1 Sen",
+      "issuer": {
+        "code": "indonesie",
+        "name": "Indonesia (1949-date)"
+      },
+      "min_year": 1964,
+      "max_year": 1964,
+      "face": {
+        "value": 1,
+        "unit": "Sen",
+        "text": "1 Sen"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202984,
+        "title": "1 Sen",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "indonesie",
+          "name": "Indonesia (1949-date)"
+        },
+        "min_year": 1964,
+        "max_year": 1964,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/626e2f08dfdfc0.81820925-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/626e2f095d43c4.97095463-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203209,
+      "title": "1000 Rupiah",
+      "issuer": {
+        "code": "indonesie",
+        "name": "Indonesia (1949-date)"
+      },
+      "min_year": 2000,
+      "max_year": 2016,
+      "face": {
+        "value": 1000,
+        "unit": "Rupiah",
+        "text": "1000 Rupiah"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203209,
+        "title": "1000 Rupiah",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "indonesie",
+          "name": "Indonesia (1949-date)"
+        },
+        "min_year": 2000,
+        "max_year": 2016,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/623ada8d4dccf2.02978300-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/623ada8df00dc7.27029483-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203566,
+      "title": "50 000 Rupiah",
+      "issuer": {
+        "code": "indonesie",
+        "name": "Indonesia (1949-date)"
+      },
+      "min_year": 2011,
+      "max_year": 2016,
+      "face": {
+        "value": 50000,
+        "unit": "Rupiah",
+        "text": "50000 Rupiah"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203566,
+        "title": "50 000 Rupiah",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "indonesie",
+          "name": "Indonesia (1949-date)"
+        },
+        "min_year": 2011,
+        "max_year": 2016,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/5e9963391dd3b1.72256384-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/5e99633a089b26.41783284-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203573,
+      "title": "20 000 Rupiah",
+      "issuer": {
+        "code": "indonesie",
+        "name": "Indonesia (1949-date)"
+      },
+      "min_year": 2011,
+      "max_year": 2016,
+      "face": {
+        "value": 20000,
+        "unit": "Rupiah",
+        "text": "20000 Rupiah"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203573,
+        "title": "20 000 Rupiah",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "indonesie",
+          "name": "Indonesia (1949-date)"
+        },
+        "min_year": 2011,
+        "max_year": 2016,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/5f74449d6cdab2.86952335-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/5f74449ea6aa35.31702668-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203620,
+      "title": "10 000 Rupiah",
+      "issuer": {
+        "code": "indonesie",
+        "name": "Indonesia (1949-date)"
+      },
+      "min_year": 1998,
+      "max_year": 2005,
+      "face": {
+        "value": 10000,
+        "unit": "Rupiah",
+        "text": "10000 Rupiah"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203620,
+        "title": "10 000 Rupiah",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "indonesie",
+          "name": "Indonesia (1949-date)"
+        },
+        "min_year": 1998,
+        "max_year": 2005,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/6a4a88957cd5b5.84284061-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/6a4a889656f697.44875242-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203626,
+      "title": "10 000 Rupiah",
+      "issuer": {
+        "code": "indonesie",
+        "name": "Indonesia (1949-date)"
+      },
+      "min_year": 2010,
+      "max_year": 2016,
+      "face": {
+        "value": 10000,
+        "unit": "Rupiah",
+        "text": "10000 Rupiah"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203626,
+        "title": "10 000 Rupiah",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "indonesie",
+          "name": "Indonesia (1949-date)"
+        },
+        "min_year": 2010,
+        "max_year": 2016,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/5e997d10d29088.43333394-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/5e997d11c54672.96107739-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203656,
+      "title": "5000 Rupiah",
+      "issuer": {
+        "code": "indonesie",
+        "name": "Indonesia (1949-date)"
+      },
+      "min_year": 2001,
+      "max_year": 2016,
+      "face": {
+        "value": 5000,
+        "unit": "Rupiah",
+        "text": "5000 Rupiah"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203656,
+        "title": "5000 Rupiah",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "indonesie",
+          "name": "Indonesia (1949-date)"
+        },
+        "min_year": 2001,
+        "max_year": 2016,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/64d5263601dc62.15399029-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/64d52636bacff0.00043290-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203695,
+      "title": "1000 Rupiah",
+      "issuer": {
+        "code": "indonesie",
+        "name": "Indonesia (1949-date)"
+      },
+      "min_year": 1992,
+      "max_year": 2000,
+      "face": {
+        "value": 1000,
+        "unit": "Rupiah",
+        "text": "1000 Rupiah"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203695,
+        "title": "1000 Rupiah",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "indonesie",
+          "name": "Indonesia (1949-date)"
+        },
+        "min_year": 1992,
+        "max_year": 2000,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/674bce758f6004.04437265-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/674bce769ddcd9.52044747-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203714,
+      "title": "5 Sen",
+      "issuer": {
+        "code": "indonesie",
+        "name": "Indonesia (1949-date)"
+      },
+      "min_year": 1964,
+      "max_year": 1964,
+      "face": {
+        "value": 5,
+        "unit": "Sen",
+        "text": "5 Sen"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203714,
+        "title": "5 Sen",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "indonesie",
+          "name": "Indonesia (1949-date)"
+        },
+        "min_year": 1964,
+        "max_year": 1964,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/626e2f281ace30.24627558-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/626e2f28c74c69.56011528-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203843,
+      "title": "10 Sen",
+      "issuer": {
+        "code": "indonesie",
+        "name": "Indonesia (1949-date)"
+      },
+      "min_year": 1964,
+      "max_year": 1964,
+      "face": {
+        "value": 10,
+        "unit": "Sen",
+        "text": "10 Sen"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203843,
+        "title": "10 Sen",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "indonesie",
+          "name": "Indonesia (1949-date)"
+        },
+        "min_year": 1964,
+        "max_year": 1964,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/626e2f4e05b9a3.37033972-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/626e2f4f1b6917.44056825-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203847,
+      "title": "10 000 Rupiah",
+      "issuer": {
+        "code": "indonesie",
+        "name": "Indonesia (1949-date)"
+      },
+      "min_year": 2005,
+      "max_year": 2009,
+      "face": {
+        "value": 10000,
+        "unit": "Rupiah",
+        "text": "10000 Rupiah"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203847,
+        "title": "10 000 Rupiah",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "indonesie",
+          "name": "Indonesia (1949-date)"
+        },
+        "min_year": 2005,
+        "max_year": 2009,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/5e99d6a4ec4562.38948220-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/5e99d6a472daf0.71714476-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203919,
+      "title": "25 Sen",
+      "issuer": {
+        "code": "indonesie",
+        "name": "Indonesia (1949-date)"
+      },
+      "min_year": 1964,
+      "max_year": 1964,
+      "face": {
+        "value": 25,
+        "unit": "Sen",
+        "text": "25 Sen"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203919,
+        "title": "25 Sen",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "indonesie",
+          "name": "Indonesia (1949-date)"
+        },
+        "min_year": 1964,
+        "max_year": 1964,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/626e2f77ded7b0.88809149-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/626e2f785f53a6.28973160-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203988,
+      "title": "100 000 Rupiah",
+      "issuer": {
+        "code": "indonesie",
+        "name": "Indonesia (1949-date)"
+      },
+      "min_year": 2004,
+      "max_year": 2011,
+      "face": {
+        "value": 100000,
+        "unit": "Rupiah",
+        "text": "100000 Rupiah"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203988,
+        "title": "100 000 Rupiah",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "indonesie",
+          "name": "Indonesia (1949-date)"
+        },
+        "min_year": 2004,
+        "max_year": 2011,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/5eaef580eb2da4.14823951-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/5eaef58178fb35.50479623-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203994,
+      "title": "50 000 Rupiah",
+      "issuer": {
+        "code": "indonesie",
+        "name": "Indonesia (1949-date)"
+      },
+      "min_year": 2005,
+      "max_year": 2011,
+      "face": {
+        "value": 50000,
+        "unit": "Rupiah",
+        "text": "50000 Rupiah"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203994,
+        "title": "50 000 Rupiah",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "indonesie",
+          "name": "Indonesia (1949-date)"
+        },
+        "min_year": 2005,
+        "max_year": 2011,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/64b1b28f8e72a1.16157898-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/64b1b29059e2a8.98400766-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203996,
+      "title": "20 000 Rupiah",
+      "issuer": {
+        "code": "indonesie",
+        "name": "Indonesia (1949-date)"
+      },
+      "min_year": 2004,
+      "max_year": 2011,
+      "face": {
+        "value": 20000,
+        "unit": "Rupiah",
+        "text": "20000 Rupiah"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203996,
+        "title": "20 000 Rupiah",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "indonesie",
+          "name": "Indonesia (1949-date)"
+        },
+        "min_year": 2004,
+        "max_year": 2011,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/5e9a7eedab2da1.85208097-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/5e9a7eee20d645.33112146-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203999,
+      "title": "10 000 Rupiah",
+      "issuer": {
+        "code": "indonesie",
+        "name": "Indonesia (1949-date)"
+      },
+      "min_year": 2016,
+      "max_year": 2024,
+      "face": {
+        "value": 10000,
+        "unit": "Rupiah",
+        "text": "10000 Rupiah"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203999,
+        "title": "10 000 Rupiah",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "indonesie",
+          "name": "Indonesia (1949-date)"
+        },
+        "min_year": 2016,
+        "max_year": 2024,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/626e3135748165.92255613-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/626e31364d5a71.77066306-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204094,
+      "title": "5000 Rupiah",
+      "issuer": {
+        "code": "indonesie",
+        "name": "Indonesia (1949-date)"
+      },
+      "min_year": 2016,
+      "max_year": 2021,
+      "face": {
+        "value": 5000,
+        "unit": "Rupiah",
+        "text": "5000 Rupiah"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204094,
+        "title": "5000 Rupiah",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "indonesie",
+          "name": "Indonesia (1949-date)"
+        },
+        "min_year": 2016,
+        "max_year": 2021,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/626e31137198a5.14884508-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/626e31144fef48.68538265-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204098,
+      "title": "1000 Rupiah",
+      "issuer": {
+        "code": "indonesie",
+        "name": "Indonesia (1949-date)"
+      },
+      "min_year": 2016,
+      "max_year": 2021,
+      "face": {
+        "value": 1000,
+        "unit": "Rupiah",
+        "text": "1000 Rupiah"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204098,
+        "title": "1000 Rupiah",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "indonesie",
+          "name": "Indonesia (1949-date)"
+        },
+        "min_year": 2016,
+        "max_year": 2021,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/626e30ee78fad8.79861835-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/626e30ef8aa7e1.00801479-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204387,
+      "title": "500 Rupiah",
+      "issuer": {
+        "code": "indonesie",
+        "name": "Indonesia (1949-date)"
+      },
+      "min_year": 1992,
+      "max_year": 1999,
+      "face": {
+        "value": 500,
+        "unit": "Rupiah",
+        "text": "500 Rupiah"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204387,
+        "title": "500 Rupiah",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "indonesie",
+          "name": "Indonesia (1949-date)"
+        },
+        "min_year": 1992,
+        "max_year": 1999,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/626e301c475072.34008706-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/626e301ceab414.03095525-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204454,
+      "title": "25 Rupiah",
+      "issuer": {
+        "code": "indonesie",
+        "name": "Indonesia (1949-date)"
+      },
+      "min_year": 1968,
+      "max_year": 1968,
+      "face": {
+        "value": 25,
+        "unit": "Rupiah",
+        "text": "25 Rupiah"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204454,
+        "title": "25 Rupiah",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "indonesie",
+          "name": "Indonesia (1949-date)"
+        },
+        "min_year": 1968,
+        "max_year": 1968,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/5e9bc63d44f3e2.95472793-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/5e9bc63dd142d0.79910801-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204468,
+      "title": "5 Rupiah (Overprint)",
+      "issuer": {
+        "code": "irian_jaya",
+        "name": "Irian Jaya"
+      },
+      "min_year": 1963,
+      "max_year": 1963,
+      "face": {
+        "value": 5,
+        "unit": "Rupiah",
+        "text": "5 Rupiah"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204468,
+        "title": "5 Rupiah (Overprint)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "irian_jaya",
+          "name": "Irian Jaya"
+        },
+        "min_year": 1963,
+        "max_year": 1963,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/irian_jaya/5e9bd485c78079.22700258-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/irian_jaya/5e9bd486168612.83134745-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204469,
+      "title": "5 Rupiah (Overprint)",
+      "issuer": {
+        "code": "riau",
+        "name": "Riau"
+      },
+      "min_year": 1963,
+      "max_year": 1963,
+      "face": {
+        "value": 5,
+        "unit": "Rupiah",
+        "text": "5 Rupiah"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204469,
+        "title": "5 Rupiah (Overprint)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "riau",
+          "name": "Riau"
+        },
+        "min_year": 1963,
+        "max_year": 1963,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/riau/5e9bd4eaf2b2d8.26754597-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/riau/5e9bd4eb3c8605.56203306-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204548,
+      "title": "100 Rupiah",
+      "issuer": {
+        "code": "indonesie",
+        "name": "Indonesia (1949-date)"
+      },
+      "min_year": 1984,
+      "max_year": 1984,
+      "face": {
+        "value": 100,
+        "unit": "Rupiah",
+        "text": "100 Rupiah"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204548,
+        "title": "100 Rupiah",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "indonesie",
+          "name": "Indonesia (1949-date)"
+        },
+        "min_year": 1984,
+        "max_year": 1984,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/626e2fca944280.82412153-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/626e2fcb724bd5.76313884-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204989,
+      "title": "5 Rupiah",
+      "issuer": {
+        "code": "indonesie",
+        "name": "Indonesia (1949-date)"
+      },
+      "min_year": 1960,
+      "max_year": 1960,
+      "face": {
+        "value": 5,
+        "unit": "Rupiah",
+        "text": "5 Rupiah"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204989,
+        "title": "5 Rupiah",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "indonesie",
+          "name": "Indonesia (1949-date)"
+        },
+        "min_year": 1960,
+        "max_year": 1960,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/6a4a2b9f000454.46787960-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/5e9cfcf50a49f7.43627955-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204990,
+      "title": "10 Rupiah",
+      "issuer": {
+        "code": "indonesie",
+        "name": "Indonesia (1949-date)"
+      },
+      "min_year": 1968,
+      "max_year": 1968,
+      "face": {
+        "value": 10,
+        "unit": "Rupiah",
+        "text": "10 Rupiah"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204990,
+        "title": "10 Rupiah",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "indonesie",
+          "name": "Indonesia (1949-date)"
+        },
+        "min_year": 1968,
+        "max_year": 1968,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/5e9cfe9bdb0961.13317105-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/5e9cfe9c893a66.31916355-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205232,
+      "title": "100 000 Rupiah",
+      "issuer": {
+        "code": "indonesie",
+        "name": "Indonesia (1949-date)"
+      },
+      "min_year": 1999,
+      "max_year": 1999,
+      "face": {
+        "value": 100000,
+        "unit": "Rupiah",
+        "text": "100000 Rupiah"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205232,
+        "title": "100 000 Rupiah",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "indonesie",
+          "name": "Indonesia (1949-date)"
+        },
+        "min_year": 1999,
+        "max_year": 1999,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/5e9d7d3a161889.27611364-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/5e9d7d399ca615.05963058-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205416,
+      "title": "20 000 Rupiah",
+      "issuer": {
+        "code": "indonesie",
+        "name": "Indonesia (1949-date)"
+      },
+      "min_year": 1998,
+      "max_year": 2004,
+      "face": {
+        "value": 20000,
+        "unit": "Rupiah",
+        "text": "20000 Rupiah"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205416,
+        "title": "20 000 Rupiah",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "indonesie",
+          "name": "Indonesia (1949-date)"
+        },
+        "min_year": 1998,
+        "max_year": 2004,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/6a1438ca1e0ea7.16168500-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/6a1438cabe6950.89301256-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206039,
+      "title": "20 000 Rupiah",
+      "issuer": {
+        "code": "indonesie",
+        "name": "Indonesia (1949-date)"
+      },
+      "min_year": 2016,
+      "max_year": 2024,
+      "face": {
+        "value": 20000,
+        "unit": "Rupiah",
+        "text": "20000 Rupiah"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206039,
+        "title": "20 000 Rupiah",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "indonesie",
+          "name": "Indonesia (1949-date)"
+        },
+        "min_year": 2016,
+        "max_year": 2024,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/5ea6e31beb20e6.96924463-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/5ea6e31d217a41.33905283-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206604,
+      "title": "50 Sen",
+      "issuer": {
+        "code": "indonesie",
+        "name": "Indonesia (1949-date)"
+      },
+      "min_year": 1964,
+      "max_year": 1964,
+      "face": {
+        "value": 50,
+        "unit": "Sen",
+        "text": "50 Sen"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206604,
+        "title": "50 Sen",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "indonesie",
+          "name": "Indonesia (1949-date)"
+        },
+        "min_year": 1964,
+        "max_year": 1964,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/626e2f9b81b528.33275539-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/626e2f9c4cd789.49127400-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206625,
+      "title": "100 Rupiah",
+      "issuer": {
+        "code": "indonesie",
+        "name": "Indonesia (1949-date)"
+      },
+      "min_year": 1992,
+      "max_year": 2000,
+      "face": {
+        "value": 100,
+        "unit": "Rupiah",
+        "text": "100 Rupiah"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206625,
+        "title": "100 Rupiah",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "indonesie",
+          "name": "Indonesia (1949-date)"
+        },
+        "min_year": 1992,
+        "max_year": 2000,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/626e3061d55046.29284574-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/626e3062c489b1.74070092-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206905,
+      "title": "1 Rupiah",
+      "issuer": {
+        "code": "indonesie",
+        "name": "Indonesia (1949-date)"
+      },
+      "min_year": 1960,
+      "max_year": 1961,
+      "face": {
+        "value": 1,
+        "unit": "Rupiah",
+        "text": "1 Rupiah"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206905,
+        "title": "1 Rupiah",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "indonesie",
+          "name": "Indonesia (1949-date)"
+        },
+        "min_year": 1960,
+        "max_year": 1961,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/6a4a27ff85a360.57409938-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/6a4a28005d8db5.76791144-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206933,
+      "title": "10 Rupiah",
+      "issuer": {
+        "code": "indonesie",
+        "name": "Indonesia (1949-date)"
+      },
+      "min_year": 1963,
+      "max_year": 1963,
+      "face": {
+        "value": 10,
+        "unit": "Rupiah",
+        "text": "10 Rupiah"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206933,
+        "title": "10 Rupiah",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "indonesie",
+          "name": "Indonesia (1949-date)"
+        },
+        "min_year": 1963,
+        "max_year": 1963,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/5eaef4497ae187.97809980-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/5eaef449e5b857.99687151-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 207292,
+      "title": "100 000 Rupiah",
+      "issuer": {
+        "code": "indonesie",
+        "name": "Indonesia (1949-date)"
+      },
+      "min_year": 2014,
+      "max_year": 2016,
+      "face": {
+        "value": 100000,
+        "unit": "Rupiah",
+        "text": "100000 Rupiah"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 207292,
+        "title": "100 000 Rupiah",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "indonesie",
+          "name": "Indonesia (1949-date)"
+        },
+        "min_year": 2014,
+        "max_year": 2016,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/6a286b18dac760.16422982-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/6a286b19d7af09.84211264-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 207295,
+      "title": "100 000 Rupiah",
+      "issuer": {
+        "code": "indonesie",
+        "name": "Indonesia (1949-date)"
+      },
+      "min_year": 2011,
+      "max_year": 2014,
+      "face": {
+        "value": 100000,
+        "unit": "Rupiah",
+        "text": "100000 Rupiah"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 207295,
+        "title": "100 000 Rupiah",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "indonesie",
+          "name": "Indonesia (1949-date)"
+        },
+        "min_year": 2011,
+        "max_year": 2014,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/5eaa8cec1b3a42.62877240-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/5ea99cc793cc17.47311619-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 207593,
+      "title": "1000 Rupiah",
+      "issuer": {
+        "code": "indonesie",
+        "name": "Indonesia (1949-date)"
+      },
+      "min_year": 1987,
+      "max_year": 1987,
+      "face": {
+        "value": 1000,
+        "unit": "Rupiah",
+        "text": "1000 Rupiah"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 207593,
+        "title": "1000 Rupiah",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "indonesie",
+          "name": "Indonesia (1949-date)"
+        },
+        "min_year": 1987,
+        "max_year": 1987,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/5ec1c5790e6f70.29587322-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/5ec1c579d92a10.09971670-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 208220,
+      "title": "100 000 Rupiah",
+      "issuer": {
+        "code": "indonesie",
+        "name": "Indonesia (1949-date)"
+      },
+      "min_year": 2016,
+      "max_year": 2024,
+      "face": {
+        "value": 100000,
+        "unit": "Rupiah",
+        "text": "100000 Rupiah"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 208220,
+        "title": "100 000 Rupiah",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "indonesie",
+          "name": "Indonesia (1949-date)"
+        },
+        "min_year": 2016,
+        "max_year": 2024,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/5ea6e5d5bb5e83.71787070-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/5ea6e5d6ed5bf7.18067991-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 209036,
+      "title": "100 Rupiah",
+      "issuer": {
+        "code": "indonesie",
+        "name": "Indonesia (1949-date)"
+      },
+      "min_year": 1977,
+      "max_year": 1977,
+      "face": {
+        "value": 100,
+        "unit": "Rupiah",
+        "text": "100 Rupiah"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 209036,
+        "title": "100 Rupiah",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "indonesie",
+          "name": "Indonesia (1949-date)"
+        },
+        "min_year": 1977,
+        "max_year": 1977,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/66cb44de95cfc5.20654153-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/66c98f074a16a0.32525863-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 209050,
+      "title": "500 Rupiah",
+      "issuer": {
+        "code": "indonesie",
+        "name": "Indonesia (1949-date)"
+      },
+      "min_year": 1988,
+      "max_year": 1988,
+      "face": {
+        "value": 500,
+        "unit": "Rupiah",
+        "text": "500 Rupiah"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 209050,
+        "title": "500 Rupiah",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "indonesie",
+          "name": "Indonesia (1949-date)"
+        },
+        "min_year": 1988,
+        "max_year": 1988,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/5ea96d835f17c0.60498030-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/5ea96d84215b65.51756374-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 209066,
+      "title": "5000 Rupiah",
+      "issuer": {
+        "code": "indonesie",
+        "name": "Indonesia (1949-date)"
+      },
+      "min_year": 1992,
+      "max_year": 2001,
+      "face": {
+        "value": 5000,
+        "unit": "Rupiah",
+        "text": "5000 Rupiah"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 209066,
+        "title": "5000 Rupiah",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "indonesie",
+          "name": "Indonesia (1949-date)"
+        },
+        "min_year": 1992,
+        "max_year": 2001,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/5ea9725d9b9759.02924046-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/5ea9725d247748.11207584-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 209073,
+      "title": "10 000 Rupiah",
+      "issuer": {
+        "code": "indonesie",
+        "name": "Indonesia (1949-date)"
+      },
+      "min_year": 1979,
+      "max_year": 1979,
+      "face": {
+        "value": 10000,
+        "unit": "Rupiah",
+        "text": "10000 Rupiah"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 209073,
+        "title": "10 000 Rupiah",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "indonesie",
+          "name": "Indonesia (1949-date)"
+        },
+        "min_year": 1979,
+        "max_year": 1979,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/5ea974f8ba4776.96560046-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/5ea974f9581fd5.64074887-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 209089,
+      "title": "10 000 Rupiah",
+      "issuer": {
+        "code": "indonesie",
+        "name": "Indonesia (1949-date)"
+      },
+      "min_year": 1985,
+      "max_year": 1985,
+      "face": {
+        "value": 10000,
+        "unit": "Rupiah",
+        "text": "10000 Rupiah"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 209089,
+        "title": "10 000 Rupiah",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "indonesie",
+          "name": "Indonesia (1949-date)"
+        },
+        "min_year": 1985,
+        "max_year": 1985,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/5ea976a6911359.40894182-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/5ea976a732a659.91096738-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 209157,
+      "title": "50 000 Rupiah",
+      "issuer": {
+        "code": "indonesie",
+        "name": "Indonesia (1949-date)"
+      },
+      "min_year": 2016,
+      "max_year": 2021,
+      "face": {
+        "value": 50000,
+        "unit": "Rupiah",
+        "text": "50000 Rupiah"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 209157,
+        "title": "50 000 Rupiah",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "indonesie",
+          "name": "Indonesia (1949-date)"
+        },
+        "min_year": 2016,
+        "max_year": 2021,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/5ea99a0616cdc6.03714774-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/5ea99a077bea96.35496620-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 209262,
+      "title": "500 Rupiah",
+      "issuer": {
+        "code": "indonesie",
+        "name": "Indonesia (1949-date)"
+      },
+      "min_year": 1977,
+      "max_year": 1977,
+      "face": {
+        "value": 500,
+        "unit": "Rupiah",
+        "text": "500 Rupiah"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 209262,
+        "title": "500 Rupiah",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "indonesie",
+          "name": "Indonesia (1949-date)"
+        },
+        "min_year": 1977,
+        "max_year": 1977,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/6a4a7d9be2eca9.70788121-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/6a4a7d9cbd3af2.88161582-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 209263,
+      "title": "1000 Rupiah",
+      "issuer": {
+        "code": "indonesie",
+        "name": "Indonesia (1949-date)"
+      },
+      "min_year": 1968,
+      "max_year": 1968,
+      "face": {
+        "value": 1000,
+        "unit": "Rupiah",
+        "text": "1000 Rupiah"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 209263,
+        "title": "1000 Rupiah",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "indonesie",
+          "name": "Indonesia (1949-date)"
+        },
+        "min_year": 1968,
+        "max_year": 1968,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/5ea9dac1983291.19394368-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/5ea9dac21715a4.79023622-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 209275,
+      "title": "100 Rupiah",
+      "issuer": {
+        "code": "indonesie",
+        "name": "Indonesia (1949-date)"
+      },
+      "min_year": 1968,
+      "max_year": 1968,
+      "face": {
+        "value": 100,
+        "unit": "Rupiah",
+        "text": "100 Rupiah"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 209275,
+        "title": "100 Rupiah",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "indonesie",
+          "name": "Indonesia (1949-date)"
+        },
+        "min_year": 1968,
+        "max_year": 1968,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/649714f097f4e2.40155093-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/649714f14cf591.79781908-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 210876,
+      "title": "2½ Rupiah",
+      "issuer": {
+        "code": "indonesie",
+        "name": "Indonesia (1949-date)"
+      },
+      "min_year": 1964,
+      "max_year": 1964,
+      "face": {
+        "value": 2.5,
+        "unit": "Rupiah",
+        "text": "2.5 Rupiah"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 210876,
+        "title": "2½ Rupiah",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "indonesie",
+          "name": "Indonesia (1949-date)"
+        },
+        "min_year": 1964,
+        "max_year": 1964,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/6a4a2b28a03e08.45405880-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/6a4a2b29a66920.33002481-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 211144,
+      "title": "20 000 Rupiah (without segmented security thread; with escutcheon)",
+      "issuer": {
+        "code": "indonesie",
+        "name": "Indonesia (1949-date)"
+      },
+      "min_year": 1992,
+      "max_year": 1995,
+      "face": {
+        "value": 20000,
+        "unit": "Rupiah",
+        "text": "20000 Rupiah"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 211144,
+        "title": "20 000 Rupiah (without segmented security thread; with escutcheon)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "indonesie",
+          "name": "Indonesia (1949-date)"
+        },
+        "min_year": 1992,
+        "max_year": 1995,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/67cd21ca757c07.89559455-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/67cd21cb7e39d7.30511403-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 211146,
+      "title": "50 000 Rupiah (25 Years of Development under President Haji Mohamed Soeharto)",
+      "issuer": {
+        "code": "indonesie",
+        "name": "Indonesia (1949-date)"
+      },
+      "min_year": 1993,
+      "max_year": 1994,
+      "face": {
+        "value": 50000,
+        "unit": "Rupiah",
+        "text": "50000 Rupiah"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 211146,
+        "title": "50 000 Rupiah (25 Years of Development under President Haji Mohamed Soeharto)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "indonesie",
+          "name": "Indonesia (1949-date)"
+        },
+        "min_year": 1993,
+        "max_year": 1994,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/5f4f1b165d7db5.17190329-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/5f4f1b169e25c8.84247013-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 211444,
+      "title": "50 000 Rupiah",
+      "issuer": {
+        "code": "indonesie",
+        "name": "Indonesia (1949-date)"
+      },
+      "min_year": 1995,
+      "max_year": 1998,
+      "face": {
+        "value": 50000,
+        "unit": "Rupiah",
+        "text": "50000 Rupiah"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 211444,
+        "title": "50 000 Rupiah",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "indonesie",
+          "name": "Indonesia (1949-date)"
+        },
+        "min_year": 1995,
+        "max_year": 1998,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/5eb1d3a0c9df81.49199289-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/5eb1d3a1722259.90888745-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 211741,
+      "title": "50 000 Rupiah",
+      "issuer": {
+        "code": "indonesie",
+        "name": "Indonesia (1949-date)"
+      },
+      "min_year": 1999,
+      "max_year": 2007,
+      "face": {
+        "value": 50000,
+        "unit": "Rupiah",
+        "text": "50000 Rupiah"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 211741,
+        "title": "50 000 Rupiah",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "indonesie",
+          "name": "Indonesia (1949-date)"
+        },
+        "min_year": 1999,
+        "max_year": 2007,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/5ec3ae91999722.18673158-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/5ec3ae921f7ab4.94300506-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 211751,
+      "title": "20 000 Rupiah (with segmented security thread; without escutcheon)",
+      "issuer": {
+        "code": "indonesie",
+        "name": "Indonesia (1949-date)"
+      },
+      "min_year": 1992,
+      "max_year": 1998,
+      "face": {
+        "value": 20000,
+        "unit": "Rupiah",
+        "text": "20000 Rupiah"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 211751,
+        "title": "20 000 Rupiah (with segmented security thread; without escutcheon)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "indonesie",
+          "name": "Indonesia (1949-date)"
+        },
+        "min_year": 1992,
+        "max_year": 1998,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/67cd21d42f9d74.03793752-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/67cd21d5300032.20460931-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 211754,
+      "title": "10 000 Rupiah",
+      "issuer": {
+        "code": "indonesie",
+        "name": "Indonesia (1949-date)"
+      },
+      "min_year": 1992,
+      "max_year": 1998,
+      "face": {
+        "value": 10000,
+        "unit": "Rupiah",
+        "text": "10000 Rupiah"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 211754,
+        "title": "10 000 Rupiah",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "indonesie",
+          "name": "Indonesia (1949-date)"
+        },
+        "min_year": 1992,
+        "max_year": 1998,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/5eb08d7d30db43.24908052-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/5eb08d7d6f32f7.69485368-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 211764,
+      "title": "5000 Rupiah",
+      "issuer": {
+        "code": "indonesie",
+        "name": "Indonesia (1949-date)"
+      },
+      "min_year": 1986,
+      "max_year": 1986,
+      "face": {
+        "value": 5000,
+        "unit": "Rupiah",
+        "text": "5000 Rupiah"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 211764,
+        "title": "5000 Rupiah",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "indonesie",
+          "name": "Indonesia (1949-date)"
+        },
+        "min_year": 1986,
+        "max_year": 1986,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/64b1b0140daa05.58407828-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/64b1b014dc11d5.60323004-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 211768,
+      "title": "5000 Rupiah",
+      "issuer": {
+        "code": "indonesie",
+        "name": "Indonesia (1949-date)"
+      },
+      "min_year": 1980,
+      "max_year": 1980,
+      "face": {
+        "value": 5000,
+        "unit": "Rupiah",
+        "text": "5000 Rupiah"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 211768,
+        "title": "5000 Rupiah",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "indonesie",
+          "name": "Indonesia (1949-date)"
+        },
+        "min_year": 1980,
+        "max_year": 1980,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/6a184288a3c3d3.56131913-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/6a1842895e13a6.61370963-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 211774,
+      "title": "1000 Rupiah",
+      "issuer": {
+        "code": "indonesie",
+        "name": "Indonesia (1949-date)"
+      },
+      "min_year": 1980,
+      "max_year": 1980,
+      "face": {
+        "value": 1000,
+        "unit": "Rupiah",
+        "text": "1000 Rupiah"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 211774,
+        "title": "1000 Rupiah",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "indonesie",
+          "name": "Indonesia (1949-date)"
+        },
+        "min_year": 1980,
+        "max_year": 1980,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/5eb0974e19fbe4.04415526-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/5eb0974e5844b6.84068892-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 211775,
+      "title": "500 Rupiah",
+      "issuer": {
+        "code": "indonesie",
+        "name": "Indonesia (1949-date)"
+      },
+      "min_year": 1982,
+      "max_year": 1982,
+      "face": {
+        "value": 500,
+        "unit": "Rupiah",
+        "text": "500 Rupiah"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 211775,
+        "title": "500 Rupiah",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "indonesie",
+          "name": "Indonesia (1949-date)"
+        },
+        "min_year": 1982,
+        "max_year": 1982,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/6a4a8b783d9af9.18148728-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/6a4a8b79075f38.92250890-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 211777,
+      "title": "100 Rupiah",
+      "issuer": {
+        "code": "indonesie",
+        "name": "Indonesia (1949-date)"
+      },
+      "min_year": 1964,
+      "max_year": 1964,
+      "face": {
+        "value": 100,
+        "unit": "Rupiah",
+        "text": "100 Rupiah"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 211777,
+        "title": "100 Rupiah",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "indonesie",
+          "name": "Indonesia (1949-date)"
+        },
+        "min_year": 1964,
+        "max_year": 1964,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/5eb09d73af91e8.79162758-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/5eb09d73e8d2b0.32259669-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 211779,
+      "title": "50 Rupiah",
+      "issuer": {
+        "code": "indonesie",
+        "name": "Indonesia (1949-date)"
+      },
+      "min_year": 1964,
+      "max_year": 1964,
+      "face": {
+        "value": 50,
+        "unit": "Rupiah",
+        "text": "50 Rupiah"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 211779,
+        "title": "50 Rupiah",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "indonesie",
+          "name": "Indonesia (1949-date)"
+        },
+        "min_year": 1964,
+        "max_year": 1964,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/5eb09fd5686db2.64531487-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/5eb09fd59d69a0.42850031-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 214320,
+      "title": "1000 Rupiah",
+      "issuer": {
+        "code": "indonesie",
+        "name": "Indonesia (1949-date)"
+      },
+      "min_year": 1975,
+      "max_year": 1975,
+      "face": {
+        "value": 1000,
+        "unit": "Rupiah",
+        "text": "1000 Rupiah"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 214320,
+        "title": "1000 Rupiah",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "indonesie",
+          "name": "Indonesia (1949-date)"
+        },
+        "min_year": 1975,
+        "max_year": 1975,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/5ebab0b100f460.07069968-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/5ebab0b1359065.54328467-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 214324,
+      "title": "1 Rupiah",
+      "issuer": {
+        "code": "indonesie",
+        "name": "Indonesia (1949-date)"
+      },
+      "min_year": 1964,
+      "max_year": 1964,
+      "face": {
+        "value": 1,
+        "unit": "Rupiah",
+        "text": "1 Rupiah"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 214324,
+        "title": "1 Rupiah",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "indonesie",
+          "name": "Indonesia (1949-date)"
+        },
+        "min_year": 1964,
+        "max_year": 1964,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/6a4a28f2eebbc9.84430761-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/6a4a28f3da4e16.68386589-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 214325,
+      "title": "10 Rupiah",
+      "issuer": {
+        "code": "indonesie",
+        "name": "Indonesia (1949-date)"
+      },
+      "min_year": 1960,
+      "max_year": 1960,
+      "face": {
+        "value": 10,
+        "unit": "Rupiah",
+        "text": "10 Rupiah"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 214325,
+        "title": "10 Rupiah",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "indonesie",
+          "name": "Indonesia (1949-date)"
+        },
+        "min_year": 1960,
+        "max_year": 1960,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/6a4a2c35435af4.01995810-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/6a4a2c3645caa1.00844151-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 214711,
+      "title": "5000 Rupiah",
+      "issuer": {
+        "code": "indonesie",
+        "name": "Indonesia (1949-date)"
+      },
+      "min_year": 1975,
+      "max_year": 1975,
+      "face": {
+        "value": 5000,
+        "unit": "Rupiah",
+        "text": "5000 Rupiah"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 214711,
+        "title": "5000 Rupiah",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "indonesie",
+          "name": "Indonesia (1949-date)"
+        },
+        "min_year": 1975,
+        "max_year": 1975,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/5ebc3913832846.60893067-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/5ebc391410e300.74561643-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 215722,
+      "title": "25 Rupiah",
+      "issuer": {
+        "code": "indonesie",
+        "name": "Indonesia (1949-date)"
+      },
+      "min_year": 1964,
+      "max_year": 1964,
+      "face": {
+        "value": 25,
+        "unit": "Rupiah",
+        "text": "25 Rupiah"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 215722,
+        "title": "25 Rupiah",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "indonesie",
+          "name": "Indonesia (1949-date)"
+        },
+        "min_year": 1964,
+        "max_year": 1964,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/5ec1c3913b4ce3.48020784-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/5ec1c3922d2970.67923552-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 223633,
+      "title": "100 Rupiah",
+      "issuer": {
+        "code": "indonesie",
+        "name": "Indonesia (1949-date)"
+      },
+      "min_year": 1964,
+      "max_year": 1964,
+      "face": {
+        "value": 100,
+        "unit": "Rupiah",
+        "text": "100 Rupiah"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 223633,
+        "title": "100 Rupiah",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "indonesie",
+          "name": "Indonesia (1949-date)"
+        },
+        "min_year": 1964,
+        "max_year": 1964,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/67d19f8f9b9163.92059866-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/67d19f9187bd60.64411023-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 225362,
+      "title": "1 Rupiah",
+      "issuer": {
+        "code": "indonesie",
+        "name": "Indonesia (1949-date)"
+      },
+      "min_year": 1968,
+      "max_year": 1968,
+      "face": {
+        "value": 1,
+        "unit": "Rupiah",
+        "text": "1 Rupiah"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 225362,
+        "title": "1 Rupiah",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "indonesie",
+          "name": "Indonesia (1949-date)"
+        },
+        "min_year": 1968,
+        "max_year": 1968,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/5f195f65513529.22800854-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/5f195f66951159.92257121-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 225363,
+      "title": "500 Rupiah",
+      "issuer": {
+        "code": "indonesie",
+        "name": "Indonesia (1949-date)"
+      },
+      "min_year": 1968,
+      "max_year": 1968,
+      "face": {
+        "value": 500,
+        "unit": "Rupiah",
+        "text": "500 Rupiah"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 225363,
+        "title": "500 Rupiah",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "indonesie",
+          "name": "Indonesia (1949-date)"
+        },
+        "min_year": 1968,
+        "max_year": 1968,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/66cf2a49c94aa5.88150185-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/66cf2a4a66ca74.27988191-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 225505,
+      "title": "1000 Rupiah",
+      "issuer": {
+        "code": "indonesie",
+        "name": "Indonesia (1949-date)"
+      },
+      "min_year": 1960,
+      "max_year": 1960,
+      "face": {
+        "value": 1000,
+        "unit": "Rupiah",
+        "text": "1000 Rupiah"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 225505,
+        "title": "1000 Rupiah",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "indonesie",
+          "name": "Indonesia (1949-date)"
+        },
+        "min_year": 1960,
+        "max_year": 1960,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/5f0324ea32f3c2.64937093-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/5f0324ea7b1ad6.24712942-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 230612,
+      "title": "100 Rupiah",
+      "issuer": {
+        "code": "indonesie",
+        "name": "Indonesia (1949-date)"
+      },
+      "min_year": 1960,
+      "max_year": 1960,
+      "face": {
+        "value": 100,
+        "unit": "Rupiah",
+        "text": "100 Rupiah"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 230612,
+        "title": "100 Rupiah",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "indonesie",
+          "name": "Indonesia (1949-date)"
+        },
+        "min_year": 1960,
+        "max_year": 1960,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/5f25d6816a7cf2.57177249-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/5f25d6826dbe87.34243554-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 232947,
+      "title": "75 000 Rupiah (Independence)",
+      "issuer": {
+        "code": "indonesie",
+        "name": "Indonesia (1949-date)"
+      },
+      "min_year": 2020,
+      "max_year": 2020,
+      "face": {
+        "value": 75000,
+        "unit": "Rupiah",
+        "text": "75000 Rupiah"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 232947,
+        "title": "75 000 Rupiah (Independence)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "indonesie",
+          "name": "Indonesia (1949-date)"
+        },
+        "min_year": 2020,
+        "max_year": 2020,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/65e9e6afb84997.34758898-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/65e9e6b26d1c19.32272417-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 232948,
+      "title": "50 000 Rupiah (25 Years of Development under President Haji Mohamed Soeharto)",
+      "issuer": {
+        "code": "indonesie",
+        "name": "Indonesia (1949-date)"
+      },
+      "min_year": 1993,
+      "max_year": 1993,
+      "face": {
+        "value": 50000,
+        "unit": "Rupiah",
+        "text": "50000 Rupiah"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 232948,
+        "title": "50 000 Rupiah (25 Years of Development under President Haji Mohamed Soeharto)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "indonesie",
+          "name": "Indonesia (1949-date)"
+        },
+        "min_year": 1993,
+        "max_year": 1993,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/65be311d8e8c79.28875739-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/65be3120d65d59.26482849-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 235027,
+      "title": "10 000 Rupiah (No coat of arms)",
+      "issuer": {
+        "code": "indonesie",
+        "name": "Indonesia (1949-date)"
+      },
+      "min_year": 1964,
+      "max_year": 1964,
+      "face": {
+        "value": 10000,
+        "unit": "Rupiah",
+        "text": "10000 Rupiah"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 235027,
+        "title": "10 000 Rupiah (No coat of arms)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "indonesie",
+          "name": "Indonesia (1949-date)"
+        },
+        "min_year": 1964,
+        "max_year": 1964,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/5fb66858df3f43.07332616-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/5fb66859113275.35767256-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 281703,
+      "title": "50 Rupiah",
+      "issuer": {
+        "code": "indonesie",
+        "name": "Indonesia (1949-date)"
+      },
+      "min_year": 1968,
+      "max_year": 1968,
+      "face": {
+        "value": 50,
+        "unit": "Rupiah",
+        "text": "50 Rupiah"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 281703,
+        "title": "50 Rupiah",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "indonesie",
+          "name": "Indonesia (1949-date)"
+        },
+        "min_year": 1968,
+        "max_year": 1968,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/68de049863b867.25452807-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/68de04992721d3.31325902-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 283085,
+      "title": "10 000 Rupiah",
+      "issuer": {
+        "code": "indonesie",
+        "name": "Indonesia (1949-date)"
+      },
+      "min_year": 1975,
+      "max_year": 1975,
+      "face": {
+        "value": 10000,
+        "unit": "Rupiah",
+        "text": "10000 Rupiah"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 283085,
+        "title": "10 000 Rupiah",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "indonesie",
+          "name": "Indonesia (1949-date)"
+        },
+        "min_year": 1975,
+        "max_year": 1975,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/6630a1124e2db1.40778770-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/6630a1139bca60.61843857-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 284933,
+      "title": "50 Rupiah",
+      "issuer": {
+        "code": "indonesie",
+        "name": "Indonesia (1949-date)"
+      },
+      "min_year": 1960,
+      "max_year": 1960,
+      "face": {
+        "value": 50,
+        "unit": "Rupiah",
+        "text": "50 Rupiah"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 284933,
+        "title": "50 Rupiah",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "indonesie",
+          "name": "Indonesia (1949-date)"
+        },
+        "min_year": 1960,
+        "max_year": 1960,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/662fdc4763b182.89400225-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/662fdc487eccc5.27886346-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 284934,
+      "title": "500 Rupiah",
+      "issuer": {
+        "code": "indonesie",
+        "name": "Indonesia (1949-date)"
+      },
+      "min_year": 1960,
+      "max_year": 1960,
+      "face": {
+        "value": 500,
+        "unit": "Rupiah",
+        "text": "500 Rupiah"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 284934,
+        "title": "500 Rupiah",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "indonesie",
+          "name": "Indonesia (1949-date)"
+        },
+        "min_year": 1960,
+        "max_year": 1960,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/662fd6d08ef644.03779110-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/662fd6d1b37f34.07713587-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 284938,
+      "title": "1 Rupiah (Small change)",
+      "issuer": {
+        "code": "indonesie",
+        "name": "Indonesia (1949-date)"
+      },
+      "min_year": 1961,
+      "max_year": 1961,
+      "face": {
+        "value": 1,
+        "unit": "Rupiah",
+        "text": "1 Rupiah"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 284938,
+        "title": "1 Rupiah (Small change)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "indonesie",
+          "name": "Indonesia (1949-date)"
+        },
+        "min_year": 1961,
+        "max_year": 1961,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/662f462b0818d3.65816505-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/662f462c13d999.00905264-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 284939,
+      "title": "2½ Rupiah (Small change)",
+      "issuer": {
+        "code": "indonesie",
+        "name": "Indonesia (1949-date)"
+      },
+      "min_year": 1961,
+      "max_year": 1961,
+      "face": {
+        "value": 2.5,
+        "unit": "Rupiah",
+        "text": "2.5 Rupiah"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 284939,
+        "title": "2½ Rupiah (Small change)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "indonesie",
+          "name": "Indonesia (1949-date)"
+        },
+        "min_year": 1961,
+        "max_year": 1961,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/662f43e4290387.55745380-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/662f43e51d3307.41142576-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 284948,
+      "title": "10 000 Rupiah (Red)",
+      "issuer": {
+        "code": "indonesie",
+        "name": "Indonesia (1949-date)"
+      },
+      "min_year": 1964,
+      "max_year": 1964,
+      "face": {
+        "value": 10000,
+        "unit": "Rupiah",
+        "text": "10000 Rupiah"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 284948,
+        "title": "10 000 Rupiah (Red)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "indonesie",
+          "name": "Indonesia (1949-date)"
+        },
+        "min_year": 1964,
+        "max_year": 1964,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/662fd8263e4a97.69031533-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/662fd8271333f9.23058958-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 284955,
+      "title": "10 000 Rupiah",
+      "issuer": {
+        "code": "indonesie",
+        "name": "Indonesia (1949-date)"
+      },
+      "min_year": 1968,
+      "max_year": 1968,
+      "face": {
+        "value": 10000,
+        "unit": "Rupiah",
+        "text": "10000 Rupiah"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 284955,
+        "title": "10 000 Rupiah",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "indonesie",
+          "name": "Indonesia (1949-date)"
+        },
+        "min_year": 1968,
+        "max_year": 1968,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/6630a24488e6e2.39938482-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/6630a245b7e495.30742447-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 298674,
+      "title": "1 Rupiah",
+      "issuer": {
+        "code": "irian_jaya",
+        "name": "Irian Jaya"
+      },
+      "min_year": 1963,
+      "max_year": 1963,
+      "face": {
+        "value": 1,
+        "unit": "Rupiah",
+        "text": "1 Rupiah"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 298674,
+        "title": "1 Rupiah",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "irian_jaya",
+          "name": "Irian Jaya"
+        },
+        "min_year": 1963,
+        "max_year": 1963,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/irian_jaya/60d858bdc80fd9.47659354-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/irian_jaya/60d858bde16042.87994066-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 317390,
+      "title": "10 000 Rupiah (Visible coat of arms)",
+      "issuer": {
+        "code": "indonesie",
+        "name": "Indonesia (1949-date)"
+      },
+      "min_year": 1964,
+      "max_year": 1964,
+      "face": {
+        "value": 10000,
+        "unit": "Rupiah",
+        "text": "10000 Rupiah"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 317390,
+        "title": "10 000 Rupiah (Visible coat of arms)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "indonesie",
+          "name": "Indonesia (1949-date)"
+        },
+        "min_year": 1964,
+        "max_year": 1964,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/61e3c0bb7d88b8.79110513-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/61e3c0bc684801.45726811-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 338501,
+      "title": "1000 Rupiah",
+      "issuer": {
+        "code": "indonesie",
+        "name": "Indonesia (1949-date)"
+      },
+      "min_year": 2022,
+      "max_year": 2025,
+      "face": {
+        "value": 1000,
+        "unit": "Rupiah",
+        "text": "1000 Rupiah"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 338501,
+        "title": "1000 Rupiah",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "indonesie",
+          "name": "Indonesia (1949-date)"
+        },
+        "min_year": 2022,
+        "max_year": 2025,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/634d2ba4ac0599.26036727-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/634d2ba55fc769.22021433-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 338503,
+      "title": "2000 Rupiah",
+      "issuer": {
+        "code": "indonesie",
+        "name": "Indonesia (1949-date)"
+      },
+      "min_year": 2022,
+      "max_year": 2026,
+      "face": {
+        "value": 2000,
+        "unit": "Rupiah",
+        "text": "2000 Rupiah"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 338503,
+        "title": "2000 Rupiah",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "indonesie",
+          "name": "Indonesia (1949-date)"
+        },
+        "min_year": 2022,
+        "max_year": 2026,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/634d2dcd7cc467.27286360-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/634d2dce24fe65.07567515-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 338505,
+      "title": "5000 Rupiah",
+      "issuer": {
+        "code": "indonesie",
+        "name": "Indonesia (1949-date)"
+      },
+      "min_year": 2022,
+      "max_year": 2026,
+      "face": {
+        "value": 5000,
+        "unit": "Rupiah",
+        "text": "5000 Rupiah"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 338505,
+        "title": "5000 Rupiah",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "indonesie",
+          "name": "Indonesia (1949-date)"
+        },
+        "min_year": 2022,
+        "max_year": 2026,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/634d3037a3e3c0.09308644-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/634d30385a0e18.20052407-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 338506,
+      "title": "20 000 Rupiah",
+      "issuer": {
+        "code": "indonesie",
+        "name": "Indonesia (1949-date)"
+      },
+      "min_year": 2022,
+      "max_year": 2025,
+      "face": {
+        "value": 20000,
+        "unit": "Rupiah",
+        "text": "20000 Rupiah"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 338506,
+        "title": "20 000 Rupiah",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "indonesie",
+          "name": "Indonesia (1949-date)"
+        },
+        "min_year": 2022,
+        "max_year": 2025,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/63c4fc1df1fe15.27611275-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/63c4fc1eaca4e5.17229955-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 338508,
+      "title": "10 000 Rupiah",
+      "issuer": {
+        "code": "indonesie",
+        "name": "Indonesia (1949-date)"
+      },
+      "min_year": 2022,
+      "max_year": 2025,
+      "face": {
+        "value": 10000,
+        "unit": "Rupiah",
+        "text": "10000 Rupiah"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 338508,
+        "title": "10 000 Rupiah",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "indonesie",
+          "name": "Indonesia (1949-date)"
+        },
+        "min_year": 2022,
+        "max_year": 2025,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/64f8258a672033.55528659-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/64f8258b12d6a8.22140654-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 338509,
+      "title": "100 000 Rupiah",
+      "issuer": {
+        "code": "indonesie",
+        "name": "Indonesia (1949-date)"
+      },
+      "min_year": 2022,
+      "max_year": 2026,
+      "face": {
+        "value": 100000,
+        "unit": "Rupiah",
+        "text": "100000 Rupiah"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 338509,
+        "title": "100 000 Rupiah",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "indonesie",
+          "name": "Indonesia (1949-date)"
+        },
+        "min_year": 2022,
+        "max_year": 2026,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/63c4fc66189366.53110780-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/63c4fc66d3d533.93616298-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 338510,
+      "title": "50 000 Rupiah",
+      "issuer": {
+        "code": "indonesie",
+        "name": "Indonesia (1949-date)"
+      },
+      "min_year": 2022,
+      "max_year": 2025,
+      "face": {
+        "value": 50000,
+        "unit": "Rupiah",
+        "text": "50000 Rupiah"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 338510,
+        "title": "50 000 Rupiah",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "indonesie",
+          "name": "Indonesia (1949-date)"
+        },
+        "min_year": 2022,
+        "max_year": 2025,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/63c4fc45d1cc01.75599490-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/63c4fc46924eb7.94757262-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 402265,
+      "title": "10 Rupiah (Overprint)",
+      "issuer": {
+        "code": "irian_jaya",
+        "name": "Irian Jaya"
+      },
+      "min_year": 1963,
+      "max_year": 1963,
+      "face": {
+        "value": 10,
+        "unit": "Rupiah",
+        "text": "10 Rupiah"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 402265,
+        "title": "10 Rupiah (Overprint)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "irian_jaya",
+          "name": "Irian Jaya"
+        },
+        "min_year": 1963,
+        "max_year": 1963,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/irian_jaya/65e0cc515494d6.84854562-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/irian_jaya/65e0cc51bb58e4.33202125-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 412684,
+      "title": "5000 Rupiah",
+      "issuer": {
+        "code": "indonesie",
+        "name": "Indonesia (1949-date)"
+      },
+      "min_year": 1968,
+      "max_year": 1968,
+      "face": {
+        "value": 5000,
+        "unit": "Rupiah",
+        "text": "5000 Rupiah"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 412684,
+        "title": "5000 Rupiah",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "indonesie",
+          "name": "Indonesia (1949-date)"
+        },
+        "min_year": 1968,
+        "max_year": 1968,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/662fb19e41f524.26599595-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/662fb19edb65e7.93743800-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 535929,
+      "title": "2500 Rupiah",
+      "issuer": {
+        "code": "indonesie",
+        "name": "Indonesia (1949-date)"
+      },
+      "min_year": 1960,
+      "max_year": 1960,
+      "face": {
+        "value": 2500,
+        "unit": "Rupiah",
+        "text": "2500 Rupiah"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 535929,
+        "title": "2500 Rupiah",
+        "object_type": {
+          "id": 162,
+          "name": "Non-issued banknotes"
+        },
+        "issuer": {
+          "code": "indonesie",
+          "name": "Indonesia (1949-date)"
+        },
+        "min_year": 1960,
+        "max_year": 1960,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/692dcdc0b5e895.37611545-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/692dcdc106bf20.33728986-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 535945,
+      "title": "5000 Rupiah",
+      "issuer": {
+        "code": "indonesie",
+        "name": "Indonesia (1949-date)"
+      },
+      "min_year": 1960,
+      "max_year": 1960,
+      "face": {
+        "value": 5000,
+        "unit": "Rupiah",
+        "text": "5000 Rupiah"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 535945,
+        "title": "5000 Rupiah",
+        "object_type": {
+          "id": 162,
+          "name": "Non-issued banknotes"
+        },
+        "issuer": {
+          "code": "indonesie",
+          "name": "Indonesia (1949-date)"
+        },
+        "min_year": 1960,
+        "max_year": 1960,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/692dcf5c530534.17466351-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/indonesie/692dcf5c894c84.18155233-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 578118,
+      "title": "2½ Rupiah",
+      "issuer": {
+        "code": "irian_jaya",
+        "name": "Irian Jaya"
+      },
+      "min_year": 1961,
+      "max_year": 1961,
+      "face": {
+        "value": 2.5,
+        "unit": "Rupiah",
+        "text": "2.5 Rupiah"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 578118,
+        "title": "2½ Rupiah",
+        "object_type": {
+          "id": 84,
+          "name": "Local banknotes"
+        },
+        "issuer": {
+          "code": "irian_jaya",
+          "name": "Irian Jaya"
+        },
+        "min_year": 1961,
+        "max_year": 1961,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/irian_jaya/6a0201b91754c5.12626651-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/irian_jaya/6a0201b998bf27.64487140-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 578120,
+      "title": "100 Rupiah",
+      "issuer": {
+        "code": "irian_jaya",
+        "name": "Irian Jaya"
+      },
+      "min_year": 1960,
+      "max_year": 1960,
+      "face": {
+        "value": 100,
+        "unit": "Rupiah",
+        "text": "100 Rupiah"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 578120,
+        "title": "100 Rupiah",
+        "object_type": {
+          "id": 84,
+          "name": "Local banknotes"
+        },
+        "issuer": {
+          "code": "irian_jaya",
+          "name": "Irian Jaya"
+        },
+        "min_year": 1960,
+        "max_year": 1960,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/irian_jaya/6a02048f5fa0d9.46897529-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/irian_jaya/6a02048fd4d0a3.83784483-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 578147,
+      "title": "1 Rupiah",
+      "issuer": {
+        "code": "riau",
+        "name": "Riau"
+      },
+      "min_year": 1961,
+      "max_year": 1961,
+      "face": {
+        "value": 1,
+        "unit": "Rupiah",
+        "text": "1 Rupiah"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 578147,
+        "title": "1 Rupiah",
+        "object_type": {
+          "id": 84,
+          "name": "Local banknotes"
+        },
+        "issuer": {
+          "code": "riau",
+          "name": "Riau"
+        },
+        "min_year": 1961,
+        "max_year": 1961,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/riau/6a021430dbb829.14024564-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/riau/6a021431722210.79321174-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 578149,
+      "title": "2½ Rupiah",
+      "issuer": {
+        "code": "riau",
+        "name": "Riau"
+      },
+      "min_year": 1961,
+      "max_year": 1961,
+      "face": {
+        "value": 2.5,
+        "unit": "Rupiah",
+        "text": "2.5 Rupiah"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 578149,
+        "title": "2½ Rupiah",
+        "object_type": {
+          "id": 84,
+          "name": "Local banknotes"
+        },
+        "issuer": {
+          "code": "riau",
+          "name": "Riau"
+        },
+        "min_year": 1961,
+        "max_year": 1961,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/riau/6a02162bb2abf3.12298075-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/riau/6a02162c151199.59545643-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 578150,
+      "title": "10 Rupiah",
+      "issuer": {
+        "code": "riau",
+        "name": "Riau"
+      },
+      "min_year": 1960,
+      "max_year": 1960,
+      "face": {
+        "value": 10,
+        "unit": "Rupiah",
+        "text": "10 Rupiah"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 578150,
+        "title": "10 Rupiah",
+        "object_type": {
+          "id": 84,
+          "name": "Local banknotes"
+        },
+        "issuer": {
+          "code": "riau",
+          "name": "Riau"
+        },
+        "min_year": 1960,
+        "max_year": 1960,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/riau/6a0217e76a01f9.57010647-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/riau/6a0217e7ca46b1.42723295-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 578151,
+      "title": "100 Rupiah",
+      "issuer": {
+        "code": "riau",
+        "name": "Riau"
+      },
+      "min_year": 1960,
+      "max_year": 1960,
+      "face": {
+        "value": 100,
+        "unit": "Rupiah",
+        "text": "100 Rupiah"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 578151,
+        "title": "100 Rupiah",
+        "object_type": {
+          "id": 84,
+          "name": "Local banknotes"
+        },
+        "issuer": {
+          "code": "riau",
+          "name": "Riau"
+        },
+        "min_year": 1960,
+        "max_year": 1960,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/riau/6a0218c61e2a46.71491812-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/riau/6a0218c6690fb2.67233093-180.jpg",
+        "category": "banknote"
+      }
+    }
+  ]
+}

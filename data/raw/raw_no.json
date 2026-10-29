@@ -1,0 +1,1240 @@
+{
+  "meta": {
+    "generated_at": "2026-10-29T13:27:53.909Z",
+    "fixture": false,
+    "api": "numista v3",
+    "issuer": "norway",
+    "iso": "NO",
+    "category": "banknote",
+    "lang": "en",
+    "since": 1960,
+    "listed": 263,
+    "fetched": 33,
+    "details_fetched": 0,
+    "dropped_before_since": 230,
+    "dropped_by_source": {
+      "list": 230,
+      "detail": 0
+    },
+    "issuer_mismatches": 0,
+    "pages": 6,
+    "requests": 0
+  },
+  "types": [
+    {
+      "numista_type_id": 201751,
+      "title": "50 Kroner (The sea that binds us together)",
+      "issuer": {
+        "code": "norvege",
+        "name": "Norway"
+      },
+      "min_year": 2017,
+      "max_year": 2017,
+      "face": {
+        "value": 50,
+        "unit": "Kroner",
+        "text": "50 Kroner"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 201751,
+        "title": "50 Kroner (The sea that binds us together)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "norvege",
+          "name": "Norway"
+        },
+        "min_year": 2017,
+        "max_year": 2017,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/norvege/69f7ee38a61b76.01974594-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/norvege/69f7ee3a218251.37664952-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 201985,
+      "title": "100 Kroner (The sea that takes us out into the world)",
+      "issuer": {
+        "code": "norvege",
+        "name": "Norway"
+      },
+      "min_year": 2016,
+      "max_year": 2024,
+      "face": {
+        "value": 100,
+        "unit": "Kroner",
+        "text": "100 Kroner"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 201985,
+        "title": "100 Kroner (The sea that takes us out into the world)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "norvege",
+          "name": "Norway"
+        },
+        "min_year": 2016,
+        "max_year": 2024,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/norvege/65ce415b53ea88.12768791-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/norvege/65ce415db44e64.53536559-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203892,
+      "title": "200 Kroner (The sea that feeds us)",
+      "issuer": {
+        "code": "norvege",
+        "name": "Norway"
+      },
+      "min_year": 2016,
+      "max_year": 2022,
+      "face": {
+        "value": 200,
+        "unit": "Kroner",
+        "text": "200 Kroner"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203892,
+        "title": "200 Kroner (The sea that feeds us)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "norvege",
+          "name": "Norway"
+        },
+        "min_year": 2016,
+        "max_year": 2022,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/norvege/5f149848407364.72410800-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/norvege/5f149848b8a6e8.92384387-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205835,
+      "title": "10 Kroner (1962-1989; Nansen & fishing)",
+      "issuer": {
+        "code": "norvege",
+        "name": "Norway"
+      },
+      "min_year": 1972,
+      "max_year": 1984,
+      "face": {
+        "value": 10,
+        "unit": "Kroner",
+        "text": "10 Kroner"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205835,
+        "title": "10 Kroner (1962-1989; Nansen & fishing)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "norvege",
+          "name": "Norway"
+        },
+        "min_year": 1972,
+        "max_year": 1984,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/norvege/6810967d358ba1.99076383-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/norvege/6810967f006e70.63844408-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 207606,
+      "title": "50 Kroner (1977-2001; Vinje)",
+      "issuer": {
+        "code": "norvege",
+        "name": "Norway"
+      },
+      "min_year": 1984,
+      "max_year": 1995,
+      "face": {
+        "value": 50,
+        "unit": "Kroner",
+        "text": "50 Kroner"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 207606,
+        "title": "50 Kroner (1977-2001; Vinje)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "norvege",
+          "name": "Norway"
+        },
+        "min_year": 1984,
+        "max_year": 1995,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/norvege/65d5d716673418.93255971-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/norvege/65d5d719621236.18021301-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 207844,
+      "title": "50 Kroner (1994-2020; Asbjørnsen)",
+      "issuer": {
+        "code": "norvege",
+        "name": "Norway"
+      },
+      "min_year": 1996,
+      "max_year": 2015,
+      "face": {
+        "value": 50,
+        "unit": "Kroner",
+        "text": "50 Kroner"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 207844,
+        "title": "50 Kroner (1994-2020; Asbjørnsen)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "norvege",
+          "name": "Norway"
+        },
+        "min_year": 1996,
+        "max_year": 2015,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/norvege/623b608c075c78.94796377-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/norvege/623b608c8762a3.08928444-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 208940,
+      "title": "100 Kroner (1994-2020; Flagstad)",
+      "issuer": {
+        "code": "norvege",
+        "name": "Norway"
+      },
+      "min_year": 1995,
+      "max_year": 1999,
+      "face": {
+        "value": 100,
+        "unit": "Kroner",
+        "text": "100 Kroner"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 208940,
+        "title": "100 Kroner (1994-2020; Flagstad)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "norvege",
+          "name": "Norway"
+        },
+        "min_year": 1995,
+        "max_year": 1999,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/norvege/6640c7f5656544.57248975-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/norvege/6640c7f6238d72.83883188-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 209716,
+      "title": "500 Kroner (The sea that gives us prosperity)",
+      "issuer": {
+        "code": "norvege",
+        "name": "Norway"
+      },
+      "min_year": 2018,
+      "max_year": 2025,
+      "face": {
+        "value": 500,
+        "unit": "Kroner",
+        "text": "500 Kroner"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 209716,
+        "title": "500 Kroner (The sea that gives us prosperity)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "norvege",
+          "name": "Norway"
+        },
+        "min_year": 2018,
+        "max_year": 2025,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/norvege/63988348567856.82306112-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/norvege/6398834bb737a7.77162086-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 209719,
+      "title": "1000 Kroner (The sea that carries us forward)",
+      "issuer": {
+        "code": "norvege",
+        "name": "Norway"
+      },
+      "min_year": 2019,
+      "max_year": 2019,
+      "face": {
+        "value": 1000,
+        "unit": "Kroner",
+        "text": "1000 Kroner"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 209719,
+        "title": "1000 Kroner (The sea that carries us forward)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "norvege",
+          "name": "Norway"
+        },
+        "min_year": 2019,
+        "max_year": 2019,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/norvege/5ec3b0c03a35a9.92709462-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/norvege/5ec3b0c068c350.51768628-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 209722,
+      "title": "1000 Kroner (1994-2020; Munch)",
+      "issuer": {
+        "code": "norvege",
+        "name": "Norway"
+      },
+      "min_year": 2001,
+      "max_year": 2004,
+      "face": {
+        "value": 1000,
+        "unit": "Kroner",
+        "text": "1000 Kroner"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 209722,
+        "title": "1000 Kroner (1994-2020; Munch)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "norvege",
+          "name": "Norway"
+        },
+        "min_year": 2001,
+        "max_year": 2004,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/norvege/63988213f0b150.67557056-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/norvege/639882169c9c97.24506486-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 209725,
+      "title": "500 Kroner (1994-2020; Undset)",
+      "issuer": {
+        "code": "norvege",
+        "name": "Norway"
+      },
+      "min_year": 1999,
+      "max_year": 2015,
+      "face": {
+        "value": 500,
+        "unit": "Kroner",
+        "text": "500 Kroner"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 209725,
+        "title": "500 Kroner (1994-2020; Undset)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "norvege",
+          "name": "Norway"
+        },
+        "min_year": 1999,
+        "max_year": 2015,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/norvege/65c66d076b7f06.71918031-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/norvege/65c66d0c5d45e0.31786282-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 209730,
+      "title": "200 Kroner (1994-2020; Birkeland; holographic strip)",
+      "issuer": {
+        "code": "norvege",
+        "name": "Norway"
+      },
+      "min_year": 2002,
+      "max_year": 2014,
+      "face": {
+        "value": 200,
+        "unit": "Kroner",
+        "text": "200 Kroner"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 209730,
+        "title": "200 Kroner (1994-2020; Birkeland; holographic strip)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "norvege",
+          "name": "Norway"
+        },
+        "min_year": 2002,
+        "max_year": 2014,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/norvege/65c66cba5229d9.84411222-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/norvege/65c66cbef16e85.49717054-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 209732,
+      "title": "100 Kroner (1994-2020; Flagstad; holographic strip)",
+      "issuer": {
+        "code": "norvege",
+        "name": "Norway"
+      },
+      "min_year": 2003,
+      "max_year": 2014,
+      "face": {
+        "value": 100,
+        "unit": "Kroner",
+        "text": "100 Kroner"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 209732,
+        "title": "100 Kroner (1994-2020; Flagstad; holographic strip)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "norvege",
+          "name": "Norway"
+        },
+        "min_year": 2003,
+        "max_year": 2014,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/norvege/5eab16502fcf83.57741389-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/norvege/5eab1650d9f619.20879367-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 209734,
+      "title": "100 Kroner (1977-2001; Collet)",
+      "issuer": {
+        "code": "norvege",
+        "name": "Norway"
+      },
+      "min_year": 1976,
+      "max_year": 1994,
+      "face": {
+        "value": 100,
+        "unit": "Kroner",
+        "text": "100 Kroner"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 209734,
+        "title": "100 Kroner (1977-2001; Collet)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "norvege",
+          "name": "Norway"
+        },
+        "min_year": 1976,
+        "max_year": 1994,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/norvege/65d8ecab590d55.38524230-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/norvege/65d8ecae3d3b80.88497827-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 209736,
+      "title": "200 Kroner (1994-2020; Birkeland)",
+      "issuer": {
+        "code": "norvege",
+        "name": "Norway"
+      },
+      "min_year": 1994,
+      "max_year": 2000,
+      "face": {
+        "value": 200,
+        "unit": "Kroner",
+        "text": "200 Kroner"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 209736,
+        "title": "200 Kroner (1994-2020; Birkeland)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "norvege",
+          "name": "Norway"
+        },
+        "min_year": 1994,
+        "max_year": 2000,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/norvege/5ec3afe3d0aea0.88476908-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/norvege/5ec3afe40c4ae5.27809714-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 212478,
+      "title": "50 Kroner (1962-1989; Bjørnson)",
+      "issuer": {
+        "code": "norvege",
+        "name": "Norway"
+      },
+      "min_year": 1966,
+      "max_year": 1983,
+      "face": {
+        "value": 50,
+        "unit": "Kroner",
+        "text": "50 Kroner"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 212478,
+        "title": "50 Kroner (1962-1989; Bjørnson)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "norvege",
+          "name": "Norway"
+        },
+        "min_year": 1966,
+        "max_year": 1983,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/norvege/5eb2fb191f5c44.94055101-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/norvege/5eb2fb19da1891.69948292-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 212479,
+      "title": "100 Kroner (1962-1989; Wergeland)",
+      "issuer": {
+        "code": "norvege",
+        "name": "Norway"
+      },
+      "min_year": 1962,
+      "max_year": 1977,
+      "face": {
+        "value": 100,
+        "unit": "Kroner",
+        "text": "100 Kroner"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 212479,
+        "title": "100 Kroner (1962-1989; Wergeland)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "norvege",
+          "name": "Norway"
+        },
+        "min_year": 1962,
+        "max_year": 1977,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/norvege/5eb2fe546f9542.29809728-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/norvege/5eb2fe5546f123.47172066-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 212482,
+      "title": "5 Kroner (1948-1976; Nansen & fishing)",
+      "issuer": {
+        "code": "norvege",
+        "name": "Norway"
+      },
+      "min_year": 1955,
+      "max_year": 1963,
+      "face": {
+        "value": 5,
+        "unit": "Kroner",
+        "text": "5 Kroner"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 212482,
+        "title": "5 Kroner (1948-1976; Nansen & fishing)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "norvege",
+          "name": "Norway"
+        },
+        "min_year": 1955,
+        "max_year": 1963,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/norvege/5eb302dae0f721.59666004-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/norvege/5eb302db930823.94333395-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 212486,
+      "title": "10 Kroner (1948-1976; Michelsen & shipping)",
+      "issuer": {
+        "code": "norvege",
+        "name": "Norway"
+      },
+      "min_year": 1954,
+      "max_year": 1973,
+      "face": {
+        "value": 10,
+        "unit": "Kroner",
+        "text": "10 Kroner"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 212486,
+        "title": "10 Kroner (1948-1976; Michelsen & shipping)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "norvege",
+          "name": "Norway"
+        },
+        "min_year": 1954,
+        "max_year": 1973,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/norvege/65d8eb18b60648.84568953-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/norvege/65d8eb1ac12981.14206535-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 224291,
+      "title": "500 Kroner (1977-2001; Grieg)",
+      "issuer": {
+        "code": "norvege",
+        "name": "Norway"
+      },
+      "min_year": 1991,
+      "max_year": 1997,
+      "face": {
+        "value": 500,
+        "unit": "Kroner",
+        "text": "500 Kroner"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 224291,
+        "title": "500 Kroner (1977-2001; Grieg)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "norvege",
+          "name": "Norway"
+        },
+        "min_year": 1991,
+        "max_year": 1997,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/norvege/5f2b856030ac41.26626908-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/norvege/5f2b85607f5ad4.07559386-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 231208,
+      "title": "500 Kroner (1962-1989; Abel)",
+      "issuer": {
+        "code": "norvege",
+        "name": "Norway"
+      },
+      "min_year": 1978,
+      "max_year": 1985,
+      "face": {
+        "value": 500,
+        "unit": "Kroner",
+        "text": "500 Kroner"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 231208,
+        "title": "500 Kroner (1962-1989; Abel)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "norvege",
+          "name": "Norway"
+        },
+        "min_year": 1978,
+        "max_year": 1985,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/norvege/5f2b8927a8b9c7.65554816-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/norvege/5f2b8928076414.81968613-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 231209,
+      "title": "1000 Kroner (1962-1989; Ibsen)",
+      "issuer": {
+        "code": "norvege",
+        "name": "Norway"
+      },
+      "min_year": 1975,
+      "max_year": 1987,
+      "face": {
+        "value": 1000,
+        "unit": "Kroner",
+        "text": "1000 Kroner"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 231209,
+        "title": "1000 Kroner (1962-1989; Ibsen)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "norvege",
+          "name": "Norway"
+        },
+        "min_year": 1975,
+        "max_year": 1987,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/norvege/5f2b8b16c93439.33394037-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/norvege/5f2b8b17146960.08065064-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 276321,
+      "title": "500 Kroner (1948-1976; Abel & industry)",
+      "issuer": {
+        "code": "norvege",
+        "name": "Norway"
+      },
+      "min_year": 1948,
+      "max_year": 1976,
+      "face": {
+        "value": 500,
+        "unit": "Kroner",
+        "text": "500 Kroner"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 276321,
+        "title": "500 Kroner (1948-1976; Abel & industry)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "norvege",
+          "name": "Norway"
+        },
+        "min_year": 1948,
+        "max_year": 1976,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/norvege/658d4aa0f30152.52146832-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/norvege/658d4aa14bc484.74337016-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 276341,
+      "title": "100 Kroner (1948-1976; Wergeland & logging)",
+      "issuer": {
+        "code": "norvege",
+        "name": "Norway"
+      },
+      "min_year": 1949,
+      "max_year": 1962,
+      "face": {
+        "value": 100,
+        "unit": "Kroner",
+        "text": "100 Kroner"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 276341,
+        "title": "100 Kroner (1948-1976; Wergeland & logging)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "norvege",
+          "name": "Norway"
+        },
+        "min_year": 1949,
+        "max_year": 1962,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/norvege/60ae6a80d45e36.30469596-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/norvege/60ae6a81c832f3.46636971-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 304628,
+      "title": "1000 Kroner (1977-2001; Falsen)",
+      "issuer": {
+        "code": "norvege",
+        "name": "Norway"
+      },
+      "min_year": 1989,
+      "max_year": 1998,
+      "face": {
+        "value": 1000,
+        "unit": "Kroner",
+        "text": "1000 Kroner"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 304628,
+        "title": "1000 Kroner (1977-2001; Falsen)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "norvege",
+          "name": "Norway"
+        },
+        "min_year": 1989,
+        "max_year": 1998,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/norvege/658d2e32492175.18683817-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/norvege/658d2e32a983a0.97813542-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 307788,
+      "title": "50 Kroner (1948-1976; Bjørnson & farming)",
+      "issuer": {
+        "code": "norvege",
+        "name": "Norway"
+      },
+      "min_year": 1950,
+      "max_year": 1965,
+      "face": {
+        "value": 50,
+        "unit": "Kroner",
+        "text": "50 Kroner"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 307788,
+        "title": "50 Kroner (1948-1976; Bjørnson & farming)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "norvege",
+          "name": "Norway"
+        },
+        "min_year": 1950,
+        "max_year": 1965,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/norvege/616483162a4251.40500487-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/norvege/616483169be392.51432583-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 341677,
+      "title": "1000 Kroner (1948-1976; Ibsen & history)",
+      "issuer": {
+        "code": "norvege",
+        "name": "Norway"
+      },
+      "min_year": 1949,
+      "max_year": 1974,
+      "face": {
+        "value": 1000,
+        "unit": "Kroner",
+        "text": "1000 Kroner"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 341677,
+        "title": "1000 Kroner (1948-1976; Ibsen & history)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "norvege",
+          "name": "Norway"
+        },
+        "min_year": 1949,
+        "max_year": 1974,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/norvege/658d2b0d041dd2.59584704-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/norvege/658d2b0d543489.25098306-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 417811,
+      "title": "100 Kroner (Secret banknote)",
+      "issuer": {
+        "code": "norvege",
+        "name": "Norway"
+      },
+      "min_year": 1985,
+      "max_year": 1990,
+      "face": {
+        "value": 100,
+        "unit": "Kroner",
+        "text": "100 Kroner"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 417811,
+        "title": "100 Kroner (Secret banknote)",
+        "object_type": {
+          "id": 89,
+          "name": "Banknote patterns and trials"
+        },
+        "issuer": {
+          "code": "norvege",
+          "name": "Norway"
+        },
+        "min_year": 1985,
+        "max_year": 1990,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/norvege/6657f2a24a2619.33503406-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/norvege/6657f2a29f68c6.95843239-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 453901,
+      "title": "1000 Kroner (Secret banknote)",
+      "issuer": {
+        "code": "norvege",
+        "name": "Norway"
+      },
+      "min_year": 1985,
+      "max_year": 1990,
+      "face": {
+        "value": 1000,
+        "unit": "Kroner",
+        "text": "1000 Kroner"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 453901,
+        "title": "1000 Kroner (Secret banknote)",
+        "object_type": {
+          "id": 89,
+          "name": "Banknote patterns and trials"
+        },
+        "issuer": {
+          "code": "norvege",
+          "name": "Norway"
+        },
+        "min_year": 1985,
+        "max_year": 1990,
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 453902,
+      "title": "10 Kroner (Secret banknote; obverse pattern)",
+      "issuer": {
+        "code": "norvege",
+        "name": "Norway"
+      },
+      "min_year": 1985,
+      "max_year": 1990,
+      "face": {
+        "value": 10,
+        "unit": "Kroner",
+        "text": "10 Kroner"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 453902,
+        "title": "10 Kroner (Secret banknote; obverse pattern)",
+        "object_type": {
+          "id": 89,
+          "name": "Banknote patterns and trials"
+        },
+        "issuer": {
+          "code": "norvege",
+          "name": "Norway"
+        },
+        "min_year": 1985,
+        "max_year": 1990,
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 453903,
+      "title": "10 Kroner (Secret banknote; reverse pattern)",
+      "issuer": {
+        "code": "norvege",
+        "name": "Norway"
+      },
+      "min_year": 1985,
+      "max_year": 1990,
+      "face": {
+        "value": 10,
+        "unit": "Kroner",
+        "text": "10 Kroner"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 453903,
+        "title": "10 Kroner (Secret banknote; reverse pattern)",
+        "object_type": {
+          "id": 89,
+          "name": "Banknote patterns and trials"
+        },
+        "issuer": {
+          "code": "norvege",
+          "name": "Norway"
+        },
+        "min_year": 1985,
+        "max_year": 1990,
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 469420,
+      "title": "100 Kroner (Flagstad; polymer pattern)",
+      "issuer": {
+        "code": "norvege",
+        "name": "Norway"
+      },
+      "min_year": 1995,
+      "max_year": 1995,
+      "face": {
+        "value": 100,
+        "unit": "Kroner",
+        "text": "100 Kroner"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 469420,
+        "title": "100 Kroner (Flagstad; polymer pattern)",
+        "object_type": {
+          "id": 89,
+          "name": "Banknote patterns and trials"
+        },
+        "issuer": {
+          "code": "norvege",
+          "name": "Norway"
+        },
+        "min_year": 1995,
+        "max_year": 1995,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/norvege/69838721cd6979.38185277-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/norvege/69838722a2e4c8.19299863-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 469605,
+      "title": "100 Kroner (Collet; pattern)",
+      "issuer": {
+        "code": "norvege",
+        "name": "Norway"
+      },
+      "min_year": 1973,
+      "max_year": 1973,
+      "face": {
+        "value": 100,
+        "unit": "Kroner",
+        "text": "100 Kroner"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 469605,
+        "title": "100 Kroner (Collet; pattern)",
+        "object_type": {
+          "id": 89,
+          "name": "Banknote patterns and trials"
+        },
+        "issuer": {
+          "code": "norvege",
+          "name": "Norway"
+        },
+        "min_year": 1973,
+        "max_year": 1973,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/norvege/682e2eae482462.91381881-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/norvege/682e2eaec3ae05.87953897-180.jpg",
+        "category": "banknote"
+      }
+    }
+  ]
+}

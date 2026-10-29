@@ -1,0 +1,2948 @@
+{
+  "meta": {
+    "generated_at": "2026-10-29T13:27:52.578Z",
+    "fixture": false,
+    "api": "numista v3",
+    "issuer": "netherlands",
+    "iso": "NL",
+    "category": "banknote",
+    "lang": "en",
+    "since": 1960,
+    "listed": 237,
+    "fetched": 79,
+    "details_fetched": 0,
+    "dropped_before_since": 158,
+    "dropped_by_source": {
+      "list": 158,
+      "detail": 0
+    },
+    "issuer_mismatches": 66,
+    "pages": 5,
+    "requests": 0
+  },
+  "types": [
+    {
+      "numista_type_id": 201549,
+      "title": "250 Gulden (Lighthouse)",
+      "issuer": {
+        "code": "pays-bas",
+        "name": "Netherlands"
+      },
+      "min_year": 1985,
+      "max_year": 1985,
+      "face": {
+        "value": 250,
+        "unit": "Gulden",
+        "text": "250 Gulden"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 201549,
+        "title": "250 Gulden (Lighthouse)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "pays-bas",
+          "name": "Netherlands"
+        },
+        "min_year": 1985,
+        "max_year": 1985,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pays-bas/64bffca176bf31.30542579-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pays-bas/5eb1310faee974.04144966-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 201570,
+      "title": "10 Gulden (Frans Hals)",
+      "issuer": {
+        "code": "pays-bas",
+        "name": "Netherlands"
+      },
+      "min_year": 1968,
+      "max_year": 1968,
+      "face": {
+        "value": 10,
+        "unit": "Gulden",
+        "text": "10 Gulden"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 201570,
+        "title": "10 Gulden (Frans Hals)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "pays-bas",
+          "name": "Netherlands"
+        },
+        "min_year": 1968,
+        "max_year": 1968,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pays-bas/63ec9d15eddcc8.90184534-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pays-bas/63ec9d18b5d859.51681535-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 201715,
+      "title": "5 Florin",
+      "issuer": {
+        "code": "aruba",
+        "name": "Aruba"
+      },
+      "min_year": 1990,
+      "max_year": 1990,
+      "face": {
+        "value": 5,
+        "unit": "Florin",
+        "text": "5 Florin"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 201715,
+        "title": "5 Florin",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "aruba",
+          "name": "Aruba"
+        },
+        "min_year": 1990,
+        "max_year": 1990,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/aruba/62e2fc2c19b4e5.95407274-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/aruba/62e2fc2d89b205.21342955-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 201730,
+      "title": "10 Gulden (IJsvogel)",
+      "issuer": {
+        "code": "pays-bas",
+        "name": "Netherlands"
+      },
+      "min_year": 1997,
+      "max_year": 1997,
+      "face": {
+        "value": 10,
+        "unit": "Gulden",
+        "text": "10 Gulden"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 201730,
+        "title": "10 Gulden (IJsvogel)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "pays-bas",
+          "name": "Netherlands"
+        },
+        "min_year": 1997,
+        "max_year": 1997,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pays-bas/654edb253932a7.17084181-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pays-bas/654edb25db5c27.31403542-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202448,
+      "title": "10 Florin",
+      "issuer": {
+        "code": "aruba",
+        "name": "Aruba"
+      },
+      "min_year": 2003,
+      "max_year": 2012,
+      "face": {
+        "value": 10,
+        "unit": "Florin",
+        "text": "10 Florin"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202448,
+        "title": "10 Florin",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "aruba",
+          "name": "Aruba"
+        },
+        "min_year": 2003,
+        "max_year": 2012,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/aruba/62e2fcf0878995.60296481-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/aruba/62e2fcf1e2bb53.85214007-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202489,
+      "title": "5 Gulden",
+      "issuer": {
+        "code": "antilles_neerlandaises",
+        "name": "Netherlands Antilles"
+      },
+      "min_year": 1962,
+      "max_year": 1962,
+      "face": {
+        "value": 5,
+        "unit": "Gulden",
+        "text": "5 Gulden"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202489,
+        "title": "5 Gulden",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "antilles_neerlandaises",
+          "name": "Netherlands Antilles"
+        },
+        "min_year": 1962,
+        "max_year": 1962,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/antilles_neerlandaises/5e965c13ba9b88.30041407-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/antilles_neerlandaises/5e965c14138394.75309419-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202648,
+      "title": "5 Gulden (Vondel I)",
+      "issuer": {
+        "code": "pays-bas",
+        "name": "Netherlands"
+      },
+      "min_year": 1966,
+      "max_year": 1966,
+      "face": {
+        "value": 5,
+        "unit": "Gulden",
+        "text": "5 Gulden"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202648,
+        "title": "5 Gulden (Vondel I)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "pays-bas",
+          "name": "Netherlands"
+        },
+        "min_year": 1966,
+        "max_year": 1966,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pays-bas/5e96ce971d2427.81248405-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pays-bas/5e96ce9836fad5.18318064-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203894,
+      "title": "25 Gulden (Jan Pieterszoon Sweelinck)",
+      "issuer": {
+        "code": "pays-bas",
+        "name": "Netherlands"
+      },
+      "min_year": 1971,
+      "max_year": 1971,
+      "face": {
+        "value": 25,
+        "unit": "Gulden",
+        "text": "25 Gulden"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203894,
+        "title": "25 Gulden (Jan Pieterszoon Sweelinck)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "pays-bas",
+          "name": "Netherlands"
+        },
+        "min_year": 1971,
+        "max_year": 1971,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pays-bas/68e23b80d41872.91170382-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pays-bas/68e23b82c09038.47981116-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204102,
+      "title": "5 Florin",
+      "issuer": {
+        "code": "aruba",
+        "name": "Aruba"
+      },
+      "min_year": 1986,
+      "max_year": 1986,
+      "face": {
+        "value": 5,
+        "unit": "Florin",
+        "text": "5 Florin"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204102,
+        "title": "5 Florin",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "aruba",
+          "name": "Aruba"
+        },
+        "min_year": 1986,
+        "max_year": 1986,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/aruba/62e2fb882abe87.64421428-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/aruba/62e2fb89bbb337.37991969-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204946,
+      "title": "50 Gulden (Zonnebloem)",
+      "issuer": {
+        "code": "pays-bas",
+        "name": "Netherlands"
+      },
+      "min_year": 1982,
+      "max_year": 1982,
+      "face": {
+        "value": 50,
+        "unit": "Gulden",
+        "text": "50 Gulden"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204946,
+        "title": "50 Gulden (Zonnebloem)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "pays-bas",
+          "name": "Netherlands"
+        },
+        "min_year": 1982,
+        "max_year": 1982,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pays-bas/69f7ed7ef363f7.90216001-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pays-bas/69f7ed7fc66202.31896021-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205426,
+      "title": "25 Gulden (Red Robin)",
+      "issuer": {
+        "code": "pays-bas",
+        "name": "Netherlands"
+      },
+      "min_year": 1989,
+      "max_year": 1989,
+      "face": {
+        "value": 25,
+        "unit": "Gulden",
+        "text": "25 Gulden"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205426,
+        "title": "25 Gulden (Red Robin)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "pays-bas",
+          "name": "Netherlands"
+        },
+        "min_year": 1989,
+        "max_year": 1989,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pays-bas/5eae4e44f41579.35372205-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pays-bas/5eae4e4577bb93.56507680-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205503,
+      "title": "5 Gulden (Vondel II)",
+      "issuer": {
+        "code": "pays-bas",
+        "name": "Netherlands"
+      },
+      "min_year": 1973,
+      "max_year": 1973,
+      "face": {
+        "value": 5,
+        "unit": "Gulden",
+        "text": "5 Gulden"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205503,
+        "title": "5 Gulden (Vondel II)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "pays-bas",
+          "name": "Netherlands"
+        },
+        "min_year": 1973,
+        "max_year": 1973,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pays-bas/63ec9cf0712fe5.47002012-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pays-bas/63ec9cf2cff589.11968951-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205993,
+      "title": "100 Gulden (Snipe)",
+      "issuer": {
+        "code": "pays-bas",
+        "name": "Netherlands"
+      },
+      "min_year": 1977,
+      "max_year": 1977,
+      "face": {
+        "value": 100,
+        "unit": "Gulden",
+        "text": "100 Gulden"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205993,
+        "title": "100 Gulden (Snipe)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "pays-bas",
+          "name": "Netherlands"
+        },
+        "min_year": 1977,
+        "max_year": 1977,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pays-bas/5ee9d785993ea8.78905657-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pays-bas/5ee9d78fcda255.61525584-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206272,
+      "title": "2½ Gulden (Muntbiljet)",
+      "issuer": {
+        "code": "antilles_neerlandaises",
+        "name": "Netherlands Antilles"
+      },
+      "min_year": 1970,
+      "max_year": 1970,
+      "face": {
+        "value": 2.5,
+        "unit": "Gulden",
+        "text": "2.5 Gulden"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206272,
+        "title": "2½ Gulden (Muntbiljet)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "antilles_neerlandaises",
+          "name": "Netherlands Antilles"
+        },
+        "min_year": 1970,
+        "max_year": 1970,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/antilles_neerlandaises/63cfff00eaea06.63466148-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/antilles_neerlandaises/63cfff05c5e4e0.35160142-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206515,
+      "title": "10 Gulden",
+      "issuer": {
+        "code": "antilles_neerlandaises",
+        "name": "Netherlands Antilles"
+      },
+      "min_year": 1998,
+      "max_year": 2016,
+      "face": {
+        "value": 10,
+        "unit": "Gulden",
+        "text": "10 Gulden"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206515,
+        "title": "10 Gulden",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "antilles_neerlandaises",
+          "name": "Netherlands Antilles"
+        },
+        "min_year": 1998,
+        "max_year": 2016,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/antilles_neerlandaises/63d105c7d28631.46971306-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/antilles_neerlandaises/63d105cad93772.27077674-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 207386,
+      "title": "25 Florin",
+      "issuer": {
+        "code": "aruba",
+        "name": "Aruba"
+      },
+      "min_year": 1990,
+      "max_year": 1990,
+      "face": {
+        "value": 25,
+        "unit": "Florin",
+        "text": "25 Florin"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 207386,
+        "title": "25 Florin",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "aruba",
+          "name": "Aruba"
+        },
+        "min_year": 1990,
+        "max_year": 1990,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/aruba/62e2fd9d8e05a1.51943988-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/aruba/62e2fd9f0c59f2.43659343-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 207807,
+      "title": "1 Gulden (Muntbiljet)",
+      "issuer": {
+        "code": "antilles_neerlandaises",
+        "name": "Netherlands Antilles"
+      },
+      "min_year": 1970,
+      "max_year": 1970,
+      "face": {
+        "value": 1,
+        "unit": "Gulden",
+        "text": "1 Gulden"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 207807,
+        "title": "1 Gulden (Muntbiljet)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "antilles_neerlandaises",
+          "name": "Netherlands Antilles"
+        },
+        "min_year": 1970,
+        "max_year": 1970,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/antilles_neerlandaises/623c9968cc3985.80716305-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/antilles_neerlandaises/623c996967eb08.87220381-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 208438,
+      "title": "50 Florin",
+      "issuer": {
+        "code": "aruba",
+        "name": "Aruba"
+      },
+      "min_year": 1993,
+      "max_year": 1993,
+      "face": {
+        "value": 50,
+        "unit": "Florin",
+        "text": "50 Florin"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 208438,
+        "title": "50 Florin",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "aruba",
+          "name": "Aruba"
+        },
+        "min_year": 1993,
+        "max_year": 1993,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/aruba/64c991ea9d3f46.45092266-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/aruba/64c991eb6dfd13.92017336-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 209027,
+      "title": "10 Florin",
+      "issuer": {
+        "code": "aruba",
+        "name": "Aruba"
+      },
+      "min_year": 2019,
+      "max_year": 2019,
+      "face": {
+        "value": 10,
+        "unit": "Florin",
+        "text": "10 Florin"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 209027,
+        "title": "10 Florin",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "aruba",
+          "name": "Aruba"
+        },
+        "min_year": 2019,
+        "max_year": 2019,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/aruba/64be73ad68a570.55908794-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/aruba/64be73ae478712.46600221-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 210831,
+      "title": "100 Gulden (Michiel Adriaenszoon de Ruyter)",
+      "issuer": {
+        "code": "pays-bas",
+        "name": "Netherlands"
+      },
+      "min_year": 1970,
+      "max_year": 1970,
+      "face": {
+        "value": 100,
+        "unit": "Gulden",
+        "text": "100 Gulden"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 210831,
+        "title": "100 Gulden (Michiel Adriaenszoon de Ruyter)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "pays-bas",
+          "name": "Netherlands"
+        },
+        "min_year": 1970,
+        "max_year": 1970,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pays-bas/604e94ce24f379.59007477-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pays-bas/604e94ce99ceb1.63392030-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 210835,
+      "title": "100 Gulden (Screech Owl)",
+      "issuer": {
+        "code": "pays-bas",
+        "name": "Netherlands"
+      },
+      "min_year": 1992,
+      "max_year": 1992,
+      "face": {
+        "value": 100,
+        "unit": "Gulden",
+        "text": "100 Gulden"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 210835,
+        "title": "100 Gulden (Screech Owl)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "pays-bas",
+          "name": "Netherlands"
+        },
+        "min_year": 1992,
+        "max_year": 1992,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pays-bas/62082140177b25.41131382-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pays-bas/62082140e26e67.23895901-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 211095,
+      "title": "1000 Gulden (Baruch d'Espinoza)",
+      "issuer": {
+        "code": "pays-bas",
+        "name": "Netherlands"
+      },
+      "min_year": 1972,
+      "max_year": 1972,
+      "face": {
+        "value": 1000,
+        "unit": "Gulden",
+        "text": "1000 Gulden"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 211095,
+        "title": "1000 Gulden (Baruch d'Espinoza)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "pays-bas",
+          "name": "Netherlands"
+        },
+        "min_year": 1972,
+        "max_year": 1972,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pays-bas/60123a6b6c95b0.58119645-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pays-bas/60123a6c0e3245.08166211-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 211096,
+      "title": "1000 Gulden (Kievit)",
+      "issuer": {
+        "code": "pays-bas",
+        "name": "Netherlands"
+      },
+      "min_year": 1994,
+      "max_year": 1994,
+      "face": {
+        "value": 1000,
+        "unit": "Gulden",
+        "text": "1000 Gulden"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 211096,
+        "title": "1000 Gulden (Kievit)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "pays-bas",
+          "name": "Netherlands"
+        },
+        "min_year": 1994,
+        "max_year": 1994,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pays-bas/64bfde9cf2ee07.08047023-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pays-bas/64bfde9d5bc8e5.53972096-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 212020,
+      "title": "10 Florin",
+      "issuer": {
+        "code": "aruba",
+        "name": "Aruba"
+      },
+      "min_year": 1986,
+      "max_year": 1986,
+      "face": {
+        "value": 10,
+        "unit": "Florin",
+        "text": "10 Florin"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 212020,
+        "title": "10 Florin",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "aruba",
+          "name": "Aruba"
+        },
+        "min_year": 1986,
+        "max_year": 1986,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/aruba/64c98bf03bebb0.66343133-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/aruba/64c98bf0c27092.99937610-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 212022,
+      "title": "25 Florin",
+      "issuer": {
+        "code": "aruba",
+        "name": "Aruba"
+      },
+      "min_year": 1986,
+      "max_year": 1986,
+      "face": {
+        "value": 25,
+        "unit": "Florin",
+        "text": "25 Florin"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 212022,
+        "title": "25 Florin",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "aruba",
+          "name": "Aruba"
+        },
+        "min_year": 1986,
+        "max_year": 1986,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/aruba/64c981de1965e0.71930555-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/aruba/64c981de8d2b10.58670435-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 212023,
+      "title": "50 Florin",
+      "issuer": {
+        "code": "aruba",
+        "name": "Aruba"
+      },
+      "min_year": 1986,
+      "max_year": 1986,
+      "face": {
+        "value": 50,
+        "unit": "Florin",
+        "text": "50 Florin"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 212023,
+        "title": "50 Florin",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "aruba",
+          "name": "Aruba"
+        },
+        "min_year": 1986,
+        "max_year": 1986,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/aruba/64c97e33e585b8.90707939-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/aruba/64c97e3485dc58.92733311-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 212024,
+      "title": "100 Florin",
+      "issuer": {
+        "code": "aruba",
+        "name": "Aruba"
+      },
+      "min_year": 1986,
+      "max_year": 1986,
+      "face": {
+        "value": 100,
+        "unit": "Florin",
+        "text": "100 Florin"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 212024,
+        "title": "100 Florin",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "aruba",
+          "name": "Aruba"
+        },
+        "min_year": 1986,
+        "max_year": 1986,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/aruba/64c97524ecfd85.84358563-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/aruba/64c97525bcec64.23827940-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 212026,
+      "title": "10 Florin",
+      "issuer": {
+        "code": "aruba",
+        "name": "Aruba"
+      },
+      "min_year": 1990,
+      "max_year": 1990,
+      "face": {
+        "value": 10,
+        "unit": "Florin",
+        "text": "10 Florin"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 212026,
+        "title": "10 Florin",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "aruba",
+          "name": "Aruba"
+        },
+        "min_year": 1990,
+        "max_year": 1990,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/aruba/64c990ab84d6d8.91392894-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/aruba/64c990ac9f8e43.71142763-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 212028,
+      "title": "10 Florin",
+      "issuer": {
+        "code": "aruba",
+        "name": "Aruba"
+      },
+      "min_year": 1993,
+      "max_year": 1993,
+      "face": {
+        "value": 10,
+        "unit": "Florin",
+        "text": "10 Florin"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 212028,
+        "title": "10 Florin",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "aruba",
+          "name": "Aruba"
+        },
+        "min_year": 1993,
+        "max_year": 1993,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/aruba/64c992e5089d62.27634019-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/aruba/64c992e592a042.18773264-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 212030,
+      "title": "25 Florin",
+      "issuer": {
+        "code": "aruba",
+        "name": "Aruba"
+      },
+      "min_year": 1993,
+      "max_year": 1993,
+      "face": {
+        "value": 25,
+        "unit": "Florin",
+        "text": "25 Florin"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 212030,
+        "title": "25 Florin",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "aruba",
+          "name": "Aruba"
+        },
+        "min_year": 1993,
+        "max_year": 1993,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/aruba/657ed009d04677.00337251-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/aruba/657ed00a3f5365.13064387-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 212031,
+      "title": "25 Florin",
+      "issuer": {
+        "code": "aruba",
+        "name": "Aruba"
+      },
+      "min_year": 2003,
+      "max_year": 2012,
+      "face": {
+        "value": 25,
+        "unit": "Florin",
+        "text": "25 Florin"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 212031,
+        "title": "25 Florin",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "aruba",
+          "name": "Aruba"
+        },
+        "min_year": 2003,
+        "max_year": 2012,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/aruba/64c994ac4dccd6.54862391-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/aruba/64c994acdbd586.89511985-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 212032,
+      "title": "25 Florin",
+      "issuer": {
+        "code": "aruba",
+        "name": "Aruba"
+      },
+      "min_year": 2019,
+      "max_year": 2019,
+      "face": {
+        "value": 25,
+        "unit": "Florin",
+        "text": "25 Florin"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 212032,
+        "title": "25 Florin",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "aruba",
+          "name": "Aruba"
+        },
+        "min_year": 2019,
+        "max_year": 2019,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/aruba/664f7e3a237891.85656242-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/aruba/664f7e3bdeaad6.51923299-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 212033,
+      "title": "50 Florin",
+      "issuer": {
+        "code": "aruba",
+        "name": "Aruba"
+      },
+      "min_year": 1990,
+      "max_year": 1990,
+      "face": {
+        "value": 50,
+        "unit": "Florin",
+        "text": "50 Florin"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 212033,
+        "title": "50 Florin",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "aruba",
+          "name": "Aruba"
+        },
+        "min_year": 1990,
+        "max_year": 1990,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/aruba/64c98d95936b13.96773270-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/aruba/64c98d96136da2.22945963-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 212035,
+      "title": "50 Florin",
+      "issuer": {
+        "code": "aruba",
+        "name": "Aruba"
+      },
+      "min_year": 2003,
+      "max_year": 2012,
+      "face": {
+        "value": 50,
+        "unit": "Florin",
+        "text": "50 Florin"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 212035,
+        "title": "50 Florin",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "aruba",
+          "name": "Aruba"
+        },
+        "min_year": 2003,
+        "max_year": 2012,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/aruba/64c98ece776724.00017392-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/aruba/64c98ed99a1f65.63432997-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 212037,
+      "title": "50 Florin",
+      "issuer": {
+        "code": "aruba",
+        "name": "Aruba"
+      },
+      "min_year": 2019,
+      "max_year": 2019,
+      "face": {
+        "value": 50,
+        "unit": "Florin",
+        "text": "50 Florin"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 212037,
+        "title": "50 Florin",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "aruba",
+          "name": "Aruba"
+        },
+        "min_year": 2019,
+        "max_year": 2019,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/aruba/684e324a032843.95879197-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/aruba/684e324acbfca9.20956819-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 212038,
+      "title": "100 Florin",
+      "issuer": {
+        "code": "aruba",
+        "name": "Aruba"
+      },
+      "min_year": 1990,
+      "max_year": 1990,
+      "face": {
+        "value": 100,
+        "unit": "Florin",
+        "text": "100 Florin"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 212038,
+        "title": "100 Florin",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "aruba",
+          "name": "Aruba"
+        },
+        "min_year": 1990,
+        "max_year": 1990,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/aruba/64c97682e98b23.07217282-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/aruba/64c9768335f474.50003393-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 212039,
+      "title": "100 Florin",
+      "issuer": {
+        "code": "aruba",
+        "name": "Aruba"
+      },
+      "min_year": 1993,
+      "max_year": 1993,
+      "face": {
+        "value": 100,
+        "unit": "Florin",
+        "text": "100 Florin"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 212039,
+        "title": "100 Florin",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "aruba",
+          "name": "Aruba"
+        },
+        "min_year": 1993,
+        "max_year": 1993,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/aruba/64c977966ed1e8.03809598-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/aruba/64c9779729c624.52247096-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 212041,
+      "title": "100 Florin",
+      "issuer": {
+        "code": "aruba",
+        "name": "Aruba"
+      },
+      "min_year": 2003,
+      "max_year": 2012,
+      "face": {
+        "value": 100,
+        "unit": "Florin",
+        "text": "100 Florin"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 212041,
+        "title": "100 Florin",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "aruba",
+          "name": "Aruba"
+        },
+        "min_year": 2003,
+        "max_year": 2012,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/aruba/64c97d2a1828f8.46129216-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/aruba/64c97d2ac03444.35031030-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 212042,
+      "title": "100 Florin",
+      "issuer": {
+        "code": "aruba",
+        "name": "Aruba"
+      },
+      "min_year": 2019,
+      "max_year": 2019,
+      "face": {
+        "value": 100,
+        "unit": "Florin",
+        "text": "100 Florin"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 212042,
+        "title": "100 Florin",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "aruba",
+          "name": "Aruba"
+        },
+        "min_year": 2019,
+        "max_year": 2019,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/aruba/69e815a105bef9.93990226-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/aruba/69e815a21a7751.83569378-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 212044,
+      "title": "200 Florin",
+      "issuer": {
+        "code": "aruba",
+        "name": "Aruba"
+      },
+      "min_year": 2019,
+      "max_year": 2019,
+      "face": {
+        "value": 200,
+        "unit": "Florin",
+        "text": "200 Florin"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 212044,
+        "title": "200 Florin",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "aruba",
+          "name": "Aruba"
+        },
+        "min_year": 2019,
+        "max_year": 2019,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/aruba/6465280f610841.52593798-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/aruba/6465280fc07ff8.57913334-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 212046,
+      "title": "500 Florin",
+      "issuer": {
+        "code": "aruba",
+        "name": "Aruba"
+      },
+      "min_year": 2003,
+      "max_year": 2003,
+      "face": {
+        "value": 500,
+        "unit": "Florin",
+        "text": "500 Florin"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 212046,
+        "title": "500 Florin",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "aruba",
+          "name": "Aruba"
+        },
+        "min_year": 2003,
+        "max_year": 2003,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/aruba/64c9798c31e764.36122460-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/aruba/64c9798cd764c3.23867675-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 212047,
+      "title": "500 Florin",
+      "issuer": {
+        "code": "aruba",
+        "name": "Aruba"
+      },
+      "min_year": 1993,
+      "max_year": 1993,
+      "face": {
+        "value": 500,
+        "unit": "Florin",
+        "text": "500 Florin"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 212047,
+        "title": "500 Florin",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "aruba",
+          "name": "Aruba"
+        },
+        "min_year": 1993,
+        "max_year": 1993,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/aruba/64c97893dfccb5.33818118-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/aruba/64c978949a1ae2.33779722-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 213278,
+      "title": "25 Gulden",
+      "issuer": {
+        "code": "antilles_neerlandaises",
+        "name": "Netherlands Antilles"
+      },
+      "min_year": 1998,
+      "max_year": 2016,
+      "face": {
+        "value": 25,
+        "unit": "Gulden",
+        "text": "25 Gulden"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 213278,
+        "title": "25 Gulden",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "antilles_neerlandaises",
+          "name": "Netherlands Antilles"
+        },
+        "min_year": 1998,
+        "max_year": 2016,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/antilles_neerlandaises/62f12c1718f910.96109020-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/antilles_neerlandaises/62f12c188b4d71.91820624-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 213281,
+      "title": "50 Gulden",
+      "issuer": {
+        "code": "antilles_neerlandaises",
+        "name": "Netherlands Antilles"
+      },
+      "min_year": 1998,
+      "max_year": 2016,
+      "face": {
+        "value": 50,
+        "unit": "Gulden",
+        "text": "50 Gulden"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 213281,
+        "title": "50 Gulden",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "antilles_neerlandaises",
+          "name": "Netherlands Antilles"
+        },
+        "min_year": 1998,
+        "max_year": 2016,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/antilles_neerlandaises/64c972bb2c81f2.46248835-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/antilles_neerlandaises/64c972bc210752.85402170-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 213944,
+      "title": "2½ Gulden (Coin note)",
+      "issuer": {
+        "code": "antilles_neerlandaises",
+        "name": "Netherlands Antilles"
+      },
+      "min_year": 1955,
+      "max_year": 1964,
+      "face": {
+        "value": 2.5,
+        "unit": "Gulden",
+        "text": "2.5 Gulden"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 213944,
+        "title": "2½ Gulden (Coin note)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "antilles_neerlandaises",
+          "name": "Netherlands Antilles"
+        },
+        "min_year": 1955,
+        "max_year": 1964,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/antilles_neerlandaises/60c667d6092b90.88284191-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/antilles_neerlandaises/60c667d65d9589.17875696-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 213945,
+      "title": "10 Gulden",
+      "issuer": {
+        "code": "antilles_neerlandaises",
+        "name": "Netherlands Antilles"
+      },
+      "min_year": 1962,
+      "max_year": 1962,
+      "face": {
+        "value": 10,
+        "unit": "Gulden",
+        "text": "10 Gulden"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 213945,
+        "title": "10 Gulden",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "antilles_neerlandaises",
+          "name": "Netherlands Antilles"
+        },
+        "min_year": 1962,
+        "max_year": 1962,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/antilles_neerlandaises/64c9616e788ce6.83325519-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/antilles_neerlandaises/64c9616f466d35.09920749-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 213946,
+      "title": "25 Gulden",
+      "issuer": {
+        "code": "antilles_neerlandaises",
+        "name": "Netherlands Antilles"
+      },
+      "min_year": 1962,
+      "max_year": 1962,
+      "face": {
+        "value": 25,
+        "unit": "Gulden",
+        "text": "25 Gulden"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 213946,
+        "title": "25 Gulden",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "antilles_neerlandaises",
+          "name": "Netherlands Antilles"
+        },
+        "min_year": 1962,
+        "max_year": 1962,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/antilles_neerlandaises/64c95e6cb42529.68689115-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/antilles_neerlandaises/64c95e6d679a90.47698360-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 213949,
+      "title": "50 Gulden",
+      "issuer": {
+        "code": "antilles_neerlandaises",
+        "name": "Netherlands Antilles"
+      },
+      "min_year": 1962,
+      "max_year": 1962,
+      "face": {
+        "value": 50,
+        "unit": "Gulden",
+        "text": "50 Gulden"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 213949,
+        "title": "50 Gulden",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "antilles_neerlandaises",
+          "name": "Netherlands Antilles"
+        },
+        "min_year": 1962,
+        "max_year": 1962,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/antilles_neerlandaises/64c959b79cbbb4.17635634-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/antilles_neerlandaises/64c959b869d8f8.60488837-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 213951,
+      "title": "100 Gulden",
+      "issuer": {
+        "code": "antilles_neerlandaises",
+        "name": "Netherlands Antilles"
+      },
+      "min_year": 1962,
+      "max_year": 1962,
+      "face": {
+        "value": 100,
+        "unit": "Gulden",
+        "text": "100 Gulden"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 213951,
+        "title": "100 Gulden",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "antilles_neerlandaises",
+          "name": "Netherlands Antilles"
+        },
+        "min_year": 1962,
+        "max_year": 1962,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/antilles_neerlandaises/64c952fd97ed05.25858586-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/antilles_neerlandaises/64c952feab5aa6.71305498-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 213955,
+      "title": "250 Gulden",
+      "issuer": {
+        "code": "antilles_neerlandaises",
+        "name": "Netherlands Antilles"
+      },
+      "min_year": 1962,
+      "max_year": 1962,
+      "face": {
+        "value": 250,
+        "unit": "Gulden",
+        "text": "250 Gulden"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 213955,
+        "title": "250 Gulden",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "antilles_neerlandaises",
+          "name": "Netherlands Antilles"
+        },
+        "min_year": 1962,
+        "max_year": 1962,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/antilles_neerlandaises/64c96ffdc1b385.01518940-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/antilles_neerlandaises/64c96ffe567a45.98614968-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 213956,
+      "title": "500 Gulden",
+      "issuer": {
+        "code": "antilles_neerlandaises",
+        "name": "Netherlands Antilles"
+      },
+      "min_year": 1962,
+      "max_year": 1962,
+      "face": {
+        "value": 500,
+        "unit": "Gulden",
+        "text": "500 Gulden"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 213956,
+        "title": "500 Gulden",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "antilles_neerlandaises",
+          "name": "Netherlands Antilles"
+        },
+        "min_year": 1962,
+        "max_year": 1962,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/antilles_neerlandaises/64c95f86a741f6.39893694-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/antilles_neerlandaises/64c95f877aa896.22477025-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 213961,
+      "title": "10 Gulden",
+      "issuer": {
+        "code": "antilles_neerlandaises",
+        "name": "Netherlands Antilles"
+      },
+      "min_year": 1967,
+      "max_year": 1972,
+      "face": {
+        "value": 10,
+        "unit": "Gulden",
+        "text": "10 Gulden"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 213961,
+        "title": "10 Gulden",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "antilles_neerlandaises",
+          "name": "Netherlands Antilles"
+        },
+        "min_year": 1967,
+        "max_year": 1972,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/antilles_neerlandaises/64f248cede5084.00502814-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/antilles_neerlandaises/64f248cf434c38.00706764-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 213962,
+      "title": "25 Gulden",
+      "issuer": {
+        "code": "antilles_neerlandaises",
+        "name": "Netherlands Antilles"
+      },
+      "min_year": 1967,
+      "max_year": 1972,
+      "face": {
+        "value": 25,
+        "unit": "Gulden",
+        "text": "25 Gulden"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 213962,
+        "title": "25 Gulden",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "antilles_neerlandaises",
+          "name": "Netherlands Antilles"
+        },
+        "min_year": 1967,
+        "max_year": 1972,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/antilles_neerlandaises/64f2460e995272.81643206-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/antilles_neerlandaises/64f2460f21dad7.63135422-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 213963,
+      "title": "50 Gulden",
+      "issuer": {
+        "code": "antilles_neerlandaises",
+        "name": "Netherlands Antilles"
+      },
+      "min_year": 1967,
+      "max_year": 1972,
+      "face": {
+        "value": 50,
+        "unit": "Gulden",
+        "text": "50 Gulden"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 213963,
+        "title": "50 Gulden",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "antilles_neerlandaises",
+          "name": "Netherlands Antilles"
+        },
+        "min_year": 1967,
+        "max_year": 1972,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/antilles_neerlandaises/60c6675a5b0e83.32812953-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/antilles_neerlandaises/60c6675aaf4e82.89735240-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 213965,
+      "title": "250 Gulden",
+      "issuer": {
+        "code": "antilles_neerlandaises",
+        "name": "Netherlands Antilles"
+      },
+      "min_year": 1967,
+      "max_year": 1967,
+      "face": {
+        "value": 250,
+        "unit": "Gulden",
+        "text": "250 Gulden"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 213965,
+        "title": "250 Gulden",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "antilles_neerlandaises",
+          "name": "Netherlands Antilles"
+        },
+        "min_year": 1967,
+        "max_year": 1967,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/antilles_neerlandaises/64c9607e46f6c6.37660363-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/antilles_neerlandaises/64c9607f28b513.82125180-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 213967,
+      "title": "100 Gulden",
+      "issuer": {
+        "code": "antilles_neerlandaises",
+        "name": "Netherlands Antilles"
+      },
+      "min_year": 1967,
+      "max_year": 1972,
+      "face": {
+        "value": 100,
+        "unit": "Gulden",
+        "text": "100 Gulden"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 213967,
+        "title": "100 Gulden",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "antilles_neerlandaises",
+          "name": "Netherlands Antilles"
+        },
+        "min_year": 1967,
+        "max_year": 1972,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/antilles_neerlandaises/64f24091c023a7.89184339-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/antilles_neerlandaises/64f240922c9ed5.75949153-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 213969,
+      "title": "5 Gulden",
+      "issuer": {
+        "code": "antilles_neerlandaises",
+        "name": "Netherlands Antilles"
+      },
+      "min_year": 1980,
+      "max_year": 1984,
+      "face": {
+        "value": 5,
+        "unit": "Gulden",
+        "text": "5 Gulden"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 213969,
+        "title": "5 Gulden",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "antilles_neerlandaises",
+          "name": "Netherlands Antilles"
+        },
+        "min_year": 1980,
+        "max_year": 1984,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/antilles_neerlandaises/63d105c062e2b1.16668213-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/antilles_neerlandaises/63d105c4486da2.44800817-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 213971,
+      "title": "10 Gulden",
+      "issuer": {
+        "code": "antilles_neerlandaises",
+        "name": "Netherlands Antilles"
+      },
+      "min_year": 1979,
+      "max_year": 1984,
+      "face": {
+        "value": 10,
+        "unit": "Gulden",
+        "text": "10 Gulden"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 213971,
+        "title": "10 Gulden",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "antilles_neerlandaises",
+          "name": "Netherlands Antilles"
+        },
+        "min_year": 1979,
+        "max_year": 1984,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/antilles_neerlandaises/64c968c300dbc4.75344221-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/antilles_neerlandaises/64c968c3b24857.98843658-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 213972,
+      "title": "25 Gulden",
+      "issuer": {
+        "code": "antilles_neerlandaises",
+        "name": "Netherlands Antilles"
+      },
+      "min_year": 1979,
+      "max_year": 1979,
+      "face": {
+        "value": 25,
+        "unit": "Gulden",
+        "text": "25 Gulden"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 213972,
+        "title": "25 Gulden",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "antilles_neerlandaises",
+          "name": "Netherlands Antilles"
+        },
+        "min_year": 1979,
+        "max_year": 1979,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/antilles_neerlandaises/64c963d99f0ae0.34707811-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/antilles_neerlandaises/64c963da756293.62852620-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 213973,
+      "title": "50 Gulden",
+      "issuer": {
+        "code": "antilles_neerlandaises",
+        "name": "Netherlands Antilles"
+      },
+      "min_year": 1980,
+      "max_year": 1980,
+      "face": {
+        "value": 50,
+        "unit": "Gulden",
+        "text": "50 Gulden"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 213973,
+        "title": "50 Gulden",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "antilles_neerlandaises",
+          "name": "Netherlands Antilles"
+        },
+        "min_year": 1980,
+        "max_year": 1980,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/antilles_neerlandaises/64c9578cc67161.94627804-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/antilles_neerlandaises/64c9578d80ded1.64874106-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 213974,
+      "title": "100 Gulden",
+      "issuer": {
+        "code": "antilles_neerlandaises",
+        "name": "Netherlands Antilles"
+      },
+      "min_year": 1979,
+      "max_year": 1981,
+      "face": {
+        "value": 100,
+        "unit": "Gulden",
+        "text": "100 Gulden"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 213974,
+        "title": "100 Gulden",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "antilles_neerlandaises",
+          "name": "Netherlands Antilles"
+        },
+        "min_year": 1979,
+        "max_year": 1981,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/antilles_neerlandaises/64c9651c3cab07.11888500-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/antilles_neerlandaises/64c9651d088df1.81738530-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 213979,
+      "title": "5 Gulden",
+      "issuer": {
+        "code": "antilles_neerlandaises",
+        "name": "Netherlands Antilles"
+      },
+      "min_year": 1986,
+      "max_year": 1994,
+      "face": {
+        "value": 5,
+        "unit": "Gulden",
+        "text": "5 Gulden"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 213979,
+        "title": "5 Gulden",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "antilles_neerlandaises",
+          "name": "Netherlands Antilles"
+        },
+        "min_year": 1986,
+        "max_year": 1994,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/antilles_neerlandaises/64f24b99112cf9.29347005-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/antilles_neerlandaises/64f24b998fca81.24580622-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 213980,
+      "title": "10 Gulden",
+      "issuer": {
+        "code": "antilles_neerlandaises",
+        "name": "Netherlands Antilles"
+      },
+      "min_year": 1986,
+      "max_year": 1994,
+      "face": {
+        "value": 10,
+        "unit": "Gulden",
+        "text": "10 Gulden"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 213980,
+        "title": "10 Gulden",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "antilles_neerlandaises",
+          "name": "Netherlands Antilles"
+        },
+        "min_year": 1986,
+        "max_year": 1994,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/antilles_neerlandaises/64f24bf042c663.18355520-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/antilles_neerlandaises/64f24bf0b89de5.33416050-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 213982,
+      "title": "25 Gulden",
+      "issuer": {
+        "code": "antilles_neerlandaises",
+        "name": "Netherlands Antilles"
+      },
+      "min_year": 1986,
+      "max_year": 1994,
+      "face": {
+        "value": 25,
+        "unit": "Gulden",
+        "text": "25 Gulden"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 213982,
+        "title": "25 Gulden",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "antilles_neerlandaises",
+          "name": "Netherlands Antilles"
+        },
+        "min_year": 1986,
+        "max_year": 1994,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/antilles_neerlandaises/64f2446f031262.87695923-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/antilles_neerlandaises/64f2446fa146d4.97693989-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 213986,
+      "title": "50 Gulden",
+      "issuer": {
+        "code": "antilles_neerlandaises",
+        "name": "Netherlands Antilles"
+      },
+      "min_year": 1986,
+      "max_year": 1994,
+      "face": {
+        "value": 50,
+        "unit": "Gulden",
+        "text": "50 Gulden"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 213986,
+        "title": "50 Gulden",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "antilles_neerlandaises",
+          "name": "Netherlands Antilles"
+        },
+        "min_year": 1986,
+        "max_year": 1994,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/antilles_neerlandaises/64c966dbc1adf5.90095451-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/antilles_neerlandaises/64c966dcae4c89.72486126-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 213987,
+      "title": "100 Gulden",
+      "issuer": {
+        "code": "antilles_neerlandaises",
+        "name": "Netherlands Antilles"
+      },
+      "min_year": 1986,
+      "max_year": 1994,
+      "face": {
+        "value": 100,
+        "unit": "Gulden",
+        "text": "100 Gulden"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 213987,
+        "title": "100 Gulden",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "antilles_neerlandaises",
+          "name": "Netherlands Antilles"
+        },
+        "min_year": 1986,
+        "max_year": 1994,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/antilles_neerlandaises/64f2431d1b82e1.18788596-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/antilles_neerlandaises/64f2431d89f966.46345933-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 213989,
+      "title": "250 Gulden",
+      "issuer": {
+        "code": "antilles_neerlandaises",
+        "name": "Netherlands Antilles"
+      },
+      "min_year": 1986,
+      "max_year": 1986,
+      "face": {
+        "value": 250,
+        "unit": "Gulden",
+        "text": "250 Gulden"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 213989,
+        "title": "250 Gulden",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "antilles_neerlandaises",
+          "name": "Netherlands Antilles"
+        },
+        "min_year": 1986,
+        "max_year": 1986,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/antilles_neerlandaises/64f2420259c1b5.53282301-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/antilles_neerlandaises/64f24202c159a0.00983353-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 213992,
+      "title": "100 Gulden",
+      "issuer": {
+        "code": "antilles_neerlandaises",
+        "name": "Netherlands Antilles"
+      },
+      "min_year": 1998,
+      "max_year": 2016,
+      "face": {
+        "value": 100,
+        "unit": "Gulden",
+        "text": "100 Gulden"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 213992,
+        "title": "100 Gulden",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "antilles_neerlandaises",
+          "name": "Netherlands Antilles"
+        },
+        "min_year": 1998,
+        "max_year": 2016,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/antilles_neerlandaises/64c962f52798f2.75767265-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/antilles_neerlandaises/64c962f5ee8fc4.38904507-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 229559,
+      "title": "5 Gulden",
+      "issuer": {
+        "code": "antilles_neerlandaises",
+        "name": "Netherlands Antilles"
+      },
+      "min_year": 1967,
+      "max_year": 1972,
+      "face": {
+        "value": 5,
+        "unit": "Gulden",
+        "text": "5 Gulden"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 229559,
+        "title": "5 Gulden",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "antilles_neerlandaises",
+          "name": "Netherlands Antilles"
+        },
+        "min_year": 1967,
+        "max_year": 1972,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/antilles_neerlandaises/64f247997888e0.56333740-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/antilles_neerlandaises/64f24799df2323.31520683-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 371872,
+      "title": "5 Gulden",
+      "issuer": {
+        "code": "curacao",
+        "name": "Curaçao"
+      },
+      "min_year": 1954,
+      "max_year": 1960,
+      "face": {
+        "value": 5,
+        "unit": "Gulden",
+        "text": "5 Gulden"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 371872,
+        "title": "5 Gulden",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "curacao",
+          "name": "Curaçao"
+        },
+        "min_year": 1954,
+        "max_year": 1960,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/curacao/64b345aa5266f0.24676807-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/curacao/64b345ab0cb688.37233973-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 371907,
+      "title": "10 Gulden",
+      "issuer": {
+        "code": "curacao",
+        "name": "Curaçao"
+      },
+      "min_year": 1954,
+      "max_year": 1960,
+      "face": {
+        "value": 10,
+        "unit": "Gulden",
+        "text": "10 Gulden"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 371907,
+        "title": "10 Gulden",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "curacao",
+          "name": "Curaçao"
+        },
+        "min_year": 1954,
+        "max_year": 1960,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/curacao/64b3c1e21c86c1.72231611-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/curacao/64b3c1e28d74c8.06812459-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 371908,
+      "title": "25 Gulden",
+      "issuer": {
+        "code": "curacao",
+        "name": "Curaçao"
+      },
+      "min_year": 1954,
+      "max_year": 1960,
+      "face": {
+        "value": 25,
+        "unit": "Gulden",
+        "text": "25 Gulden"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 371908,
+        "title": "25 Gulden",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "curacao",
+          "name": "Curaçao"
+        },
+        "min_year": 1954,
+        "max_year": 1960,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/curacao/64b3ca40d75f01.80579016-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/curacao/64b3ca422002a2.74797898-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 371909,
+      "title": "50 Gulden",
+      "issuer": {
+        "code": "curacao",
+        "name": "Curaçao"
+      },
+      "min_year": 1954,
+      "max_year": 1960,
+      "face": {
+        "value": 50,
+        "unit": "Gulden",
+        "text": "50 Gulden"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 371909,
+        "title": "50 Gulden",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "curacao",
+          "name": "Curaçao"
+        },
+        "min_year": 1954,
+        "max_year": 1960,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/curacao/68133eefdd9889.01417464-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/curacao/68133ef0d3e1f0.00505533-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 371911,
+      "title": "100 Gulden",
+      "issuer": {
+        "code": "curacao",
+        "name": "Curaçao"
+      },
+      "min_year": 1954,
+      "max_year": 1960,
+      "face": {
+        "value": 100,
+        "unit": "Gulden",
+        "text": "100 Gulden"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 371911,
+        "title": "100 Gulden",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "curacao",
+          "name": "Curaçao"
+        },
+        "min_year": 1954,
+        "max_year": 1960,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/curacao/64b3d0b8878d63.53364509-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/curacao/64b3d0b9798b68.35418384-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 464105,
+      "title": "10 Caribbean Guilder",
+      "issuer": {
+        "code": "curacao_sint_marteen",
+        "name": "Curaçao and Sint Maarten"
+      },
+      "min_year": 2025,
+      "max_year": 2025,
+      "face": {
+        "value": 10,
+        "unit": "Caribbean Guilder",
+        "text": "10 Caribbean Guilder"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 464105,
+        "title": "10 Caribbean Guilder",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "curacao_sint_marteen",
+          "name": "Curaçao and Sint Maarten"
+        },
+        "min_year": 2025,
+        "max_year": 2025,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/curacao_sint_marteen/67f8e5581f9b64.69380494-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/curacao_sint_marteen/67f8e558250468.43505140-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 464428,
+      "title": "50 Caribbean Guilder",
+      "issuer": {
+        "code": "curacao_sint_marteen",
+        "name": "Curaçao and Sint Maarten"
+      },
+      "min_year": 2025,
+      "max_year": 2025,
+      "face": {
+        "value": 50,
+        "unit": "Caribbean Guilder",
+        "text": "50 Caribbean Guilder"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 464428,
+        "title": "50 Caribbean Guilder",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "curacao_sint_marteen",
+          "name": "Curaçao and Sint Maarten"
+        },
+        "min_year": 2025,
+        "max_year": 2025,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/curacao_sint_marteen/68708c39d626c7.85377925-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/curacao_sint_marteen/68708c3ad1d0d1.05827047-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 464506,
+      "title": "100 Caribbean Guilder",
+      "issuer": {
+        "code": "curacao_sint_marteen",
+        "name": "Curaçao and Sint Maarten"
+      },
+      "min_year": 2025,
+      "max_year": 2025,
+      "face": {
+        "value": 100,
+        "unit": "Caribbean Guilder",
+        "text": "100 Caribbean Guilder"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 464506,
+        "title": "100 Caribbean Guilder",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "curacao_sint_marteen",
+          "name": "Curaçao and Sint Maarten"
+        },
+        "min_year": 2025,
+        "max_year": 2025,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/curacao_sint_marteen/69dd90f5b4b746.29310445-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/curacao_sint_marteen/69dd90f6d3dda7.92194072-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 464507,
+      "title": "200 Caribbean Guilder",
+      "issuer": {
+        "code": "curacao_sint_marteen",
+        "name": "Curaçao and Sint Maarten"
+      },
+      "min_year": 2025,
+      "max_year": 2025,
+      "face": {
+        "value": 200,
+        "unit": "Caribbean Guilder",
+        "text": "200 Caribbean Guilder"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 464507,
+        "title": "200 Caribbean Guilder",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "curacao_sint_marteen",
+          "name": "Curaçao and Sint Maarten"
+        },
+        "min_year": 2025,
+        "max_year": 2025,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/curacao_sint_marteen/6a22392c549747.26179628-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/curacao_sint_marteen/6a22392d6a47b7.05146214-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 464541,
+      "title": "20 Caribbean Guilder",
+      "issuer": {
+        "code": "curacao_sint_marteen",
+        "name": "Curaçao and Sint Maarten"
+      },
+      "min_year": 2025,
+      "max_year": 2025,
+      "face": {
+        "value": 20,
+        "unit": "Caribbean Guilder",
+        "text": "20 Caribbean Guilder"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 464541,
+        "title": "20 Caribbean Guilder",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "curacao_sint_marteen",
+          "name": "Curaçao and Sint Maarten"
+        },
+        "min_year": 2025,
+        "max_year": 2025,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/curacao_sint_marteen/68290d16c751c1.43478375-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/curacao_sint_marteen/6829257fdab148.80770354-180.jpg",
+        "category": "banknote"
+      }
+    }
+  ]
+}

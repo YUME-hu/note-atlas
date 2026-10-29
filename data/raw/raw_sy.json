@@ -1,0 +1,3910 @@
+{
+  "meta": {
+    "generated_at": "2026-10-29T13:27:49.568Z",
+    "fixture": false,
+    "api": "numista v3",
+    "issuer": "syria",
+    "iso": "SY",
+    "category": "banknote",
+    "lang": "en",
+    "since": 1900,
+    "listed": 105,
+    "fetched": 105,
+    "details_fetched": 0,
+    "dropped_before_since": 0,
+    "dropped_by_source": {
+      "list": 0,
+      "detail": 0
+    },
+    "issuer_mismatches": 0,
+    "pages": 3,
+    "requests": 0
+  },
+  "types": [
+    {
+      "numista_type_id": 202263,
+      "title": "1 Piastre",
+      "issuer": {
+        "code": "syrie",
+        "name": "Syria"
+      },
+      "min_year": 1920,
+      "max_year": 1920,
+      "face": {
+        "value": 1,
+        "unit": "Piastre",
+        "text": "1 Piastre"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202263,
+        "title": "1 Piastre",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "syrie",
+          "name": "Syria"
+        },
+        "min_year": 1920,
+        "max_year": 1920,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/5e961ab38ab4d3.02191955-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/5e961ab3d155a2.33541167-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204675,
+      "title": "5 Syrian Pounds",
+      "issuer": {
+        "code": "syrie",
+        "name": "Syria"
+      },
+      "min_year": 1977,
+      "max_year": 1991,
+      "face": {
+        "value": 5,
+        "unit": "Syrian Pounds",
+        "text": "5 Syrian Pounds"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204675,
+        "title": "5 Syrian Pounds",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "syrie",
+          "name": "Syria"
+        },
+        "min_year": 1977,
+        "max_year": 1991,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/637c97f899fdc4.29193819-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/637c97f9c22ab3.67717925-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204680,
+      "title": "10 Syrian Pounds",
+      "issuer": {
+        "code": "syrie",
+        "name": "Syria"
+      },
+      "min_year": 1977,
+      "max_year": 1991,
+      "face": {
+        "value": 10,
+        "unit": "Syrian Pounds",
+        "text": "10 Syrian Pounds"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204680,
+        "title": "10 Syrian Pounds",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "syrie",
+          "name": "Syria"
+        },
+        "min_year": 1977,
+        "max_year": 1991,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/626e3c8147eb96.44932292-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/626e3c82566629.80714144-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204683,
+      "title": "100 Syrian Pounds",
+      "issuer": {
+        "code": "syrie",
+        "name": "Syria"
+      },
+      "min_year": 1977,
+      "max_year": 1990,
+      "face": {
+        "value": 100,
+        "unit": "Syrian Pounds",
+        "text": "100 Syrian Pounds"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204683,
+        "title": "100 Syrian Pounds",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "syrie",
+          "name": "Syria"
+        },
+        "min_year": 1977,
+        "max_year": 1990,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/637c9af3c925e4.61102677-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/637c9af4d65eb6.87513784-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205948,
+      "title": "5 Piastres (Syrian Republic; 2nd. issue)",
+      "issuer": {
+        "code": "syrie",
+        "name": "Syria"
+      },
+      "min_year": 1944,
+      "max_year": 1944,
+      "face": {
+        "value": 5,
+        "unit": "Piastres",
+        "text": "5 Piastres"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205948,
+        "title": "5 Piastres (Syrian Republic; 2nd. issue)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "syrie",
+          "name": "Syria"
+        },
+        "min_year": 1944,
+        "max_year": 1944,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/67f523ff305173.29660724-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/67f523ff9198d7.72879260-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205960,
+      "title": "25 Piastres (Syrian Republic; 1st. issue)",
+      "issuer": {
+        "code": "syrie",
+        "name": "Syria"
+      },
+      "min_year": 1942,
+      "max_year": 1942,
+      "face": {
+        "value": 25,
+        "unit": "Piastres",
+        "text": "25 Piastres"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205960,
+        "title": "25 Piastres (Syrian Republic; 1st. issue)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "syrie",
+          "name": "Syria"
+        },
+        "min_year": 1942,
+        "max_year": 1942,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/67f51a8d1a1cc0.33179761-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/67f51a8dbccfb7.92495308-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 207273,
+      "title": "50 Syrian Pounds",
+      "issuer": {
+        "code": "syrie",
+        "name": "Syria"
+      },
+      "min_year": 1998,
+      "max_year": 1998,
+      "face": {
+        "value": 50,
+        "unit": "Syrian Pounds",
+        "text": "50 Syrian Pounds"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 207273,
+        "title": "50 Syrian Pounds",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "syrie",
+          "name": "Syria"
+        },
+        "min_year": 1998,
+        "max_year": 1998,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/62d6e5f88876a6.51530624-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/62d6e5f93b9964.44872725-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 207275,
+      "title": "200 Syrian Pounds",
+      "issuer": {
+        "code": "syrie",
+        "name": "Syria"
+      },
+      "min_year": 1997,
+      "max_year": 1997,
+      "face": {
+        "value": 200,
+        "unit": "Syrian Pounds",
+        "text": "200 Syrian Pounds"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 207275,
+        "title": "200 Syrian Pounds",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "syrie",
+          "name": "Syria"
+        },
+        "min_year": 1997,
+        "max_year": 1997,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/6578931ad6b240.06921281-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/6578931cebfe59.62789132-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 207278,
+      "title": "100 Syrian Pounds (Fractional serial number)",
+      "issuer": {
+        "code": "syrie",
+        "name": "Syria"
+      },
+      "min_year": 2019,
+      "max_year": 2021,
+      "face": {
+        "value": 100,
+        "unit": "Syrian Pounds",
+        "text": "100 Syrian Pounds"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 207278,
+        "title": "100 Syrian Pounds (Fractional serial number)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "syrie",
+          "name": "Syria"
+        },
+        "min_year": 2019,
+        "max_year": 2021,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/62b9dcd7819247.17650624-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/62b9dcd8315116.13448157-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 208296,
+      "title": "1 Livre",
+      "issuer": {
+        "code": "syrie",
+        "name": "Syria"
+      },
+      "min_year": 1939,
+      "max_year": 1939,
+      "face": {
+        "value": 1,
+        "unit": "Livre",
+        "text": "1 Livre"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 208296,
+        "title": "1 Livre",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "syrie",
+          "name": "Syria"
+        },
+        "min_year": 1939,
+        "max_year": 1939,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/5fb182d5e02ae2.60317467-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/5fb182d665baa5.93308132-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 208878,
+      "title": "1000 Syrian Pounds",
+      "issuer": {
+        "code": "syrie",
+        "name": "Syria"
+      },
+      "min_year": 1997,
+      "max_year": 1997,
+      "face": {
+        "value": 1000,
+        "unit": "Syrian Pounds",
+        "text": "1000 Syrian Pounds"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 208878,
+        "title": "1000 Syrian Pounds",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "syrie",
+          "name": "Syria"
+        },
+        "min_year": 1997,
+        "max_year": 1997,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/63da38cc9cedf9.72987623-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/63da38cd84f881.35037947-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 210643,
+      "title": "50 Syrian Pounds (Ascending serial number)",
+      "issuer": {
+        "code": "syrie",
+        "name": "Syria"
+      },
+      "min_year": 2009,
+      "max_year": 2009,
+      "face": {
+        "value": 50,
+        "unit": "Syrian Pounds",
+        "text": "50 Syrian Pounds"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 210643,
+        "title": "50 Syrian Pounds (Ascending serial number)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "syrie",
+          "name": "Syria"
+        },
+        "min_year": 2009,
+        "max_year": 2009,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/623c296c058269.70177593-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/623c296c9bccf5.00084326-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 210985,
+      "title": "100 Syrian Pounds",
+      "issuer": {
+        "code": "syrie",
+        "name": "Syria"
+      },
+      "min_year": 1998,
+      "max_year": 1998,
+      "face": {
+        "value": 100,
+        "unit": "Syrian Pounds",
+        "text": "100 Syrian Pounds"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 210985,
+        "title": "100 Syrian Pounds",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "syrie",
+          "name": "Syria"
+        },
+        "min_year": 1998,
+        "max_year": 1998,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/62f27638683c59.60334128-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/62f2763778bf24.87477230-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 212092,
+      "title": "1 Syrian Pound",
+      "issuer": {
+        "code": "syrie",
+        "name": "Syria"
+      },
+      "min_year": 1958,
+      "max_year": 1982,
+      "face": {
+        "value": 1,
+        "unit": "Syrian Pound",
+        "text": "1 Syrian Pound"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 212092,
+        "title": "1 Syrian Pound",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "syrie",
+          "name": "Syria"
+        },
+        "min_year": 1958,
+        "max_year": 1982,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/637bcc709f94b9.02368705-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/637bcc71adb276.77010204-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 212584,
+      "title": "500 Syrian Pounds",
+      "issuer": {
+        "code": "syrie",
+        "name": "Syria"
+      },
+      "min_year": 2013,
+      "max_year": 2013,
+      "face": {
+        "value": 500,
+        "unit": "Syrian Pounds",
+        "text": "500 Syrian Pounds"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 212584,
+        "title": "500 Syrian Pounds",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "syrie",
+          "name": "Syria"
+        },
+        "min_year": 2013,
+        "max_year": 2013,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/6321fc32629642.57815383-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/6321fc32ed2a57.82405477-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 212852,
+      "title": "25 Syrian Pounds",
+      "issuer": {
+        "code": "syrie",
+        "name": "Syria"
+      },
+      "min_year": 1977,
+      "max_year": 1991,
+      "face": {
+        "value": 25,
+        "unit": "Syrian Pounds",
+        "text": "25 Syrian Pounds"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 212852,
+        "title": "25 Syrian Pounds",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "syrie",
+          "name": "Syria"
+        },
+        "min_year": 1977,
+        "max_year": 1991,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/637bcf8e8979c0.98684791-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/637bcf8f917b26.75596394-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 212854,
+      "title": "500 Syrian Pounds",
+      "issuer": {
+        "code": "syrie",
+        "name": "Syria"
+      },
+      "min_year": 1976,
+      "max_year": 1992,
+      "face": {
+        "value": 500,
+        "unit": "Syrian Pounds",
+        "text": "500 Syrian Pounds"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 212854,
+        "title": "500 Syrian Pounds",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "syrie",
+          "name": "Syria"
+        },
+        "min_year": 1976,
+        "max_year": 1992,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/637c9c8fac5d05.89284596-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/637c9c90ba5340.74870200-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 214386,
+      "title": "50 Syrian Pounds",
+      "issuer": {
+        "code": "syrie",
+        "name": "Syria"
+      },
+      "min_year": 1977,
+      "max_year": 1991,
+      "face": {
+        "value": 50,
+        "unit": "Syrian Pounds",
+        "text": "50 Syrian Pounds"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 214386,
+        "title": "50 Syrian Pounds",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "syrie",
+          "name": "Syria"
+        },
+        "min_year": 1977,
+        "max_year": 1991,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/637bd1a4614858.32629039-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/637bd1a5652ab1.00746531-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 215561,
+      "title": "200 Syrian Pounds (Ascending serial number)",
+      "issuer": {
+        "code": "syrie",
+        "name": "Syria"
+      },
+      "min_year": 2009,
+      "max_year": 2009,
+      "face": {
+        "value": 200,
+        "unit": "Syrian Pounds",
+        "text": "200 Syrian Pounds"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 215561,
+        "title": "200 Syrian Pounds (Ascending serial number)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "syrie",
+          "name": "Syria"
+        },
+        "min_year": 2009,
+        "max_year": 2009,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/62b9decb14c072.35736667-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/62b9decbbbb506.04984321-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 215562,
+      "title": "1000 Syrian Pounds",
+      "issuer": {
+        "code": "syrie",
+        "name": "Syria"
+      },
+      "min_year": 2013,
+      "max_year": 2013,
+      "face": {
+        "value": 1000,
+        "unit": "Syrian Pounds",
+        "text": "1000 Syrian Pounds"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 215562,
+        "title": "1000 Syrian Pounds",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "syrie",
+          "name": "Syria"
+        },
+        "min_year": 2013,
+        "max_year": 2013,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/6321fd9815c870.31865978-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/6321fd98a16973.16713687-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 215563,
+      "title": "2000 Syrian Pounds",
+      "issuer": {
+        "code": "syrie",
+        "name": "Syria"
+      },
+      "min_year": 2015,
+      "max_year": 2021,
+      "face": {
+        "value": 2000,
+        "unit": "Syrian Pounds",
+        "text": "2000 Syrian Pounds"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 215563,
+        "title": "2000 Syrian Pounds",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "syrie",
+          "name": "Syria"
+        },
+        "min_year": 2015,
+        "max_year": 2021,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/632201fad6afd1.47404577-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/632201fb69a1f4.20315720-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 222995,
+      "title": "1 Livre Syrienne (Institut d'Emission de Syrie)",
+      "issuer": {
+        "code": "syrie",
+        "name": "Syria"
+      },
+      "min_year": 1950,
+      "max_year": 1950,
+      "face": {
+        "value": 1,
+        "unit": "Livre Syrienne",
+        "text": "1 Livre Syrienne"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 222995,
+        "title": "1 Livre Syrienne (Institut d'Emission de Syrie)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "syrie",
+          "name": "Syria"
+        },
+        "min_year": 1950,
+        "max_year": 1950,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/5eed94eeab6894.26565239-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/5eed94f0329370.35338296-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 224462,
+      "title": "50 Syrian Pounds",
+      "issuer": {
+        "code": "syrie",
+        "name": "Syria"
+      },
+      "min_year": 1966,
+      "max_year": 1973,
+      "face": {
+        "value": 50,
+        "unit": "Syrian Pounds",
+        "text": "50 Syrian Pounds"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 224462,
+        "title": "50 Syrian Pounds",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "syrie",
+          "name": "Syria"
+        },
+        "min_year": 1966,
+        "max_year": 1973,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/67f12f51af9250.71559181-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/67f12f5288a421.39087433-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 239265,
+      "title": "100 Syrian Pounds",
+      "issuer": {
+        "code": "syrie",
+        "name": "Syria"
+      },
+      "min_year": 1966,
+      "max_year": 1974,
+      "face": {
+        "value": 100,
+        "unit": "Syrian Pounds",
+        "text": "100 Syrian Pounds"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 239265,
+        "title": "100 Syrian Pounds",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "syrie",
+          "name": "Syria"
+        },
+        "min_year": 1966,
+        "max_year": 1974,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/67f12cae1f98e6.96113070-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/67f12caef33111.63368007-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 239266,
+      "title": "1 Syrian Pound",
+      "issuer": {
+        "code": "syrie",
+        "name": "Syria"
+      },
+      "min_year": 1977,
+      "max_year": 1977,
+      "face": {
+        "value": 1,
+        "unit": "Syrian Pound",
+        "text": "1 Syrian Pound"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 239266,
+        "title": "1 Syrian Pound",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "syrie",
+          "name": "Syria"
+        },
+        "min_year": 1977,
+        "max_year": 1977,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/67f10bcfcf2343.81176593-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/67f10bd0322a64.05124351-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 239269,
+      "title": "25 Syrian Pounds",
+      "issuer": {
+        "code": "syrie",
+        "name": "Syria"
+      },
+      "min_year": 1966,
+      "max_year": 1973,
+      "face": {
+        "value": 25,
+        "unit": "Syrian Pounds",
+        "text": "25 Syrian Pounds"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 239269,
+        "title": "25 Syrian Pounds",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "syrie",
+          "name": "Syria"
+        },
+        "min_year": 1966,
+        "max_year": 1973,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/67f131d6c30cd7.43953770-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/67f131d79da614.16371384-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 239294,
+      "title": "10 Syrian Pounds",
+      "issuer": {
+        "code": "syrie",
+        "name": "Syria"
+      },
+      "min_year": 1958,
+      "max_year": 1973,
+      "face": {
+        "value": 10,
+        "unit": "Syrian Pounds",
+        "text": "10 Syrian Pounds"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 239294,
+        "title": "10 Syrian Pounds",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "syrie",
+          "name": "Syria"
+        },
+        "min_year": 1958,
+        "max_year": 1973,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/67f13ddf5f6771.83717387-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/67f13de011d200.97463275-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 239297,
+      "title": "5 Syrian Pounds",
+      "issuer": {
+        "code": "syrie",
+        "name": "Syria"
+      },
+      "min_year": 1858,
+      "max_year": 1973,
+      "face": {
+        "value": 5,
+        "unit": "Syrian Pounds",
+        "text": "5 Syrian Pounds"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 239297,
+        "title": "5 Syrian Pounds",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "syrie",
+          "name": "Syria"
+        },
+        "min_year": 1858,
+        "max_year": 1973,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/67f137ec50d804.32380622-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/67f137ece41be4.06308188-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 239669,
+      "title": "500 Syrian Pounds",
+      "issuer": {
+        "code": "syrie",
+        "name": "Syria"
+      },
+      "min_year": 1998,
+      "max_year": 1998,
+      "face": {
+        "value": 500,
+        "unit": "Syrian Pounds",
+        "text": "500 Syrian Pounds"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 239669,
+        "title": "500 Syrian Pounds",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "syrie",
+          "name": "Syria"
+        },
+        "min_year": 1998,
+        "max_year": 1998,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/63da36b12d8ec4.48817409-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/63da36b24f9b96.34324959-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 245391,
+      "title": "5 Piastres",
+      "issuer": {
+        "code": "syrie",
+        "name": "Syria"
+      },
+      "min_year": 1919,
+      "max_year": 1920,
+      "face": {
+        "value": 5,
+        "unit": "Piastres",
+        "text": "5 Piastres"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 245391,
+        "title": "5 Piastres",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "syrie",
+          "name": "Syria"
+        },
+        "min_year": 1919,
+        "max_year": 1920,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/5fb0048e2d5eb7.39839154-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/5fb0048e7f8951.05445439-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 245392,
+      "title": "25 Piastres",
+      "issuer": {
+        "code": "syrie",
+        "name": "Syria"
+      },
+      "min_year": 1919,
+      "max_year": 1920,
+      "face": {
+        "value": 25,
+        "unit": "Piastres",
+        "text": "25 Piastres"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 245392,
+        "title": "25 Piastres",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "syrie",
+          "name": "Syria"
+        },
+        "min_year": 1919,
+        "max_year": 1920,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/5fb00545240ca7.99003677-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/5fb00545765719.45880772-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 245395,
+      "title": "50 Piastres",
+      "issuer": {
+        "code": "syrie",
+        "name": "Syria"
+      },
+      "min_year": 1919,
+      "max_year": 1920,
+      "face": {
+        "value": 50,
+        "unit": "Piastres",
+        "text": "50 Piastres"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 245395,
+        "title": "50 Piastres",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "syrie",
+          "name": "Syria"
+        },
+        "min_year": 1919,
+        "max_year": 1920,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/5fb005f715cb31.64885418-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/5fb005f7592b58.88499020-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 245396,
+      "title": "100 Piastres",
+      "issuer": {
+        "code": "syrie",
+        "name": "Syria"
+      },
+      "min_year": 1919,
+      "max_year": 1920,
+      "face": {
+        "value": 100,
+        "unit": "Piastres",
+        "text": "100 Piastres"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 245396,
+        "title": "100 Piastres",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "syrie",
+          "name": "Syria"
+        },
+        "min_year": 1919,
+        "max_year": 1920,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/67f56780e77743.21169381-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/67f56781bdf995.40672039-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 245397,
+      "title": "500 Piastres",
+      "issuer": {
+        "code": "syrie",
+        "name": "Syria"
+      },
+      "min_year": 1919,
+      "max_year": 1920,
+      "face": {
+        "value": 500,
+        "unit": "Piastres",
+        "text": "500 Piastres"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 245397,
+        "title": "500 Piastres",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "syrie",
+          "name": "Syria"
+        },
+        "min_year": 1919,
+        "max_year": 1920,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/5fb00734a7aec3.55827890-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/5fb00734e7f8b1.07728427-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 245400,
+      "title": "10 Livres",
+      "issuer": {
+        "code": "syrie",
+        "name": "Syria"
+      },
+      "min_year": 1920,
+      "max_year": 1920,
+      "face": {
+        "value": 10,
+        "unit": "Livres",
+        "text": "10 Livres"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 245400,
+        "title": "10 Livres",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "syrie",
+          "name": "Syria"
+        },
+        "min_year": 1920,
+        "max_year": 1920,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/5fb008b2625915.89082896-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/5fb008b2998310.59388921-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 245402,
+      "title": "25 Livres",
+      "issuer": {
+        "code": "syrie",
+        "name": "Syria"
+      },
+      "min_year": 1920,
+      "max_year": 1920,
+      "face": {
+        "value": 25,
+        "unit": "Livres",
+        "text": "25 Livres"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 245402,
+        "title": "25 Livres",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "syrie",
+          "name": "Syria"
+        },
+        "min_year": 1920,
+        "max_year": 1920,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/5fb009790bbd98.60176750-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/5fb009794bedf7.74616080-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 245404,
+      "title": "50 Livres",
+      "issuer": {
+        "code": "syrie",
+        "name": "Syria"
+      },
+      "min_year": 1920,
+      "max_year": 1920,
+      "face": {
+        "value": 50,
+        "unit": "Livres",
+        "text": "50 Livres"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 245404,
+        "title": "50 Livres",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "syrie",
+          "name": "Syria"
+        },
+        "min_year": 1920,
+        "max_year": 1920,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/6ac83ac456d4f9.15005512-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/6ac83ac8054947.83424696-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 245406,
+      "title": "100 Livres",
+      "issuer": {
+        "code": "syrie",
+        "name": "Syria"
+      },
+      "min_year": 1920,
+      "max_year": 1920,
+      "face": {
+        "value": 100,
+        "unit": "Livres",
+        "text": "100 Livres"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 245406,
+        "title": "100 Livres",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "syrie",
+          "name": "Syria"
+        },
+        "min_year": 1920,
+        "max_year": 1920,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/5fb00ae410e146.62890648-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/5fb00ae43d9db1.80616781-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 245411,
+      "title": "10 Piastres",
+      "issuer": {
+        "code": "syrie",
+        "name": "Syria"
+      },
+      "min_year": 1920,
+      "max_year": 1920,
+      "face": {
+        "value": 10,
+        "unit": "Piastres",
+        "text": "10 Piastres"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 245411,
+        "title": "10 Piastres",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "syrie",
+          "name": "Syria"
+        },
+        "min_year": 1920,
+        "max_year": 1920,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/5fb00d3db100e8.76074097-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/5fb00d3e0e3aa5.37711941-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 245415,
+      "title": "100 Livres",
+      "issuer": {
+        "code": "syrie",
+        "name": "Syria"
+      },
+      "min_year": 1920,
+      "max_year": 1920,
+      "face": {
+        "value": 100,
+        "unit": "Livres",
+        "text": "100 Livres"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 245415,
+        "title": "100 Livres",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "syrie",
+          "name": "Syria"
+        },
+        "min_year": 1920,
+        "max_year": 1920,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/5fb00fcd2c2bb8.92820879-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/5fb00fcd7ea159.06076203-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 245417,
+      "title": "25 Piastres",
+      "issuer": {
+        "code": "syrie",
+        "name": "Syria"
+      },
+      "min_year": 1925,
+      "max_year": 1925,
+      "face": {
+        "value": 25,
+        "unit": "Piastres",
+        "text": "25 Piastres"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 245417,
+        "title": "25 Piastres",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "syrie",
+          "name": "Syria"
+        },
+        "min_year": 1925,
+        "max_year": 1925,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/5fb0128ea92eb3.56697260-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/5fb0128f0aabe7.09383368-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 245419,
+      "title": "1 Livre",
+      "issuer": {
+        "code": "syrie",
+        "name": "Syria"
+      },
+      "min_year": 1925,
+      "max_year": 1935,
+      "face": {
+        "value": 1,
+        "unit": "Livre",
+        "text": "1 Livre"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 245419,
+        "title": "1 Livre",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "syrie",
+          "name": "Syria"
+        },
+        "min_year": 1925,
+        "max_year": 1935,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/67f9b9e2ca3bf3.07355797-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/67f9b9e3b31611.01546999-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 245421,
+      "title": "5 Livres",
+      "issuer": {
+        "code": "syrie",
+        "name": "Syria"
+      },
+      "min_year": 1925,
+      "max_year": 1930,
+      "face": {
+        "value": 5,
+        "unit": "Livres",
+        "text": "5 Livres"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 245421,
+        "title": "5 Livres",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "syrie",
+          "name": "Syria"
+        },
+        "min_year": 1925,
+        "max_year": 1930,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/67fa42b967bb43.42943447-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/67fa42ba17f606.44073753-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 245422,
+      "title": "10 Livres",
+      "issuer": {
+        "code": "syrie",
+        "name": "Syria"
+      },
+      "min_year": 1925,
+      "max_year": 1930,
+      "face": {
+        "value": 10,
+        "unit": "Livres",
+        "text": "10 Livres"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 245422,
+        "title": "10 Livres",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "syrie",
+          "name": "Syria"
+        },
+        "min_year": 1925,
+        "max_year": 1930,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/67fab7ff918310.30923814-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/67fab8008abce0.68116610-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 245424,
+      "title": "25 Livres",
+      "issuer": {
+        "code": "syrie",
+        "name": "Syria"
+      },
+      "min_year": 1925,
+      "max_year": 1930,
+      "face": {
+        "value": 25,
+        "unit": "Livres",
+        "text": "25 Livres"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 245424,
+        "title": "25 Livres",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "syrie",
+          "name": "Syria"
+        },
+        "min_year": 1925,
+        "max_year": 1930,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/5fb016f0d27fd1.18999158-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/5fb016f1165de6.57638443-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 245426,
+      "title": "50 Livres",
+      "issuer": {
+        "code": "syrie",
+        "name": "Syria"
+      },
+      "min_year": 1925,
+      "max_year": 1925,
+      "face": {
+        "value": 50,
+        "unit": "Livres",
+        "text": "50 Livres"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 245426,
+        "title": "50 Livres",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "syrie",
+          "name": "Syria"
+        },
+        "min_year": 1925,
+        "max_year": 1925,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/5fb017c0a09612.91793816-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/5fb017c0f1b969.48014570-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 245427,
+      "title": "100 Livres",
+      "issuer": {
+        "code": "syrie",
+        "name": "Syria"
+      },
+      "min_year": 1925,
+      "max_year": 1930,
+      "face": {
+        "value": 100,
+        "unit": "Livres",
+        "text": "100 Livres"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 245427,
+        "title": "100 Livres",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "syrie",
+          "name": "Syria"
+        },
+        "min_year": 1925,
+        "max_year": 1930,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/67fabd8a632950.73278406-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/67fabd8b60bff9.12673428-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 245533,
+      "title": "5 Livres",
+      "issuer": {
+        "code": "syrie",
+        "name": "Syria"
+      },
+      "min_year": 1935,
+      "max_year": 1935,
+      "face": {
+        "value": 5,
+        "unit": "Livres",
+        "text": "5 Livres"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 245533,
+        "title": "5 Livres",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "syrie",
+          "name": "Syria"
+        },
+        "min_year": 1935,
+        "max_year": 1935,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/5fb1784c64ee05.69079763-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/5fb1784caf9df2.13138102-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 245535,
+      "title": "100 Livres",
+      "issuer": {
+        "code": "syrie",
+        "name": "Syria"
+      },
+      "min_year": 1935,
+      "max_year": 1935,
+      "face": {
+        "value": 100,
+        "unit": "Livres",
+        "text": "100 Livres"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 245535,
+        "title": "100 Livres",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "syrie",
+          "name": "Syria"
+        },
+        "min_year": 1935,
+        "max_year": 1935,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/5fb179d833c3b4.37281189-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/5fb179d864d6b4.08111650-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 245536,
+      "title": "50 Livres",
+      "issuer": {
+        "code": "syrie",
+        "name": "Syria"
+      },
+      "min_year": 1938,
+      "max_year": 1938,
+      "face": {
+        "value": 50,
+        "unit": "Livres",
+        "text": "50 Livres"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 245536,
+        "title": "50 Livres",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "syrie",
+          "name": "Syria"
+        },
+        "min_year": 1938,
+        "max_year": 1938,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/5fb17a85762f88.20798912-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/5fb17a85ac22e0.44252760-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 245538,
+      "title": "1 Livre (SYRIE 1939)",
+      "issuer": {
+        "code": "syrie",
+        "name": "Syria"
+      },
+      "min_year": 1939,
+      "max_year": 1939,
+      "face": {
+        "value": 1,
+        "unit": "Livre",
+        "text": "1 Livre"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 245538,
+        "title": "1 Livre (SYRIE 1939)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "syrie",
+          "name": "Syria"
+        },
+        "min_year": 1939,
+        "max_year": 1939,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/5fb17bb8d52e56.26871713-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/5fb17bb9356b69.30892352-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 245539,
+      "title": "5 Livres (SYRIE 1939)",
+      "issuer": {
+        "code": "syrie",
+        "name": "Syria"
+      },
+      "min_year": 1939,
+      "max_year": 1939,
+      "face": {
+        "value": 5,
+        "unit": "Livres",
+        "text": "5 Livres"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 245539,
+        "title": "5 Livres (SYRIE 1939)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "syrie",
+          "name": "Syria"
+        },
+        "min_year": 1939,
+        "max_year": 1939,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/5fb17cbbdbbff3.84878178-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/5fb17cbc2dc9d7.44428692-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 245540,
+      "title": "10 Livres (SYRIE 1939)",
+      "issuer": {
+        "code": "syrie",
+        "name": "Syria"
+      },
+      "min_year": 1939,
+      "max_year": 1939,
+      "face": {
+        "value": 10,
+        "unit": "Livres",
+        "text": "10 Livres"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 245540,
+        "title": "10 Livres (SYRIE 1939)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "syrie",
+          "name": "Syria"
+        },
+        "min_year": 1939,
+        "max_year": 1939,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/6a184bbc12f857.00446036-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/6a184bbf2cedb8.20421272-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 245541,
+      "title": "100 Livres (SYRIE 1939)",
+      "issuer": {
+        "code": "syrie",
+        "name": "Syria"
+      },
+      "min_year": 1939,
+      "max_year": 1939,
+      "face": {
+        "value": 100,
+        "unit": "Livres",
+        "text": "100 Livres"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 245541,
+        "title": "100 Livres (SYRIE 1939)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "syrie",
+          "name": "Syria"
+        },
+        "min_year": 1939,
+        "max_year": 1939,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/5fb17dbb12f3f5.74347164-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/5fb17dbb52cd53.36832794-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 245543,
+      "title": "100 Livres (SYRIE 1939 on Syria's P#38)",
+      "issuer": {
+        "code": "syrie",
+        "name": "Syria"
+      },
+      "min_year": 1939,
+      "max_year": 1939,
+      "face": {
+        "value": 100,
+        "unit": "Livres",
+        "text": "100 Livres"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 245543,
+        "title": "100 Livres (SYRIE 1939 on Syria's P#38)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "syrie",
+          "name": "Syria"
+        },
+        "min_year": 1939,
+        "max_year": 1939,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/6a17929d8b3db1.80748934-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/6a1792a1154454.40723111-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 245545,
+      "title": "100 Livres (SYRIE 1939 on Lebanon's P#12F)",
+      "issuer": {
+        "code": "syrie",
+        "name": "Syria"
+      },
+      "min_year": 1939,
+      "max_year": 1939,
+      "face": {
+        "value": 100,
+        "unit": "Livres",
+        "text": "100 Livres"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 245545,
+        "title": "100 Livres (SYRIE 1939 on Lebanon's P#12F)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "syrie",
+          "name": "Syria"
+        },
+        "min_year": 1939,
+        "max_year": 1939,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/5fb181886a4958.90407508-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/5fb1818897f514.08743065-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 245549,
+      "title": "5 Livres",
+      "issuer": {
+        "code": "syrie",
+        "name": "Syria"
+      },
+      "min_year": 1939,
+      "max_year": 1939,
+      "face": {
+        "value": 5,
+        "unit": "Livres",
+        "text": "5 Livres"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 245549,
+        "title": "5 Livres",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "syrie",
+          "name": "Syria"
+        },
+        "min_year": 1939,
+        "max_year": 1939,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/5fb183efd156c9.95214005-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/5fb183f022ce01.50785273-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 245550,
+      "title": "10 Livres",
+      "issuer": {
+        "code": "syrie",
+        "name": "Syria"
+      },
+      "min_year": 1939,
+      "max_year": 1939,
+      "face": {
+        "value": 10,
+        "unit": "Livres",
+        "text": "10 Livres"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 245550,
+        "title": "10 Livres",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "syrie",
+          "name": "Syria"
+        },
+        "min_year": 1939,
+        "max_year": 1939,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/5fb184b4261fb0.90898403-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/5fb184b470c013.72880869-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 245552,
+      "title": "25 Livres",
+      "issuer": {
+        "code": "syrie",
+        "name": "Syria"
+      },
+      "min_year": 1939,
+      "max_year": 1939,
+      "face": {
+        "value": 25,
+        "unit": "Livres",
+        "text": "25 Livres"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 245552,
+        "title": "25 Livres",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "syrie",
+          "name": "Syria"
+        },
+        "min_year": 1939,
+        "max_year": 1939,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/6a1837095e3724.32002193-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/6a18370c96dc52.54241008-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 245553,
+      "title": "50 Livres",
+      "issuer": {
+        "code": "syrie",
+        "name": "Syria"
+      },
+      "min_year": 1939,
+      "max_year": 1939,
+      "face": {
+        "value": 50,
+        "unit": "Livres",
+        "text": "50 Livres"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 245553,
+        "title": "50 Livres",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "syrie",
+          "name": "Syria"
+        },
+        "min_year": 1939,
+        "max_year": 1939,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/5fb186772ad756.61755691-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/5fb18677700e53.22629217-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 245624,
+      "title": "5 Livres",
+      "issuer": {
+        "code": "syrie",
+        "name": "Syria"
+      },
+      "min_year": 1942,
+      "max_year": 1942,
+      "face": {
+        "value": 5,
+        "unit": "Livres",
+        "text": "5 Livres"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 245624,
+        "title": "5 Livres",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "syrie",
+          "name": "Syria"
+        },
+        "min_year": 1942,
+        "max_year": 1942,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/67f4697024f4a5.63984631-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/67f469715252d1.57049727-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 245625,
+      "title": "50 Livres",
+      "issuer": {
+        "code": "syrie",
+        "name": "Syria"
+      },
+      "min_year": 1942,
+      "max_year": 1942,
+      "face": {
+        "value": 50,
+        "unit": "Livres",
+        "text": "50 Livres"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 245625,
+        "title": "50 Livres",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "syrie",
+          "name": "Syria"
+        },
+        "min_year": 1942,
+        "max_year": 1942,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/67f47940280781.99709003-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/67f47940ea8a04.26419693-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 245628,
+      "title": "100 Livres",
+      "issuer": {
+        "code": "syrie",
+        "name": "Syria"
+      },
+      "min_year": 1942,
+      "max_year": 1942,
+      "face": {
+        "value": 100,
+        "unit": "Livres",
+        "text": "100 Livres"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 245628,
+        "title": "100 Livres",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "syrie",
+          "name": "Syria"
+        },
+        "min_year": 1942,
+        "max_year": 1942,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/67f47a395fc346.49864649-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/67f47a3a268634.58248896-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 245629,
+      "title": "5 Piastres (Syrian Republic; 1st. issue)",
+      "issuer": {
+        "code": "syrie",
+        "name": "Syria"
+      },
+      "min_year": 1942,
+      "max_year": 1942,
+      "face": {
+        "value": 5,
+        "unit": "Piastres",
+        "text": "5 Piastres"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 245629,
+        "title": "5 Piastres (Syrian Republic; 1st. issue)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "syrie",
+          "name": "Syria"
+        },
+        "min_year": 1942,
+        "max_year": 1942,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/5fb29030d0b8f9.94050049-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/5fb290304185f1.50690090-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 245630,
+      "title": "10 Piastres (Syrian Republic; 1st. issue)",
+      "issuer": {
+        "code": "syrie",
+        "name": "Syria"
+      },
+      "min_year": 1942,
+      "max_year": 1942,
+      "face": {
+        "value": 10,
+        "unit": "Piastres",
+        "text": "10 Piastres"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 245630,
+        "title": "10 Piastres (Syrian Republic; 1st. issue)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "syrie",
+          "name": "Syria"
+        },
+        "min_year": 1942,
+        "max_year": 1942,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/67f47e09d6e2f2.89063580-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/67f47e0aa965a5.54655100-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 245631,
+      "title": "50 Piastres (Syrian Republic; 1st. issue)",
+      "issuer": {
+        "code": "syrie",
+        "name": "Syria"
+      },
+      "min_year": 1942,
+      "max_year": 1942,
+      "face": {
+        "value": 50,
+        "unit": "Piastres",
+        "text": "50 Piastres"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 245631,
+        "title": "50 Piastres (Syrian Republic; 1st. issue)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "syrie",
+          "name": "Syria"
+        },
+        "min_year": 1942,
+        "max_year": 1942,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/5fb29182859487.54569773-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/5fb29182d360a4.63899297-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 245633,
+      "title": "25 Piastres (Syrian Republic; 2nd. issue)",
+      "issuer": {
+        "code": "syrie",
+        "name": "Syria"
+      },
+      "min_year": 1942,
+      "max_year": 1942,
+      "face": {
+        "value": 25,
+        "unit": "Piastres",
+        "text": "25 Piastres"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 245633,
+        "title": "25 Piastres (Syrian Republic; 2nd. issue)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "syrie",
+          "name": "Syria"
+        },
+        "min_year": 1942,
+        "max_year": 1942,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/5fb2921eb734d9.39431167-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/5fb2921f1d1b68.31435323-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 245634,
+      "title": "50 Piastres (Syrian Republic; 2nd. issue)",
+      "issuer": {
+        "code": "syrie",
+        "name": "Syria"
+      },
+      "min_year": 1942,
+      "max_year": 1942,
+      "face": {
+        "value": 50,
+        "unit": "Piastres",
+        "text": "50 Piastres"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 245634,
+        "title": "50 Piastres (Syrian Republic; 2nd. issue)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "syrie",
+          "name": "Syria"
+        },
+        "min_year": 1942,
+        "max_year": 1942,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/5fb292a952e818.37821296-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/5fb292a9a08906.23481337-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 245635,
+      "title": "10 Piastres (Syrian Republic; 2nd. issue)",
+      "issuer": {
+        "code": "syrie",
+        "name": "Syria"
+      },
+      "min_year": 1944,
+      "max_year": 1944,
+      "face": {
+        "value": 10,
+        "unit": "Piastres",
+        "text": "10 Piastres"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 245635,
+        "title": "10 Piastres (Syrian Republic; 2nd. issue)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "syrie",
+          "name": "Syria"
+        },
+        "min_year": 1944,
+        "max_year": 1944,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/5fb293ecab15f1.76620333-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/5fb293ecf1b1d2.16689376-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 245637,
+      "title": "2½ Piastres (tax stamp)",
+      "issuer": {
+        "code": "syrie",
+        "name": "Syria"
+      },
+      "min_year": 1945,
+      "max_year": 1945,
+      "face": {
+        "value": 2.5,
+        "unit": "Piastres",
+        "text": "2.5 Piastres"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 245637,
+        "title": "2½ Piastres (tax stamp)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "syrie",
+          "name": "Syria"
+        },
+        "min_year": 1945,
+        "max_year": 1945,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/68222a55d10602.87219328-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/68222a56339a74.58437368-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 245638,
+      "title": "5 Piastres (tax stamp)",
+      "issuer": {
+        "code": "syrie",
+        "name": "Syria"
+      },
+      "min_year": 1945,
+      "max_year": 1945,
+      "face": {
+        "value": 5,
+        "unit": "Piastres",
+        "text": "5 Piastres"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 245638,
+        "title": "5 Piastres (tax stamp)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "syrie",
+          "name": "Syria"
+        },
+        "min_year": 1945,
+        "max_year": 1945,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/5fb295381b7768.14344160-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/5fb29538632067.57161440-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 245639,
+      "title": "1 Livre",
+      "issuer": {
+        "code": "syrie",
+        "name": "Syria"
+      },
+      "min_year": 1947,
+      "max_year": 1949,
+      "face": {
+        "value": 1,
+        "unit": "Livre",
+        "text": "1 Livre"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 245639,
+        "title": "1 Livre",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "syrie",
+          "name": "Syria"
+        },
+        "min_year": 1947,
+        "max_year": 1949,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/67f31e107369f7.42188540-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/67f31e10d0c403.10781173-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 245640,
+      "title": "10 Livres",
+      "issuer": {
+        "code": "syrie",
+        "name": "Syria"
+      },
+      "min_year": 1947,
+      "max_year": 1949,
+      "face": {
+        "value": 10,
+        "unit": "Livres",
+        "text": "10 Livres"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 245640,
+        "title": "10 Livres",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "syrie",
+          "name": "Syria"
+        },
+        "min_year": 1947,
+        "max_year": 1949,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/67f31baa1b97f7.77962113-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/67f31baaf15579.96193657-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 245642,
+      "title": "25 Livres",
+      "issuer": {
+        "code": "syrie",
+        "name": "Syria"
+      },
+      "min_year": 1947,
+      "max_year": 1949,
+      "face": {
+        "value": 25,
+        "unit": "Livres",
+        "text": "25 Livres"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 245642,
+        "title": "25 Livres",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "syrie",
+          "name": "Syria"
+        },
+        "min_year": 1947,
+        "max_year": 1949,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/67f3187642a3c9.10090551-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/67f3187772b824.72723176-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 245643,
+      "title": "50 Livres",
+      "issuer": {
+        "code": "syrie",
+        "name": "Syria"
+      },
+      "min_year": 1947,
+      "max_year": 1949,
+      "face": {
+        "value": 50,
+        "unit": "Livres",
+        "text": "50 Livres"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 245643,
+        "title": "50 Livres",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "syrie",
+          "name": "Syria"
+        },
+        "min_year": 1947,
+        "max_year": 1949,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/67f2ffcf9af484.09575682-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/67f2ffe9aed247.85957444-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 245644,
+      "title": "100 Livres",
+      "issuer": {
+        "code": "syrie",
+        "name": "Syria"
+      },
+      "min_year": 1947,
+      "max_year": 1949,
+      "face": {
+        "value": 100,
+        "unit": "Livres",
+        "text": "100 Livres"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 245644,
+        "title": "100 Livres",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "syrie",
+          "name": "Syria"
+        },
+        "min_year": 1947,
+        "max_year": 1949,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/67f2fd1fed1e13.07801099-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/67f2fd20ea1585.91158092-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 245645,
+      "title": "5 Livres",
+      "issuer": {
+        "code": "syrie",
+        "name": "Syria"
+      },
+      "min_year": 1948,
+      "max_year": 1948,
+      "face": {
+        "value": 5,
+        "unit": "Livres",
+        "text": "5 Livres"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 245645,
+        "title": "5 Livres",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "syrie",
+          "name": "Syria"
+        },
+        "min_year": 1948,
+        "max_year": 1948,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/5fb29852489c36.33930992-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/5fb298529b82b3.50134093-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 245647,
+      "title": "5 Livres Syriennes (Institut d'Emission de Syrie)",
+      "issuer": {
+        "code": "syrie",
+        "name": "Syria"
+      },
+      "min_year": 1950,
+      "max_year": 1950,
+      "face": {
+        "value": 5,
+        "unit": "Livres Syriennes",
+        "text": "5 Livres Syriennes"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 245647,
+        "title": "5 Livres Syriennes (Institut d'Emission de Syrie)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "syrie",
+          "name": "Syria"
+        },
+        "min_year": 1950,
+        "max_year": 1950,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/67f27004a8ddc9.84700048-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/67f27006056136.10702048-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 245649,
+      "title": "10 Livres Syriennes (1st. issue; without date)",
+      "issuer": {
+        "code": "syrie",
+        "name": "Syria"
+      },
+      "min_year": 1950,
+      "max_year": 1950,
+      "face": {
+        "value": 10,
+        "unit": "Livres Syriennes",
+        "text": "10 Livres Syriennes"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 245649,
+        "title": "10 Livres Syriennes (1st. issue; without date)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "syrie",
+          "name": "Syria"
+        },
+        "min_year": 1950,
+        "max_year": 1950,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/5fb29bc3a2b6b8.55189186-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/5fb29bc3dfdba7.64343511-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 245650,
+      "title": "25 Livres (1st. issue; without date)",
+      "issuer": {
+        "code": "syrie",
+        "name": "Syria"
+      },
+      "min_year": 1950,
+      "max_year": 1950,
+      "face": {
+        "value": 25,
+        "unit": "Livres",
+        "text": "25 Livres"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 245650,
+        "title": "25 Livres (1st. issue; without date)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "syrie",
+          "name": "Syria"
+        },
+        "min_year": 1950,
+        "max_year": 1950,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/67f273a4c4c221.02745582-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/67f273a5deb885.80794637-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 245651,
+      "title": "50 Livres Syriennes (Institut d'Emission de Syrie)",
+      "issuer": {
+        "code": "syrie",
+        "name": "Syria"
+      },
+      "min_year": 1950,
+      "max_year": 1950,
+      "face": {
+        "value": 50,
+        "unit": "Livres Syriennes",
+        "text": "50 Livres Syriennes"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 245651,
+        "title": "50 Livres Syriennes (Institut d'Emission de Syrie)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "syrie",
+          "name": "Syria"
+        },
+        "min_year": 1950,
+        "max_year": 1950,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/67f26d5d811842.64668766-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/67f26d5e8b3ec8.82074859-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 245652,
+      "title": "100 Livres Syriennes (Institut d'Emission de Syrie)",
+      "issuer": {
+        "code": "syrie",
+        "name": "Syria"
+      },
+      "min_year": 1950,
+      "max_year": 1950,
+      "face": {
+        "value": 100,
+        "unit": "Livres Syriennes",
+        "text": "100 Livres Syriennes"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 245652,
+        "title": "100 Livres Syriennes (Institut d'Emission de Syrie)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "syrie",
+          "name": "Syria"
+        },
+        "min_year": 1950,
+        "max_year": 1950,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/5fb29cf76da1b0.31373857-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/5fb29cf7937713.23301621-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 245653,
+      "title": "10 Livres Syriennes (2nd. issue; with date)",
+      "issuer": {
+        "code": "syrie",
+        "name": "Syria"
+      },
+      "min_year": 1955,
+      "max_year": 1955,
+      "face": {
+        "value": 10,
+        "unit": "Livres Syriennes",
+        "text": "10 Livres Syriennes"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 245653,
+        "title": "10 Livres Syriennes (2nd. issue; with date)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "syrie",
+          "name": "Syria"
+        },
+        "min_year": 1955,
+        "max_year": 1955,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/5fb29d8eaf51f2.83294854-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/5fb29d8ee56b66.12199920-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 245654,
+      "title": "25 Livres Syriennes (2nd. issue; with date)",
+      "issuer": {
+        "code": "syrie",
+        "name": "Syria"
+      },
+      "min_year": 1955,
+      "max_year": 1955,
+      "face": {
+        "value": 25,
+        "unit": "Livres Syriennes",
+        "text": "25 Livres Syriennes"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 245654,
+        "title": "25 Livres Syriennes (2nd. issue; with date)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "syrie",
+          "name": "Syria"
+        },
+        "min_year": 1955,
+        "max_year": 1955,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/5fb29ded66de46.13246797-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/5fb29dedb11a45.76823729-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 245656,
+      "title": "1 Livre Syrienne (Banque Centrale de Syrie)",
+      "issuer": {
+        "code": "syrie",
+        "name": "Syria"
+      },
+      "min_year": 1957,
+      "max_year": 1957,
+      "face": {
+        "value": 1,
+        "unit": "Livre Syrienne",
+        "text": "1 Livre Syrienne"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 245656,
+        "title": "1 Livre Syrienne (Banque Centrale de Syrie)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "syrie",
+          "name": "Syria"
+        },
+        "min_year": 1957,
+        "max_year": 1957,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/67f1477fc51b77.55388408-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/67f1478077d089.63192584-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 245658,
+      "title": "5 Livres Syriennes (Banque Centrale de Syrie)",
+      "issuer": {
+        "code": "syrie",
+        "name": "Syria"
+      },
+      "min_year": 1957,
+      "max_year": 1957,
+      "face": {
+        "value": 5,
+        "unit": "Livres Syriennes",
+        "text": "5 Livres Syriennes"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 245658,
+        "title": "5 Livres Syriennes (Banque Centrale de Syrie)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "syrie",
+          "name": "Syria"
+        },
+        "min_year": 1957,
+        "max_year": 1957,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/67f14a9f8f7290.00138228-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/67f14aa0ac2456.51487279-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 245659,
+      "title": "50 Livres Syriennes (Banque Centrale de Syrie)",
+      "issuer": {
+        "code": "syrie",
+        "name": "Syria"
+      },
+      "min_year": 1958,
+      "max_year": 1958,
+      "face": {
+        "value": 50,
+        "unit": "Livres Syriennes",
+        "text": "50 Livres Syriennes"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 245659,
+        "title": "50 Livres Syriennes (Banque Centrale de Syrie)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "syrie",
+          "name": "Syria"
+        },
+        "min_year": 1958,
+        "max_year": 1958,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/67f14d129a7473.79075065-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/67f14d2d0ee500.50581495-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 245660,
+      "title": "100 Livres Syriennes (Banque Centrale de Syrie)",
+      "issuer": {
+        "code": "syrie",
+        "name": "Syria"
+      },
+      "min_year": 1958,
+      "max_year": 1958,
+      "face": {
+        "value": 100,
+        "unit": "Livres Syriennes",
+        "text": "100 Livres Syriennes"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 245660,
+        "title": "100 Livres Syriennes (Banque Centrale de Syrie)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "syrie",
+          "name": "Syria"
+        },
+        "min_year": 1958,
+        "max_year": 1958,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/67f14eb6a54b37.82080191-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/67f14eb7dded13.10073156-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 245785,
+      "title": "25 Syrian Pounds",
+      "issuer": {
+        "code": "syrie",
+        "name": "Syria"
+      },
+      "min_year": 1958,
+      "max_year": 1958,
+      "face": {
+        "value": 25,
+        "unit": "Syrian Pounds",
+        "text": "25 Syrian Pounds"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 245785,
+        "title": "25 Syrian Pounds",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "syrie",
+          "name": "Syria"
+        },
+        "min_year": 1958,
+        "max_year": 1958,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/67f13f8ec252c3.44222188-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/67f13f8f920202.16403049-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 245786,
+      "title": "50 Syrian Pounds",
+      "issuer": {
+        "code": "syrie",
+        "name": "Syria"
+      },
+      "min_year": 1958,
+      "max_year": 1958,
+      "face": {
+        "value": 50,
+        "unit": "Syrian Pounds",
+        "text": "50 Syrian Pounds"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 245786,
+        "title": "50 Syrian Pounds",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "syrie",
+          "name": "Syria"
+        },
+        "min_year": 1958,
+        "max_year": 1958,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/67f140eb8c91e3.17854212-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/67f140ec4c63a3.94042800-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 245787,
+      "title": "100 Syrian Pounds",
+      "issuer": {
+        "code": "syrie",
+        "name": "Syria"
+      },
+      "min_year": 1958,
+      "max_year": 1962,
+      "face": {
+        "value": 100,
+        "unit": "Syrian Pounds",
+        "text": "100 Syrian Pounds"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 245787,
+        "title": "100 Syrian Pounds",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "syrie",
+          "name": "Syria"
+        },
+        "min_year": 1958,
+        "max_year": 1962,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/67f142081f87e3.72245830-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/67f14208e2b323.37774399-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 245790,
+      "title": "500 Syrian Pounds",
+      "issuer": {
+        "code": "syrie",
+        "name": "Syria"
+      },
+      "min_year": 1958,
+      "max_year": 1958,
+      "face": {
+        "value": 500,
+        "unit": "Syrian Pounds",
+        "text": "500 Syrian Pounds"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 245790,
+        "title": "500 Syrian Pounds",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "syrie",
+          "name": "Syria"
+        },
+        "min_year": 1958,
+        "max_year": 1958,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/67f143524d9f14.17595072-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/67f14353225667.67064481-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 268783,
+      "title": "5000 Syrian Pounds",
+      "issuer": {
+        "code": "syrie",
+        "name": "Syria"
+      },
+      "min_year": 2019,
+      "max_year": 2024,
+      "face": {
+        "value": 5000,
+        "unit": "Syrian Pounds",
+        "text": "5000 Syrian Pounds"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 268783,
+        "title": "5000 Syrian Pounds",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "syrie",
+          "name": "Syria"
+        },
+        "min_year": 2019,
+        "max_year": 2024,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/632203a5c02757.06545263-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/632203a6562279.10306103-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 336625,
+      "title": "200 Syrian Pounds (Fractional serial number)",
+      "issuer": {
+        "code": "syrie",
+        "name": "Syria"
+      },
+      "min_year": 2021,
+      "max_year": 2021,
+      "face": {
+        "value": 200,
+        "unit": "Syrian Pounds",
+        "text": "200 Syrian Pounds"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 336625,
+        "title": "200 Syrian Pounds (Fractional serial number)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "syrie",
+          "name": "Syria"
+        },
+        "min_year": 2021,
+        "max_year": 2021,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/66e44b2946b6f2.72933659-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/66e44b2ade4d70.34751665-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 411956,
+      "title": "50 Syrian Pounds (Fractional serial number)",
+      "issuer": {
+        "code": "syrie",
+        "name": "Syria"
+      },
+      "min_year": 2021,
+      "max_year": 2021,
+      "face": {
+        "value": 50,
+        "unit": "Syrian Pounds",
+        "text": "50 Syrian Pounds"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 411956,
+        "title": "50 Syrian Pounds (Fractional serial number)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "syrie",
+          "name": "Syria"
+        },
+        "min_year": 2021,
+        "max_year": 2021,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/66d24bd05ac433.14711096-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/66d24bd0d6de75.76156441-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 412116,
+      "title": "100 Syrian Pounds (Ascending serial number)",
+      "issuer": {
+        "code": "syrie",
+        "name": "Syria"
+      },
+      "min_year": 2009,
+      "max_year": 2009,
+      "face": {
+        "value": 100,
+        "unit": "Syrian Pounds",
+        "text": "100 Syrian Pounds"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 412116,
+        "title": "100 Syrian Pounds (Ascending serial number)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "syrie",
+          "name": "Syria"
+        },
+        "min_year": 2009,
+        "max_year": 2009,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/6693ea0a640126.26715135-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/6693ea0c57b2c2.61139878-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 464570,
+      "title": "50 Piastres",
+      "issuer": {
+        "code": "syrie",
+        "name": "Syria"
+      },
+      "min_year": 1925,
+      "max_year": 1925,
+      "face": {
+        "value": 50,
+        "unit": "Piastres",
+        "text": "50 Piastres"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 464570,
+        "title": "50 Piastres",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "syrie",
+          "name": "Syria"
+        },
+        "min_year": 1925,
+        "max_year": 1925,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/67f9b6bc5db244.54796978-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/67f9b6bd289462.72890633-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 548848,
+      "title": "25 Syrian Pounds",
+      "issuer": {
+        "code": "syrie",
+        "name": "Syria"
+      },
+      "min_year": 2025,
+      "max_year": 2025,
+      "face": {
+        "value": 25,
+        "unit": "Syrian Pounds",
+        "text": "25 Syrian Pounds"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 548848,
+        "title": "25 Syrian Pounds",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "syrie",
+          "name": "Syria"
+        },
+        "min_year": 2025,
+        "max_year": 2025,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/69dd235a396303.31519895-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/69dd236139f004.33250258-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 548849,
+      "title": "50 Syrian Pounds",
+      "issuer": {
+        "code": "syrie",
+        "name": "Syria"
+      },
+      "min_year": 2025,
+      "max_year": 2025,
+      "face": {
+        "value": 50,
+        "unit": "Syrian Pounds",
+        "text": "50 Syrian Pounds"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 548849,
+        "title": "50 Syrian Pounds",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "syrie",
+          "name": "Syria"
+        },
+        "min_year": 2025,
+        "max_year": 2025,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/69dd23c47b1641.27615313-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/69dd23ce40ec84.05145858-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 548850,
+      "title": "100 Syrian Pounds",
+      "issuer": {
+        "code": "syrie",
+        "name": "Syria"
+      },
+      "min_year": 2025,
+      "max_year": 2025,
+      "face": {
+        "value": 100,
+        "unit": "Syrian Pounds",
+        "text": "100 Syrian Pounds"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 548850,
+        "title": "100 Syrian Pounds",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "syrie",
+          "name": "Syria"
+        },
+        "min_year": 2025,
+        "max_year": 2025,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/69ba75aa5fd0c2.50909456-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/69ba75accf9327.24432046-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 548851,
+      "title": "200 Syrian Pounds",
+      "issuer": {
+        "code": "syrie",
+        "name": "Syria"
+      },
+      "min_year": 2025,
+      "max_year": 2025,
+      "face": {
+        "value": 200,
+        "unit": "Syrian Pounds",
+        "text": "200 Syrian Pounds"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 548851,
+        "title": "200 Syrian Pounds",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "syrie",
+          "name": "Syria"
+        },
+        "min_year": 2025,
+        "max_year": 2025,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/69ba78c888edd2.16656027-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/69ba78cb0502f2.20225193-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 548854,
+      "title": "500 Syrian Pounds",
+      "issuer": {
+        "code": "syrie",
+        "name": "Syria"
+      },
+      "min_year": 2025,
+      "max_year": 2025,
+      "face": {
+        "value": 500,
+        "unit": "Syrian Pounds",
+        "text": "500 Syrian Pounds"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 548854,
+        "title": "500 Syrian Pounds",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "syrie",
+          "name": "Syria"
+        },
+        "min_year": 2025,
+        "max_year": 2025,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/69bac7e86ef099.50867538-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/69bac7eb387ca8.57451658-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 553416,
+      "title": "10 Syrian Pounds",
+      "issuer": {
+        "code": "syrie",
+        "name": "Syria"
+      },
+      "min_year": 2025,
+      "max_year": 2025,
+      "face": {
+        "value": 10,
+        "unit": "Syrian Pounds",
+        "text": "10 Syrian Pounds"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 553416,
+        "title": "10 Syrian Pounds",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "syrie",
+          "name": "Syria"
+        },
+        "min_year": 2025,
+        "max_year": 2025,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/69dd22b9015489.93634887-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/69dd22c3c65607.16809455-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 557808,
+      "title": "10 Piastres (tax stamp)",
+      "issuer": {
+        "code": "syrie",
+        "name": "Syria"
+      },
+      "min_year": 1945,
+      "max_year": 1945,
+      "face": {
+        "value": 10,
+        "unit": "Piastres",
+        "text": "10 Piastres"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 557808,
+        "title": "10 Piastres (tax stamp)",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "syrie",
+          "name": "Syria"
+        },
+        "min_year": 1945,
+        "max_year": 1945,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/69917a2650ebb4.10563628-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/69917a2693a455.21494202-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 557809,
+      "title": "25 Piastres (tax stamp)",
+      "issuer": {
+        "code": "syrie",
+        "name": "Syria"
+      },
+      "min_year": 1945,
+      "max_year": 1945,
+      "face": {
+        "value": 25,
+        "unit": "Piastres",
+        "text": "25 Piastres"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 557809,
+        "title": "25 Piastres (tax stamp)",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "syrie",
+          "name": "Syria"
+        },
+        "min_year": 1945,
+        "max_year": 1945,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/698adf018871d1.21321601-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/syrie/698adf01df9e67.01052577-180.jpg",
+        "category": "banknote"
+      }
+    }
+  ]
+}

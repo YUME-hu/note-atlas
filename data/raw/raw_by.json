@@ -1,0 +1,2097 @@
+{
+  "meta": {
+    "generated_at": "2026-10-29T13:27:48.931Z",
+    "fixture": false,
+    "api": "numista v3",
+    "issuer": "bielorussie",
+    "iso": "BY",
+    "category": "banknote",
+    "lang": "en",
+    "since": 1960,
+    "listed": 56,
+    "fetched": 56,
+    "details_fetched": 0,
+    "dropped_before_since": 0,
+    "dropped_by_source": {
+      "list": 0,
+      "detail": 0
+    },
+    "issuer_mismatches": 0,
+    "pages": 2,
+    "requests": 0
+  },
+  "types": [
+    {
+      "numista_type_id": 201632,
+      "title": "5 Roubles",
+      "issuer": {
+        "code": "bielorussie",
+        "name": "Belarus"
+      },
+      "min_year": 1992,
+      "max_year": 1992,
+      "face": {
+        "value": 5,
+        "unit": "Roubles",
+        "text": "5 Roubles"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 201632,
+        "title": "5 Roubles",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bielorussie",
+          "name": "Belarus"
+        },
+        "min_year": 1992,
+        "max_year": 1992,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bielorussie/641429e57a8fb0.85774654-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bielorussie/641429e86198b8.60918885-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202761,
+      "title": "50 Roubles",
+      "issuer": {
+        "code": "bielorussie",
+        "name": "Belarus"
+      },
+      "min_year": 2000,
+      "max_year": 2010,
+      "face": {
+        "value": 50,
+        "unit": "Roubles",
+        "text": "50 Roubles"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202761,
+        "title": "50 Roubles",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bielorussie",
+          "name": "Belarus"
+        },
+        "min_year": 2000,
+        "max_year": 2010,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bielorussie/623c1891057ea0.00494184-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bielorussie/623c18919fff64.42349162-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202767,
+      "title": "100 Roubles",
+      "issuer": {
+        "code": "bielorussie",
+        "name": "Belarus"
+      },
+      "min_year": 2000,
+      "max_year": 2011,
+      "face": {
+        "value": 100,
+        "unit": "Roubles",
+        "text": "100 Roubles"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202767,
+        "title": "100 Roubles",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bielorussie",
+          "name": "Belarus"
+        },
+        "min_year": 2000,
+        "max_year": 2011,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bielorussie/623c17e61b1dd6.69061709-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bielorussie/623c17e6b80495.52172918-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202768,
+      "title": "20 Roubles",
+      "issuer": {
+        "code": "bielorussie",
+        "name": "Belarus"
+      },
+      "min_year": 2000,
+      "max_year": 2000,
+      "face": {
+        "value": 20,
+        "unit": "Roubles",
+        "text": "20 Roubles"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202768,
+        "title": "20 Roubles",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bielorussie",
+          "name": "Belarus"
+        },
+        "min_year": 2000,
+        "max_year": 2000,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bielorussie/6270d19e89cf53.56970267-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bielorussie/6270d19f403b53.79842725-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203035,
+      "title": "50 Kopek",
+      "issuer": {
+        "code": "bielorussie",
+        "name": "Belarus"
+      },
+      "min_year": 1992,
+      "max_year": 1992,
+      "face": {
+        "value": 50,
+        "unit": "Kopek",
+        "text": "50 Kopek"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203035,
+        "title": "50 Kopek",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bielorussie",
+          "name": "Belarus"
+        },
+        "min_year": 1992,
+        "max_year": 1992,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bielorussie/62a0cab04ff2a4.74831074-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bielorussie/62a0cab2a0c422.39326381-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203049,
+      "title": "100 Roubles",
+      "issuer": {
+        "code": "bielorussie",
+        "name": "Belarus"
+      },
+      "min_year": 1992,
+      "max_year": 1992,
+      "face": {
+        "value": 100,
+        "unit": "Roubles",
+        "text": "100 Roubles"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203049,
+        "title": "100 Roubles",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bielorussie",
+          "name": "Belarus"
+        },
+        "min_year": 1992,
+        "max_year": 1992,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bielorussie/6270d0cecc6066.15083327-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bielorussie/6270d0cf719357.22859028-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204277,
+      "title": "10 Roubles",
+      "issuer": {
+        "code": "bielorussie",
+        "name": "Belarus"
+      },
+      "min_year": 1992,
+      "max_year": 1992,
+      "face": {
+        "value": 10,
+        "unit": "Roubles",
+        "text": "10 Roubles"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204277,
+        "title": "10 Roubles",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bielorussie",
+          "name": "Belarus"
+        },
+        "min_year": 1992,
+        "max_year": 1992,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bielorussie/65c772a3ca55c8.66583931-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bielorussie/65c772a7ec1126.89715416-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204279,
+      "title": "200 Roubles",
+      "issuer": {
+        "code": "bielorussie",
+        "name": "Belarus"
+      },
+      "min_year": 1992,
+      "max_year": 1992,
+      "face": {
+        "value": 200,
+        "unit": "Roubles",
+        "text": "200 Roubles"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204279,
+        "title": "200 Roubles",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bielorussie",
+          "name": "Belarus"
+        },
+        "min_year": 1992,
+        "max_year": 1992,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bielorussie/62a0cbcd4d1233.72738876-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bielorussie/62a0cbcf922185.33967466-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204427,
+      "title": "50 Roubles",
+      "issuer": {
+        "code": "bielorussie",
+        "name": "Belarus"
+      },
+      "min_year": 1992,
+      "max_year": 1992,
+      "face": {
+        "value": 50,
+        "unit": "Roubles",
+        "text": "50 Roubles"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204427,
+        "title": "50 Roubles",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bielorussie",
+          "name": "Belarus"
+        },
+        "min_year": 1992,
+        "max_year": 1992,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bielorussie/6278b0c13e9445.87949186-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bielorussie/6278b0c1ae4490.53688621-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204439,
+      "title": "1000 Roubles",
+      "issuer": {
+        "code": "bielorussie",
+        "name": "Belarus"
+      },
+      "min_year": 1998,
+      "max_year": 1998,
+      "face": {
+        "value": 1000,
+        "unit": "Roubles",
+        "text": "1000 Roubles"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204439,
+        "title": "1000 Roubles",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bielorussie",
+          "name": "Belarus"
+        },
+        "min_year": 1998,
+        "max_year": 1998,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bielorussie/6278b12c6e6e18.15953289-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bielorussie/6278b12d2fc588.49553483-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204441,
+      "title": "25 Roubles",
+      "issuer": {
+        "code": "bielorussie",
+        "name": "Belarus"
+      },
+      "min_year": 1992,
+      "max_year": 1992,
+      "face": {
+        "value": 25,
+        "unit": "Roubles",
+        "text": "25 Roubles"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204441,
+        "title": "25 Roubles",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bielorussie",
+          "name": "Belarus"
+        },
+        "min_year": 1992,
+        "max_year": 1992,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bielorussie/6278b09fae1e24.20173615-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bielorussie/6278b0a07ad984.98653585-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204909,
+      "title": "10 Roubles",
+      "issuer": {
+        "code": "bielorussie",
+        "name": "Belarus"
+      },
+      "min_year": 2000,
+      "max_year": 2009,
+      "face": {
+        "value": 10,
+        "unit": "Roubles",
+        "text": "10 Roubles"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204909,
+        "title": "10 Roubles",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bielorussie",
+          "name": "Belarus"
+        },
+        "min_year": 2000,
+        "max_year": 2009,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bielorussie/6270d17d57a736.95149218-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bielorussie/6270d17e137b37.15789730-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205082,
+      "title": "3 Roubles",
+      "issuer": {
+        "code": "bielorussie",
+        "name": "Belarus"
+      },
+      "min_year": 1992,
+      "max_year": 1992,
+      "face": {
+        "value": 3,
+        "unit": "Roubles",
+        "text": "3 Roubles"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205082,
+        "title": "3 Roubles",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bielorussie",
+          "name": "Belarus"
+        },
+        "min_year": 1992,
+        "max_year": 1992,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bielorussie/62a0cb10c731a9.57442457-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bielorussie/62a0cb12d938f9.50586803-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205090,
+      "title": "5000 Roubles",
+      "issuer": {
+        "code": "bielorussie",
+        "name": "Belarus"
+      },
+      "min_year": 1992,
+      "max_year": 1992,
+      "face": {
+        "value": 5000,
+        "unit": "Roubles",
+        "text": "5000 Roubles"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205090,
+        "title": "5000 Roubles",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bielorussie",
+          "name": "Belarus"
+        },
+        "min_year": 1992,
+        "max_year": 1992,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bielorussie/649f093135fa05.93771731-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bielorussie/649f0931c8e915.61491844-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205183,
+      "title": "500 Roubles (Without segmented security strip)",
+      "issuer": {
+        "code": "bielorussie",
+        "name": "Belarus"
+      },
+      "min_year": 2000,
+      "max_year": 2000,
+      "face": {
+        "value": 500,
+        "unit": "Roubles",
+        "text": "500 Roubles"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205183,
+        "title": "500 Roubles (Without segmented security strip)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bielorussie",
+          "name": "Belarus"
+        },
+        "min_year": 2000,
+        "max_year": 2000,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bielorussie/62a0cccda99057.97602845-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bielorussie/62a0ccd0bfb475.21145284-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205190,
+      "title": "1000 Roubles (With segmented security thread)",
+      "issuer": {
+        "code": "bielorussie",
+        "name": "Belarus"
+      },
+      "min_year": 2000,
+      "max_year": 2011,
+      "face": {
+        "value": 1000,
+        "unit": "Roubles",
+        "text": "1000 Roubles"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205190,
+        "title": "1000 Roubles (With segmented security thread)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bielorussie",
+          "name": "Belarus"
+        },
+        "min_year": 2000,
+        "max_year": 2011,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bielorussie/62a0cc99766a93.95066944-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bielorussie/62a0cc9cb3f266.11489209-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205512,
+      "title": "100 000 Roubles",
+      "issuer": {
+        "code": "bielorussie",
+        "name": "Belarus"
+      },
+      "min_year": 1996,
+      "max_year": 1996,
+      "face": {
+        "value": 100000,
+        "unit": "Roubles",
+        "text": "100000 Roubles"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205512,
+        "title": "100 000 Roubles",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bielorussie",
+          "name": "Belarus"
+        },
+        "min_year": 1996,
+        "max_year": 1996,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bielorussie/628f50f0017fe1.84948619-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bielorussie/628f50f0a2f572.65684909-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205941,
+      "title": "1 Rouble",
+      "issuer": {
+        "code": "bielorussie",
+        "name": "Belarus"
+      },
+      "min_year": 1992,
+      "max_year": 1992,
+      "face": {
+        "value": 1,
+        "unit": "Rouble",
+        "text": "1 Rouble"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205941,
+        "title": "1 Rouble",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bielorussie",
+          "name": "Belarus"
+        },
+        "min_year": 1992,
+        "max_year": 1992,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bielorussie/62a0cae900fb65.66276171-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bielorussie/62a0caeb382117.46667513-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206267,
+      "title": "1 Rouble",
+      "issuer": {
+        "code": "bielorussie",
+        "name": "Belarus"
+      },
+      "min_year": 2000,
+      "max_year": 2000,
+      "face": {
+        "value": 1,
+        "unit": "Rouble",
+        "text": "1 Rouble"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206267,
+        "title": "1 Rouble",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bielorussie",
+          "name": "Belarus"
+        },
+        "min_year": 2000,
+        "max_year": 2000,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bielorussie/6270d138e3ee61.78944416-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bielorussie/6270d139a6ae82.69200408-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206269,
+      "title": "5 Roubles",
+      "issuer": {
+        "code": "bielorussie",
+        "name": "Belarus"
+      },
+      "min_year": 2000,
+      "max_year": 2000,
+      "face": {
+        "value": 5,
+        "unit": "Roubles",
+        "text": "5 Roubles"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206269,
+        "title": "5 Roubles",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bielorussie",
+          "name": "Belarus"
+        },
+        "min_year": 2000,
+        "max_year": 2000,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bielorussie/6270d1622adf23.84974969-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bielorussie/6270d162ce8316.66976009-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 207708,
+      "title": "1000 Roubles",
+      "issuer": {
+        "code": "bielorussie",
+        "name": "Belarus"
+      },
+      "min_year": 1992,
+      "max_year": 1992,
+      "face": {
+        "value": 1000,
+        "unit": "Roubles",
+        "text": "1000 Roubles"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 207708,
+        "title": "1000 Roubles",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bielorussie",
+          "name": "Belarus"
+        },
+        "min_year": 1992,
+        "max_year": 1992,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bielorussie/6270d0f0243d28.65443097-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bielorussie/6270d0f0b6f271.28898656-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 207871,
+      "title": "500 Roubles",
+      "issuer": {
+        "code": "bielorussie",
+        "name": "Belarus"
+      },
+      "min_year": 1992,
+      "max_year": 1992,
+      "face": {
+        "value": 500,
+        "unit": "Roubles",
+        "text": "500 Roubles"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 207871,
+        "title": "500 Roubles",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bielorussie",
+          "name": "Belarus"
+        },
+        "min_year": 1992,
+        "max_year": 1992,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bielorussie/62a34072e3fad4.54478874-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bielorussie/62a34075349711.25763991-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 207881,
+      "title": "50 000 Roubles",
+      "issuer": {
+        "code": "bielorussie",
+        "name": "Belarus"
+      },
+      "min_year": 1995,
+      "max_year": 1995,
+      "face": {
+        "value": 50000,
+        "unit": "Roubles",
+        "text": "50000 Roubles"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 207881,
+        "title": "50 000 Roubles",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bielorussie",
+          "name": "Belarus"
+        },
+        "min_year": 1995,
+        "max_year": 1995,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bielorussie/6299f92cc58d63.60417057-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bielorussie/6299f92fc7ba15.47107749-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 208178,
+      "title": "20 000 Roubles",
+      "issuer": {
+        "code": "bielorussie",
+        "name": "Belarus"
+      },
+      "min_year": 1994,
+      "max_year": 1994,
+      "face": {
+        "value": 20000,
+        "unit": "Roubles",
+        "text": "20000 Roubles"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 208178,
+        "title": "20 000 Roubles",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bielorussie",
+          "name": "Belarus"
+        },
+        "min_year": 1994,
+        "max_year": 1994,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bielorussie/6299f8f4294157.58742789-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bielorussie/6299f8f752b4b9.04946612-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 208211,
+      "title": "5000 Roubles",
+      "issuer": {
+        "code": "bielorussie",
+        "name": "Belarus"
+      },
+      "min_year": 1998,
+      "max_year": 1998,
+      "face": {
+        "value": 5000,
+        "unit": "Roubles",
+        "text": "5000 Roubles"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 208211,
+        "title": "5000 Roubles",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bielorussie",
+          "name": "Belarus"
+        },
+        "min_year": 1998,
+        "max_year": 1998,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bielorussie/628f510d76abd0.68652560-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bielorussie/628f510e2f3850.39951631-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 208643,
+      "title": "5000 Roubles (Without segmented security strip)",
+      "issuer": {
+        "code": "bielorussie",
+        "name": "Belarus"
+      },
+      "min_year": 2000,
+      "max_year": 2011,
+      "face": {
+        "value": 5000,
+        "unit": "Roubles",
+        "text": "5000 Roubles"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 208643,
+        "title": "5000 Roubles (Without segmented security strip)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bielorussie",
+          "name": "Belarus"
+        },
+        "min_year": 2000,
+        "max_year": 2011,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bielorussie/623c1837527287.34457120-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bielorussie/623c18380a28c8.12024326-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 208989,
+      "title": "20 000 Roubles (With segmented security thread)",
+      "issuer": {
+        "code": "bielorussie",
+        "name": "Belarus"
+      },
+      "min_year": 2000,
+      "max_year": 2002,
+      "face": {
+        "value": 20000,
+        "unit": "Roubles",
+        "text": "20000 Roubles"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 208989,
+        "title": "20 000 Roubles (With segmented security thread)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bielorussie",
+          "name": "Belarus"
+        },
+        "min_year": 2000,
+        "max_year": 2002,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bielorussie/65ec27b9c918b4.69081161-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bielorussie/65ec27bc4c7869.43591704-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 209745,
+      "title": "10 000 Roubles (With Security Thread)",
+      "issuer": {
+        "code": "bielorussie",
+        "name": "Belarus"
+      },
+      "min_year": 2011,
+      "max_year": 2011,
+      "face": {
+        "value": 10000,
+        "unit": "Roubles",
+        "text": "10000 Roubles"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 209745,
+        "title": "10 000 Roubles (With Security Thread)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bielorussie",
+          "name": "Belarus"
+        },
+        "min_year": 2011,
+        "max_year": 2011,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bielorussie/62a0cd69e5c7f2.98649417-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bielorussie/62a0cd6d15c818.76092069-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 209749,
+      "title": "50 000 Roubles (Without segmented security thread)",
+      "issuer": {
+        "code": "bielorussie",
+        "name": "Belarus"
+      },
+      "min_year": 2002,
+      "max_year": 2002,
+      "face": {
+        "value": 50000,
+        "unit": "Roubles",
+        "text": "50000 Roubles"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 209749,
+        "title": "50 000 Roubles (Without segmented security thread)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bielorussie",
+          "name": "Belarus"
+        },
+        "min_year": 2002,
+        "max_year": 2002,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bielorussie/69ecee533ba479.74916588-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bielorussie/69ecee53f2e4e4.03093505-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 209752,
+      "title": "100 000 Roubles",
+      "issuer": {
+        "code": "bielorussie",
+        "name": "Belarus"
+      },
+      "min_year": 2005,
+      "max_year": 2005,
+      "face": {
+        "value": 100000,
+        "unit": "Roubles",
+        "text": "100000 Roubles"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 209752,
+        "title": "100 000 Roubles",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bielorussie",
+          "name": "Belarus"
+        },
+        "min_year": 2005,
+        "max_year": 2005,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bielorussie/5ec5bb644becd2.53747087-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bielorussie/5ec5bb654527f4.24995385-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 209757,
+      "title": "200 000 Roubles",
+      "issuer": {
+        "code": "bielorussie",
+        "name": "Belarus"
+      },
+      "min_year": 2012,
+      "max_year": 2012,
+      "face": {
+        "value": 200000,
+        "unit": "Roubles",
+        "text": "200000 Roubles"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 209757,
+        "title": "200 000 Roubles",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bielorussie",
+          "name": "Belarus"
+        },
+        "min_year": 2012,
+        "max_year": 2012,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bielorussie/5eb2703d35a2c2.48801207-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bielorussie/5eb2703d77f906.09699059-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 211936,
+      "title": "500 000 Roubles",
+      "issuer": {
+        "code": "bielorussie",
+        "name": "Belarus"
+      },
+      "min_year": 1998,
+      "max_year": 1998,
+      "face": {
+        "value": 500000,
+        "unit": "Roubles",
+        "text": "500000 Roubles"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 211936,
+        "title": "500 000 Roubles",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bielorussie",
+          "name": "Belarus"
+        },
+        "min_year": 1998,
+        "max_year": 1998,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bielorussie/5eb40f57893a10.49834267-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bielorussie/5eb40f57af15b4.28172824-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 211937,
+      "title": "1 000 000 Roubles",
+      "issuer": {
+        "code": "bielorussie",
+        "name": "Belarus"
+      },
+      "min_year": 1999,
+      "max_year": 1999,
+      "face": {
+        "value": 1000000,
+        "unit": "Roubles",
+        "text": "1000000 Roubles"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 211937,
+        "title": "1 000 000 Roubles",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bielorussie",
+          "name": "Belarus"
+        },
+        "min_year": 1999,
+        "max_year": 1999,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bielorussie/688e828b9827e4.45818687-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bielorussie/688e828d462263.60093262-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 211942,
+      "title": "5 000 000 Roubles",
+      "issuer": {
+        "code": "bielorussie",
+        "name": "Belarus"
+      },
+      "min_year": 1999,
+      "max_year": 1999,
+      "face": {
+        "value": 5000000,
+        "unit": "Roubles",
+        "text": "5000000 Roubles"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 211942,
+        "title": "5 000 000 Roubles",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bielorussie",
+          "name": "Belarus"
+        },
+        "min_year": 1999,
+        "max_year": 1999,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bielorussie/6031c1581014d1.90080048-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bielorussie/6031c1589f1673.15046550-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 211973,
+      "title": "5 Roubles",
+      "issuer": {
+        "code": "bielorussie",
+        "name": "Belarus"
+      },
+      "min_year": 2016,
+      "max_year": 2016,
+      "face": {
+        "value": 5,
+        "unit": "Roubles",
+        "text": "5 Roubles"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 211973,
+        "title": "5 Roubles",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bielorussie",
+          "name": "Belarus"
+        },
+        "min_year": 2016,
+        "max_year": 2016,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bielorussie/5eb35d0a3027e6.22569144-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bielorussie/5eb35d0b20a1d2.33020596-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 211978,
+      "title": "10 Roubles",
+      "issuer": {
+        "code": "bielorussie",
+        "name": "Belarus"
+      },
+      "min_year": 2016,
+      "max_year": 2016,
+      "face": {
+        "value": 10,
+        "unit": "Roubles",
+        "text": "10 Roubles"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 211978,
+        "title": "10 Roubles",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bielorussie",
+          "name": "Belarus"
+        },
+        "min_year": 2016,
+        "max_year": 2016,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bielorussie/5eb35edb5b4f88.65161555-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bielorussie/5eb35edc967b20.72019320-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 211980,
+      "title": "20 Roubles",
+      "issuer": {
+        "code": "bielorussie",
+        "name": "Belarus"
+      },
+      "min_year": 2016,
+      "max_year": 2016,
+      "face": {
+        "value": 20,
+        "unit": "Roubles",
+        "text": "20 Roubles"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 211980,
+        "title": "20 Roubles",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bielorussie",
+          "name": "Belarus"
+        },
+        "min_year": 2016,
+        "max_year": 2016,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bielorussie/5eb36035c13784.23546297-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bielorussie/5eb360371bcc96.86446077-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 211981,
+      "title": "50 Roubles",
+      "issuer": {
+        "code": "bielorussie",
+        "name": "Belarus"
+      },
+      "min_year": 2016,
+      "max_year": 2016,
+      "face": {
+        "value": 50,
+        "unit": "Roubles",
+        "text": "50 Roubles"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 211981,
+        "title": "50 Roubles",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bielorussie",
+          "name": "Belarus"
+        },
+        "min_year": 2016,
+        "max_year": 2016,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bielorussie/6658797a86d312.14467457-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bielorussie/6658797c45a042.54973768-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 211982,
+      "title": "100 Roubles",
+      "issuer": {
+        "code": "bielorussie",
+        "name": "Belarus"
+      },
+      "min_year": 2016,
+      "max_year": 2016,
+      "face": {
+        "value": 100,
+        "unit": "Roubles",
+        "text": "100 Roubles"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 211982,
+        "title": "100 Roubles",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bielorussie",
+          "name": "Belarus"
+        },
+        "min_year": 2016,
+        "max_year": 2016,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bielorussie/5eb41124b79186.72194516-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bielorussie/5eb41124dd0b51.38896866-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 211983,
+      "title": "200 Roubles",
+      "issuer": {
+        "code": "bielorussie",
+        "name": "Belarus"
+      },
+      "min_year": 2016,
+      "max_year": 2016,
+      "face": {
+        "value": 200,
+        "unit": "Roubles",
+        "text": "200 Roubles"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 211983,
+        "title": "200 Roubles",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bielorussie",
+          "name": "Belarus"
+        },
+        "min_year": 2016,
+        "max_year": 2016,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bielorussie/5eb4118f534851.21954111-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bielorussie/5eb4118f7c06d0.38636914-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 211984,
+      "title": "500 Roubles",
+      "issuer": {
+        "code": "bielorussie",
+        "name": "Belarus"
+      },
+      "min_year": 2016,
+      "max_year": 2016,
+      "face": {
+        "value": 500,
+        "unit": "Roubles",
+        "text": "500 Roubles"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 211984,
+        "title": "500 Roubles",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bielorussie",
+          "name": "Belarus"
+        },
+        "min_year": 2016,
+        "max_year": 2016,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bielorussie/5eb411e609b6f0.75162231-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bielorussie/5eb411e631fe18.78748544-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 236564,
+      "title": "20 Roubles (National Bank of Belarus)",
+      "issuer": {
+        "code": "bielorussie",
+        "name": "Belarus"
+      },
+      "min_year": 2001,
+      "max_year": 2001,
+      "face": {
+        "value": 20,
+        "unit": "Roubles",
+        "text": "20 Roubles"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 236564,
+        "title": "20 Roubles (National Bank of Belarus)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "bielorussie",
+          "name": "Belarus"
+        },
+        "min_year": 2001,
+        "max_year": 2001,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bielorussie/5f5b3c9129c755.85557410-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bielorussie/5f5b3c91646455.37409903-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 236565,
+      "title": "20 000 Roubles (National Bank of Belarus)",
+      "issuer": {
+        "code": "bielorussie",
+        "name": "Belarus"
+      },
+      "min_year": 2011,
+      "max_year": 2011,
+      "face": {
+        "value": 20000,
+        "unit": "Roubles",
+        "text": "20000 Roubles"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 236565,
+        "title": "20 000 Roubles (National Bank of Belarus)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "bielorussie",
+          "name": "Belarus"
+        },
+        "min_year": 2011,
+        "max_year": 2011,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bielorussie/5f5b3d59edf5f9.78683802-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bielorussie/5f5b3d5a29a1c9.34990083-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 332450,
+      "title": "100 Roubles",
+      "issuer": {
+        "code": "bielorussie",
+        "name": "Belarus"
+      },
+      "min_year": 2022,
+      "max_year": 2022,
+      "face": {
+        "value": 100,
+        "unit": "Roubles",
+        "text": "100 Roubles"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 332450,
+        "title": "100 Roubles",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bielorussie",
+          "name": "Belarus"
+        },
+        "min_year": 2022,
+        "max_year": 2022,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bielorussie/63306e1eef4f24.03034501-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bielorussie/63306e1f419070.49446857-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 353522,
+      "title": "5 Roubles",
+      "issuer": {
+        "code": "bielorussie",
+        "name": "Belarus"
+      },
+      "min_year": 2019,
+      "max_year": 2019,
+      "face": {
+        "value": 5,
+        "unit": "Roubles",
+        "text": "5 Roubles"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 353522,
+        "title": "5 Roubles",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bielorussie",
+          "name": "Belarus"
+        },
+        "min_year": 2019,
+        "max_year": 2019,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bielorussie/6521b003516893.69448702-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bielorussie/6521b0041ddf76.95450028-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 353523,
+      "title": "10 Roubles",
+      "issuer": {
+        "code": "bielorussie",
+        "name": "Belarus"
+      },
+      "min_year": 2019,
+      "max_year": 2019,
+      "face": {
+        "value": 10,
+        "unit": "Roubles",
+        "text": "10 Roubles"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 353523,
+        "title": "10 Roubles",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bielorussie",
+          "name": "Belarus"
+        },
+        "min_year": 2019,
+        "max_year": 2019,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bielorussie/67504f3e3f27c4.16699645-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bielorussie/67504f406ad0c6.56870492-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 353524,
+      "title": "20 Roubles",
+      "issuer": {
+        "code": "bielorussie",
+        "name": "Belarus"
+      },
+      "min_year": 2020,
+      "max_year": 2020,
+      "face": {
+        "value": 20,
+        "unit": "Roubles",
+        "text": "20 Roubles"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 353524,
+        "title": "20 Roubles",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bielorussie",
+          "name": "Belarus"
+        },
+        "min_year": 2020,
+        "max_year": 2020,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bielorussie/63cd516b7d4dd7.43394497-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bielorussie/63cd516bcc7822.72426914-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 353525,
+      "title": "50 Roubles",
+      "issuer": {
+        "code": "bielorussie",
+        "name": "Belarus"
+      },
+      "min_year": 2020,
+      "max_year": 2020,
+      "face": {
+        "value": 50,
+        "unit": "Roubles",
+        "text": "50 Roubles"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 353525,
+        "title": "50 Roubles",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bielorussie",
+          "name": "Belarus"
+        },
+        "min_year": 2020,
+        "max_year": 2020,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bielorussie/63cd523894dd45.29976714-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bielorussie/63cd5238d08b70.09963434-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 400079,
+      "title": "10 000 Roubles (Without Security Thread)",
+      "issuer": {
+        "code": "bielorussie",
+        "name": "Belarus"
+      },
+      "min_year": 2001,
+      "max_year": 2001,
+      "face": {
+        "value": 10000,
+        "unit": "Roubles",
+        "text": "10000 Roubles"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 400079,
+        "title": "10 000 Roubles (Without Security Thread)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bielorussie",
+          "name": "Belarus"
+        },
+        "min_year": 2001,
+        "max_year": 2001,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bielorussie/668f9764ba7f50.89568242-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bielorussie/668f976588e367.87144976-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 471564,
+      "title": "80 Roubles (80 Years of Victory of the Soviet People in the Great Patriotic War)",
+      "issuer": {
+        "code": "bielorussie",
+        "name": "Belarus"
+      },
+      "min_year": 2025,
+      "max_year": 2025,
+      "face": {
+        "value": 80,
+        "unit": "Roubles",
+        "text": "80 Roubles"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 471564,
+        "title": "80 Roubles (80 Years of Victory of the Soviet People in the Great Patriotic War)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "bielorussie",
+          "name": "Belarus"
+        },
+        "min_year": 2025,
+        "max_year": 2025,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bielorussie/6867e0b7a1bd29.02924530-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bielorussie/6867e0b8435cf3.51595089-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 586744,
+      "title": "200 Roubles",
+      "issuer": {
+        "code": "bielorussie",
+        "name": "Belarus"
+      },
+      "min_year": 2026,
+      "max_year": 2026,
+      "face": {
+        "value": 200,
+        "unit": "Roubles",
+        "text": "200 Roubles"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 586744,
+        "title": "200 Roubles",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bielorussie",
+          "name": "Belarus"
+        },
+        "min_year": 2026,
+        "max_year": 2026,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bielorussie/6a327a5c05ffa3.21256133-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bielorussie/6a327a5c466220.83987749-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 605173,
+      "title": "500 Roubles (With segmented security strip)",
+      "issuer": {
+        "code": "bielorussie",
+        "name": "Belarus"
+      },
+      "min_year": 2011,
+      "max_year": 2011,
+      "face": {
+        "value": 500,
+        "unit": "Roubles",
+        "text": "500 Roubles"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 605173,
+        "title": "500 Roubles (With segmented security strip)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bielorussie",
+          "name": "Belarus"
+        },
+        "min_year": 2011,
+        "max_year": 2011,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bielorussie/6ac24a3dc0c306.91249486-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bielorussie/6ac24a3edc1027.76326808-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 605175,
+      "title": "1000 Roubles (Without segmented security strip)",
+      "issuer": {
+        "code": "bielorussie",
+        "name": "Belarus"
+      },
+      "min_year": 2000,
+      "max_year": 2000,
+      "face": {
+        "value": 1000,
+        "unit": "Roubles",
+        "text": "1000 Roubles"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 605175,
+        "title": "1000 Roubles (Without segmented security strip)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bielorussie",
+          "name": "Belarus"
+        },
+        "min_year": 2000,
+        "max_year": 2000,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bielorussie/6abd07dfc4cf08.90789364-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bielorussie/6abd07e02f3f56.85530427-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 605189,
+      "title": "5000 Roubles (With segmented security thread)",
+      "issuer": {
+        "code": "bielorussie",
+        "name": "Belarus"
+      },
+      "min_year": 2011,
+      "max_year": 2011,
+      "face": {
+        "value": 5000,
+        "unit": "Roubles",
+        "text": "5000 Roubles"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 605189,
+        "title": "5000 Roubles (With segmented security thread)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bielorussie",
+          "name": "Belarus"
+        },
+        "min_year": 2011,
+        "max_year": 2011,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bielorussie/6abd0eef2808b4.60940756-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bielorussie/6abd0eef5f1205.09503080-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 605196,
+      "title": "20 000 Roubles (Without segmented security thread)",
+      "issuer": {
+        "code": "bielorussie",
+        "name": "Belarus"
+      },
+      "min_year": 2000,
+      "max_year": 2000,
+      "face": {
+        "value": 20000,
+        "unit": "Roubles",
+        "text": "20000 Roubles"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 605196,
+        "title": "20 000 Roubles (Without segmented security thread)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bielorussie",
+          "name": "Belarus"
+        },
+        "min_year": 2000,
+        "max_year": 2000,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bielorussie/6abd1cc1d6ef96.82993926-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bielorussie/6abd1cc230f7c2.76418994-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 605203,
+      "title": "50 000 Roubles (With segmented security thread)",
+      "issuer": {
+        "code": "bielorussie",
+        "name": "Belarus"
+      },
+      "min_year": 2010,
+      "max_year": 2010,
+      "face": {
+        "value": 50000,
+        "unit": "Roubles",
+        "text": "50000 Roubles"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 605203,
+        "title": "50 000 Roubles (With segmented security thread)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bielorussie",
+          "name": "Belarus"
+        },
+        "min_year": 2010,
+        "max_year": 2010,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bielorussie/6abd29e764f831.31658233-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bielorussie/6abd29e7a6cd53.67337905-180.jpg",
+        "category": "banknote"
+      }
+    }
+  ]
+}

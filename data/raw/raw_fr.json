@@ -1,0 +1,1542 @@
+{
+  "meta": {
+    "generated_at": "2026-10-29T13:27:51.193Z",
+    "fixture": false,
+    "api": "numista v3",
+    "issuer": "france",
+    "iso": "FR",
+    "category": "banknote",
+    "lang": "en",
+    "since": 1960,
+    "listed": 205,
+    "fetched": 41,
+    "details_fetched": 0,
+    "dropped_before_since": 164,
+    "dropped_by_source": {
+      "list": 164,
+      "detail": 0
+    },
+    "issuer_mismatches": 0,
+    "pages": 5,
+    "requests": 0
+  },
+  "types": [
+    {
+      "numista_type_id": 201000,
+      "title": "50 Francs - Saint-Exupéry",
+      "issuer": {
+        "code": "france",
+        "name": "France"
+      },
+      "min_year": 1992,
+      "max_year": 1993,
+      "face": {
+        "value": 50,
+        "unit": "Francs",
+        "text": "50 Francs"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 201000,
+        "title": "50 Francs - Saint-Exupéry",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "france",
+          "name": "France"
+        },
+        "min_year": 1992,
+        "max_year": 1993,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/france/5e9b96b3bf6e28.96675573-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/france/5e9b96b40deac2.66766314-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202853,
+      "title": "10 Francs (Voltaire, type 1963)",
+      "issuer": {
+        "code": "france",
+        "name": "France"
+      },
+      "min_year": 1963,
+      "max_year": 1973,
+      "face": {
+        "value": 10,
+        "unit": "Francs",
+        "text": "10 Francs"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202853,
+        "title": "10 Francs (Voltaire, type 1963)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "france",
+          "name": "France"
+        },
+        "min_year": 1963,
+        "max_year": 1973,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/france/5e99632f70a018.88378845-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/france/5e996330ea7c32.65214043-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203086,
+      "title": "100 Francs (Corneille)",
+      "issuer": {
+        "code": "france",
+        "name": "France"
+      },
+      "min_year": 1964,
+      "max_year": 1979,
+      "face": {
+        "value": 100,
+        "unit": "Francs",
+        "text": "100 Francs"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203086,
+        "title": "100 Francs (Corneille)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "france",
+          "name": "France"
+        },
+        "min_year": 1964,
+        "max_year": 1979,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/france/5e9838f22694f3.89180841-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/france/5e9838f27def39.07402285-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203339,
+      "title": "200 Francs (Montesquieu)",
+      "issuer": {
+        "code": "france",
+        "name": "France"
+      },
+      "min_year": 1981,
+      "max_year": 1992,
+      "face": {
+        "value": 200,
+        "unit": "Francs",
+        "text": "200 Francs"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203339,
+        "title": "200 Francs (Montesquieu)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "france",
+          "name": "France"
+        },
+        "min_year": 1981,
+        "max_year": 1992,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/france/5e99d1ebbb0c99.30502654-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/france/5e99d1ec39ac42.75854957-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203759,
+      "title": "500 Francs - Pierre & Marie Curie (type 1993)",
+      "issuer": {
+        "code": "france",
+        "name": "France"
+      },
+      "min_year": 1994,
+      "max_year": 2000,
+      "face": {
+        "value": 500,
+        "unit": "Francs",
+        "text": "500 Francs"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203759,
+        "title": "500 Francs - Pierre & Marie Curie (type 1993)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "france",
+          "name": "France"
+        },
+        "min_year": 1994,
+        "max_year": 2000,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/france/5e99b3972ac112.07882635-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/france/5e99b3979ea235.69222178-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204378,
+      "title": "20 Francs (Debussy, type 1980 with safety wire)",
+      "issuer": {
+        "code": "france",
+        "name": "France"
+      },
+      "min_year": 1990,
+      "max_year": 1993,
+      "face": {
+        "value": 20,
+        "unit": "Francs",
+        "text": "20 Francs"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204378,
+        "title": "20 Francs (Debussy, type 1980 with safety wire)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "france",
+          "name": "France"
+        },
+        "min_year": 1990,
+        "max_year": 1993,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/france/5e9b8a9d479ae4.62609615-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/france/5e9b8a9d7d6e28.85264585-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204385,
+      "title": "20 Francs (Debussy; type 1980 modified)",
+      "issuer": {
+        "code": "france",
+        "name": "France"
+      },
+      "min_year": 1995,
+      "max_year": 1997,
+      "face": {
+        "value": 20,
+        "unit": "Francs",
+        "text": "20 Francs"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204385,
+        "title": "20 Francs (Debussy; type 1980 modified)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "france",
+          "name": "France"
+        },
+        "min_year": 1995,
+        "max_year": 1997,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/france/629886181fec32.05752955-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/france/62988618b5c096.53066502-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204391,
+      "title": "20 Francs (Debussy, type 1980 uniface)",
+      "issuer": {
+        "code": "france",
+        "name": "France"
+      },
+      "min_year": 1980,
+      "max_year": 1991,
+      "face": {
+        "value": 20,
+        "unit": "Francs",
+        "text": "20 Francs"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204391,
+        "title": "20 Francs (Debussy, type 1980 uniface)",
+        "object_type": {
+          "id": 89,
+          "name": "Banknote patterns and trials"
+        },
+        "issuer": {
+          "code": "france",
+          "name": "France"
+        },
+        "min_year": 1980,
+        "max_year": 1991,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/france/5e9b920fe2c470.36409765-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/france/5e9b9210366174.63222059-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204402,
+      "title": "50 Francs - Saint-Exupéry (type 1992 modified)",
+      "issuer": {
+        "code": "france",
+        "name": "France"
+      },
+      "min_year": 1994,
+      "max_year": 1999,
+      "face": {
+        "value": 50,
+        "unit": "Francs",
+        "text": "50 Francs"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204402,
+        "title": "50 Francs - Saint-Exupéry (type 1992 modified)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "france",
+          "name": "France"
+        },
+        "min_year": 1994,
+        "max_year": 1999,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/france/5e9b99f4024809.12561043-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/france/5e9b99f44654c1.93296862-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204419,
+      "title": "100 Francs - Delacroix (type 1978 modified)",
+      "issuer": {
+        "code": "france",
+        "name": "France"
+      },
+      "min_year": 1978,
+      "max_year": 1989,
+      "face": {
+        "value": 100,
+        "unit": "Francs",
+        "text": "100 Francs"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204419,
+        "title": "100 Francs - Delacroix (type 1978 modified)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "france",
+          "name": "France"
+        },
+        "min_year": 1978,
+        "max_year": 1989,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/france/5e9ba74d0e9672.35813781-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/france/5e9ba74d450bb6.23791210-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204422,
+      "title": "100 Francs (Delacroix, type 1978 continuous printing)",
+      "issuer": {
+        "code": "france",
+        "name": "France"
+      },
+      "min_year": 1990,
+      "max_year": 1993,
+      "face": {
+        "value": 100,
+        "unit": "Francs",
+        "text": "100 Francs"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204422,
+        "title": "100 Francs (Delacroix, type 1978 continuous printing)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "france",
+          "name": "France"
+        },
+        "min_year": 1990,
+        "max_year": 1993,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/france/65f475588118b6.34179584-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/france/65f4755ae3e723.24071643-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204426,
+      "title": "100 Francs (Delacroix, type 1978, articles 442-1 and 442-2)",
+      "issuer": {
+        "code": "france",
+        "name": "France"
+      },
+      "min_year": 1994,
+      "max_year": 1995,
+      "face": {
+        "value": 100,
+        "unit": "Francs",
+        "text": "100 Francs"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204426,
+        "title": "100 Francs (Delacroix, type 1978, articles 442-1 and 442-2)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "france",
+          "name": "France"
+        },
+        "min_year": 1994,
+        "max_year": 1995,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/france/5e9bad44902e63.46902901-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/france/5e9bad44c81cb4.05165818-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204428,
+      "title": "100 Francs (Delacroix, type 1978 uniface)",
+      "issuer": {
+        "code": "france",
+        "name": "France"
+      },
+      "min_year": 1983,
+      "max_year": 1993,
+      "face": {
+        "value": 100,
+        "unit": "Francs",
+        "text": "100 Francs"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204428,
+        "title": "100 Francs (Delacroix, type 1978 uniface)",
+        "object_type": {
+          "id": 89,
+          "name": "Banknote patterns and trials"
+        },
+        "issuer": {
+          "code": "france",
+          "name": "France"
+        },
+        "min_year": 1983,
+        "max_year": 1993,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/france/5e9baf1104ff79.31998768-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/france/5e9baf11495071.34658148-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204541,
+      "title": "200 Francs (Montesquieu, type 1981, article 442)",
+      "issuer": {
+        "code": "france",
+        "name": "France"
+      },
+      "min_year": 1994,
+      "max_year": 1994,
+      "face": {
+        "value": 200,
+        "unit": "Francs",
+        "text": "200 Francs"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204541,
+        "title": "200 Francs (Montesquieu, type 1981, article 442)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "france",
+          "name": "France"
+        },
+        "min_year": 1994,
+        "max_year": 1994,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/france/5e9c0be03fd0a0.15005347-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/france/5e9c0be09d7f01.10635008-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204550,
+      "title": "200 Francs (Montesquieu, type 1981, alphabets H.042, H.402, 101)",
+      "issuer": {
+        "code": "france",
+        "name": "France"
+      },
+      "min_year": 1986,
+      "max_year": 1992,
+      "face": {
+        "value": 200,
+        "unit": "Francs",
+        "text": "200 Francs"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204550,
+        "title": "200 Francs (Montesquieu, type 1981, alphabets H.042, H.402, 101)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "france",
+          "name": "France"
+        },
+        "min_year": 1986,
+        "max_year": 1992,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/france/5e9c1011828611.43772192-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/france/5e9c1011d261f5.30464443-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204552,
+      "title": "200 Francs (Montesquieu, type 1981 uniface)",
+      "issuer": {
+        "code": "france",
+        "name": "France"
+      },
+      "min_year": 1981,
+      "max_year": 1991,
+      "face": {
+        "value": 200,
+        "unit": "Francs",
+        "text": "200 Francs"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204552,
+        "title": "200 Francs (Montesquieu, type 1981 uniface)",
+        "object_type": {
+          "id": 89,
+          "name": "Banknote patterns and trials"
+        },
+        "issuer": {
+          "code": "france",
+          "name": "France"
+        },
+        "min_year": 1981,
+        "max_year": 1991,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/france/5e9c1265efd000.21873167-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/france/5e9c12663b29f5.32513999-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204875,
+      "title": "100 Francs - Cézanne (type 1997)",
+      "issuer": {
+        "code": "france",
+        "name": "France"
+      },
+      "min_year": 1997,
+      "max_year": 1998,
+      "face": {
+        "value": 100,
+        "unit": "Francs",
+        "text": "100 Francs"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204875,
+        "title": "100 Francs - Cézanne (type 1997)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "france",
+          "name": "France"
+        },
+        "min_year": 1997,
+        "max_year": 1998,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/france/69f7e7b3cae0f8.15487814-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/france/69f7e7b45d4108.18178136-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204892,
+      "title": "200 Francs - Eiffel (type 1995)",
+      "issuer": {
+        "code": "france",
+        "name": "France"
+      },
+      "min_year": 1995,
+      "max_year": 1999,
+      "face": {
+        "value": 200,
+        "unit": "Francs",
+        "text": "200 Francs"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204892,
+        "title": "200 Francs - Eiffel (type 1995)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "france",
+          "name": "France"
+        },
+        "min_year": 1995,
+        "max_year": 1999,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/france/65ddef1e1c1084.94537171-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/france/65ddef208cd683.75760411-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204961,
+      "title": "500 Francs (Pascal, type 1968)",
+      "issuer": {
+        "code": "france",
+        "name": "France"
+      },
+      "min_year": 1968,
+      "max_year": 1993,
+      "face": {
+        "value": 500,
+        "unit": "Francs",
+        "text": "500 Francs"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204961,
+        "title": "500 Francs (Pascal, type 1968)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "france",
+          "name": "France"
+        },
+        "min_year": 1968,
+        "max_year": 1993,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/france/5e9cead7acd344.16425917-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/france/5e9cead819b224.51219197-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204969,
+      "title": "500 Francs (Pascal, type 1968, head-to-tail watermark)",
+      "issuer": {
+        "code": "france",
+        "name": "France"
+      },
+      "min_year": 1973,
+      "max_year": 1992,
+      "face": {
+        "value": 500,
+        "unit": "Francs",
+        "text": "500 Francs"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204969,
+        "title": "500 Francs (Pascal, type 1968, head-to-tail watermark)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "france",
+          "name": "France"
+        },
+        "min_year": 1973,
+        "max_year": 1992,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/france/5e9ceedc661192.11022553-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/france/5e9ceedcb57691.73973010-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204974,
+      "title": "500 Francs (Pascal, type 1968 uniface)",
+      "issuer": {
+        "code": "france",
+        "name": "France"
+      },
+      "min_year": 1980,
+      "max_year": 1991,
+      "face": {
+        "value": 500,
+        "unit": "Francs",
+        "text": "500 Francs"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204974,
+        "title": "500 Francs (Pascal, type 1968 uniface)",
+        "object_type": {
+          "id": 89,
+          "name": "Banknote patterns and trials"
+        },
+        "issuer": {
+          "code": "france",
+          "name": "France"
+        },
+        "min_year": 1980,
+        "max_year": 1991,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/france/5e9cf20898ea66.91297286-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/france/5e9cf20904eb50.30432941-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204981,
+      "title": "50 Francs (Quentin de la Tour, type 1976)",
+      "issuer": {
+        "code": "france",
+        "name": "France"
+      },
+      "min_year": 1976,
+      "max_year": 1992,
+      "face": {
+        "value": 50,
+        "unit": "Francs",
+        "text": "50 Francs"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204981,
+        "title": "50 Francs (Quentin de la Tour, type 1976)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "france",
+          "name": "France"
+        },
+        "min_year": 1976,
+        "max_year": 1992,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/france/629885b9bd4aa3.55425498-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/france/629885ba5f0b78.80438893-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204993,
+      "title": "50 Francs (Racine, type 1962)",
+      "issuer": {
+        "code": "france",
+        "name": "France"
+      },
+      "min_year": 1962,
+      "max_year": 1976,
+      "face": {
+        "value": 50,
+        "unit": "Francs",
+        "text": "50 Francs"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204993,
+        "title": "50 Francs (Racine, type 1962)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "france",
+          "name": "France"
+        },
+        "min_year": 1962,
+        "max_year": 1976,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/france/695bbd787c00c7.82964782-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/france/695bbd7b2d39b3.77723073-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205209,
+      "title": "10 Francs (Berlioz, type 1972)",
+      "issuer": {
+        "code": "france",
+        "name": "France"
+      },
+      "min_year": 1972,
+      "max_year": 1978,
+      "face": {
+        "value": 10,
+        "unit": "Francs",
+        "text": "10 Francs"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205209,
+        "title": "10 Francs (Berlioz, type 1972)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "france",
+          "name": "France"
+        },
+        "min_year": 1972,
+        "max_year": 1978,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/france/5e9d773362c3a9.43047280-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/france/5e9d7733b5dee4.77211073-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205223,
+      "title": "10 Francs (Berlioz, type 1972 without signatures)",
+      "issuer": {
+        "code": "france",
+        "name": "France"
+      },
+      "min_year": 1973,
+      "max_year": 1974,
+      "face": {
+        "value": 10,
+        "unit": "Francs",
+        "text": "10 Francs"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205223,
+        "title": "10 Francs (Berlioz, type 1972 without signatures)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "france",
+          "name": "France"
+        },
+        "min_year": 1973,
+        "max_year": 1974,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/france/5e9d799545b941.22454995-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/france/5e9d79959b17b4.06057190-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205228,
+      "title": "10 Francs (Berlioz, type 1972 uniface)",
+      "issuer": {
+        "code": "france",
+        "name": "France"
+      },
+      "min_year": 1974,
+      "max_year": 1976,
+      "face": {
+        "value": 10,
+        "unit": "Francs",
+        "text": "10 Francs"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205228,
+        "title": "10 Francs (Berlioz, type 1972 uniface)",
+        "object_type": {
+          "id": 89,
+          "name": "Banknote patterns and trials"
+        },
+        "issuer": {
+          "code": "france",
+          "name": "France"
+        },
+        "min_year": 1974,
+        "max_year": 1976,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/france/5e9d7bba5dd403.60378543-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/france/5e9d7bba97eed6.45490339-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205245,
+      "title": "5 Francs (Pasteur, type 1966)",
+      "issuer": {
+        "code": "france",
+        "name": "France"
+      },
+      "min_year": 1966,
+      "max_year": 1970,
+      "face": {
+        "value": 5,
+        "unit": "Francs",
+        "text": "5 Francs"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205245,
+        "title": "5 Francs (Pasteur, type 1966)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "france",
+          "name": "France"
+        },
+        "min_year": 1966,
+        "max_year": 1970,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/france/5e9d808044c479.71920132-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/france/5e9d80809e2e64.89259826-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205287,
+      "title": "500 Nouveaux Francs (Molière, type 1959)",
+      "issuer": {
+        "code": "france",
+        "name": "France"
+      },
+      "min_year": 1959,
+      "max_year": 1966,
+      "face": {
+        "value": 500,
+        "unit": "Nouveaux Francs",
+        "text": "500 Nouveaux Francs"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205287,
+        "title": "500 Nouveaux Francs (Molière, type 1959)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "france",
+          "name": "France"
+        },
+        "min_year": 1959,
+        "max_year": 1966,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/france/5e9d8dd006c907.35188419-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/france/5e9d8dd07ab686.55748856-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205303,
+      "title": "100 Nouveaux Francs (Bonaparte, type 1959)",
+      "issuer": {
+        "code": "france",
+        "name": "France"
+      },
+      "min_year": 1959,
+      "max_year": 1964,
+      "face": {
+        "value": 100,
+        "unit": "Nouveaux Francs",
+        "text": "100 Nouveaux Francs"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205303,
+        "title": "100 Nouveaux Francs (Bonaparte, type 1959)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "france",
+          "name": "France"
+        },
+        "min_year": 1959,
+        "max_year": 1964,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/france/5e9d9547acf4c7.73544739-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/france/5e9d95480f0147.50135096-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205323,
+      "title": "50 Nouveaux Francs (Henri IV, type 1959)",
+      "issuer": {
+        "code": "france",
+        "name": "France"
+      },
+      "min_year": 1959,
+      "max_year": 1962,
+      "face": {
+        "value": 50,
+        "unit": "Nouveaux Francs",
+        "text": "50 Nouveaux Francs"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205323,
+        "title": "50 Nouveaux Francs (Henri IV, type 1959)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "france",
+          "name": "France"
+        },
+        "min_year": 1959,
+        "max_year": 1962,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/france/5e9d9d7801fe00.98994467-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/france/5e9d9d785a6cb3.86887777-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205334,
+      "title": "10 Nouveaux Francs (Richelieu, type 1959)",
+      "issuer": {
+        "code": "france",
+        "name": "France"
+      },
+      "min_year": 1959,
+      "max_year": 1963,
+      "face": {
+        "value": 10,
+        "unit": "Nouveaux Francs",
+        "text": "10 Nouveaux Francs"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205334,
+        "title": "10 Nouveaux Francs (Richelieu, type 1959)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "france",
+          "name": "France"
+        },
+        "min_year": 1959,
+        "max_year": 1963,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/france/695bba08dbfdd1.11923458-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/france/695bba0b3f11f8.06008988-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205353,
+      "title": "5 Nouveaux Francs (Hugo, type 1959)",
+      "issuer": {
+        "code": "france",
+        "name": "France"
+      },
+      "min_year": 1959,
+      "max_year": 1965,
+      "face": {
+        "value": 5,
+        "unit": "Nouveaux Francs",
+        "text": "5 Nouveaux Francs"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205353,
+        "title": "5 Nouveaux Francs (Hugo, type 1959)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "france",
+          "name": "France"
+        },
+        "min_year": 1959,
+        "max_year": 1965,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/france/5e9dac5183cd10.63615292-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/france/5e9dac51d79a72.70617212-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 207466,
+      "title": "50 Francs - Saint-Exupéry (type 1984)",
+      "issuer": {
+        "code": "france",
+        "name": "France"
+      },
+      "min_year": 1984,
+      "max_year": 1984,
+      "face": {
+        "value": 50,
+        "unit": "Francs",
+        "text": "50 Francs"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 207466,
+        "title": "50 Francs - Saint-Exupéry (type 1984)",
+        "object_type": {
+          "id": 89,
+          "name": "Banknote patterns and trials"
+        },
+        "issuer": {
+          "code": "france",
+          "name": "France"
+        },
+        "min_year": 1984,
+        "max_year": 1984,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/france/5ea4233bbd3f68.74529701-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/france/5ea4233bf26723.78679161-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 208635,
+      "title": "200 Francs - Frère Lumière (not issued)",
+      "issuer": {
+        "code": "france",
+        "name": "France"
+      },
+      "min_year": 1990,
+      "max_year": 1990,
+      "face": {
+        "value": 200,
+        "unit": "Francs",
+        "text": "200 Francs"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 208635,
+        "title": "200 Francs - Frère Lumière (not issued)",
+        "object_type": {
+          "id": 89,
+          "name": "Banknote patterns and trials"
+        },
+        "issuer": {
+          "code": "france",
+          "name": "France"
+        },
+        "min_year": 1990,
+        "max_year": 1990,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/france/5ea83c1c42e910.71795218-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/france/5ea83c1cce5169.07246737-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 329910,
+      "title": "20 Francs (Debussy, type 1980)",
+      "issuer": {
+        "code": "france",
+        "name": "France"
+      },
+      "min_year": 1980,
+      "max_year": 1989,
+      "face": {
+        "value": 20,
+        "unit": "Francs",
+        "text": "20 Francs"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 329910,
+        "title": "20 Francs (Debussy, type 1980)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "france",
+          "name": "France"
+        },
+        "min_year": 1980,
+        "max_year": 1989,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/france/629dcfd65d0f93.48526625-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/france/629dcfd6c923f6.42945388-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 346527,
+      "title": "5 Eusko",
+      "issuer": {
+        "code": "france",
+        "name": "France"
+      },
+      "min_year": 2013,
+      "max_year": 2013,
+      "face": {
+        "value": 5,
+        "unit": "Eusko",
+        "text": "5 Eusko"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 346527,
+        "title": "5 Eusko",
+        "object_type": {
+          "id": 84,
+          "name": "Local banknotes"
+        },
+        "issuer": {
+          "code": "france",
+          "name": "France"
+        },
+        "min_year": 2013,
+        "max_year": 2013,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/france/637531c98156f0.39348856-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/france/637531c9ae98a5.45392350-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 346654,
+      "title": "1 Eusko",
+      "issuer": {
+        "code": "france",
+        "name": "France"
+      },
+      "min_year": 2013,
+      "max_year": 2013,
+      "face": {
+        "value": 1,
+        "unit": "Eusko",
+        "text": "1 Eusko"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 346654,
+        "title": "1 Eusko",
+        "object_type": {
+          "id": 84,
+          "name": "Local banknotes"
+        },
+        "issuer": {
+          "code": "france",
+          "name": "France"
+        },
+        "min_year": 2013,
+        "max_year": 2013,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/france/637740bf078348.47635426-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/france/637740bf59cb88.48490192-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 346655,
+      "title": "2 Eusko",
+      "issuer": {
+        "code": "france",
+        "name": "France"
+      },
+      "min_year": 2019,
+      "max_year": 2019,
+      "face": {
+        "value": 2,
+        "unit": "Eusko",
+        "text": "2 Eusko"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 346655,
+        "title": "2 Eusko",
+        "object_type": {
+          "id": 84,
+          "name": "Local banknotes"
+        },
+        "issuer": {
+          "code": "france",
+          "name": "France"
+        },
+        "min_year": 2019,
+        "max_year": 2019,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/france/637741c30e7f82.12597789-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/france/637769490fca11.46257614-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 346656,
+      "title": "10 Eusko",
+      "issuer": {
+        "code": "france",
+        "name": "France"
+      },
+      "min_year": 2019,
+      "max_year": 2019,
+      "face": {
+        "value": 10,
+        "unit": "Eusko",
+        "text": "10 Eusko"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 346656,
+        "title": "10 Eusko",
+        "object_type": {
+          "id": 84,
+          "name": "Local banknotes"
+        },
+        "issuer": {
+          "code": "france",
+          "name": "France"
+        },
+        "min_year": 2019,
+        "max_year": 2019,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/france/637742dac07708.44359663-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/france/637742db1a74f3.14996457-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 346657,
+      "title": "20 Eusko",
+      "issuer": {
+        "code": "france",
+        "name": "France"
+      },
+      "min_year": 2019,
+      "max_year": 2019,
+      "face": {
+        "value": 20,
+        "unit": "Eusko",
+        "text": "20 Eusko"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 346657,
+        "title": "20 Eusko",
+        "object_type": {
+          "id": 84,
+          "name": "Local banknotes"
+        },
+        "issuer": {
+          "code": "france",
+          "name": "France"
+        },
+        "min_year": 2019,
+        "max_year": 2019,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/france/637743f6b3b4d2.27201759-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/france/637743f7103e61.34339835-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 454153,
+      "title": "100 francs - Henri IV",
+      "issuer": {
+        "code": "france",
+        "name": "France"
+      },
+      "min_year": 1978,
+      "max_year": 1978,
+      "face": {
+        "value": 100,
+        "unit": "francs",
+        "text": "100 francs"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 454153,
+        "title": "100 francs - Henri IV",
+        "object_type": {
+          "id": 204,
+          "name": "Movie and theatre money"
+        },
+        "issuer": {
+          "code": "france",
+          "name": "France"
+        },
+        "min_year": 1978,
+        "max_year": 1978,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/france/67a62b209ff506.03800479-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/france/67a62b4d1d7838.52189938-180.jpg",
+        "category": "banknote"
+      }
+    }
+  ]
+}

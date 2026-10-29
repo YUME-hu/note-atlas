@@ -1,0 +1,2282 @@
+{
+  "meta": {
+    "generated_at": "2026-10-29T13:27:59.401Z",
+    "fixture": false,
+    "api": "numista v3",
+    "issuer": "turquie",
+    "iso": "TR",
+    "category": "banknote",
+    "lang": "en",
+    "since": 1960,
+    "listed": 112,
+    "fetched": 61,
+    "details_fetched": 0,
+    "dropped_before_since": 51,
+    "dropped_by_source": {
+      "list": 51,
+      "detail": 0
+    },
+    "issuer_mismatches": 0,
+    "pages": 3,
+    "requests": 0
+  },
+  "types": [
+    {
+      "numista_type_id": 202370,
+      "title": "10 Lira (Series IV & VI; without \"SERİ\"; Green reverse)",
+      "issuer": {
+        "code": "turquie",
+        "name": "Turkey"
+      },
+      "min_year": 1960,
+      "max_year": 1963,
+      "face": {
+        "value": 10,
+        "unit": "Lira",
+        "text": "10 Lira"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202370,
+        "title": "10 Lira (Series IV & VI; without \"SERİ\"; Green reverse)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "turquie",
+          "name": "Turkey"
+        },
+        "min_year": 1960,
+        "max_year": 1963,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/turquie/5e9636ad29c274.12607765-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/turquie/5e9636ad77cd25.58945052-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203160,
+      "title": "20 Lira (Series II, III & IV; Law 1970; two signatures)",
+      "issuer": {
+        "code": "turquie",
+        "name": "Turkey"
+      },
+      "min_year": 1974,
+      "max_year": 1983,
+      "face": {
+        "value": 20,
+        "unit": "Lira",
+        "text": "20 Lira"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203160,
+        "title": "20 Lira (Series II, III & IV; Law 1970; two signatures)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "turquie",
+          "name": "Turkey"
+        },
+        "min_year": 1974,
+        "max_year": 1983,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/turquie/62d435e516db25.61465991-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/turquie/62d435e78cb798.25573593-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203557,
+      "title": "100 000 Lira (Series III; without circular mark)",
+      "issuer": {
+        "code": "turquie",
+        "name": "Turkey"
+      },
+      "min_year": 1996,
+      "max_year": 1999,
+      "face": {
+        "value": 100000,
+        "unit": "Lira",
+        "text": "100000 Lira"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203557,
+        "title": "100 000 Lira (Series III; without circular mark)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "turquie",
+          "name": "Turkey"
+        },
+        "min_year": 1996,
+        "max_year": 1999,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/turquie/65c76112ec8ac6.18060119-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/turquie/65c76116f13171.72462798-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203580,
+      "title": "20 000 Lira (Series I; red and blue ornament)",
+      "issuer": {
+        "code": "turquie",
+        "name": "Turkey"
+      },
+      "min_year": 1988,
+      "max_year": 1988,
+      "face": {
+        "value": 20000,
+        "unit": "Lira",
+        "text": "20000 Lira"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203580,
+        "title": "20 000 Lira (Series I; red and blue ornament)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "turquie",
+          "name": "Turkey"
+        },
+        "min_year": 1988,
+        "max_year": 1988,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/turquie/679a4a8b6ffab7.13916413-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/turquie/679a4a8db93be0.27922299-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203632,
+      "title": "10 000 Lira (Series IV; green ornament)",
+      "issuer": {
+        "code": "turquie",
+        "name": "Turkey"
+      },
+      "min_year": 1993,
+      "max_year": 1993,
+      "face": {
+        "value": 10000,
+        "unit": "Lira",
+        "text": "10000 Lira"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203632,
+        "title": "10 000 Lira (Series IV; green ornament)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "turquie",
+          "name": "Turkey"
+        },
+        "min_year": 1993,
+        "max_year": 1993,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/turquie/65c760d83795c6.85746393-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/turquie/65c760dc152a92.78673332-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203669,
+      "title": "50 000 Lira (Series I; black and green numeral on back)",
+      "issuer": {
+        "code": "turquie",
+        "name": "Turkey"
+      },
+      "min_year": 1989,
+      "max_year": 1989,
+      "face": {
+        "value": 50000,
+        "unit": "Lira",
+        "text": "50000 Lira"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203669,
+        "title": "50 000 Lira (Series I; black and green numeral on back)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "turquie",
+          "name": "Turkey"
+        },
+        "min_year": 1989,
+        "max_year": 1989,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/turquie/62f28cfa5b7677.93720555-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/turquie/62f28cfb5f4315.33688385-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203677,
+      "title": "5000 Lira (Series IV)",
+      "issuer": {
+        "code": "turquie",
+        "name": "Turkey"
+      },
+      "min_year": 1990,
+      "max_year": 1990,
+      "face": {
+        "value": 5000,
+        "unit": "Lira",
+        "text": "5000 Lira"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203677,
+        "title": "5000 Lira (Series IV)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "turquie",
+          "name": "Turkey"
+        },
+        "min_year": 1990,
+        "max_year": 1990,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/turquie/69b2ee029ac8b5.70735578-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/turquie/69b2ee05104035.36317788-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203709,
+      "title": "1000 Lira",
+      "issuer": {
+        "code": "turquie",
+        "name": "Turkey"
+      },
+      "min_year": 1978,
+      "max_year": 1981,
+      "face": {
+        "value": 1000,
+        "unit": "Lira",
+        "text": "1000 Lira"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203709,
+        "title": "1000 Lira",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "turquie",
+          "name": "Turkey"
+        },
+        "min_year": 1978,
+        "max_year": 1981,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/turquie/68695977a4ac42.66838737-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/turquie/686959897c9db4.60783758-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204579,
+      "title": "1 000 000 Lira (Series III; without grape shaped security device)",
+      "issuer": {
+        "code": "turquie",
+        "name": "Turkey"
+      },
+      "min_year": 2002,
+      "max_year": 2002,
+      "face": {
+        "value": 1000000,
+        "unit": "Lira",
+        "text": "1000000 Lira"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204579,
+        "title": "1 000 000 Lira (Series III; without grape shaped security device)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "turquie",
+          "name": "Turkey"
+        },
+        "min_year": 2002,
+        "max_year": 2002,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/turquie/600fdaa1d6d342.09316208-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/turquie/600ef3ba356098.97780594-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205721,
+      "title": "5 000 000 Lira",
+      "issuer": {
+        "code": "turquie",
+        "name": "Turkey"
+      },
+      "min_year": 1997,
+      "max_year": 1997,
+      "face": {
+        "value": 5000000,
+        "unit": "Lira",
+        "text": "5000000 Lira"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205721,
+        "title": "5 000 000 Lira",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "turquie",
+          "name": "Turkey"
+        },
+        "min_year": 1997,
+        "max_year": 1997,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/turquie/6a3452c60656f7.12373485-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/turquie/6a3452c6c24b69.61292348-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206232,
+      "title": "250 000 Lira (Series III; triangular security device in solid ink)",
+      "issuer": {
+        "code": "turquie",
+        "name": "Turkey"
+      },
+      "min_year": 1998,
+      "max_year": 2001,
+      "face": {
+        "value": 250000,
+        "unit": "Lira",
+        "text": "250000 Lira"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206232,
+        "title": "250 000 Lira (Series III; triangular security device in solid ink)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "turquie",
+          "name": "Turkey"
+        },
+        "min_year": 1998,
+        "max_year": 2001,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/turquie/65c764f5a71314.80437602-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/turquie/65c764fa5ebe77.12790595-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206290,
+      "title": "10 000 000 Lira",
+      "issuer": {
+        "code": "turquie",
+        "name": "Turkey"
+      },
+      "min_year": 1999,
+      "max_year": 1999,
+      "face": {
+        "value": 10000000,
+        "unit": "Lira",
+        "text": "10000000 Lira"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206290,
+        "title": "10 000 000 Lira",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "turquie",
+          "name": "Turkey"
+        },
+        "min_year": 1999,
+        "max_year": 1999,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/turquie/6679a15b4ed774.11849888-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/turquie/6679a15d466056.48271369-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206364,
+      "title": "1000 Lira",
+      "issuer": {
+        "code": "turquie",
+        "name": "Turkey"
+      },
+      "min_year": 1986,
+      "max_year": 1988,
+      "face": {
+        "value": 1000,
+        "unit": "Lira",
+        "text": "1000 Lira"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206364,
+        "title": "1000 Lira",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "turquie",
+          "name": "Turkey"
+        },
+        "min_year": 1986,
+        "max_year": 1988,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/turquie/5ea073c32a9b26.20913906-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/turquie/5ea073c3d7f143.18380440-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206366,
+      "title": "100 Lira",
+      "issuer": {
+        "code": "turquie",
+        "name": "Turkey"
+      },
+      "min_year": 1983,
+      "max_year": 1984,
+      "face": {
+        "value": 100,
+        "unit": "Lira",
+        "text": "100 Lira"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206366,
+        "title": "100 Lira",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "turquie",
+          "name": "Turkey"
+        },
+        "min_year": 1983,
+        "max_year": 1984,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/turquie/5ea075157ec558.45635345-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/turquie/5ea0751632b846.52490193-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206371,
+      "title": "1 New Lira",
+      "issuer": {
+        "code": "turquie",
+        "name": "Turkey"
+      },
+      "min_year": 2005,
+      "max_year": 2005,
+      "face": {
+        "value": 1,
+        "unit": "New Lira",
+        "text": "1 New Lira"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206371,
+        "title": "1 New Lira",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "turquie",
+          "name": "Turkey"
+        },
+        "min_year": 2005,
+        "max_year": 2005,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/turquie/5ea0768a31dcf5.62955665-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/turquie/5ea0768af1f3b0.13370496-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206375,
+      "title": "10 Lira (Series I)",
+      "issuer": {
+        "code": "turquie",
+        "name": "Turkey"
+      },
+      "min_year": 1979,
+      "max_year": 1979,
+      "face": {
+        "value": 10,
+        "unit": "Lira",
+        "text": "10 Lira"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206375,
+        "title": "10 Lira (Series I)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "turquie",
+          "name": "Turkey"
+        },
+        "min_year": 1979,
+        "max_year": 1979,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/turquie/5ea07829b63857.18663608-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/turquie/5ea0782a635009.75646669-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206379,
+      "title": "5 Lira (Series II; Law 1970; two signatures)",
+      "issuer": {
+        "code": "turquie",
+        "name": "Turkey"
+      },
+      "min_year": 1976,
+      "max_year": 1976,
+      "face": {
+        "value": 5,
+        "unit": "Lira",
+        "text": "5 Lira"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206379,
+        "title": "5 Lira (Series II; Law 1970; two signatures)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "turquie",
+          "name": "Turkey"
+        },
+        "min_year": 1976,
+        "max_year": 1976,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/turquie/66caf4b8ebcfc0.65064027-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/turquie/66caf4bb306245.29947678-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206382,
+      "title": "5 Lira (purple)",
+      "issuer": {
+        "code": "turquie",
+        "name": "Turkey"
+      },
+      "min_year": 2013,
+      "max_year": 2026,
+      "face": {
+        "value": 5,
+        "unit": "Lira",
+        "text": "5 Lira"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206382,
+        "title": "5 Lira (purple)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "turquie",
+          "name": "Turkey"
+        },
+        "min_year": 2013,
+        "max_year": 2026,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/turquie/6299fbf2156168.63152135-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/turquie/6299fbf4d1c841.09987623-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206385,
+      "title": "10 Lira",
+      "issuer": {
+        "code": "turquie",
+        "name": "Turkey"
+      },
+      "min_year": 2009,
+      "max_year": 2025,
+      "face": {
+        "value": 10,
+        "unit": "Lira",
+        "text": "10 Lira"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206385,
+        "title": "10 Lira",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "turquie",
+          "name": "Turkey"
+        },
+        "min_year": 2009,
+        "max_year": 2025,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/turquie/6299fc0bb03942.58660627-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/turquie/6299fc0e798573.49030163-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206387,
+      "title": "20 Lira",
+      "issuer": {
+        "code": "turquie",
+        "name": "Turkey"
+      },
+      "min_year": 2009,
+      "max_year": 2025,
+      "face": {
+        "value": 20,
+        "unit": "Lira",
+        "text": "20 Lira"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206387,
+        "title": "20 Lira",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "turquie",
+          "name": "Turkey"
+        },
+        "min_year": 2009,
+        "max_year": 2025,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/turquie/6299fc239063f2.79819586-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/turquie/6299fc2623c180.23170639-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206390,
+      "title": "50 Lira",
+      "issuer": {
+        "code": "turquie",
+        "name": "Turkey"
+      },
+      "min_year": 2009,
+      "max_year": 2026,
+      "face": {
+        "value": 50,
+        "unit": "Lira",
+        "text": "50 Lira"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206390,
+        "title": "50 Lira",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "turquie",
+          "name": "Turkey"
+        },
+        "min_year": 2009,
+        "max_year": 2026,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/turquie/6299fc3f38bf96.41087562-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/turquie/6299fc4222a1c7.82820926-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206392,
+      "title": "100 Lira",
+      "issuer": {
+        "code": "turquie",
+        "name": "Turkey"
+      },
+      "min_year": 2009,
+      "max_year": 2025,
+      "face": {
+        "value": 100,
+        "unit": "Lira",
+        "text": "100 Lira"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206392,
+        "title": "100 Lira",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "turquie",
+          "name": "Turkey"
+        },
+        "min_year": 2009,
+        "max_year": 2025,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/turquie/6299fc56198bb4.85474949-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/turquie/6299fc58ba83e7.37081424-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206562,
+      "title": "200 Lira",
+      "issuer": {
+        "code": "turquie",
+        "name": "Turkey"
+      },
+      "min_year": 2009,
+      "max_year": 2026,
+      "face": {
+        "value": 200,
+        "unit": "Lira",
+        "text": "200 Lira"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206562,
+        "title": "200 Lira",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "turquie",
+          "name": "Turkey"
+        },
+        "min_year": 2009,
+        "max_year": 2026,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/turquie/6506f9678487e9.95854245-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/turquie/6506f969bce1f4.60374861-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206666,
+      "title": "100 Lira",
+      "issuer": {
+        "code": "turquie",
+        "name": "Turkey"
+      },
+      "min_year": 1972,
+      "max_year": 1983,
+      "face": {
+        "value": 100,
+        "unit": "Lira",
+        "text": "100 Lira"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206666,
+        "title": "100 Lira",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "turquie",
+          "name": "Turkey"
+        },
+        "min_year": 1972,
+        "max_year": 1983,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/turquie/67663807157e89.87605601-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/turquie/67663808a9ff66.46230646-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 207584,
+      "title": "500 000 Lira (Series IV; without square security device)",
+      "issuer": {
+        "code": "turquie",
+        "name": "Turkey"
+      },
+      "min_year": 1997,
+      "max_year": 1997,
+      "face": {
+        "value": 500000,
+        "unit": "Lira",
+        "text": "500000 Lira"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 207584,
+        "title": "500 000 Lira (Series IV; without square security device)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "turquie",
+          "name": "Turkey"
+        },
+        "min_year": 1997,
+        "max_year": 1997,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/turquie/65c76165283e27.66514411-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/turquie/65c7616a88df84.62729654-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 207634,
+      "title": "5 New Lira",
+      "issuer": {
+        "code": "turquie",
+        "name": "Turkey"
+      },
+      "min_year": 2005,
+      "max_year": 2005,
+      "face": {
+        "value": 5,
+        "unit": "New Lira",
+        "text": "5 New Lira"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 207634,
+        "title": "5 New Lira",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "turquie",
+          "name": "Turkey"
+        },
+        "min_year": 2005,
+        "max_year": 2005,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/turquie/677cee8d55f174.33790632-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/turquie/677cee8de88fa4.62563953-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 207717,
+      "title": "500 Lira",
+      "issuer": {
+        "code": "turquie",
+        "name": "Turkey"
+      },
+      "min_year": 1983,
+      "max_year": 1984,
+      "face": {
+        "value": 500,
+        "unit": "Lira",
+        "text": "500 Lira"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 207717,
+        "title": "500 Lira",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "turquie",
+          "name": "Turkey"
+        },
+        "min_year": 1983,
+        "max_year": 1984,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/turquie/5f92e25d92c826.94862697-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/turquie/5f92e26005a8c9.29880131-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 208299,
+      "title": "20 000 000 Lira",
+      "issuer": {
+        "code": "turquie",
+        "name": "Turkey"
+      },
+      "min_year": 2001,
+      "max_year": 2001,
+      "face": {
+        "value": 20000000,
+        "unit": "Lira",
+        "text": "20000000 Lira"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 208299,
+        "title": "20 000 000 Lira",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "turquie",
+          "name": "Turkey"
+        },
+        "min_year": 2001,
+        "max_year": 2001,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/turquie/691a0107db1201.62565661-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/turquie/691a010873dc88.75013195-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 208300,
+      "title": "10 New Lira",
+      "issuer": {
+        "code": "turquie",
+        "name": "Turkey"
+      },
+      "min_year": 2005,
+      "max_year": 2005,
+      "face": {
+        "value": 10,
+        "unit": "New Lira",
+        "text": "10 New Lira"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 208300,
+        "title": "10 New Lira",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "turquie",
+          "name": "Turkey"
+        },
+        "min_year": 2005,
+        "max_year": 2005,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/turquie/676007c05f43e7.62360402-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/turquie/676007daab6764.14927280-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 208390,
+      "title": "5 Lira (Series I; Law 1930; three signatures)",
+      "issuer": {
+        "code": "turquie",
+        "name": "Turkey"
+      },
+      "min_year": 1968,
+      "max_year": 1968,
+      "face": {
+        "value": 5,
+        "unit": "Lira",
+        "text": "5 Lira"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 208390,
+        "title": "5 Lira (Series I; Law 1930; three signatures)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "turquie",
+          "name": "Turkey"
+        },
+        "min_year": 1968,
+        "max_year": 1968,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/turquie/665893fd571ae2.22113955-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/turquie/665893ff2d2019.57866488-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 208398,
+      "title": "20 New Lira",
+      "issuer": {
+        "code": "turquie",
+        "name": "Turkey"
+      },
+      "min_year": 2005,
+      "max_year": 2005,
+      "face": {
+        "value": 20,
+        "unit": "New Lira",
+        "text": "20 New Lira"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 208398,
+        "title": "20 New Lira",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "turquie",
+          "name": "Turkey"
+        },
+        "min_year": 2005,
+        "max_year": 2005,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/turquie/66ed48ff773ed0.67701361-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/turquie/66ed4901b375e6.71051181-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 208619,
+      "title": "50 Lira",
+      "issuer": {
+        "code": "turquie",
+        "name": "Turkey"
+      },
+      "min_year": 1976,
+      "max_year": 1983,
+      "face": {
+        "value": 50,
+        "unit": "Lira",
+        "text": "50 Lira"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 208619,
+        "title": "50 Lira",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "turquie",
+          "name": "Turkey"
+        },
+        "min_year": 1976,
+        "max_year": 1983,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/turquie/61cdb735f007f1.41584269-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/turquie/61cdb736658655.69841739-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 210730,
+      "title": "50 000 Lira (Series II; black numeral on back)",
+      "issuer": {
+        "code": "turquie",
+        "name": "Turkey"
+      },
+      "min_year": 1995,
+      "max_year": 1999,
+      "face": {
+        "value": 50000,
+        "unit": "Lira",
+        "text": "50000 Lira"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 210730,
+        "title": "50 000 Lira (Series II; black numeral on back)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "turquie",
+          "name": "Turkey"
+        },
+        "min_year": 1995,
+        "max_year": 1999,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/turquie/632ecdb24eb116.52638370-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/turquie/632ecdb2ef74f4.48831340-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 210769,
+      "title": "500 000 Lira (Series I, II & III; with square security device)",
+      "issuer": {
+        "code": "turquie",
+        "name": "Turkey"
+      },
+      "min_year": 1993,
+      "max_year": 1994,
+      "face": {
+        "value": 500000,
+        "unit": "Lira",
+        "text": "500000 Lira"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 210769,
+        "title": "500 000 Lira (Series I, II & III; with square security device)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "turquie",
+          "name": "Turkey"
+        },
+        "min_year": 1993,
+        "max_year": 1994,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/turquie/5eadc767837bc9.14120050-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/turquie/5eadc768225ef4.29430293-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 211407,
+      "title": "10 Lira (Series II)",
+      "issuer": {
+        "code": "turquie",
+        "name": "Turkey"
+      },
+      "min_year": 1982,
+      "max_year": 1982,
+      "face": {
+        "value": 10,
+        "unit": "Lira",
+        "text": "10 Lira"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 211407,
+        "title": "10 Lira (Series II)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "turquie",
+          "name": "Turkey"
+        },
+        "min_year": 1982,
+        "max_year": 1982,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/turquie/674ea736545381.67792617-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/turquie/674ea737610451.90579781-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 211627,
+      "title": "5000 Lira (Series I)",
+      "issuer": {
+        "code": "turquie",
+        "name": "Turkey"
+      },
+      "min_year": 1981,
+      "max_year": 1981,
+      "face": {
+        "value": 5000,
+        "unit": "Lira",
+        "text": "5000 Lira"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 211627,
+        "title": "5000 Lira (Series I)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "turquie",
+          "name": "Turkey"
+        },
+        "min_year": 1981,
+        "max_year": 1981,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/turquie/6472f01458dc00.99889630-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/turquie/6472f014bd3848.46925935-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 212405,
+      "title": "1 000 000 Lira (Series I & II; with grape shaped security device)",
+      "issuer": {
+        "code": "turquie",
+        "name": "Turkey"
+      },
+      "min_year": 1995,
+      "max_year": 1996,
+      "face": {
+        "value": 1000000,
+        "unit": "Lira",
+        "text": "1000000 Lira"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 212405,
+        "title": "1 000 000 Lira (Series I & II; with grape shaped security device)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "turquie",
+          "name": "Turkey"
+        },
+        "min_year": 1995,
+        "max_year": 1996,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/turquie/5f92e5c653d3b7.17950508-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/turquie/5f92e5c963d5e7.25450580-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 213020,
+      "title": "5000 Lira (Series II & III)",
+      "issuer": {
+        "code": "turquie",
+        "name": "Turkey"
+      },
+      "min_year": 1985,
+      "max_year": 1988,
+      "face": {
+        "value": 5000,
+        "unit": "Lira",
+        "text": "5000 Lira"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 213020,
+        "title": "5000 Lira (Series II & III)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "turquie",
+          "name": "Turkey"
+        },
+        "min_year": 1985,
+        "max_year": 1988,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/turquie/66afa7445e77b2.61176665-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/turquie/66afa745d3fcb0.72835214-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 213786,
+      "title": "250 000 Lira (Series I & II; optically variable triangular security device)",
+      "issuer": {
+        "code": "turquie",
+        "name": "Turkey"
+      },
+      "min_year": 1992,
+      "max_year": 1995,
+      "face": {
+        "value": 250000,
+        "unit": "Lira",
+        "text": "250000 Lira"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 213786,
+        "title": "250 000 Lira (Series I & II; optically variable triangular security device)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "turquie",
+          "name": "Turkey"
+        },
+        "min_year": 1992,
+        "max_year": 1995,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/turquie/677cedc7104878.21311878-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/turquie/677cedc785d1b8.47424779-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 214015,
+      "title": "20 000 Lira (Series II; purple ornament)",
+      "issuer": {
+        "code": "turquie",
+        "name": "Turkey"
+      },
+      "min_year": 1995,
+      "max_year": 1995,
+      "face": {
+        "value": 20000,
+        "unit": "Lira",
+        "text": "20000 Lira"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 214015,
+        "title": "20 000 Lira (Series II; purple ornament)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "turquie",
+          "name": "Turkey"
+        },
+        "min_year": 1995,
+        "max_year": 1995,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/turquie/69b43daa477103.13033797-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/turquie/69b43dada5e693.56160623-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 214074,
+      "title": "2½ Lira (Series IV; Green reverse)",
+      "issuer": {
+        "code": "turquie",
+        "name": "Turkey"
+      },
+      "min_year": 1960,
+      "max_year": 1960,
+      "face": {
+        "value": 2.5,
+        "unit": "Lira",
+        "text": "2.5 Lira"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 214074,
+        "title": "2½ Lira (Series IV; Green reverse)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "turquie",
+          "name": "Turkey"
+        },
+        "min_year": 1960,
+        "max_year": 1960,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/turquie/69498509af72c8.95647669-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/turquie/6949850a896333.20363212-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 214683,
+      "title": "500 Lira",
+      "issuer": {
+        "code": "turquie",
+        "name": "Turkey"
+      },
+      "min_year": 1971,
+      "max_year": 1974,
+      "face": {
+        "value": 500,
+        "unit": "Lira",
+        "text": "500 Lira"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 214683,
+        "title": "500 Lira",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "turquie",
+          "name": "Turkey"
+        },
+        "min_year": 1971,
+        "max_year": 1974,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/turquie/67efd0e22450a6.23313219-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/turquie/67efd0e28b8527.14146269-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 217341,
+      "title": "100 Lira (Series V; Blue guilloche on front/Green reverse)",
+      "issuer": {
+        "code": "turquie",
+        "name": "Turkey"
+      },
+      "min_year": 1964,
+      "max_year": 1964,
+      "face": {
+        "value": 100,
+        "unit": "Lira",
+        "text": "100 Lira"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 217341,
+        "title": "100 Lira (Series V; Blue guilloche on front/Green reverse)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "turquie",
+          "name": "Turkey"
+        },
+        "min_year": 1964,
+        "max_year": 1964,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/turquie/694a6e45e6d476.05894361-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/turquie/694a6e467a9d17.95453303-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 220508,
+      "title": "10 Lira (Series II; Law 1970; two signatures)",
+      "issuer": {
+        "code": "turquie",
+        "name": "Turkey"
+      },
+      "min_year": 1975,
+      "max_year": 1975,
+      "face": {
+        "value": 10,
+        "unit": "Lira",
+        "text": "10 Lira"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 220508,
+        "title": "10 Lira (Series II; Law 1970; two signatures)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "turquie",
+          "name": "Turkey"
+        },
+        "min_year": 1975,
+        "max_year": 1975,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/turquie/61ccdf9992f9b1.86983747-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/turquie/61ccdf99f23847.57803975-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 222866,
+      "title": "50 New Lira",
+      "issuer": {
+        "code": "turquie",
+        "name": "Turkey"
+      },
+      "min_year": 2005,
+      "max_year": 2005,
+      "face": {
+        "value": 50,
+        "unit": "New Lira",
+        "text": "50 New Lira"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 222866,
+        "title": "50 New Lira",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "turquie",
+          "name": "Turkey"
+        },
+        "min_year": 2005,
+        "max_year": 2005,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/turquie/65cd78535608f6.21763121-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/turquie/65cd7855581ab6.58430438-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 223430,
+      "title": "10 000 Lira (Series I, II & III; blue ornament)",
+      "issuer": {
+        "code": "turquie",
+        "name": "Turkey"
+      },
+      "min_year": 1982,
+      "max_year": 1989,
+      "face": {
+        "value": 10000,
+        "unit": "Lira",
+        "text": "10000 Lira"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 223430,
+        "title": "10 000 Lira (Series I, II & III; blue ornament)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "turquie",
+          "name": "Turkey"
+        },
+        "min_year": 1982,
+        "max_year": 1989,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/turquie/677cec9b4a0322.55284750-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/turquie/677cec9cea07b4.59249176-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 224465,
+      "title": "50 Lira (Series VI; Law 1930; three signatures)",
+      "issuer": {
+        "code": "turquie",
+        "name": "Turkey"
+      },
+      "min_year": 1964,
+      "max_year": 1964,
+      "face": {
+        "value": 50,
+        "unit": "Lira",
+        "text": "50 Lira"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 224465,
+        "title": "50 Lira (Series VI; Law 1930; three signatures)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "turquie",
+          "name": "Turkey"
+        },
+        "min_year": 1964,
+        "max_year": 1964,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/turquie/6949e1e34e9c60.06081440-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/turquie/6949e1e9807150.74754325-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 237024,
+      "title": "500 Lira (Series III; without \"SERİ\"; Brown)",
+      "issuer": {
+        "code": "turquie",
+        "name": "Turkey"
+      },
+      "min_year": 1962,
+      "max_year": 1962,
+      "face": {
+        "value": 500,
+        "unit": "Lira",
+        "text": "500 Lira"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 237024,
+        "title": "500 Lira (Series III; without \"SERİ\"; Brown)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "turquie",
+          "name": "Turkey"
+        },
+        "min_year": 1962,
+        "max_year": 1962,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/turquie/69491cb07c05a6.81940181-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/turquie/69491cb1e8b287.78773484-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 240430,
+      "title": "100 000 Lira (Series I & II; with circular mark)",
+      "issuer": {
+        "code": "turquie",
+        "name": "Turkey"
+      },
+      "min_year": 1991,
+      "max_year": 1994,
+      "face": {
+        "value": 100000,
+        "unit": "Lira",
+        "text": "100000 Lira"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 240430,
+        "title": "100 000 Lira (Series I & II; with circular mark)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "turquie",
+          "name": "Turkey"
+        },
+        "min_year": 1991,
+        "max_year": 1994,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/turquie/678a467af209e5.05463685-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/turquie/678a467b64ad98.92415428-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 250527,
+      "title": "100 New Lira",
+      "issuer": {
+        "code": "turquie",
+        "name": "Turkey"
+      },
+      "min_year": 2005,
+      "max_year": 2005,
+      "face": {
+        "value": 100,
+        "unit": "New Lira",
+        "text": "100 New Lira"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 250527,
+        "title": "100 New Lira",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "turquie",
+          "name": "Turkey"
+        },
+        "min_year": 2005,
+        "max_year": 2005,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/turquie/6947304adecfd9.02110043-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/turquie/6947304be4e432.43148319-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 285345,
+      "title": "5 Lira (Series III; without \"SERİ\")",
+      "issuer": {
+        "code": "turquie",
+        "name": "Turkey"
+      },
+      "min_year": 1961,
+      "max_year": 1961,
+      "face": {
+        "value": 5,
+        "unit": "Lira",
+        "text": "5 Lira"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 285345,
+        "title": "5 Lira (Series III; without \"SERİ\")",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "turquie",
+          "name": "Turkey"
+        },
+        "min_year": 1961,
+        "max_year": 1961,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/turquie/6949523bc83f93.13339960-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/turquie/6949523c3c8e13.52753874-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 285346,
+      "title": "5 Lira (Series IV; without \"SERİ\")",
+      "issuer": {
+        "code": "turquie",
+        "name": "Turkey"
+      },
+      "min_year": 1965,
+      "max_year": 1965,
+      "face": {
+        "value": 5,
+        "unit": "Lira",
+        "text": "5 Lira"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 285346,
+        "title": "5 Lira (Series IV; without \"SERİ\")",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "turquie",
+          "name": "Turkey"
+        },
+        "min_year": 1965,
+        "max_year": 1965,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/turquie/6889b3c9c491f1.13041719-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/turquie/6889b3cfa6b7e8.45602061-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 285352,
+      "title": "500 Lira (Series IV; without \"SERİ\"; Violet)",
+      "issuer": {
+        "code": "turquie",
+        "name": "Turkey"
+      },
+      "min_year": 1968,
+      "max_year": 1968,
+      "face": {
+        "value": 500,
+        "unit": "Lira",
+        "text": "500 Lira"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 285352,
+        "title": "500 Lira (Series IV; without \"SERİ\"; Violet)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "turquie",
+          "name": "Turkey"
+        },
+        "min_year": 1968,
+        "max_year": 1968,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/turquie/694910c9c7bee6.44031585-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/turquie/694910ca46efa9.65794519-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 285358,
+      "title": "10 Lira (Series V; without \"SERİ\"; Red reverse)",
+      "issuer": {
+        "code": "turquie",
+        "name": "Turkey"
+      },
+      "min_year": 1961,
+      "max_year": 1961,
+      "face": {
+        "value": 10,
+        "unit": "Lira",
+        "text": "10 Lira"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 285358,
+        "title": "10 Lira (Series V; without \"SERİ\"; Red reverse)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "turquie",
+          "name": "Turkey"
+        },
+        "min_year": 1961,
+        "max_year": 1961,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/turquie/69499b8c7de240.41179906-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/turquie/69499b8d270831.87960459-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 329184,
+      "title": "5 Lira (red/brown)",
+      "issuer": {
+        "code": "turquie",
+        "name": "Turkey"
+      },
+      "min_year": 2009,
+      "max_year": 2009,
+      "face": {
+        "value": 5,
+        "unit": "Lira",
+        "text": "5 Lira"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 329184,
+        "title": "5 Lira (red/brown)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "turquie",
+          "name": "Turkey"
+        },
+        "min_year": 2009,
+        "max_year": 2009,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/turquie/6299fbda165126.46211288-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/turquie/6299fbdcc858d8.62407749-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 541127,
+      "title": "20 Lira (Series I; Law 1930; three signatures)",
+      "issuer": {
+        "code": "turquie",
+        "name": "Turkey"
+      },
+      "min_year": 1966,
+      "max_year": 1966,
+      "face": {
+        "value": 20,
+        "unit": "Lira",
+        "text": "20 Lira"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 541127,
+        "title": "20 Lira (Series I; Law 1930; three signatures)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "turquie",
+          "name": "Turkey"
+        },
+        "min_year": 1966,
+        "max_year": 1966,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/turquie/69489bb22f0d45.44256929-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/turquie/69489bb2b78ae7.91351585-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 541313,
+      "title": "10 Lira (Series I; Law 1930; three signatures)",
+      "issuer": {
+        "code": "turquie",
+        "name": "Turkey"
+      },
+      "min_year": 1966,
+      "max_year": 1966,
+      "face": {
+        "value": 10,
+        "unit": "Lira",
+        "text": "10 Lira"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 541313,
+        "title": "10 Lira (Series I; Law 1930; three signatures)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "turquie",
+          "name": "Turkey"
+        },
+        "min_year": 1966,
+        "max_year": 1966,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/turquie/69490c90342cc3.47764091-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/turquie/69490c90b29b69.89419205-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 541832,
+      "title": "50 Lira (Series VII; Law 1970; two signatures)",
+      "issuer": {
+        "code": "turquie",
+        "name": "Turkey"
+      },
+      "min_year": 1971,
+      "max_year": 1971,
+      "face": {
+        "value": 50,
+        "unit": "Lira",
+        "text": "50 Lira"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 541832,
+        "title": "50 Lira (Series VII; Law 1970; two signatures)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "turquie",
+          "name": "Turkey"
+        },
+        "min_year": 1971,
+        "max_year": 1971,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/turquie/6949dda62ec2b6.28280946-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/turquie/6949ddae8f16c4.27258180-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 541846,
+      "title": "50 Lira (Series V; without \"SERİ\"; Brown reverse)",
+      "issuer": {
+        "code": "turquie",
+        "name": "Turkey"
+      },
+      "min_year": 1960,
+      "max_year": 1960,
+      "face": {
+        "value": 50,
+        "unit": "Lira",
+        "text": "50 Lira"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 541846,
+        "title": "50 Lira (Series V; without \"SERİ\"; Brown reverse)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "turquie",
+          "name": "Turkey"
+        },
+        "min_year": 1960,
+        "max_year": 1960,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/turquie/6949e01e66fe45.30775497-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/turquie/6949e024a2f181.11859867-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 542202,
+      "title": "100 Lira (Series IV; Orange guilloche on front/Green reverse)",
+      "issuer": {
+        "code": "turquie",
+        "name": "Turkey"
+      },
+      "min_year": 1962,
+      "max_year": 1962,
+      "face": {
+        "value": 100,
+        "unit": "Lira",
+        "text": "100 Lira"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 542202,
+        "title": "100 Lira (Series IV; Orange guilloche on front/Green reverse)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "turquie",
+          "name": "Turkey"
+        },
+        "min_year": 1962,
+        "max_year": 1962,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/turquie/694a6aaa9720a6.44965073-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/turquie/694a6aab18cbc8.21820182-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 542228,
+      "title": "100 Lira (Series VI; Multicolor guilloche on front/Green reverse)",
+      "issuer": {
+        "code": "turquie",
+        "name": "Turkey"
+      },
+      "min_year": 1969,
+      "max_year": 1969,
+      "face": {
+        "value": 100,
+        "unit": "Lira",
+        "text": "100 Lira"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 542228,
+        "title": "100 Lira (Series VI; Multicolor guilloche on front/Green reverse)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "turquie",
+          "name": "Turkey"
+        },
+        "min_year": 1969,
+        "max_year": 1969,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/turquie/694a6cfa0a7a73.12946968-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/turquie/694a6cfa912f09.78976007-180.jpg",
+        "category": "banknote"
+      }
+    }
+  ]
+}

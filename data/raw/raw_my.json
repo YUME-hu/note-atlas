@@ -1,0 +1,1727 @@
+{
+  "meta": {
+    "generated_at": "2026-10-29T13:27:57.484Z",
+    "fixture": false,
+    "api": "numista v3",
+    "issuer": "malaisie",
+    "iso": "MY",
+    "category": "banknote",
+    "lang": "en",
+    "since": 1960,
+    "listed": 46,
+    "fetched": 46,
+    "details_fetched": 0,
+    "dropped_before_since": 0,
+    "dropped_by_source": {
+      "list": 0,
+      "detail": 0
+    },
+    "issuer_mismatches": 0,
+    "pages": 1,
+    "requests": 0
+  },
+  "types": [
+    {
+      "numista_type_id": 202043,
+      "title": "20 Ringgit",
+      "issuer": {
+        "code": "malaisie",
+        "name": "Malaysia"
+      },
+      "min_year": 2011,
+      "max_year": 2025,
+      "face": {
+        "value": 20,
+        "unit": "Ringgit",
+        "text": "20 Ringgit"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202043,
+        "title": "20 Ringgit",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "malaisie",
+          "name": "Malaysia"
+        },
+        "min_year": 2011,
+        "max_year": 2025,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/malaisie/60afe9c1cfc2f2.90503403-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/malaisie/60afe9c2a746b0.34432829-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202739,
+      "title": "1 Ringgit",
+      "issuer": {
+        "code": "malaisie",
+        "name": "Malaysia"
+      },
+      "min_year": 1998,
+      "max_year": 2000,
+      "face": {
+        "value": 1,
+        "unit": "Ringgit",
+        "text": "1 Ringgit"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202739,
+        "title": "1 Ringgit",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "malaisie",
+          "name": "Malaysia"
+        },
+        "min_year": 1998,
+        "max_year": 2000,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/malaisie/6390b248b798b7.25253808-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/malaisie/6390b249bb1201.02187168-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202958,
+      "title": "100 Ringgit (White watermark area)",
+      "issuer": {
+        "code": "malaisie",
+        "name": "Malaysia"
+      },
+      "min_year": 1989,
+      "max_year": 1998,
+      "face": {
+        "value": 100,
+        "unit": "Ringgit",
+        "text": "100 Ringgit"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202958,
+        "title": "100 Ringgit (White watermark area)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "malaisie",
+          "name": "Malaysia"
+        },
+        "min_year": 1989,
+        "max_year": 1998,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/malaisie/63f39a08b13463.06931759-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/malaisie/63f39a0ab789e9.42679546-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202971,
+      "title": "1 Ringgit",
+      "issuer": {
+        "code": "malaisie",
+        "name": "Malaysia"
+      },
+      "min_year": 2011,
+      "max_year": 2025,
+      "face": {
+        "value": 1,
+        "unit": "Ringgit",
+        "text": "1 Ringgit"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202971,
+        "title": "1 Ringgit",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "malaisie",
+          "name": "Malaysia"
+        },
+        "min_year": 2011,
+        "max_year": 2025,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/malaisie/6270eddd547428.84771733-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/malaisie/6270edde13a468.55829063-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203048,
+      "title": "5 Ringgit (Polymer)",
+      "issuer": {
+        "code": "malaisie",
+        "name": "Malaysia"
+      },
+      "min_year": 2004,
+      "max_year": 2004,
+      "face": {
+        "value": 5,
+        "unit": "Ringgit",
+        "text": "5 Ringgit"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203048,
+        "title": "5 Ringgit (Polymer)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "malaisie",
+          "name": "Malaysia"
+        },
+        "min_year": 2004,
+        "max_year": 2004,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/malaisie/62adbb27e21a57.07305143-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/malaisie/62adbb292b7a17.96885496-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203214,
+      "title": "1 Ringgit (White watermark area)",
+      "issuer": {
+        "code": "malaisie",
+        "name": "Malaysia"
+      },
+      "min_year": 1986,
+      "max_year": 1989,
+      "face": {
+        "value": 1,
+        "unit": "Ringgit",
+        "text": "1 Ringgit"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203214,
+        "title": "1 Ringgit (White watermark area)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "malaisie",
+          "name": "Malaysia"
+        },
+        "min_year": 1986,
+        "max_year": 1989,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/malaisie/63f7a0e6b7e5d5.54553275-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/malaisie/63f7a0ea7e0e74.24742158-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203263,
+      "title": "5 Ringgit",
+      "issuer": {
+        "code": "malaisie",
+        "name": "Malaysia"
+      },
+      "min_year": 2012,
+      "max_year": 2025,
+      "face": {
+        "value": 5,
+        "unit": "Ringgit",
+        "text": "5 Ringgit"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203263,
+        "title": "5 Ringgit",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "malaisie",
+          "name": "Malaysia"
+        },
+        "min_year": 2012,
+        "max_year": 2025,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/malaisie/65797a9b9977c0.74376708-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/malaisie/65797a9d9ee8e0.94979900-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205011,
+      "title": "1 Ringgit (Value in bottom left)",
+      "issuer": {
+        "code": "malaisie",
+        "name": "Malaysia"
+      },
+      "min_year": 1967,
+      "max_year": 1976,
+      "face": {
+        "value": 1,
+        "unit": "Ringgit",
+        "text": "1 Ringgit"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205011,
+        "title": "1 Ringgit (Value in bottom left)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "malaisie",
+          "name": "Malaysia"
+        },
+        "min_year": 1967,
+        "max_year": 1976,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/malaisie/6014106d026bc9.68250888-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/malaisie/6014106d5c5924.86078012-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205316,
+      "title": "10 Ringgit",
+      "issuer": {
+        "code": "malaisie",
+        "name": "Malaysia"
+      },
+      "min_year": 2012,
+      "max_year": 2024,
+      "face": {
+        "value": 10,
+        "unit": "Ringgit",
+        "text": "10 Ringgit"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205316,
+        "title": "10 Ringgit",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "malaisie",
+          "name": "Malaysia"
+        },
+        "min_year": 2012,
+        "max_year": 2024,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/malaisie/654a01c7480428.84817281-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/malaisie/654a01c8866c69.35079887-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205656,
+      "title": "50 Ringgit (XVI Commonwealth Games)",
+      "issuer": {
+        "code": "malaisie",
+        "name": "Malaysia"
+      },
+      "min_year": 1998,
+      "max_year": 1998,
+      "face": {
+        "value": 50,
+        "unit": "Ringgit",
+        "text": "50 Ringgit"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205656,
+        "title": "50 Ringgit (XVI Commonwealth Games)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "malaisie",
+          "name": "Malaysia"
+        },
+        "min_year": 1998,
+        "max_year": 1998,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/malaisie/5ea2f3a8da30f3.89893118-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/malaisie/5ea2f3a90d90d6.91242636-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 207710,
+      "title": "50 Ringgit",
+      "issuer": {
+        "code": "malaisie",
+        "name": "Malaysia"
+      },
+      "min_year": 2009,
+      "max_year": 2026,
+      "face": {
+        "value": 50,
+        "unit": "Ringgit",
+        "text": "50 Ringgit"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 207710,
+        "title": "50 Ringgit",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "malaisie",
+          "name": "Malaysia"
+        },
+        "min_year": 2009,
+        "max_year": 2026,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/malaisie/677ce8b2749512.69363514-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/malaisie/677ce8b37d7427.75128446-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 207757,
+      "title": "60 Ringgit (60th Anniversary of Independence)",
+      "issuer": {
+        "code": "malaisie",
+        "name": "Malaysia"
+      },
+      "min_year": 2017,
+      "max_year": 2017,
+      "face": {
+        "value": 60,
+        "unit": "Ringgit",
+        "text": "60 Ringgit"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 207757,
+        "title": "60 Ringgit (60th Anniversary of Independence)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "malaisie",
+          "name": "Malaysia"
+        },
+        "min_year": 2017,
+        "max_year": 2017,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/malaisie/5ea52b14bc36f3.65228190-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/malaisie/5ea52b15041128.28265790-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 207758,
+      "title": "600 Ringgit (60th Anniversary of Independence)",
+      "issuer": {
+        "code": "malaisie",
+        "name": "Malaysia"
+      },
+      "min_year": 2017,
+      "max_year": 2017,
+      "face": {
+        "value": 600,
+        "unit": "Ringgit",
+        "text": "600 Ringgit"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 207758,
+        "title": "600 Ringgit (60th Anniversary of Independence)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "malaisie",
+          "name": "Malaysia"
+        },
+        "min_year": 2017,
+        "max_year": 2017,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/malaisie/5ea52c1ea6de10.02657192-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/malaisie/5ea52c1ed34a37.93537514-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 207759,
+      "title": "50 Ringgit (50th Anniversary of Independence)",
+      "issuer": {
+        "code": "malaisie",
+        "name": "Malaysia"
+      },
+      "min_year": 2007,
+      "max_year": 2008,
+      "face": {
+        "value": 50,
+        "unit": "Ringgit",
+        "text": "50 Ringgit"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 207759,
+        "title": "50 Ringgit (50th Anniversary of Independence)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "malaisie",
+          "name": "Malaysia"
+        },
+        "min_year": 2007,
+        "max_year": 2008,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/malaisie/630398235712f6.38420643-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/malaisie/630398237fde74.51092654-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 208365,
+      "title": "10 Ringgit (With big holographic strip)",
+      "issuer": {
+        "code": "malaisie",
+        "name": "Malaysia"
+      },
+      "min_year": 2004,
+      "max_year": 2011,
+      "face": {
+        "value": 10,
+        "unit": "Ringgit",
+        "text": "10 Ringgit"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 208365,
+        "title": "10 Ringgit (With big holographic strip)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "malaisie",
+          "name": "Malaysia"
+        },
+        "min_year": 2004,
+        "max_year": 2011,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/malaisie/5ea75acd18fba6.30444240-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/malaisie/5ea75ace43fd04.53567826-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 208712,
+      "title": "50 Ringgit",
+      "issuer": {
+        "code": "malaisie",
+        "name": "Malaysia"
+      },
+      "min_year": 1998,
+      "max_year": 2001,
+      "face": {
+        "value": 50,
+        "unit": "Ringgit",
+        "text": "50 Ringgit"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 208712,
+        "title": "50 Ringgit",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "malaisie",
+          "name": "Malaysia"
+        },
+        "min_year": 1998,
+        "max_year": 2001,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/malaisie/5ea86b798d7a66.28487449-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/malaisie/5ea86b7a0ac323.25969441-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 208718,
+      "title": "100 Ringgit",
+      "issuer": {
+        "code": "malaisie",
+        "name": "Malaysia"
+      },
+      "min_year": 1998,
+      "max_year": 2001,
+      "face": {
+        "value": 100,
+        "unit": "Ringgit",
+        "text": "100 Ringgit"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 208718,
+        "title": "100 Ringgit",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "malaisie",
+          "name": "Malaysia"
+        },
+        "min_year": 1998,
+        "max_year": 2001,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/malaisie/5ea86d403b3a10.30337532-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/malaisie/5ea86d40b06351.48567339-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 208724,
+      "title": "100 Ringgit",
+      "issuer": {
+        "code": "malaisie",
+        "name": "Malaysia"
+      },
+      "min_year": 2012,
+      "max_year": 2024,
+      "face": {
+        "value": 100,
+        "unit": "Ringgit",
+        "text": "100 Ringgit"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 208724,
+        "title": "100 Ringgit",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "malaisie",
+          "name": "Malaysia"
+        },
+        "min_year": 2012,
+        "max_year": 2024,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/malaisie/5ea86f0d5005c1.10799570-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/malaisie/5ea86f0dce1bf3.39704866-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 209945,
+      "title": "2 Ringgit",
+      "issuer": {
+        "code": "malaisie",
+        "name": "Malaysia"
+      },
+      "min_year": 1996,
+      "max_year": 1999,
+      "face": {
+        "value": 2,
+        "unit": "Ringgit",
+        "text": "2 Ringgit"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 209945,
+        "title": "2 Ringgit",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "malaisie",
+          "name": "Malaysia"
+        },
+        "min_year": 1996,
+        "max_year": 1999,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/malaisie/63f7a176ca7d60.55203699-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/malaisie/63f7a179ce7c74.57801572-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 209954,
+      "title": "5 Ringgit (White watermark area)",
+      "issuer": {
+        "code": "malaisie",
+        "name": "Malaysia"
+      },
+      "min_year": 1986,
+      "max_year": 1998,
+      "face": {
+        "value": 5,
+        "unit": "Ringgit",
+        "text": "5 Ringgit"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 209954,
+        "title": "5 Ringgit (White watermark area)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "malaisie",
+          "name": "Malaysia"
+        },
+        "min_year": 1986,
+        "max_year": 1998,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/malaisie/60141ebd6d6a20.15421075-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/malaisie/60141ebdd8a318.32381772-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 209962,
+      "title": "10 Ringgit (White watermark area)",
+      "issuer": {
+        "code": "malaisie",
+        "name": "Malaysia"
+      },
+      "min_year": 1989,
+      "max_year": 1995,
+      "face": {
+        "value": 10,
+        "unit": "Ringgit",
+        "text": "10 Ringgit"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 209962,
+        "title": "10 Ringgit (White watermark area)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "malaisie",
+          "name": "Malaysia"
+        },
+        "min_year": 1989,
+        "max_year": 1995,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/malaisie/6a1c0e13285ad4.69721314-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/malaisie/6a1c0e141cfa00.08685319-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 210599,
+      "title": "10 Ringgit (Value in bottom left)",
+      "issuer": {
+        "code": "malaisie",
+        "name": "Malaysia"
+      },
+      "min_year": 1967,
+      "max_year": 1976,
+      "face": {
+        "value": 10,
+        "unit": "Ringgit",
+        "text": "10 Ringgit"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 210599,
+        "title": "10 Ringgit (Value in bottom left)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "malaisie",
+          "name": "Malaysia"
+        },
+        "min_year": 1967,
+        "max_year": 1976,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/malaisie/5ead877067b672.05293343-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/malaisie/5ead8770bbdee0.89948090-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 212820,
+      "title": "1 Ringgit (Printed watermark area)",
+      "issuer": {
+        "code": "malaisie",
+        "name": "Malaysia"
+      },
+      "min_year": 1981,
+      "max_year": 1984,
+      "face": {
+        "value": 1,
+        "unit": "Ringgit",
+        "text": "1 Ringgit"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 212820,
+        "title": "1 Ringgit (Printed watermark area)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "malaisie",
+          "name": "Malaysia"
+        },
+        "min_year": 1981,
+        "max_year": 1984,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/malaisie/5eb45686519d90.73798425-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/malaisie/5eb45686a91154.53365251-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 212821,
+      "title": "5 Ringgit (Paper)",
+      "issuer": {
+        "code": "malaisie",
+        "name": "Malaysia"
+      },
+      "min_year": 1999,
+      "max_year": 2001,
+      "face": {
+        "value": 5,
+        "unit": "Ringgit",
+        "text": "5 Ringgit"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 212821,
+        "title": "5 Ringgit (Paper)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "malaisie",
+          "name": "Malaysia"
+        },
+        "min_year": 1999,
+        "max_year": 2001,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/malaisie/63f7a21c1c50c4.62247741-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/malaisie/63f7a21f8b5137.52987374-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 213789,
+      "title": "50 Ringgit (White watermark area)",
+      "issuer": {
+        "code": "malaisie",
+        "name": "Malaysia"
+      },
+      "min_year": 1987,
+      "max_year": 1997,
+      "face": {
+        "value": 50,
+        "unit": "Ringgit",
+        "text": "50 Ringgit"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 213789,
+        "title": "50 Ringgit (White watermark area)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "malaisie",
+          "name": "Malaysia"
+        },
+        "min_year": 1987,
+        "max_year": 1997,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/malaisie/5eb84ef66b8d29.88621060-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/malaisie/5eb84ef6e23d98.79170670-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 213816,
+      "title": "1 Ringgit (Without value in bottom left)",
+      "issuer": {
+        "code": "malaisie",
+        "name": "Malaysia"
+      },
+      "min_year": 1976,
+      "max_year": 1981,
+      "face": {
+        "value": 1,
+        "unit": "Ringgit",
+        "text": "1 Ringgit"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 213816,
+        "title": "1 Ringgit (Without value in bottom left)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "malaisie",
+          "name": "Malaysia"
+        },
+        "min_year": 1976,
+        "max_year": 1981,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/malaisie/60141cbf5f5bb4.14839461-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/malaisie/60141cbfc3c853.10212177-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 214941,
+      "title": "5 Ringgit (Value in bottom left)",
+      "issuer": {
+        "code": "malaisie",
+        "name": "Malaysia"
+      },
+      "min_year": 1967,
+      "max_year": 1976,
+      "face": {
+        "value": 5,
+        "unit": "Ringgit",
+        "text": "5 Ringgit"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 214941,
+        "title": "5 Ringgit (Value in bottom left)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "malaisie",
+          "name": "Malaysia"
+        },
+        "min_year": 1967,
+        "max_year": 1976,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/malaisie/5ebd41474f65b5.03049823-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/malaisie/5ebd4147785d06.52047498-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 214943,
+      "title": "5 Ringgit (Without value in bottom left)",
+      "issuer": {
+        "code": "malaisie",
+        "name": "Malaysia"
+      },
+      "min_year": 1976,
+      "max_year": 1981,
+      "face": {
+        "value": 5,
+        "unit": "Ringgit",
+        "text": "5 Ringgit"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 214943,
+        "title": "5 Ringgit (Without value in bottom left)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "malaisie",
+          "name": "Malaysia"
+        },
+        "min_year": 1976,
+        "max_year": 1981,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/malaisie/5ebd41b0365c61.70455200-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/malaisie/5ebd41b07af9c5.65923849-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 214945,
+      "title": "5 Ringgit (Printed watermark area)",
+      "issuer": {
+        "code": "malaisie",
+        "name": "Malaysia"
+      },
+      "min_year": 1983,
+      "max_year": 1984,
+      "face": {
+        "value": 5,
+        "unit": "Ringgit",
+        "text": "5 Ringgit"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 214945,
+        "title": "5 Ringgit (Printed watermark area)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "malaisie",
+          "name": "Malaysia"
+        },
+        "min_year": 1983,
+        "max_year": 1984,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/malaisie/5ebd4236c60b19.73251042-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/malaisie/5ebd4236f339f4.42632457-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 214952,
+      "title": "10 Ringgit (Without value in bottom left)",
+      "issuer": {
+        "code": "malaisie",
+        "name": "Malaysia"
+      },
+      "min_year": 1976,
+      "max_year": 1981,
+      "face": {
+        "value": 10,
+        "unit": "Ringgit",
+        "text": "10 Ringgit"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 214952,
+        "title": "10 Ringgit (Without value in bottom left)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "malaisie",
+          "name": "Malaysia"
+        },
+        "min_year": 1976,
+        "max_year": 1981,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/malaisie/5ebd4afd1d7b56.50953048-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/malaisie/5ebd4afd4da8c1.12570075-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 214954,
+      "title": "10 Ringgit (Printed watermark area)",
+      "issuer": {
+        "code": "malaisie",
+        "name": "Malaysia"
+      },
+      "min_year": 1983,
+      "max_year": 1984,
+      "face": {
+        "value": 10,
+        "unit": "Ringgit",
+        "text": "10 Ringgit"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 214954,
+        "title": "10 Ringgit (Printed watermark area)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "malaisie",
+          "name": "Malaysia"
+        },
+        "min_year": 1983,
+        "max_year": 1984,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/malaisie/5ebd4c05438cb0.56247036-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/malaisie/5ebd4c0571fc01.53201252-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 214956,
+      "title": "10 Ringgit (No big holographic strip)",
+      "issuer": {
+        "code": "malaisie",
+        "name": "Malaysia"
+      },
+      "min_year": 1997,
+      "max_year": 2001,
+      "face": {
+        "value": 10,
+        "unit": "Ringgit",
+        "text": "10 Ringgit"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 214956,
+        "title": "10 Ringgit (No big holographic strip)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "malaisie",
+          "name": "Malaysia"
+        },
+        "min_year": 1997,
+        "max_year": 2001,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/malaisie/63a4ef38871868.92831688-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/malaisie/63a4ef3930a5b4.85551027-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 215191,
+      "title": "20 Ringgit (Printed watermark area)",
+      "issuer": {
+        "code": "malaisie",
+        "name": "Malaysia"
+      },
+      "min_year": 1982,
+      "max_year": 1984,
+      "face": {
+        "value": 20,
+        "unit": "Ringgit",
+        "text": "20 Ringgit"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 215191,
+        "title": "20 Ringgit (Printed watermark area)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "malaisie",
+          "name": "Malaysia"
+        },
+        "min_year": 1982,
+        "max_year": 1984,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/malaisie/5ebe65918a85e6.70512307-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/malaisie/5ebe6591d15181.53000694-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 215193,
+      "title": "20 Ringgit (White watermark area)",
+      "issuer": {
+        "code": "malaisie",
+        "name": "Malaysia"
+      },
+      "min_year": 1989,
+      "max_year": 1989,
+      "face": {
+        "value": 20,
+        "unit": "Ringgit",
+        "text": "20 Ringgit"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 215193,
+        "title": "20 Ringgit (White watermark area)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "malaisie",
+          "name": "Malaysia"
+        },
+        "min_year": 1989,
+        "max_year": 1989,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/malaisie/66cf33bb8bda25.41835075-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/malaisie/66cf33bc246dd3.41177810-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 215195,
+      "title": "50 Ringgit (Without latent value in lower left)",
+      "issuer": {
+        "code": "malaisie",
+        "name": "Malaysia"
+      },
+      "min_year": 1967,
+      "max_year": 1976,
+      "face": {
+        "value": 50,
+        "unit": "Ringgit",
+        "text": "50 Ringgit"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 215195,
+        "title": "50 Ringgit (Without latent value in lower left)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "malaisie",
+          "name": "Malaysia"
+        },
+        "min_year": 1967,
+        "max_year": 1976,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/malaisie/5ebe68dbf407c4.00958486-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/malaisie/5ebe68dc495086.70963423-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 215196,
+      "title": "50 Ringgit (With latent value in lower left)",
+      "issuer": {
+        "code": "malaisie",
+        "name": "Malaysia"
+      },
+      "min_year": 1976,
+      "max_year": 1981,
+      "face": {
+        "value": 50,
+        "unit": "Ringgit",
+        "text": "50 Ringgit"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 215196,
+        "title": "50 Ringgit (With latent value in lower left)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "malaisie",
+          "name": "Malaysia"
+        },
+        "min_year": 1976,
+        "max_year": 1981,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/malaisie/5ebe69ab1aa640.43984584-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/malaisie/5ebe69ab410020.05830622-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 215198,
+      "title": "50 Ringgit (Printed watermark area)",
+      "issuer": {
+        "code": "malaisie",
+        "name": "Malaysia"
+      },
+      "min_year": 1983,
+      "max_year": 1984,
+      "face": {
+        "value": 50,
+        "unit": "Ringgit",
+        "text": "50 Ringgit"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 215198,
+        "title": "50 Ringgit (Printed watermark area)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "malaisie",
+          "name": "Malaysia"
+        },
+        "min_year": 1983,
+        "max_year": 1984,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/malaisie/5ebe6b085a1da6.56767680-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/malaisie/5ebe6b08874914.85359047-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 215936,
+      "title": "100 Ringgit (Without latent value in lower left)",
+      "issuer": {
+        "code": "malaisie",
+        "name": "Malaysia"
+      },
+      "min_year": 1967,
+      "max_year": 1976,
+      "face": {
+        "value": 100,
+        "unit": "Ringgit",
+        "text": "100 Ringgit"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 215936,
+        "title": "100 Ringgit (Without latent value in lower left)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "malaisie",
+          "name": "Malaysia"
+        },
+        "min_year": 1967,
+        "max_year": 1976,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/malaisie/5ec2a1ac595344.24555277-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/malaisie/5ec2a1ac88b317.62001497-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 215938,
+      "title": "100 Ringgit (With latent value in lower left)",
+      "issuer": {
+        "code": "malaisie",
+        "name": "Malaysia"
+      },
+      "min_year": 1976,
+      "max_year": 1981,
+      "face": {
+        "value": 100,
+        "unit": "Ringgit",
+        "text": "100 Ringgit"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 215938,
+        "title": "100 Ringgit (With latent value in lower left)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "malaisie",
+          "name": "Malaysia"
+        },
+        "min_year": 1976,
+        "max_year": 1981,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/malaisie/5ec2a24c0c7a61.65824091-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/malaisie/5ec2a24c481077.28889270-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 215942,
+      "title": "100 Ringgit (Printed watermark area)",
+      "issuer": {
+        "code": "malaisie",
+        "name": "Malaysia"
+      },
+      "min_year": 1983,
+      "max_year": 1984,
+      "face": {
+        "value": 100,
+        "unit": "Ringgit",
+        "text": "100 Ringgit"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 215942,
+        "title": "100 Ringgit (Printed watermark area)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "malaisie",
+          "name": "Malaysia"
+        },
+        "min_year": 1983,
+        "max_year": 1984,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/malaisie/5ec2a2eaf383a5.76453460-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/malaisie/5ec2a2eb2e8f03.70854569-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 216596,
+      "title": "500 Ringgit (Printed watermark area)",
+      "issuer": {
+        "code": "malaisie",
+        "name": "Malaysia"
+      },
+      "min_year": 1982,
+      "max_year": 1984,
+      "face": {
+        "value": 500,
+        "unit": "Ringgit",
+        "text": "500 Ringgit"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 216596,
+        "title": "500 Ringgit (Printed watermark area)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "malaisie",
+          "name": "Malaysia"
+        },
+        "min_year": 1982,
+        "max_year": 1984,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/malaisie/5ec5031eb37ae0.94688736-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/malaisie/5ec5031ef01950.89737329-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 216597,
+      "title": "500 Ringgit (White watermark area)",
+      "issuer": {
+        "code": "malaisie",
+        "name": "Malaysia"
+      },
+      "min_year": 1989,
+      "max_year": 1995,
+      "face": {
+        "value": 500,
+        "unit": "Ringgit",
+        "text": "500 Ringgit"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 216597,
+        "title": "500 Ringgit (White watermark area)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "malaisie",
+          "name": "Malaysia"
+        },
+        "min_year": 1989,
+        "max_year": 1995,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/malaisie/5ec503d35b2201.21501413-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/malaisie/5ec503d38bb0d6.59969004-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 216604,
+      "title": "1000 Ringgit (Without latent value in lower left)",
+      "issuer": {
+        "code": "malaisie",
+        "name": "Malaysia"
+      },
+      "min_year": 1968,
+      "max_year": 1976,
+      "face": {
+        "value": 1000,
+        "unit": "Ringgit",
+        "text": "1000 Ringgit"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 216604,
+        "title": "1000 Ringgit (Without latent value in lower left)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "malaisie",
+          "name": "Malaysia"
+        },
+        "min_year": 1968,
+        "max_year": 1976,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/malaisie/5ec50706a4fca4.52970637-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/malaisie/5ec50706d4e829.81244789-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 216605,
+      "title": "1000 Ringgit (With latent value in lower left)",
+      "issuer": {
+        "code": "malaisie",
+        "name": "Malaysia"
+      },
+      "min_year": 1976,
+      "max_year": 1981,
+      "face": {
+        "value": 1000,
+        "unit": "Ringgit",
+        "text": "1000 Ringgit"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 216605,
+        "title": "1000 Ringgit (With latent value in lower left)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "malaisie",
+          "name": "Malaysia"
+        },
+        "min_year": 1976,
+        "max_year": 1981,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/malaisie/5ec5077999fea5.68048073-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/malaisie/5ec50779c22519.33534324-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 216607,
+      "title": "1000 Ringgit (Printed watermark area)",
+      "issuer": {
+        "code": "malaisie",
+        "name": "Malaysia"
+      },
+      "min_year": 1983,
+      "max_year": 1984,
+      "face": {
+        "value": 1000,
+        "unit": "Ringgit",
+        "text": "1000 Ringgit"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 216607,
+        "title": "1000 Ringgit (Printed watermark area)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "malaisie",
+          "name": "Malaysia"
+        },
+        "min_year": 1983,
+        "max_year": 1984,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/malaisie/5ec507d9b525b0.92573104-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/malaisie/5ec507d9efb3b4.97769096-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 216610,
+      "title": "1000 Ringgit (White watermark area)",
+      "issuer": {
+        "code": "malaisie",
+        "name": "Malaysia"
+      },
+      "min_year": 1987,
+      "max_year": 1995,
+      "face": {
+        "value": 1000,
+        "unit": "Ringgit",
+        "text": "1000 Ringgit"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 216610,
+        "title": "1000 Ringgit (White watermark area)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "malaisie",
+          "name": "Malaysia"
+        },
+        "min_year": 1987,
+        "max_year": 1995,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/malaisie/5ec508571834d7.18778234-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/malaisie/5ec508573f44e3.46142692-180.jpg",
+        "category": "banknote"
+      }
+    }
+  ]
+}

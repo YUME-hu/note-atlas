@@ -1,0 +1,1394 @@
+{
+  "meta": {
+    "generated_at": "2026-10-29T13:27:59.708Z",
+    "fixture": false,
+    "api": "numista v3",
+    "issuer": "israel",
+    "iso": "IL",
+    "category": "banknote",
+    "lang": "en",
+    "since": 1960,
+    "listed": 69,
+    "fetched": 37,
+    "details_fetched": 0,
+    "dropped_before_since": 32,
+    "dropped_by_source": {
+      "list": 32,
+      "detail": 0
+    },
+    "issuer_mismatches": 0,
+    "pages": 2,
+    "requests": 0
+  },
+  "types": [
+    {
+      "numista_type_id": 201799,
+      "title": "10 Israeli Pounds (Hayim Nahman Bialik)",
+      "issuer": {
+        "code": "israel",
+        "name": "Israel"
+      },
+      "min_year": 1968,
+      "max_year": 1968,
+      "face": {
+        "value": 10,
+        "unit": "Israeli Pounds",
+        "text": "10 Israeli Pounds"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 201799,
+        "title": "10 Israeli Pounds (Hayim Nahman Bialik)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "israel",
+          "name": "Israel"
+        },
+        "min_year": 1968,
+        "max_year": 1968,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/israel/5e9513a24939b0.23605436-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/israel/5e9513a3547820.96733211-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202157,
+      "title": "500 Sheqalim (Baron Edmond Benjamin James de Rothschild)",
+      "issuer": {
+        "code": "israel",
+        "name": "Israel"
+      },
+      "min_year": 1982,
+      "max_year": 1982,
+      "face": {
+        "value": 500,
+        "unit": "Sheqalim",
+        "text": "500 Sheqalim"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202157,
+        "title": "500 Sheqalim (Baron Edmond Benjamin James de Rothschild)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "israel",
+          "name": "Israel"
+        },
+        "min_year": 1982,
+        "max_year": 1982,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/israel/5e95f6b0b71ce9.11921955-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/israel/5e95f6b1dd12c3.96599031-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202162,
+      "title": "10 Sheqalim (Theodor Herzl & Zion Gate)",
+      "issuer": {
+        "code": "israel",
+        "name": "Israel"
+      },
+      "min_year": 1978,
+      "max_year": 1978,
+      "face": {
+        "value": 10,
+        "unit": "Sheqalim",
+        "text": "10 Sheqalim"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202162,
+        "title": "10 Sheqalim (Theodor Herzl & Zion Gate)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "israel",
+          "name": "Israel"
+        },
+        "min_year": 1978,
+        "max_year": 1978,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/israel/5e95f9656b56d5.14195525-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/israel/5e95f966740b09.13847857-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202167,
+      "title": "5 Sheqalim (Chaim Weizmann & Damascus Gate)",
+      "issuer": {
+        "code": "israel",
+        "name": "Israel"
+      },
+      "min_year": 1978,
+      "max_year": 1978,
+      "face": {
+        "value": 5,
+        "unit": "Sheqalim",
+        "text": "5 Sheqalim"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202167,
+        "title": "5 Sheqalim (Chaim Weizmann & Damascus Gate)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "israel",
+          "name": "Israel"
+        },
+        "min_year": 1978,
+        "max_year": 1978,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/israel/5e95fb469d38a7.76727915-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/israel/5e95fb47aaa849.22430772-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202322,
+      "title": "20 New Shekels (Rachel Bluwstein)",
+      "issuer": {
+        "code": "israel",
+        "name": "Israel"
+      },
+      "min_year": 2017,
+      "max_year": 2021,
+      "face": {
+        "value": 20,
+        "unit": "New Shekels",
+        "text": "20 New Shekels"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202322,
+        "title": "20 New Shekels (Rachel Bluwstein)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "israel",
+          "name": "Israel"
+        },
+        "min_year": 2017,
+        "max_year": 2021,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/israel/627fae530d15c0.21857042-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/israel/627fae5503ecb7.88166563-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202912,
+      "title": "50 New Shekels (Shaul Tchernichovsky)",
+      "issuer": {
+        "code": "israel",
+        "name": "Israel"
+      },
+      "min_year": 2013,
+      "max_year": 2022,
+      "face": {
+        "value": 50,
+        "unit": "New Shekels",
+        "text": "50 New Shekels"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202912,
+        "title": "50 New Shekels (Shaul Tchernichovsky)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "israel",
+          "name": "Israel"
+        },
+        "min_year": 2013,
+        "max_year": 2022,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/israel/5ed02828b02be5.69187105-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/israel/5ed02829d82d95.98327530-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202988,
+      "title": "1 Sheqel (Sir Moses Haim Montefiore & Jaffa Gate)",
+      "issuer": {
+        "code": "israel",
+        "name": "Israel"
+      },
+      "min_year": 1978,
+      "max_year": 1978,
+      "face": {
+        "value": 1,
+        "unit": "Sheqel",
+        "text": "1 Sheqel"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202988,
+        "title": "1 Sheqel (Sir Moses Haim Montefiore & Jaffa Gate)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "israel",
+          "name": "Israel"
+        },
+        "min_year": 1978,
+        "max_year": 1978,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/israel/5e992e062c2d47.78587450-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/israel/5e992e071f14b2.14140419-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203107,
+      "title": "10 Israeli Pounds (Sir Moses Haim Montefiore & Jaffa Gate)",
+      "issuer": {
+        "code": "israel",
+        "name": "Israel"
+      },
+      "min_year": 1973,
+      "max_year": 1973,
+      "face": {
+        "value": 10,
+        "unit": "Israeli Pounds",
+        "text": "10 Israeli Pounds"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203107,
+        "title": "10 Israeli Pounds (Sir Moses Haim Montefiore & Jaffa Gate)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "israel",
+          "name": "Israel"
+        },
+        "min_year": 1973,
+        "max_year": 1973,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/israel/5e99ea6b3819e6.68871204-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/israel/5e99ea6c1c0258.57012959-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203842,
+      "title": "100 Sheqalim (Ze'ev Jabotinsky & Herod's gate)",
+      "issuer": {
+        "code": "israel",
+        "name": "Israel"
+      },
+      "min_year": 1979,
+      "max_year": 1979,
+      "face": {
+        "value": 100,
+        "unit": "Sheqalim",
+        "text": "100 Sheqalim"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203842,
+        "title": "100 Sheqalim (Ze'ev Jabotinsky & Herod's gate)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "israel",
+          "name": "Israel"
+        },
+        "min_year": 1979,
+        "max_year": 1979,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/israel/5e9bc1e176a835.64118173-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/israel/5e9bc1e26719c2.68976148-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203880,
+      "title": "50 Israeli Pounds (Walks of Life - Pioneer Youths)",
+      "issuer": {
+        "code": "israel",
+        "name": "Israel"
+      },
+      "min_year": 1960,
+      "max_year": 1960,
+      "face": {
+        "value": 50,
+        "unit": "Israeli Pounds",
+        "text": "50 Israeli Pounds"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203880,
+        "title": "50 Israeli Pounds (Walks of Life - Pioneer Youths)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "israel",
+          "name": "Israel"
+        },
+        "min_year": 1960,
+        "max_year": 1960,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/israel/5e99f5b42cc266.96354394-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/israel/5e99f5b537cf55.76545047-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203886,
+      "title": "5 Israeli Pounds (Albert Einstein)",
+      "issuer": {
+        "code": "israel",
+        "name": "Israel"
+      },
+      "min_year": 1968,
+      "max_year": 1968,
+      "face": {
+        "value": 5,
+        "unit": "Israeli Pounds",
+        "text": "5 Israeli Pounds"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203886,
+        "title": "5 Israeli Pounds (Albert Einstein)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "israel",
+          "name": "Israel"
+        },
+        "min_year": 1968,
+        "max_year": 1968,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/israel/5e99fa01e10691.03356841-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/israel/5e99fa03086041.48676928-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203889,
+      "title": "50 Israeli Pounds (Chaim Weizmann)",
+      "issuer": {
+        "code": "israel",
+        "name": "Israel"
+      },
+      "min_year": 1968,
+      "max_year": 1968,
+      "face": {
+        "value": 50,
+        "unit": "Israeli Pounds",
+        "text": "50 Israeli Pounds"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203889,
+        "title": "50 Israeli Pounds (Chaim Weizmann)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "israel",
+          "name": "Israel"
+        },
+        "min_year": 1968,
+        "max_year": 1968,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/israel/5e99fc4ec55679.09369493-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/israel/5e99fc4faa9f65.00251643-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203890,
+      "title": "100 Israeli Pounds (Theodor Herzl)",
+      "issuer": {
+        "code": "israel",
+        "name": "Israel"
+      },
+      "min_year": 1968,
+      "max_year": 1968,
+      "face": {
+        "value": 100,
+        "unit": "Israeli Pounds",
+        "text": "100 Israeli Pounds"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203890,
+        "title": "100 Israeli Pounds (Theodor Herzl)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "israel",
+          "name": "Israel"
+        },
+        "min_year": 1968,
+        "max_year": 1968,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/israel/5e99ff07db0075.69412685-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/israel/5e99ff08d37300.08729219-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204358,
+      "title": "50 Sheqalim (David Ben-Gurion & Golden Gate)",
+      "issuer": {
+        "code": "israel",
+        "name": "Israel"
+      },
+      "min_year": 1978,
+      "max_year": 1978,
+      "face": {
+        "value": 50,
+        "unit": "Sheqalim",
+        "text": "50 Sheqalim"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204358,
+        "title": "50 Sheqalim (David Ben-Gurion & Golden Gate)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "israel",
+          "name": "Israel"
+        },
+        "min_year": 1978,
+        "max_year": 1978,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/israel/5e9bc2a97d48c2.13824583-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/israel/5e9bc2aa7df220.90966954-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204436,
+      "title": "1000 Sheqalim (Moses Maimonides)",
+      "issuer": {
+        "code": "israel",
+        "name": "Israel"
+      },
+      "min_year": 1983,
+      "max_year": 1983,
+      "face": {
+        "value": 1000,
+        "unit": "Sheqalim",
+        "text": "1000 Sheqalim"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204436,
+        "title": "1000 Sheqalim (Moses Maimonides)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "israel",
+          "name": "Israel"
+        },
+        "min_year": 1983,
+        "max_year": 1983,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/israel/5e9bb435442028.88726233-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/israel/5e9bb4364716f7.62672536-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204448,
+      "title": "5000 Sheqalim (Levi Eshkol)",
+      "issuer": {
+        "code": "israel",
+        "name": "Israel"
+      },
+      "min_year": 1984,
+      "max_year": 1984,
+      "face": {
+        "value": 5000,
+        "unit": "Sheqalim",
+        "text": "5000 Sheqalim"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204448,
+        "title": "5000 Sheqalim (Levi Eshkol)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "israel",
+          "name": "Israel"
+        },
+        "min_year": 1984,
+        "max_year": 1984,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/israel/5e9bbfe90d1672.84008020-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/israel/5e9bbfea2f1025.42906517-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204457,
+      "title": "10 000 Sheqalim (Golda Meir)",
+      "issuer": {
+        "code": "israel",
+        "name": "Israel"
+      },
+      "min_year": 1984,
+      "max_year": 1984,
+      "face": {
+        "value": 10000,
+        "unit": "Sheqalim",
+        "text": "10000 Sheqalim"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204457,
+        "title": "10 000 Sheqalim (Golda Meir)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "israel",
+          "name": "Israel"
+        },
+        "min_year": 1984,
+        "max_year": 1984,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/israel/5e9bc87ae80f86.16326625-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/israel/5e9bc87c0509a8.89972671-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204780,
+      "title": "50 New Sheqalim (Shmuel Yosef \"Shai\" Agnon)",
+      "issuer": {
+        "code": "israel",
+        "name": "Israel"
+      },
+      "min_year": 1985,
+      "max_year": 1992,
+      "face": {
+        "value": 50,
+        "unit": "New Sheqalim",
+        "text": "50 New Sheqalim"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204780,
+        "title": "50 New Sheqalim (Shmuel Yosef \"Shai\" Agnon)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "israel",
+          "name": "Israel"
+        },
+        "min_year": 1985,
+        "max_year": 1992,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/israel/5e9c79e46e2615.61999796-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/israel/5e9c79e5812fe3.62152398-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205063,
+      "title": "20 New Sheqalim (Moshe Sharett; Polymer issue)",
+      "issuer": {
+        "code": "israel",
+        "name": "Israel"
+      },
+      "min_year": 2008,
+      "max_year": 2008,
+      "face": {
+        "value": 20,
+        "unit": "New Sheqalim",
+        "text": "20 New Sheqalim"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205063,
+        "title": "20 New Sheqalim (Moshe Sharett; Polymer issue)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "israel",
+          "name": "Israel"
+        },
+        "min_year": 2008,
+        "max_year": 2008,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/israel/6a74e55e8d6e81.20418482-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/israel/6a74e560a9ed64.50233766-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205487,
+      "title": "5 Israeli Pounds (Henrietta Szold & Lion's Gate)",
+      "issuer": {
+        "code": "israel",
+        "name": "Israel"
+      },
+      "min_year": 1973,
+      "max_year": 1973,
+      "face": {
+        "value": 5,
+        "unit": "Israeli Pounds",
+        "text": "5 Israeli Pounds"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205487,
+        "title": "5 Israeli Pounds (Henrietta Szold & Lion's Gate)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "israel",
+          "name": "Israel"
+        },
+        "min_year": 1973,
+        "max_year": 1973,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/israel/5e9e159f3828e3.95692024-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/israel/5e9e15a0503179.50723829-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205497,
+      "title": "50 Israeli Pounds (Chaim Weizmann & Damascus Gate)",
+      "issuer": {
+        "code": "israel",
+        "name": "Israel"
+      },
+      "min_year": 1973,
+      "max_year": 1973,
+      "face": {
+        "value": 50,
+        "unit": "Israeli Pounds",
+        "text": "50 Israeli Pounds"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205497,
+        "title": "50 Israeli Pounds (Chaim Weizmann & Damascus Gate)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "israel",
+          "name": "Israel"
+        },
+        "min_year": 1973,
+        "max_year": 1973,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/israel/5e9e23e0557370.63496676-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/israel/5e9e23e1615627.28388830-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205514,
+      "title": "100 Israeli Pounds (Theodor Herzl & Zion Gate)",
+      "issuer": {
+        "code": "israel",
+        "name": "Israel"
+      },
+      "min_year": 1973,
+      "max_year": 1973,
+      "face": {
+        "value": 100,
+        "unit": "Israeli Pounds",
+        "text": "100 Israeli Pounds"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205514,
+        "title": "100 Israeli Pounds (Theodor Herzl & Zion Gate)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "israel",
+          "name": "Israel"
+        },
+        "min_year": 1973,
+        "max_year": 1973,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/israel/5e9e2c674d3a36.51748297-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/israel/5e9e2c6848bea7.41271731-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205529,
+      "title": "500 Israeli Pounds (David Ben-Gurion & Golden Gate)",
+      "issuer": {
+        "code": "israel",
+        "name": "Israel"
+      },
+      "min_year": 1975,
+      "max_year": 1975,
+      "face": {
+        "value": 500,
+        "unit": "Israeli Pounds",
+        "text": "500 Israeli Pounds"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205529,
+        "title": "500 Israeli Pounds (David Ben-Gurion & Golden Gate)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "israel",
+          "name": "Israel"
+        },
+        "min_year": 1975,
+        "max_year": 1975,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/israel/5e9e350d36a084.04211351-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/israel/5e9e350e16a370.32109071-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205588,
+      "title": "1 New Sheqel (Moses Maimonides)",
+      "issuer": {
+        "code": "israel",
+        "name": "Israel"
+      },
+      "min_year": 1986,
+      "max_year": 1986,
+      "face": {
+        "value": 1,
+        "unit": "New Sheqel",
+        "text": "1 New Sheqel"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205588,
+        "title": "1 New Sheqel (Moses Maimonides)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "israel",
+          "name": "Israel"
+        },
+        "min_year": 1986,
+        "max_year": 1986,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/israel/5e9e60239419d4.94184678-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/israel/5e9e6024af3553.84563218-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205596,
+      "title": "20 New Sheqalim (Moshe Sharett)",
+      "issuer": {
+        "code": "israel",
+        "name": "Israel"
+      },
+      "min_year": 1987,
+      "max_year": 1993,
+      "face": {
+        "value": 20,
+        "unit": "New Sheqalim",
+        "text": "20 New Sheqalim"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205596,
+        "title": "20 New Sheqalim (Moshe Sharett)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "israel",
+          "name": "Israel"
+        },
+        "min_year": 1987,
+        "max_year": 1993,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/israel/5e9e6d06d606c2.88552286-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/israel/5e9e6d086b3d43.90588096-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206853,
+      "title": "100 New Shekels (Leah Goldberg)",
+      "issuer": {
+        "code": "israel",
+        "name": "Israel"
+      },
+      "min_year": 2017,
+      "max_year": 2020,
+      "face": {
+        "value": 100,
+        "unit": "New Shekels",
+        "text": "100 New Shekels"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206853,
+        "title": "100 New Shekels (Leah Goldberg)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "israel",
+          "name": "Israel"
+        },
+        "min_year": 2017,
+        "max_year": 2020,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/israel/5ea26130475cb4.31979497-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/israel/5ea261308acf87.30346892-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206880,
+      "title": "50 New Sheqalim (Shmuel Yosef \"Shai\" Agnon)",
+      "issuer": {
+        "code": "israel",
+        "name": "Israel"
+      },
+      "min_year": 1998,
+      "max_year": 2007,
+      "face": {
+        "value": 50,
+        "unit": "New Sheqalim",
+        "text": "50 New Sheqalim"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206880,
+        "title": "50 New Sheqalim (Shmuel Yosef \"Shai\" Agnon)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "israel",
+          "name": "Israel"
+        },
+        "min_year": 1998,
+        "max_year": 2007,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/israel/5eb48a68ad1c68.81008449-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/israel/5eb48a69be07b1.50135918-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206986,
+      "title": "200 New Shekels (Nathan Alterman)",
+      "issuer": {
+        "code": "israel",
+        "name": "Israel"
+      },
+      "min_year": 2015,
+      "max_year": 2020,
+      "face": {
+        "value": 200,
+        "unit": "New Shekels",
+        "text": "200 New Shekels"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206986,
+        "title": "200 New Shekels (Nathan Alterman)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "israel",
+          "name": "Israel"
+        },
+        "min_year": 2015,
+        "max_year": 2020,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/israel/5eb09614d0e2d4.52553982-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/israel/5eb096161ddb85.60353085-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 207745,
+      "title": "5 New Sheqalim (Levi Eshkol)",
+      "issuer": {
+        "code": "israel",
+        "name": "Israel"
+      },
+      "min_year": 1985,
+      "max_year": 1987,
+      "face": {
+        "value": 5,
+        "unit": "New Sheqalim",
+        "text": "5 New Sheqalim"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 207745,
+        "title": "5 New Sheqalim (Levi Eshkol)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "israel",
+          "name": "Israel"
+        },
+        "min_year": 1985,
+        "max_year": 1987,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/israel/5ea4f97c32aab5.60796636-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/israel/5ea4f97d6535c4.41293431-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 207748,
+      "title": "10 New Sheqalim (Golda Meir)",
+      "issuer": {
+        "code": "israel",
+        "name": "Israel"
+      },
+      "min_year": 1985,
+      "max_year": 1992,
+      "face": {
+        "value": 10,
+        "unit": "New Sheqalim",
+        "text": "10 New Sheqalim"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 207748,
+        "title": "10 New Sheqalim (Golda Meir)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "israel",
+          "name": "Israel"
+        },
+        "min_year": 1985,
+        "max_year": 1992,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/israel/5ea4fca39ce6e6.78490363-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/israel/5ea4fca4b3f4b8.86139248-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 207911,
+      "title": "100 New Sheqalim (Yitzhak Ben-Zvi)",
+      "issuer": {
+        "code": "israel",
+        "name": "Israel"
+      },
+      "min_year": 1986,
+      "max_year": 1995,
+      "face": {
+        "value": 100,
+        "unit": "New Sheqalim",
+        "text": "100 New Sheqalim"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 207911,
+        "title": "100 New Sheqalim (Yitzhak Ben-Zvi)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "israel",
+          "name": "Israel"
+        },
+        "min_year": 1986,
+        "max_year": 1995,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/israel/5ea5aa55a846b1.87241660-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/israel/5ea5aa5b853a83.00442311-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 207932,
+      "title": "200 New Sheqalim (Zalman Shazar)",
+      "issuer": {
+        "code": "israel",
+        "name": "Israel"
+      },
+      "min_year": 1991,
+      "max_year": 1994,
+      "face": {
+        "value": 200,
+        "unit": "New Sheqalim",
+        "text": "200 New Sheqalim"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 207932,
+        "title": "200 New Sheqalim (Zalman Shazar)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "israel",
+          "name": "Israel"
+        },
+        "min_year": 1991,
+        "max_year": 1994,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/israel/5ea5b5a16c60e3.27260679-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/israel/5ea5b5a28903e5.48359943-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 208381,
+      "title": "50 New Sheqalim (Shmuel Yosef \"Shai\" Agnon; Independence)",
+      "issuer": {
+        "code": "israel",
+        "name": "Israel"
+      },
+      "min_year": 1998,
+      "max_year": 1998,
+      "face": {
+        "value": 50,
+        "unit": "New Sheqalim",
+        "text": "50 New Sheqalim"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 208381,
+        "title": "50 New Sheqalim (Shmuel Yosef \"Shai\" Agnon; Independence)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "israel",
+          "name": "Israel"
+        },
+        "min_year": 1998,
+        "max_year": 1998,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/israel/5ea76551eacf80.88052955-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/israel/5ea7655305e6f2.83991665-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 208926,
+      "title": "20 New Sheqalim (Moshe Sharett)",
+      "issuer": {
+        "code": "israel",
+        "name": "Israel"
+      },
+      "min_year": 1998,
+      "max_year": 2014,
+      "face": {
+        "value": 20,
+        "unit": "New Sheqalim",
+        "text": "20 New Sheqalim"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 208926,
+        "title": "20 New Sheqalim (Moshe Sharett)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "israel",
+          "name": "Israel"
+        },
+        "min_year": 1998,
+        "max_year": 2014,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/israel/5ea9d0d3ef2969.77609202-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/israel/5ea9d0da0fb9e9.97203494-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 210605,
+      "title": "20 New Sheqalim (Moshe Sharett; 60 years of Israel)",
+      "issuer": {
+        "code": "israel",
+        "name": "Israel"
+      },
+      "min_year": 2008,
+      "max_year": 2008,
+      "face": {
+        "value": 20,
+        "unit": "New Sheqalim",
+        "text": "20 New Sheqalim"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 210605,
+        "title": "20 New Sheqalim (Moshe Sharett; 60 years of Israel)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "israel",
+          "name": "Israel"
+        },
+        "min_year": 2008,
+        "max_year": 2008,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/israel/5ead8a6002fb97.20934878-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/israel/5ead8a60684790.67510831-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 210858,
+      "title": "100 New Sheqalim (Yitzhak Ben-Zvi)",
+      "issuer": {
+        "code": "israel",
+        "name": "Israel"
+      },
+      "min_year": 1998,
+      "max_year": 2014,
+      "face": {
+        "value": 100,
+        "unit": "New Sheqalim",
+        "text": "100 New Sheqalim"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 210858,
+        "title": "100 New Sheqalim (Yitzhak Ben-Zvi)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "israel",
+          "name": "Israel"
+        },
+        "min_year": 1998,
+        "max_year": 2014,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/israel/5eae50de156685.79550177-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/israel/5eae50e00206d8.18400616-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 211225,
+      "title": "200 New Sheqalim (Zalman Shazar)",
+      "issuer": {
+        "code": "israel",
+        "name": "Israel"
+      },
+      "min_year": 1999,
+      "max_year": 2014,
+      "face": {
+        "value": 200,
+        "unit": "New Sheqalim",
+        "text": "200 New Sheqalim"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 211225,
+        "title": "200 New Sheqalim (Zalman Shazar)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "israel",
+          "name": "Israel"
+        },
+        "min_year": 1999,
+        "max_year": 2014,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/israel/5eaf16b10f9df9.96694259-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/israel/5eaf16b1364fb6.18549720-180.jpg",
+        "category": "banknote"
+      }
+    }
+  ]
+}

@@ -1,0 +1,654 @@
+{
+  "meta": {
+    "generated_at": "2026-10-29T13:27:52.906Z",
+    "fixture": false,
+    "api": "numista v3",
+    "issuer": "belgium",
+    "iso": "BE",
+    "category": "banknote",
+    "lang": "en",
+    "since": 1960,
+    "listed": 226,
+    "fetched": 17,
+    "details_fetched": 0,
+    "dropped_before_since": 209,
+    "dropped_by_source": {
+      "list": 209,
+      "detail": 0
+    },
+    "issuer_mismatches": 0,
+    "pages": 5,
+    "requests": 0
+  },
+  "types": [
+    {
+      "numista_type_id": 202664,
+      "title": "50 Francs - Baudouin I",
+      "issuer": {
+        "code": "belgique",
+        "name": "Belgium"
+      },
+      "min_year": 1966,
+      "max_year": 1966,
+      "face": {
+        "value": 50,
+        "unit": "Francs",
+        "text": "50 Francs"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202664,
+        "title": "50 Francs - Baudouin I",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "belgique",
+          "name": "Belgium"
+        },
+        "min_year": 1966,
+        "max_year": 1966,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/belgique/63ec9fbccc3f33.50681452-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/belgique/63ec9fc028a658.87969967-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202677,
+      "title": "100 Francs",
+      "issuer": {
+        "code": "belgique",
+        "name": "Belgium"
+      },
+      "min_year": 1995,
+      "max_year": 1999,
+      "face": {
+        "value": 100,
+        "unit": "Francs",
+        "text": "100 Francs"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202677,
+        "title": "100 Francs",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "belgique",
+          "name": "Belgium"
+        },
+        "min_year": 1995,
+        "max_year": 1999,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/belgique/637a5a29d751e2.23833612-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/belgique/637a5a2a40ad45.55868302-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202684,
+      "title": "200 Francs",
+      "issuer": {
+        "code": "belgique",
+        "name": "Belgium"
+      },
+      "min_year": 1995,
+      "max_year": 1995,
+      "face": {
+        "value": 200,
+        "unit": "Francs",
+        "text": "200 Francs"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202684,
+        "title": "200 Francs",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "belgique",
+          "name": "Belgium"
+        },
+        "min_year": 1995,
+        "max_year": 1995,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/belgique/63ec9fe86bf603.72187076-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/belgique/63ec9feb5d7e80.66366992-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203061,
+      "title": "20 Francs - Baudouin I",
+      "issuer": {
+        "code": "belgique",
+        "name": "Belgium"
+      },
+      "min_year": 1964,
+      "max_year": 1964,
+      "face": {
+        "value": 20,
+        "unit": "Francs",
+        "text": "20 Francs"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203061,
+        "title": "20 Francs - Baudouin I",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "belgique",
+          "name": "Belgium"
+        },
+        "min_year": 1964,
+        "max_year": 1964,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/belgique/65de7355e528c5.09081179-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/belgique/65de73576adbb6.38928235-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203558,
+      "title": "100 Francs",
+      "issuer": {
+        "code": "belgique",
+        "name": "Belgium"
+      },
+      "min_year": 1978,
+      "max_year": 1994,
+      "face": {
+        "value": 100,
+        "unit": "Francs",
+        "text": "100 Francs"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203558,
+        "title": "100 Francs",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "belgique",
+          "name": "Belgium"
+        },
+        "min_year": 1978,
+        "max_year": 1994,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/belgique/627e0bccca70a1.12955001-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/belgique/627e0bcd353943.77864914-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203599,
+      "title": "1000 Francs (Gerardus Mercator)",
+      "issuer": {
+        "code": "belgique",
+        "name": "Belgium"
+      },
+      "min_year": 1961,
+      "max_year": 1976,
+      "face": {
+        "value": 1000,
+        "unit": "Francs",
+        "text": "1000 Francs"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203599,
+        "title": "1000 Francs (Gerardus Mercator)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "belgique",
+          "name": "Belgium"
+        },
+        "min_year": 1961,
+        "max_year": 1976,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/belgique/5e996eb8bc86a9.53552703-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/belgique/5e996eb9518864.85078936-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204984,
+      "title": "10 000 Francs",
+      "issuer": {
+        "code": "belgique",
+        "name": "Belgium"
+      },
+      "min_year": 1992,
+      "max_year": 1992,
+      "face": {
+        "value": 10000,
+        "unit": "Francs",
+        "text": "10000 Francs"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204984,
+        "title": "10 000 Francs",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "belgique",
+          "name": "Belgium"
+        },
+        "min_year": 1992,
+        "max_year": 1992,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/belgique/65d4c047b0aa54.48925156-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/belgique/65d4c049d0ce68.84007759-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205535,
+      "title": "1000 Francs",
+      "issuer": {
+        "code": "belgique",
+        "name": "Belgium"
+      },
+      "min_year": 1980,
+      "max_year": 1996,
+      "face": {
+        "value": 1000,
+        "unit": "Francs",
+        "text": "1000 Francs"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205535,
+        "title": "1000 Francs",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "belgique",
+          "name": "Belgium"
+        },
+        "min_year": 1980,
+        "max_year": 1996,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/belgique/5ea8f979d23c34.60412279-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/belgique/5ea8f97a368a54.27293439-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205817,
+      "title": "500 Francs",
+      "issuer": {
+        "code": "belgique",
+        "name": "Belgium"
+      },
+      "min_year": 1998,
+      "max_year": 1998,
+      "face": {
+        "value": 500,
+        "unit": "Francs",
+        "text": "500 Francs"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205817,
+        "title": "500 Francs",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "belgique",
+          "name": "Belgium"
+        },
+        "min_year": 1998,
+        "max_year": 1998,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/belgique/5ec2bcacab9957.72503494-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/belgique/5ec2bcad112560.27703411-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206000,
+      "title": "1000 Francs",
+      "issuer": {
+        "code": "belgique",
+        "name": "Belgium"
+      },
+      "min_year": 1997,
+      "max_year": 1997,
+      "face": {
+        "value": 1000,
+        "unit": "Francs",
+        "text": "1000 Francs"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206000,
+        "title": "1000 Francs",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "belgique",
+          "name": "Belgium"
+        },
+        "min_year": 1997,
+        "max_year": 1997,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/belgique/5ec8830bba3bc7.36092884-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/belgique/5ec8830c1fb415.42977402-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206004,
+      "title": "2000 Francs",
+      "issuer": {
+        "code": "belgique",
+        "name": "Belgium"
+      },
+      "min_year": 1994,
+      "max_year": 1994,
+      "face": {
+        "value": 2000,
+        "unit": "Francs",
+        "text": "2000 Francs"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206004,
+        "title": "2000 Francs",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "belgique",
+          "name": "Belgium"
+        },
+        "min_year": 1994,
+        "max_year": 1994,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/belgique/5ec44ea60f5899.42110774-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/belgique/5ec44ea65c0b38.06332976-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206236,
+      "title": "100 Francs (Lambert Lombard)",
+      "issuer": {
+        "code": "belgique",
+        "name": "Belgium"
+      },
+      "min_year": 1962,
+      "max_year": 1975,
+      "face": {
+        "value": 100,
+        "unit": "Francs",
+        "text": "100 Francs"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206236,
+        "title": "100 Francs (Lambert Lombard)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "belgique",
+          "name": "Belgium"
+        },
+        "min_year": 1962,
+        "max_year": 1975,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/belgique/654e0f99e4cf23.46659810-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/belgique/654e0f9b8d8e29.17239466-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 208218,
+      "title": "500 Francs",
+      "issuer": {
+        "code": "belgique",
+        "name": "Belgium"
+      },
+      "min_year": 1980,
+      "max_year": 1998,
+      "face": {
+        "value": 500,
+        "unit": "Francs",
+        "text": "500 Francs"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 208218,
+        "title": "500 Francs",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "belgique",
+          "name": "Belgium"
+        },
+        "min_year": 1980,
+        "max_year": 1998,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/belgique/5ea6e43b29db95.16370324-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/belgique/5ea6e43c963ed0.99569096-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 209792,
+      "title": "5000 Francs",
+      "issuer": {
+        "code": "belgique",
+        "name": "Belgium"
+      },
+      "min_year": 1982,
+      "max_year": 1992,
+      "face": {
+        "value": 5000,
+        "unit": "Francs",
+        "text": "5000 Francs"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 209792,
+        "title": "5000 Francs",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "belgique",
+          "name": "Belgium"
+        },
+        "min_year": 1982,
+        "max_year": 1992,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/belgique/5eab3aede60666.81726516-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/belgique/5eab3aee48bf56.71157151-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 213361,
+      "title": "500 Francs (Van Orley)",
+      "issuer": {
+        "code": "belgique",
+        "name": "Belgium"
+      },
+      "min_year": 1961,
+      "max_year": 1975,
+      "face": {
+        "value": 500,
+        "unit": "Francs",
+        "text": "500 Francs"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 213361,
+        "title": "500 Francs (Van Orley)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "belgique",
+          "name": "Belgium"
+        },
+        "min_year": 1961,
+        "max_year": 1975,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/belgique/5eb68de944ba60.15414230-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/belgique/5eb68de9b08e62.44497531-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 215693,
+      "title": "10 000 Francs",
+      "issuer": {
+        "code": "belgique",
+        "name": "Belgium"
+      },
+      "min_year": 1997,
+      "max_year": 1997,
+      "face": {
+        "value": 10000,
+        "unit": "Francs",
+        "text": "10000 Francs"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 215693,
+        "title": "10 000 Francs",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "belgique",
+          "name": "Belgium"
+        },
+        "min_year": 1997,
+        "max_year": 1997,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/belgique/60c7df678c1230.24405208-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/belgique/60c7df67deb167.23276233-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 218427,
+      "title": "5000 Francs (André Vesalius)",
+      "issuer": {
+        "code": "belgique",
+        "name": "Belgium"
+      },
+      "min_year": 1971,
+      "max_year": 1977,
+      "face": {
+        "value": 5000,
+        "unit": "Francs",
+        "text": "5000 Francs"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 218427,
+        "title": "5000 Francs (André Vesalius)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "belgique",
+          "name": "Belgium"
+        },
+        "min_year": 1971,
+        "max_year": 1977,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/belgique/5ed0081a8283f9.58570139-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/belgique/5ed0081adcea76.50538422-180.jpg",
+        "category": "banknote"
+      }
+    }
+  ]
+}

@@ -57,6 +57,9 @@ const args = {
   lang: 'en',
   apiBase: API,
   issuerCheck: true,
+  cacheList: true,
+  refresh: false,
+  skipUndated: false,
 }
 
 for (let i = 2; i < process.argv.length; i++) {
@@ -73,6 +76,10 @@ for (let i = 2; i < process.argv.length; i++) {
   else if (flag === '--api-base') args.apiBase = String(next() ?? '').replace(/\/$/, '')
   else if (flag === '--no-issuer-check') args.issuerCheck = false
   else if (flag === '--no-details') args.details = false
+  else if (flag === '--no-cache') args.cacheList = false
+  else if (flag === '--refresh') args.refresh = true
+  else if (flag === '--skip-undated') args.skipUndated = true
+  else if (flag === '--stats-out') args.statsOut = next()
   else if (flag === '--force') args.force = true
   else if (flag === '--dry-run') args.dryRun = true
   else if (flag === '--list-issuers') args.listIssuers = true
@@ -205,9 +212,20 @@ function listYearOf(item) {
 }
 
 function titleNumber(title) {
-  const match = /^([\d]+(?:[.,]\d+)?)\s*([A-Za-z]+)?/.exec(String(title ?? '').trim())
+  let head = String(title ?? '').split(/\(|\s+-\s+/)[0].trim()
+  head = head.replace(/(\d)\s+(?=\d{3}\b)/g, '$1')
+  const match = /^([\d.,]+)(?:st|nd|rd|th)?\s*([½¼¾⅓⅔⅛])?\s*(.*)$/.exec(head)
   if (!match) return { value: null, unit: null }
-  return { value: Number(match[1].replace(/,/g, '')), unit: match[2] ?? null }
+  const fractions = { '½': 0.5, '¼': 0.25, '¾': 0.75, '⅓': 1 / 3, '⅔': 2 / 3, '⅛': 0.125 }
+  const whole = match[1] ? Number(match[1].replace(/,/g, '')) : 0
+  const fraction = match[2] ? fractions[match[2]] : 0
+  const value = match[1] || match[2] ? whole + fraction : null
+  const unit =
+    (match[3] ?? '')
+      .split('/')[0]
+      .replace(/^["“”']+|["“”']+$/g, '')
+      .trim() || null
+  return { value, unit }
 }
 
 function imageUrl(source) {
@@ -387,13 +405,36 @@ async function fetchListing() {
       count: String(PAGE_SIZE),
       page: String(page),
     })
-    const response = await apiGet(`/types?${query}`)
+    const cachePath = path.join(
+      ROOT,
+      'data/.cache/list',
+      `${args.issuer}_${args.lang}_p${page}.json`,
+    )
+    let response = null
+    let fromCache = false
+    if (args.cacheList && !args.refresh && existsSync(cachePath)) {
+      try {
+        response = JSON.parse(readFileSync(cachePath, 'utf8').replace(/^\uFEFF/, ''))
+        fromCache = true
+      } catch {
+        response = null
+      }
+    }
+    if (!response) {
+      response = await apiGet(`/types?${query}`)
+      if (args.cacheList) {
+        await mkdir(path.dirname(cachePath), { recursive: true })
+        await writeFile(cachePath, `${JSON.stringify(response)}\n`, 'utf8')
+      }
+    }
     pages += 1
     const batch =
       response.items ?? response.types ?? response.results ?? (Array.isArray(response) ? response : [])
     total ??= asNumber(response.count ?? response.total) ?? null
     if (!batch.length) break
-    console.log(`  page ${page}: ${batch.length} 条${total != null ? `（API count ${total}）` : ''}`)
+    console.log(
+      `  page ${page}: ${batch.length} 条${fromCache ? '（cache）' : ''}${total != null ? `（API count ${total}）` : ''}`,
+    )
 
     // Guard against an API that ignores `page` and keeps returning page 1.
     const signature = batch.map((item) => itemId(item) ?? '?').join(',')
@@ -484,6 +525,10 @@ async function main() {
     }
     const year = listYearOf(item)
     if (year == null) {
+      if (args.skipUndated) {
+        droppedByList.push({ id, title: String(item.title ?? ''), year: null, source: 'list' })
+        continue
+      }
       unknownListYear += 1
       candidates.push({ id, item, year: null })
       continue
@@ -509,6 +554,31 @@ async function main() {
     console.log(
       `正式同步预计：${listing.pages} 页 + ${plannedDetails} 详情${args.issuerCheck ? ' + 1 issuer 校验' : ''} = ${plannedRequests} 次请求，约 ${secondsFor(plannedRequests)} 秒（delay ${args.delay}ms）`,
     )
+
+    if (args.statsOut) {
+      const statsPath = path.resolve(ROOT, args.statsOut)
+      await mkdir(path.dirname(statsPath), { recursive: true })
+      await writeFile(
+        statsPath,
+        `${JSON.stringify(
+          {
+            iso: args.iso,
+            issuer: args.issuer,
+            since: args.since,
+            listed: listingById.size,
+            dropped: droppedByList.length,
+            kept: fresh.length,
+            unknown_list_year: unknownListYear,
+            pages: listing.pages,
+            planned_requests: plannedRequests,
+            actual_requests: requestCount,
+          },
+          null,
+          2,
+        )}\n`,
+        'utf8',
+      )
+    }
     if (droppedByList.length) {
       console.log('\n被丢弃的示例（最多 8 条）：')
       for (const item of droppedByList.slice(0, 8)) {

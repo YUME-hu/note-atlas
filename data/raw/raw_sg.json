@@ -1,0 +1,2171 @@
+{
+  "meta": {
+    "generated_at": "2026-10-29T13:27:57.807Z",
+    "fixture": false,
+    "api": "numista v3",
+    "issuer": "singapour",
+    "iso": "SG",
+    "category": "banknote",
+    "lang": "en",
+    "since": 1960,
+    "listed": 58,
+    "fetched": 58,
+    "details_fetched": 0,
+    "dropped_before_since": 0,
+    "dropped_by_source": {
+      "list": 0,
+      "detail": 0
+    },
+    "issuer_mismatches": 0,
+    "pages": 2,
+    "requests": 0
+  },
+  "types": [
+    {
+      "numista_type_id": 202202,
+      "title": "2 Dollars (BCCS)",
+      "issuer": {
+        "code": "singapour",
+        "name": "Singapore"
+      },
+      "min_year": 1999,
+      "max_year": 1999,
+      "face": {
+        "value": 2,
+        "unit": "Dollars",
+        "text": "2 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202202,
+        "title": "2 Dollars (BCCS)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "singapour",
+          "name": "Singapore"
+        },
+        "min_year": 1999,
+        "max_year": 1999,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/singapour/5e98797ddd1b28.72700050-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/singapour/5e98797f16ff04.80604380-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202244,
+      "title": "2 Dollars (MAS; polymer)",
+      "issuer": {
+        "code": "singapour",
+        "name": "Singapore"
+      },
+      "min_year": 2006,
+      "max_year": 2024,
+      "face": {
+        "value": 2,
+        "unit": "Dollars",
+        "text": "2 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202244,
+        "title": "2 Dollars (MAS; polymer)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "singapour",
+          "name": "Singapore"
+        },
+        "min_year": 2006,
+        "max_year": 2024,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/singapour/626c1e69574431.97909339-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/singapour/626c1e69ec1b75.90044717-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202255,
+      "title": "2 Dollars (purple)",
+      "issuer": {
+        "code": "singapour",
+        "name": "Singapore"
+      },
+      "min_year": 1991,
+      "max_year": 1998,
+      "face": {
+        "value": 2,
+        "unit": "Dollars",
+        "text": "2 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202255,
+        "title": "2 Dollars (purple)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "singapour",
+          "name": "Singapore"
+        },
+        "min_year": 1991,
+        "max_year": 1998,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/singapour/62d6d91ae60b76.44014385-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/singapour/62d6d91b996cf5.00622258-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202498,
+      "title": "10 Dollars (MAS; polymer)",
+      "issuer": {
+        "code": "singapour",
+        "name": "Singapore"
+      },
+      "min_year": 2004,
+      "max_year": 2026,
+      "face": {
+        "value": 10,
+        "unit": "Dollars",
+        "text": "10 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202498,
+        "title": "10 Dollars (MAS; polymer)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "singapour",
+          "name": "Singapore"
+        },
+        "min_year": 2004,
+        "max_year": 2026,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/singapour/604f9a466d0e96.13242974-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/singapour/604f9a6581ec35.42905393-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202922,
+      "title": "10 Dollars",
+      "issuer": {
+        "code": "singapour",
+        "name": "Singapore"
+      },
+      "min_year": 1988,
+      "max_year": 1988,
+      "face": {
+        "value": 10,
+        "unit": "Dollars",
+        "text": "10 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202922,
+        "title": "10 Dollars",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "singapour",
+          "name": "Singapore"
+        },
+        "min_year": 1988,
+        "max_year": 1988,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/singapour/6a0a2606934cc0.70234759-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/singapour/6a0a260801b790.36025151-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202926,
+      "title": "5 Dollars",
+      "issuer": {
+        "code": "singapour",
+        "name": "Singapore"
+      },
+      "min_year": 1989,
+      "max_year": 1997,
+      "face": {
+        "value": 5,
+        "unit": "Dollars",
+        "text": "5 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202926,
+        "title": "5 Dollars",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "singapour",
+          "name": "Singapore"
+        },
+        "min_year": 1989,
+        "max_year": 1997,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/singapour/673f3dd6c8fab4.60394869-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/singapour/673f3dd7725289.01167169-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202930,
+      "title": "20 Dollars",
+      "issuer": {
+        "code": "singapour",
+        "name": "Singapore"
+      },
+      "min_year": 1979,
+      "max_year": 1979,
+      "face": {
+        "value": 20,
+        "unit": "Dollars",
+        "text": "20 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202930,
+        "title": "20 Dollars",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "singapour",
+          "name": "Singapore"
+        },
+        "min_year": 1979,
+        "max_year": 1979,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/singapour/62c2fdab7f5c86.98208226-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/singapour/62c2fdac28c792.71907884-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202932,
+      "title": "5 Dollars",
+      "issuer": {
+        "code": "singapour",
+        "name": "Singapore"
+      },
+      "min_year": 1976,
+      "max_year": 1976,
+      "face": {
+        "value": 5,
+        "unit": "Dollars",
+        "text": "5 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202932,
+        "title": "5 Dollars",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "singapour",
+          "name": "Singapore"
+        },
+        "min_year": 1976,
+        "max_year": 1976,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/singapour/685f5b67efba50.24674354-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/singapour/685f5b68bcba99.24342996-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202934,
+      "title": "1 Dollar",
+      "issuer": {
+        "code": "singapour",
+        "name": "Singapore"
+      },
+      "min_year": 1987,
+      "max_year": 1987,
+      "face": {
+        "value": 1,
+        "unit": "Dollar",
+        "text": "1 Dollar"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202934,
+        "title": "1 Dollar",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "singapour",
+          "name": "Singapore"
+        },
+        "min_year": 1987,
+        "max_year": 1987,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/singapour/62d6df2d9047c5.37558871-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/singapour/62d6df2e281428.25545329-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202936,
+      "title": "2 Dollars (orange)",
+      "issuer": {
+        "code": "singapour",
+        "name": "Singapore"
+      },
+      "min_year": 1991,
+      "max_year": 1991,
+      "face": {
+        "value": 2,
+        "unit": "Dollars",
+        "text": "2 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202936,
+        "title": "2 Dollars (orange)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "singapour",
+          "name": "Singapore"
+        },
+        "min_year": 1991,
+        "max_year": 1991,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/singapour/65d47c6807ece0.52703413-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/singapour/65d47c6af0ac56.19626527-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203037,
+      "title": "5 Dollars (MAS; polymer)",
+      "issuer": {
+        "code": "singapour",
+        "name": "Singapore"
+      },
+      "min_year": 2007,
+      "max_year": 2024,
+      "face": {
+        "value": 5,
+        "unit": "Dollars",
+        "text": "5 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203037,
+        "title": "5 Dollars (MAS; polymer)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "singapour",
+          "name": "Singapore"
+        },
+        "min_year": 2007,
+        "max_year": 2024,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/singapour/678a45ad965309.73032411-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/singapour/678a45ae7e0972.00674030-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203449,
+      "title": "1 Dollar",
+      "issuer": {
+        "code": "singapour",
+        "name": "Singapore"
+      },
+      "min_year": 1967,
+      "max_year": 1972,
+      "face": {
+        "value": 1,
+        "unit": "Dollar",
+        "text": "1 Dollar"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203449,
+        "title": "1 Dollar",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "singapour",
+          "name": "Singapore"
+        },
+        "min_year": 1967,
+        "max_year": 1972,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/singapour/5ece409e0f4bb5.90403720-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/singapour/5ece409e66a9a1.46854859-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205537,
+      "title": "50 Dollars (MAS)",
+      "issuer": {
+        "code": "singapour",
+        "name": "Singapore"
+      },
+      "min_year": 2005,
+      "max_year": 2024,
+      "face": {
+        "value": 50,
+        "unit": "Dollars",
+        "text": "50 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205537,
+        "title": "50 Dollars (MAS)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "singapour",
+          "name": "Singapore"
+        },
+        "min_year": 2005,
+        "max_year": 2024,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/singapour/5e9e3cf032ee33.44152846-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/singapour/5e9e3cf0896f65.92897362-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205540,
+      "title": "100 Dollars (MAS)",
+      "issuer": {
+        "code": "singapour",
+        "name": "Singapore"
+      },
+      "min_year": 2009,
+      "max_year": 2026,
+      "face": {
+        "value": 100,
+        "unit": "Dollars",
+        "text": "100 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205540,
+        "title": "100 Dollars (MAS)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "singapour",
+          "name": "Singapore"
+        },
+        "min_year": 2009,
+        "max_year": 2026,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/singapour/5e9e3fd15f88a8.42493485-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/singapour/5e9e3fd1b79854.65717464-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205587,
+      "title": "1 Dollar",
+      "issuer": {
+        "code": "singapour",
+        "name": "Singapore"
+      },
+      "min_year": 1976,
+      "max_year": 1976,
+      "face": {
+        "value": 1,
+        "unit": "Dollar",
+        "text": "1 Dollar"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205587,
+        "title": "1 Dollar",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "singapour",
+          "name": "Singapore"
+        },
+        "min_year": 1976,
+        "max_year": 1976,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/singapour/63f7a313bff1d9.95343106-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/singapour/63f7a316e6bd68.24836913-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206051,
+      "title": "10 000 Dollars (BCCS)",
+      "issuer": {
+        "code": "singapour",
+        "name": "Singapore"
+      },
+      "min_year": 1999,
+      "max_year": 1999,
+      "face": {
+        "value": 10000,
+        "unit": "Dollars",
+        "text": "10000 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206051,
+        "title": "10 000 Dollars (BCCS)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "singapour",
+          "name": "Singapore"
+        },
+        "min_year": 1999,
+        "max_year": 1999,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/singapour/5e9fcd997a7503.00557117-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/singapour/5e9fcd999cbbc0.10673531-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 207264,
+      "title": "10 Dollars",
+      "issuer": {
+        "code": "singapour",
+        "name": "Singapore"
+      },
+      "min_year": 1976,
+      "max_year": 1980,
+      "face": {
+        "value": 10,
+        "unit": "Dollars",
+        "text": "10 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 207264,
+        "title": "10 Dollars",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "singapour",
+          "name": "Singapore"
+        },
+        "min_year": 1976,
+        "max_year": 1980,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/singapour/5ea33a069eb798.84627310-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/singapour/5ea33a0762e327.12713369-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 207951,
+      "title": "5 Dollars (BCCS)",
+      "issuer": {
+        "code": "singapour",
+        "name": "Singapore"
+      },
+      "min_year": 1999,
+      "max_year": 1999,
+      "face": {
+        "value": 5,
+        "unit": "Dollars",
+        "text": "5 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 207951,
+        "title": "5 Dollars (BCCS)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "singapour",
+          "name": "Singapore"
+        },
+        "min_year": 1999,
+        "max_year": 1999,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/singapour/65e9bd523cf388.77728756-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/singapour/65e9bd52d579a9.80082136-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 208124,
+      "title": "5 Dollars",
+      "issuer": {
+        "code": "singapour",
+        "name": "Singapore"
+      },
+      "min_year": 1967,
+      "max_year": 1973,
+      "face": {
+        "value": 5,
+        "unit": "Dollars",
+        "text": "5 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 208124,
+        "title": "5 Dollars",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "singapour",
+          "name": "Singapore"
+        },
+        "min_year": 1967,
+        "max_year": 1973,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/singapour/6006679522dfd1.26293841-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/singapour/60066795762f41.13429101-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 208126,
+      "title": "10 Dollars",
+      "issuer": {
+        "code": "singapour",
+        "name": "Singapore"
+      },
+      "min_year": 1967,
+      "max_year": 1973,
+      "face": {
+        "value": 10,
+        "unit": "Dollars",
+        "text": "10 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 208126,
+        "title": "10 Dollars",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "singapour",
+          "name": "Singapore"
+        },
+        "min_year": 1967,
+        "max_year": 1973,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/singapour/60079342deb006.00741193-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/singapour/600793437921f1.32217025-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 208129,
+      "title": "25 Dollars",
+      "issuer": {
+        "code": "singapour",
+        "name": "Singapore"
+      },
+      "min_year": 1972,
+      "max_year": 1972,
+      "face": {
+        "value": 25,
+        "unit": "Dollars",
+        "text": "25 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 208129,
+        "title": "25 Dollars",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "singapour",
+          "name": "Singapore"
+        },
+        "min_year": 1972,
+        "max_year": 1972,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/singapour/6008e44f78b8b3.36163724-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/singapour/6008e45001e3e7.16117812-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 208131,
+      "title": "50 Dollars",
+      "issuer": {
+        "code": "singapour",
+        "name": "Singapore"
+      },
+      "min_year": 1967,
+      "max_year": 1973,
+      "face": {
+        "value": 50,
+        "unit": "Dollars",
+        "text": "50 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 208131,
+        "title": "50 Dollars",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "singapour",
+          "name": "Singapore"
+        },
+        "min_year": 1967,
+        "max_year": 1973,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/singapour/6008e5ae1a2b98.76256684-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/singapour/6008e5ae8b86d0.01375897-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 213391,
+      "title": "10 Dollars (BCCS)",
+      "issuer": {
+        "code": "singapour",
+        "name": "Singapore"
+      },
+      "min_year": 1999,
+      "max_year": 1999,
+      "face": {
+        "value": 10,
+        "unit": "Dollars",
+        "text": "10 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 213391,
+        "title": "10 Dollars (BCCS)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "singapour",
+          "name": "Singapore"
+        },
+        "min_year": 1999,
+        "max_year": 1999,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/singapour/5eb6a14e4b9061.19807462-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/singapour/5eb6a14ed63834.33371268-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 215077,
+      "title": "100 Dollars",
+      "issuer": {
+        "code": "singapour",
+        "name": "Singapore"
+      },
+      "min_year": 1967,
+      "max_year": 1973,
+      "face": {
+        "value": 100,
+        "unit": "Dollars",
+        "text": "100 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 215077,
+        "title": "100 Dollars",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "singapour",
+          "name": "Singapore"
+        },
+        "min_year": 1967,
+        "max_year": 1973,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/singapour/6008e63fbb5a26.91389257-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/singapour/6008e640414481.63511207-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 215078,
+      "title": "1000 Dollars",
+      "issuer": {
+        "code": "singapour",
+        "name": "Singapore"
+      },
+      "min_year": 1967,
+      "max_year": 1975,
+      "face": {
+        "value": 1000,
+        "unit": "Dollars",
+        "text": "1000 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 215078,
+        "title": "1000 Dollars",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "singapour",
+          "name": "Singapore"
+        },
+        "min_year": 1967,
+        "max_year": 1975,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/singapour/600a3435888318.53603715-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/singapour/600a3435e6dcc3.27171393-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 215080,
+      "title": "500 Dollars",
+      "issuer": {
+        "code": "singapour",
+        "name": "Singapore"
+      },
+      "min_year": 1972,
+      "max_year": 1972,
+      "face": {
+        "value": 500,
+        "unit": "Dollars",
+        "text": "500 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 215080,
+        "title": "500 Dollars",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "singapour",
+          "name": "Singapore"
+        },
+        "min_year": 1972,
+        "max_year": 1972,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/singapour/600a343305cf61.54607073-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/singapour/600a3433bff663.67079184-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 216067,
+      "title": "10 000 Dollars",
+      "issuer": {
+        "code": "singapour",
+        "name": "Singapore"
+      },
+      "min_year": 1980,
+      "max_year": 1980,
+      "face": {
+        "value": 10000,
+        "unit": "Dollars",
+        "text": "10000 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 216067,
+        "title": "10 000 Dollars",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "singapour",
+          "name": "Singapore"
+        },
+        "min_year": 1980,
+        "max_year": 1980,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/singapour/600a4f53ca4686.61500536-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/singapour/600a4f540da0c8.96024918-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 217716,
+      "title": "50 Dollars (blue)",
+      "issuer": {
+        "code": "singapour",
+        "name": "Singapore"
+      },
+      "min_year": 1987,
+      "max_year": 1994,
+      "face": {
+        "value": 50,
+        "unit": "Dollars",
+        "text": "50 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 217716,
+        "title": "50 Dollars (blue)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "singapour",
+          "name": "Singapore"
+        },
+        "min_year": 1987,
+        "max_year": 1994,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/singapour/5f3456f4151f62.99427589-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/singapour/5f3456b3474648.17226623-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 220358,
+      "title": "50 Dollars (grey)",
+      "issuer": {
+        "code": "singapour",
+        "name": "Singapore"
+      },
+      "min_year": 1994,
+      "max_year": 1994,
+      "face": {
+        "value": 50,
+        "unit": "Dollars",
+        "text": "50 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 220358,
+        "title": "50 Dollars (grey)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "singapour",
+          "name": "Singapore"
+        },
+        "min_year": 1994,
+        "max_year": 1994,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/singapour/600a4f768f94f3.36461660-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/singapour/600a4f76ddab30.46018203-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 222466,
+      "title": "20 Dollars (Singapore Bicentennial)",
+      "issuer": {
+        "code": "singapour",
+        "name": "Singapore"
+      },
+      "min_year": 2019,
+      "max_year": 2019,
+      "face": {
+        "value": 20,
+        "unit": "Dollars",
+        "text": "20 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 222466,
+        "title": "20 Dollars (Singapore Bicentennial)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "singapour",
+          "name": "Singapore"
+        },
+        "min_year": 2019,
+        "max_year": 2019,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/singapour/653951e6795138.44998904-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/singapour/653951e7ad3368.76738176-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 222468,
+      "title": "20 Dollars (40 Years of Currency Interchangeability)",
+      "issuer": {
+        "code": "singapour",
+        "name": "Singapore"
+      },
+      "min_year": 2007,
+      "max_year": 2007,
+      "face": {
+        "value": 20,
+        "unit": "Dollars",
+        "text": "20 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 222468,
+        "title": "20 Dollars (40 Years of Currency Interchangeability)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "singapour",
+          "name": "Singapore"
+        },
+        "min_year": 2007,
+        "max_year": 2007,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/singapour/69f0c6e9c27a23.10221034-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/singapour/6118c158432db7.80416687-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 223487,
+      "title": "2 Dollars (MAS; paper)",
+      "issuer": {
+        "code": "singapour",
+        "name": "Singapore"
+      },
+      "min_year": 2005,
+      "max_year": 2005,
+      "face": {
+        "value": 2,
+        "unit": "Dollars",
+        "text": "2 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 223487,
+        "title": "2 Dollars (MAS; paper)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "singapour",
+          "name": "Singapore"
+        },
+        "min_year": 2005,
+        "max_year": 2005,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/singapour/5f1daffa21f7d4.95184209-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/singapour/5f1daffb9a55d5.40264519-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 224458,
+      "title": "50 Dollars (50 Years of Nation-Building)",
+      "issuer": {
+        "code": "singapour",
+        "name": "Singapore"
+      },
+      "min_year": 2015,
+      "max_year": 2015,
+      "face": {
+        "value": 50,
+        "unit": "Dollars",
+        "text": "50 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 224458,
+        "title": "50 Dollars (50 Years of Nation-Building)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "singapour",
+          "name": "Singapore"
+        },
+        "min_year": 2015,
+        "max_year": 2015,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/singapour/5f1bafd429be31.37769672-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/singapour/5f1bafd45c84d8.73618986-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 228307,
+      "title": "50 Dollars (50 Years of Currency Interchangeability)",
+      "issuer": {
+        "code": "singapour",
+        "name": "Singapore"
+      },
+      "min_year": 2017,
+      "max_year": 2017,
+      "face": {
+        "value": 50,
+        "unit": "Dollars",
+        "text": "50 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 228307,
+        "title": "50 Dollars (50 Years of Currency Interchangeability)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "singapour",
+          "name": "Singapore"
+        },
+        "min_year": 2017,
+        "max_year": 2017,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/singapour/69f0c6ac638b22.05514150-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/singapour/69f0c6ad846521.90217277-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 228854,
+      "title": "50 Dollars",
+      "issuer": {
+        "code": "singapour",
+        "name": "Singapore"
+      },
+      "min_year": 1976,
+      "max_year": 1977,
+      "face": {
+        "value": 50,
+        "unit": "Dollars",
+        "text": "50 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 228854,
+        "title": "50 Dollars",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "singapour",
+          "name": "Singapore"
+        },
+        "min_year": 1976,
+        "max_year": 1977,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/singapour/600a4db749b137.92940717-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/singapour/600a4db7a80d16.30554194-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 228855,
+      "title": "100 Dollars",
+      "issuer": {
+        "code": "singapour",
+        "name": "Singapore"
+      },
+      "min_year": 1977,
+      "max_year": 1977,
+      "face": {
+        "value": 100,
+        "unit": "Dollars",
+        "text": "100 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 228855,
+        "title": "100 Dollars",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "singapour",
+          "name": "Singapore"
+        },
+        "min_year": 1977,
+        "max_year": 1977,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/singapour/600a4e03813c55.62409970-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/singapour/600a4e03d89f76.45640664-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 228856,
+      "title": "500 Dollars",
+      "issuer": {
+        "code": "singapour",
+        "name": "Singapore"
+      },
+      "min_year": 1977,
+      "max_year": 1977,
+      "face": {
+        "value": 500,
+        "unit": "Dollars",
+        "text": "500 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 228856,
+        "title": "500 Dollars",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "singapour",
+          "name": "Singapore"
+        },
+        "min_year": 1977,
+        "max_year": 1977,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/singapour/600a4e69590b86.37909740-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/singapour/600a4e69b11ee4.48829704-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 228857,
+      "title": "1000 Dollars",
+      "issuer": {
+        "code": "singapour",
+        "name": "Singapore"
+      },
+      "min_year": 1978,
+      "max_year": 1978,
+      "face": {
+        "value": 1000,
+        "unit": "Dollars",
+        "text": "1000 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 228857,
+        "title": "1000 Dollars",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "singapour",
+          "name": "Singapore"
+        },
+        "min_year": 1978,
+        "max_year": 1978,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/singapour/5f19f456e3c812.09843160-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/singapour/5f19f457268e33.85830096-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 229009,
+      "title": "5 Dollars (MAS; paper)",
+      "issuer": {
+        "code": "singapour",
+        "name": "Singapore"
+      },
+      "min_year": 2004,
+      "max_year": 2004,
+      "face": {
+        "value": 5,
+        "unit": "Dollars",
+        "text": "5 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 229009,
+        "title": "5 Dollars (MAS; paper)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "singapour",
+          "name": "Singapore"
+        },
+        "min_year": 2004,
+        "max_year": 2004,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/singapour/677ceb2475c0c3.83677826-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/singapour/677ceb2552e545.83273215-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 229012,
+      "title": "10 Dollars (MAS; paper)",
+      "issuer": {
+        "code": "singapour",
+        "name": "Singapore"
+      },
+      "min_year": 2005,
+      "max_year": 2005,
+      "face": {
+        "value": 10,
+        "unit": "Dollars",
+        "text": "10 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 229012,
+        "title": "10 Dollars (MAS; paper)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "singapour",
+          "name": "Singapore"
+        },
+        "min_year": 2005,
+        "max_year": 2005,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/singapour/62b6cec10a5d70.64526589-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/singapour/62b6cec285e8b6.27205949-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 229022,
+      "title": "50 Dollars (BCCS)",
+      "issuer": {
+        "code": "singapour",
+        "name": "Singapore"
+      },
+      "min_year": 1999,
+      "max_year": 2002,
+      "face": {
+        "value": 50,
+        "unit": "Dollars",
+        "text": "50 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 229022,
+        "title": "50 Dollars (BCCS)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "singapour",
+          "name": "Singapore"
+        },
+        "min_year": 1999,
+        "max_year": 2002,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/singapour/5f1b53eee2d274.06370414-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/singapour/5f1b53ef1dcdb4.52304882-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 229023,
+      "title": "100 Dollars (BCCS)",
+      "issuer": {
+        "code": "singapour",
+        "name": "Singapore"
+      },
+      "min_year": 1999,
+      "max_year": 1999,
+      "face": {
+        "value": 100,
+        "unit": "Dollars",
+        "text": "100 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 229023,
+        "title": "100 Dollars (BCCS)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "singapour",
+          "name": "Singapore"
+        },
+        "min_year": 1999,
+        "max_year": 1999,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/singapour/690935bc7f6105.57649262-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/singapour/690935bd1ee472.60639557-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 229024,
+      "title": "1000 Dollars (BCCS)",
+      "issuer": {
+        "code": "singapour",
+        "name": "Singapore"
+      },
+      "min_year": 1999,
+      "max_year": 1999,
+      "face": {
+        "value": 1000,
+        "unit": "Dollars",
+        "text": "1000 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 229024,
+        "title": "1000 Dollars (BCCS)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "singapour",
+          "name": "Singapore"
+        },
+        "min_year": 1999,
+        "max_year": 1999,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/singapour/5f1b53f39df2a5.18467352-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/singapour/5f1b53f3c11075.78513734-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 229025,
+      "title": "1000 Dollars (MAS)",
+      "issuer": {
+        "code": "singapour",
+        "name": "Singapore"
+      },
+      "min_year": 2009,
+      "max_year": 2019,
+      "face": {
+        "value": 1000,
+        "unit": "Dollars",
+        "text": "1000 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 229025,
+        "title": "1000 Dollars (MAS)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "singapour",
+          "name": "Singapore"
+        },
+        "min_year": 2009,
+        "max_year": 2019,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/singapour/5f1b53f7626a66.24380159-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/singapour/5f1b53f7816d52.51408072-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 229401,
+      "title": "10 000 Dollars",
+      "issuer": {
+        "code": "singapour",
+        "name": "Singapore"
+      },
+      "min_year": 1973,
+      "max_year": 1973,
+      "face": {
+        "value": 10000,
+        "unit": "Dollars",
+        "text": "10000 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 229401,
+        "title": "10 000 Dollars",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "singapour",
+          "name": "Singapore"
+        },
+        "min_year": 1973,
+        "max_year": 1973,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/singapour/5f1dd1f9b78f22.86690565-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/singapour/5f1dd1f9ebb9d2.68165147-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 232295,
+      "title": "100 Dollars",
+      "issuer": {
+        "code": "singapour",
+        "name": "Singapore"
+      },
+      "min_year": 1985,
+      "max_year": 1985,
+      "face": {
+        "value": 100,
+        "unit": "Dollars",
+        "text": "100 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 232295,
+        "title": "100 Dollars",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "singapour",
+          "name": "Singapore"
+        },
+        "min_year": 1985,
+        "max_year": 1985,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/singapour/6832413420d6a2.36856702-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/singapour/68324134e262a0.45299011-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 232296,
+      "title": "500 Dollars",
+      "issuer": {
+        "code": "singapour",
+        "name": "Singapore"
+      },
+      "min_year": 1988,
+      "max_year": 1988,
+      "face": {
+        "value": 500,
+        "unit": "Dollars",
+        "text": "500 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 232296,
+        "title": "500 Dollars",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "singapour",
+          "name": "Singapore"
+        },
+        "min_year": 1988,
+        "max_year": 1988,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/singapour/5f3453afd36d13.44579639-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/singapour/5f3453b0039395.94155365-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 232297,
+      "title": "1000 Dollars",
+      "issuer": {
+        "code": "singapour",
+        "name": "Singapore"
+      },
+      "min_year": 1984,
+      "max_year": 1984,
+      "face": {
+        "value": 1000,
+        "unit": "Dollars",
+        "text": "1000 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 232297,
+        "title": "1000 Dollars",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "singapour",
+          "name": "Singapore"
+        },
+        "min_year": 1984,
+        "max_year": 1984,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/singapour/5f3453b1a491c5.43192147-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/singapour/5f3453b1d5b002.03696303-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 232298,
+      "title": "10 000 Dollars",
+      "issuer": {
+        "code": "singapour",
+        "name": "Singapore"
+      },
+      "min_year": 1989,
+      "max_year": 1989,
+      "face": {
+        "value": 10000,
+        "unit": "Dollars",
+        "text": "10000 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 232298,
+        "title": "10 000 Dollars",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "singapour",
+          "name": "Singapore"
+        },
+        "min_year": 1989,
+        "max_year": 1989,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/singapour/5f3453b353d5e7.63170072-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/singapour/5f3453b378eab5.40499870-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 233511,
+      "title": "10 Dollars (\"…regardless of race, language or religion…\")",
+      "issuer": {
+        "code": "singapour",
+        "name": "Singapore"
+      },
+      "min_year": 2015,
+      "max_year": 2015,
+      "face": {
+        "value": 10,
+        "unit": "Dollars",
+        "text": "10 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 233511,
+        "title": "10 Dollars (\"…regardless of race, language or religion…\")",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "singapour",
+          "name": "Singapore"
+        },
+        "min_year": 2015,
+        "max_year": 2015,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/singapour/5f6c2c64745715.44015190-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/singapour/5f6c2c64a5c9f7.35893995-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 233512,
+      "title": "10 Dollars (\"Opportunities for All\")",
+      "issuer": {
+        "code": "singapour",
+        "name": "Singapore"
+      },
+      "min_year": 2015,
+      "max_year": 2015,
+      "face": {
+        "value": 10,
+        "unit": "Dollars",
+        "text": "10 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 233512,
+        "title": "10 Dollars (\"Opportunities for All\")",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "singapour",
+          "name": "Singapore"
+        },
+        "min_year": 2015,
+        "max_year": 2015,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/singapour/5f6c2d55288c74.95591535-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/singapour/5f6c2d55501078.75971894-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 233513,
+      "title": "10 Dollars (\"Strong Families\")",
+      "issuer": {
+        "code": "singapour",
+        "name": "Singapore"
+      },
+      "min_year": 2015,
+      "max_year": 2015,
+      "face": {
+        "value": 10,
+        "unit": "Dollars",
+        "text": "10 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 233513,
+        "title": "10 Dollars (\"Strong Families\")",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "singapour",
+          "name": "Singapore"
+        },
+        "min_year": 2015,
+        "max_year": 2015,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/singapour/68ceb1f9e82081.17589425-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/singapour/68ceb1fa7f8df8.67885970-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 233514,
+      "title": "10 Dollars (\"Safe and Secure\")",
+      "issuer": {
+        "code": "singapour",
+        "name": "Singapore"
+      },
+      "min_year": 2015,
+      "max_year": 2015,
+      "face": {
+        "value": 10,
+        "unit": "Dollars",
+        "text": "10 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 233514,
+        "title": "10 Dollars (\"Safe and Secure\")",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "singapour",
+          "name": "Singapore"
+        },
+        "min_year": 2015,
+        "max_year": 2015,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/singapour/6957f1d4bf86b4.69932370-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/singapour/6957f1d6e46627.02803119-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 233515,
+      "title": "10 Dollars (\"Caring Community, Active Citizenry\")",
+      "issuer": {
+        "code": "singapour",
+        "name": "Singapore"
+      },
+      "min_year": 2015,
+      "max_year": 2015,
+      "face": {
+        "value": 10,
+        "unit": "Dollars",
+        "text": "10 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 233515,
+        "title": "10 Dollars (\"Caring Community, Active Citizenry\")",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "singapour",
+          "name": "Singapore"
+        },
+        "min_year": 2015,
+        "max_year": 2015,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/singapour/68ceafe6e16487.42704988-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/singapour/68ceafe7799000.54184214-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 283123,
+      "title": "50 Dollars (25 Years of Independence)",
+      "issuer": {
+        "code": "singapour",
+        "name": "Singapore"
+      },
+      "min_year": 1990,
+      "max_year": 1990,
+      "face": {
+        "value": 50,
+        "unit": "Dollars",
+        "text": "50 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 283123,
+        "title": "50 Dollars (25 Years of Independence)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "singapour",
+          "name": "Singapore"
+        },
+        "min_year": 1990,
+        "max_year": 1990,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/singapour/6061f8d3ef05f9.48563818-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/singapour/6061f8d432ecb4.26364785-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 283180,
+      "title": "25 Dollars (25th Anniversary of the Monetary Authority of Singapore)",
+      "issuer": {
+        "code": "singapour",
+        "name": "Singapore"
+      },
+      "min_year": 1996,
+      "max_year": 1996,
+      "face": {
+        "value": 25,
+        "unit": "Dollars",
+        "text": "25 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 283180,
+        "title": "25 Dollars (25th Anniversary of the Monetary Authority of Singapore)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "singapour",
+          "name": "Singapore"
+        },
+        "min_year": 1996,
+        "max_year": 1996,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/singapour/611d7bbacbc173.04792907-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/singapour/611d7bbb65bef6.68834851-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 314724,
+      "title": "2 Dollars (25th Anniversary of the Commissioners of Currency)",
+      "issuer": {
+        "code": "singapour",
+        "name": "Singapore"
+      },
+      "min_year": 1994,
+      "max_year": 1994,
+      "face": {
+        "value": 2,
+        "unit": "Dollars",
+        "text": "2 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 314724,
+        "title": "2 Dollars (25th Anniversary of the Commissioners of Currency)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "singapour",
+          "name": "Singapore"
+        },
+        "min_year": 1994,
+        "max_year": 1994,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/singapour/61c766d72f7a11.90729409-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/singapour/61c76715716003.72036529-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 330031,
+      "title": "2 Dollars (BCCS - Millennium)",
+      "issuer": {
+        "code": "singapour",
+        "name": "Singapore"
+      },
+      "min_year": 2000,
+      "max_year": 2000,
+      "face": {
+        "value": 2,
+        "unit": "Dollars",
+        "text": "2 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 330031,
+        "title": "2 Dollars (BCCS - Millennium)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "singapour",
+          "name": "Singapore"
+        },
+        "min_year": 2000,
+        "max_year": 2000,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/singapour/629f99fe7876f0.64100787-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/singapour/629f99fed05801.03968777-180.jpg",
+        "category": "banknote"
+      }
+    }
+  ]
+}

@@ -1,16 +1,19 @@
 import { useMemo } from 'react'
 import { MapBase, MapFeature, MapFeatures } from '@d3-maps/react'
-import countriesTopology from '@d3-maps/atlas/world/countries'
+import countriesTopology from '@d3-maps/atlas/world/countries/countries-50m'
 import countryMetadata from '@d3-maps/atlas/metadata/countries'
 import { mapColor } from '@/lib/color'
 import type { Stat } from '@/types'
 
 /** ISO alpha-3 (topology `properties.id`) → alpha-2 (our region keys). */
 const ISO_A3_TO_A2 = new Map<string, string>()
+// A few atlas metadata rows only carry adm0A3 (France, Norway) and Singapore is
+// omitted from the 110m topology but still has a 50m entry.
+const ADM0_TO_A2: Record<string, string> = { FRA: 'FR', NOR: 'NO', SGP: 'SG' }
 for (const country of countryMetadata) {
-  if (country.isoA3 && country.isoA2) {
-    ISO_A3_TO_A2.set(country.isoA3.toUpperCase(), country.isoA2.toUpperCase())
-  }
+  const a3 = String(country.isoA3 ?? country.adm0A3 ?? '').toUpperCase()
+  const a2 = String(country.isoA2 ?? ADM0_TO_A2[a3] ?? '').toUpperCase()
+  if (a3 && a2) ISO_A3_TO_A2.set(a3, a2)
 }
 
 const HOVER_STYLE = { hover: { stroke: '#e8e6e1', strokeWidth: 0.75 } }

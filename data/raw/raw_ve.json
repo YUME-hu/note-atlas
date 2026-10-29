@@ -1,0 +1,3096 @@
+{
+  "meta": {
+    "generated_at": "2026-10-29T13:27:49.898Z",
+    "fixture": false,
+    "api": "numista v3",
+    "issuer": "venezuela",
+    "iso": "VE",
+    "category": "banknote",
+    "lang": "en",
+    "since": 1960,
+    "listed": 93,
+    "fetched": 83,
+    "details_fetched": 0,
+    "dropped_before_since": 10,
+    "dropped_by_source": {
+      "list": 10,
+      "detail": 0
+    },
+    "issuer_mismatches": 0,
+    "pages": 2,
+    "requests": 0
+  },
+  "types": [
+    {
+      "numista_type_id": 201854,
+      "title": "2 Bolívares",
+      "issuer": {
+        "code": "venezuela",
+        "name": "Venezuela"
+      },
+      "min_year": 2007,
+      "max_year": 2014,
+      "face": {
+        "value": 2,
+        "unit": "Bolívares",
+        "text": "2 Bolívares"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 201854,
+        "title": "2 Bolívares",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "venezuela",
+          "name": "Venezuela"
+        },
+        "min_year": 2007,
+        "max_year": 2014,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/62fbbe5f47b9a0.94655196-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/62fbbe5fc68258.80130789-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202704,
+      "title": "5 Bolívares (with \"CARACAS\")",
+      "issuer": {
+        "code": "venezuela",
+        "name": "Venezuela"
+      },
+      "min_year": 1968,
+      "max_year": 1974,
+      "face": {
+        "value": 5,
+        "unit": "Bolívares",
+        "text": "5 Bolívares"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202704,
+        "title": "5 Bolívares (with \"CARACAS\")",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "venezuela",
+          "name": "Venezuela"
+        },
+        "min_year": 1968,
+        "max_year": 1974,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/5e9acff5405096.19471891-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/5e9acff57cfa80.54267346-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203178,
+      "title": "5 Bolívares",
+      "issuer": {
+        "code": "venezuela",
+        "name": "Venezuela"
+      },
+      "min_year": 2007,
+      "max_year": 2014,
+      "face": {
+        "value": 5,
+        "unit": "Bolívares",
+        "text": "5 Bolívares"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203178,
+        "title": "5 Bolívares",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "venezuela",
+          "name": "Venezuela"
+        },
+        "min_year": 2007,
+        "max_year": 2014,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/629a2e63b70ab9.43363364-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/629a2e641672f2.06621462-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203194,
+      "title": "5 Bolívares (Caracas Quadricentenary)",
+      "issuer": {
+        "code": "venezuela",
+        "name": "Venezuela"
+      },
+      "min_year": 1966,
+      "max_year": 1966,
+      "face": {
+        "value": 5,
+        "unit": "Bolívares",
+        "text": "5 Bolívares"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203194,
+        "title": "5 Bolívares (Caracas Quadricentenary)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "venezuela",
+          "name": "Venezuela"
+        },
+        "min_year": 1966,
+        "max_year": 1966,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/5e986df9a84f59.18068732-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/5e986dfa33ac34.70419363-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203199,
+      "title": "1 Bolívar",
+      "issuer": {
+        "code": "venezuela",
+        "name": "Venezuela"
+      },
+      "min_year": 1989,
+      "max_year": 1989,
+      "face": {
+        "value": 1,
+        "unit": "Bolívar",
+        "text": "1 Bolívar"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203199,
+        "title": "1 Bolívar",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "venezuela",
+          "name": "Venezuela"
+        },
+        "min_year": 1989,
+        "max_year": 1989,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/632df7d2b72759.80381106-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/632df7d36f0276.37130854-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203218,
+      "title": "2 Bolívares",
+      "issuer": {
+        "code": "venezuela",
+        "name": "Venezuela"
+      },
+      "min_year": 1989,
+      "max_year": 1989,
+      "face": {
+        "value": 2,
+        "unit": "Bolívares",
+        "text": "2 Bolívares"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203218,
+        "title": "2 Bolívares",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "venezuela",
+          "name": "Venezuela"
+        },
+        "min_year": 1989,
+        "max_year": 1989,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/629a2e1d7337e5.67720414-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/629a2e1e1379d4.07900458-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203545,
+      "title": "10 Bolívares",
+      "issuer": {
+        "code": "venezuela",
+        "name": "Venezuela"
+      },
+      "min_year": 1945,
+      "max_year": 1960,
+      "face": {
+        "value": 10,
+        "unit": "Bolívares",
+        "text": "10 Bolívares"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203545,
+        "title": "10 Bolívares",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "venezuela",
+          "name": "Venezuela"
+        },
+        "min_year": 1945,
+        "max_year": 1960,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/5e9958d09e0ae3.10039557-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/5e9958d11386d5.52233822-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203749,
+      "title": "50 Bolívares",
+      "issuer": {
+        "code": "venezuela",
+        "name": "Venezuela"
+      },
+      "min_year": 1940,
+      "max_year": 1960,
+      "face": {
+        "value": 50,
+        "unit": "Bolívares",
+        "text": "50 Bolívares"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203749,
+        "title": "50 Bolívares",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "venezuela",
+          "name": "Venezuela"
+        },
+        "min_year": 1940,
+        "max_year": 1960,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/5e99adb030bf88.98537063-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/5e99adb0c04cf3.95430381-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203756,
+      "title": "100 Bolívares",
+      "issuer": {
+        "code": "venezuela",
+        "name": "Venezuela"
+      },
+      "min_year": 1940,
+      "max_year": 1962,
+      "face": {
+        "value": 100,
+        "unit": "Bolívares",
+        "text": "100 Bolívares"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203756,
+        "title": "100 Bolívares",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "venezuela",
+          "name": "Venezuela"
+        },
+        "min_year": 1940,
+        "max_year": 1962,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/5e99b2a584d857.16854919-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/5e99b2a624db00.77064944-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203833,
+      "title": "500 Bolívares (Orange type)",
+      "issuer": {
+        "code": "venezuela",
+        "name": "Venezuela"
+      },
+      "min_year": 1947,
+      "max_year": 1971,
+      "face": {
+        "value": 500,
+        "unit": "Bolívares",
+        "text": "500 Bolívares"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203833,
+        "title": "500 Bolívares (Orange type)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "venezuela",
+          "name": "Venezuela"
+        },
+        "min_year": 1947,
+        "max_year": 1971,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/5e99cf4cf32750.85469639-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/5e99cf4d855cc0.25172395-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204067,
+      "title": "100 Bolívares",
+      "issuer": {
+        "code": "venezuela",
+        "name": "Venezuela"
+      },
+      "min_year": 2007,
+      "max_year": 2017,
+      "face": {
+        "value": 100,
+        "unit": "Bolívares",
+        "text": "100 Bolívares"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204067,
+        "title": "100 Bolívares",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "venezuela",
+          "name": "Venezuela"
+        },
+        "min_year": 2007,
+        "max_year": 2017,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/626b87467f2be9.88788979-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/626b8747186f09.60623008-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204100,
+      "title": "5 Bolívares (without \"CARACAS\")",
+      "issuer": {
+        "code": "venezuela",
+        "name": "Venezuela"
+      },
+      "min_year": 1989,
+      "max_year": 1989,
+      "face": {
+        "value": 5,
+        "unit": "Bolívares",
+        "text": "5 Bolívares"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204100,
+        "title": "5 Bolívares (without \"CARACAS\")",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "venezuela",
+          "name": "Venezuela"
+        },
+        "min_year": 1989,
+        "max_year": 1989,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/62399f4cc29967.26461705-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/62399f4d316197.86938971-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204509,
+      "title": "10 Bolívares",
+      "issuer": {
+        "code": "venezuela",
+        "name": "Venezuela"
+      },
+      "min_year": 1963,
+      "max_year": 1970,
+      "face": {
+        "value": 10,
+        "unit": "Bolívares",
+        "text": "10 Bolívares"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204509,
+        "title": "10 Bolívares",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "venezuela",
+          "name": "Venezuela"
+        },
+        "min_year": 1963,
+        "max_year": 1970,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/5e9bfd433b2a39.38759863-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/5e9bfd43ab3085.86519514-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204512,
+      "title": "10 Bolívares",
+      "issuer": {
+        "code": "venezuela",
+        "name": "Venezuela"
+      },
+      "min_year": 1971,
+      "max_year": 1979,
+      "face": {
+        "value": 10,
+        "unit": "Bolívares",
+        "text": "10 Bolívares"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204512,
+        "title": "10 Bolívares",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "venezuela",
+          "name": "Venezuela"
+        },
+        "min_year": 1971,
+        "max_year": 1979,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/5e9bfef4ec78b0.03803827-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/5e9bfef5730a51.95919023-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204517,
+      "title": "10 Bolívares (150 years of the death of Antonio José de Sucre)",
+      "issuer": {
+        "code": "venezuela",
+        "name": "Venezuela"
+      },
+      "min_year": 1980,
+      "max_year": 1980,
+      "face": {
+        "value": 10,
+        "unit": "Bolívares",
+        "text": "10 Bolívares"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204517,
+        "title": "10 Bolívares (150 years of the death of Antonio José de Sucre)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "venezuela",
+          "name": "Venezuela"
+        },
+        "min_year": 1980,
+        "max_year": 1980,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/5e9c006074aa83.06432647-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/5e9c0060dd2c17.63783600-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204521,
+      "title": "10 Bolívares (150 years of the death of Antonio José de Sucre)",
+      "issuer": {
+        "code": "venezuela",
+        "name": "Venezuela"
+      },
+      "min_year": 1981,
+      "max_year": 1981,
+      "face": {
+        "value": 10,
+        "unit": "Bolívares",
+        "text": "10 Bolívares"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204521,
+        "title": "10 Bolívares (150 years of the death of Antonio José de Sucre)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "venezuela",
+          "name": "Venezuela"
+        },
+        "min_year": 1981,
+        "max_year": 1981,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/5e9c01b65f86f6.43409204-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/5e9c01b6d28aa1.57366982-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204523,
+      "title": "10 Bolívares",
+      "issuer": {
+        "code": "venezuela",
+        "name": "Venezuela"
+      },
+      "min_year": 1986,
+      "max_year": 1995,
+      "face": {
+        "value": 10,
+        "unit": "Bolívares",
+        "text": "10 Bolívares"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204523,
+        "title": "10 Bolívares",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "venezuela",
+          "name": "Venezuela"
+        },
+        "min_year": 1986,
+        "max_year": 1995,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/63dbd7cdf0f774.88394094-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/63dbd7d18ff4c3.38440210-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204526,
+      "title": "10 Bolívares",
+      "issuer": {
+        "code": "venezuela",
+        "name": "Venezuela"
+      },
+      "min_year": 1988,
+      "max_year": 1988,
+      "face": {
+        "value": 10,
+        "unit": "Bolívares",
+        "text": "10 Bolívares"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204526,
+        "title": "10 Bolívares",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "venezuela",
+          "name": "Venezuela"
+        },
+        "min_year": 1988,
+        "max_year": 1988,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/5e9c043e04e722.45028493-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/5e9c043e8cd926.83073631-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204755,
+      "title": "2 Bolívares",
+      "issuer": {
+        "code": "venezuela",
+        "name": "Venezuela"
+      },
+      "min_year": 2018,
+      "max_year": 2018,
+      "face": {
+        "value": 2,
+        "unit": "Bolívares",
+        "text": "2 Bolívares"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204755,
+        "title": "2 Bolívares",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "venezuela",
+          "name": "Venezuela"
+        },
+        "min_year": 2018,
+        "max_year": 2018,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/62fbbf413f2953.73877349-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/62fbbf41b8f629.73467439-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205313,
+      "title": "20 Bolívares",
+      "issuer": {
+        "code": "venezuela",
+        "name": "Venezuela"
+      },
+      "min_year": 1981,
+      "max_year": 1998,
+      "face": {
+        "value": 20,
+        "unit": "Bolívares",
+        "text": "20 Bolívares"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205313,
+        "title": "20 Bolívares",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "venezuela",
+          "name": "Venezuela"
+        },
+        "min_year": 1981,
+        "max_year": 1998,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/62d51f2f2a0154.86581169-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/62d51f3206e669.25150844-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205318,
+      "title": "20 Bolívares (Caracas)",
+      "issuer": {
+        "code": "venezuela",
+        "name": "Venezuela"
+      },
+      "min_year": 1974,
+      "max_year": 1979,
+      "face": {
+        "value": 20,
+        "unit": "Bolívares",
+        "text": "20 Bolívares"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205318,
+        "title": "20 Bolívares (Caracas)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "venezuela",
+          "name": "Venezuela"
+        },
+        "min_year": 1974,
+        "max_year": 1979,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/62d5166d85d3d8.41621534-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/62d5167042eb99.25742079-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205322,
+      "title": "20 Bolívares (Bicentennial Birth of General Rafael Urdaneta)",
+      "issuer": {
+        "code": "venezuela",
+        "name": "Venezuela"
+      },
+      "min_year": 1987,
+      "max_year": 1987,
+      "face": {
+        "value": 20,
+        "unit": "Bolívares",
+        "text": "20 Bolívares"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205322,
+        "title": "20 Bolívares (Bicentennial Birth of General Rafael Urdaneta)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "venezuela",
+          "name": "Venezuela"
+        },
+        "min_year": 1987,
+        "max_year": 1987,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/5ea0651f0387d4.66351919-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/5ea0651f8a3ad9.02794847-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205324,
+      "title": "100 Bolívares (Without printer's name)",
+      "issuer": {
+        "code": "venezuela",
+        "name": "Venezuela"
+      },
+      "min_year": 1987,
+      "max_year": 1998,
+      "face": {
+        "value": 100,
+        "unit": "Bolívares",
+        "text": "100 Bolívares"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205324,
+        "title": "100 Bolívares (Without printer's name)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "venezuela",
+          "name": "Venezuela"
+        },
+        "min_year": 1987,
+        "max_year": 1998,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/5eabd7c9c350b8.23832427-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/5eabd7ca372398.02615898-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205325,
+      "title": "500 Bolívares",
+      "issuer": {
+        "code": "venezuela",
+        "name": "Venezuela"
+      },
+      "min_year": 1981,
+      "max_year": 1998,
+      "face": {
+        "value": 500,
+        "unit": "Bolívares",
+        "text": "500 Bolívares"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205325,
+        "title": "500 Bolívares",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "venezuela",
+          "name": "Venezuela"
+        },
+        "min_year": 1981,
+        "max_year": 1998,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/5eabe03a151f80.71789258-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/5eabe03a863633.42316988-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205327,
+      "title": "100 Bolívares (150th Anniversary Death of Simon Bolivar)",
+      "issuer": {
+        "code": "venezuela",
+        "name": "Venezuela"
+      },
+      "min_year": 1980,
+      "max_year": 1980,
+      "face": {
+        "value": 100,
+        "unit": "Bolívares",
+        "text": "100 Bolívares"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205327,
+        "title": "100 Bolívares (150th Anniversary Death of Simon Bolivar)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "venezuela",
+          "name": "Venezuela"
+        },
+        "min_year": 1980,
+        "max_year": 1980,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/5eabd8b2005447.44482990-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/5eabd8b2736a83.70962063-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205347,
+      "title": "10 Bolívares",
+      "issuer": {
+        "code": "venezuela",
+        "name": "Venezuela"
+      },
+      "min_year": 2007,
+      "max_year": 2014,
+      "face": {
+        "value": 10,
+        "unit": "Bolívares",
+        "text": "10 Bolívares"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205347,
+        "title": "10 Bolívares",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "venezuela",
+          "name": "Venezuela"
+        },
+        "min_year": 2007,
+        "max_year": 2014,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/629a2e93e0d378.13762282-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/629a2e94742b60.83791549-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205348,
+      "title": "20 Bolívares",
+      "issuer": {
+        "code": "venezuela",
+        "name": "Venezuela"
+      },
+      "min_year": 2007,
+      "max_year": 2014,
+      "face": {
+        "value": 20,
+        "unit": "Bolívares",
+        "text": "20 Bolívares"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205348,
+        "title": "20 Bolívares",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "venezuela",
+          "name": "Venezuela"
+        },
+        "min_year": 2007,
+        "max_year": 2014,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/629a2eeacf8404.83502397-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/629a2eeb6a2f87.66286889-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205351,
+      "title": "50 Bolívares",
+      "issuer": {
+        "code": "venezuela",
+        "name": "Venezuela"
+      },
+      "min_year": 2007,
+      "max_year": 2015,
+      "face": {
+        "value": 50,
+        "unit": "Bolívares",
+        "text": "50 Bolívares"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205351,
+        "title": "50 Bolívares",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "venezuela",
+          "name": "Venezuela"
+        },
+        "min_year": 2007,
+        "max_year": 2015,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/697fb785e2c381.43718346-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/697fb78730b9f2.44546222-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205354,
+      "title": "500 Bolívares",
+      "issuer": {
+        "code": "venezuela",
+        "name": "Venezuela"
+      },
+      "min_year": 2016,
+      "max_year": 2017,
+      "face": {
+        "value": 500,
+        "unit": "Bolívares",
+        "text": "500 Bolívares"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205354,
+        "title": "500 Bolívares",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "venezuela",
+          "name": "Venezuela"
+        },
+        "min_year": 2016,
+        "max_year": 2017,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/629a2f70d6e858.22107454-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/629a2f716a9b71.96974060-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205358,
+      "title": "1000 Bolívares",
+      "issuer": {
+        "code": "venezuela",
+        "name": "Venezuela"
+      },
+      "min_year": 2016,
+      "max_year": 2017,
+      "face": {
+        "value": 1000,
+        "unit": "Bolívares",
+        "text": "1000 Bolívares"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205358,
+        "title": "1000 Bolívares",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "venezuela",
+          "name": "Venezuela"
+        },
+        "min_year": 2016,
+        "max_year": 2017,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/629a2fa05840d5.39357488-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/629a2fa0e113f7.49963835-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205362,
+      "title": "2000 Bolívares",
+      "issuer": {
+        "code": "venezuela",
+        "name": "Venezuela"
+      },
+      "min_year": 2016,
+      "max_year": 2016,
+      "face": {
+        "value": 2000,
+        "unit": "Bolívares",
+        "text": "2000 Bolívares"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205362,
+        "title": "2000 Bolívares",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "venezuela",
+          "name": "Venezuela"
+        },
+        "min_year": 2016,
+        "max_year": 2016,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/629a2f483ff3f2.50696955-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/629a2f48c14201.09482420-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205364,
+      "title": "5000 Bolívares",
+      "issuer": {
+        "code": "venezuela",
+        "name": "Venezuela"
+      },
+      "min_year": 2016,
+      "max_year": 2017,
+      "face": {
+        "value": 5000,
+        "unit": "Bolívares",
+        "text": "5000 Bolívares"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205364,
+        "title": "5000 Bolívares",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "venezuela",
+          "name": "Venezuela"
+        },
+        "min_year": 2016,
+        "max_year": 2017,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/696e30d21f3826.41319254-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/696a86b61ea919.48040930-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205368,
+      "title": "10 000 Bolívares",
+      "issuer": {
+        "code": "venezuela",
+        "name": "Venezuela"
+      },
+      "min_year": 2016,
+      "max_year": 2017,
+      "face": {
+        "value": 10000,
+        "unit": "Bolívares",
+        "text": "10000 Bolívares"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205368,
+        "title": "10 000 Bolívares",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "venezuela",
+          "name": "Venezuela"
+        },
+        "min_year": 2016,
+        "max_year": 2017,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/696e190a4654c0.36378386-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/696a838c589af0.74135040-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205371,
+      "title": "20 000 Bolívares",
+      "issuer": {
+        "code": "venezuela",
+        "name": "Venezuela"
+      },
+      "min_year": 2016,
+      "max_year": 2017,
+      "face": {
+        "value": 20000,
+        "unit": "Bolívares",
+        "text": "20000 Bolívares"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205371,
+        "title": "20 000 Bolívares",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "venezuela",
+          "name": "Venezuela"
+        },
+        "min_year": 2016,
+        "max_year": 2017,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/696a8dbdce3651.56860447-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/696a7eafe4d1a5.77126307-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205425,
+      "title": "20 Bolívares",
+      "issuer": {
+        "code": "venezuela",
+        "name": "Venezuela"
+      },
+      "min_year": 1960,
+      "max_year": 1966,
+      "face": {
+        "value": 20,
+        "unit": "Bolívares",
+        "text": "20 Bolívares"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205425,
+        "title": "20 Bolívares",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "venezuela",
+          "name": "Venezuela"
+        },
+        "min_year": 1960,
+        "max_year": 1966,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/5e9ddd5e9f1e69.57315538-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/5e9ddd5f2f4983.30646415-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205428,
+      "title": "20 Bolívares",
+      "issuer": {
+        "code": "venezuela",
+        "name": "Venezuela"
+      },
+      "min_year": 1967,
+      "max_year": 1974,
+      "face": {
+        "value": 20,
+        "unit": "Bolívares",
+        "text": "20 Bolívares"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205428,
+        "title": "20 Bolívares",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "venezuela",
+          "name": "Venezuela"
+        },
+        "min_year": 1967,
+        "max_year": 1974,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/5e9dded0e09502.72663160-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/5e9dded17b4032.97340897-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205429,
+      "title": "20 Bolívares",
+      "issuer": {
+        "code": "venezuela",
+        "name": "Venezuela"
+      },
+      "min_year": 1971,
+      "max_year": 1972,
+      "face": {
+        "value": 20,
+        "unit": "Bolívares",
+        "text": "20 Bolívares"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205429,
+        "title": "20 Bolívares",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "venezuela",
+          "name": "Venezuela"
+        },
+        "min_year": 1971,
+        "max_year": 1972,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/5e9ddf7a4fb953.92158903-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/5e9ddf7ad65a30.96209229-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205871,
+      "title": "50 Bolívares",
+      "issuer": {
+        "code": "venezuela",
+        "name": "Venezuela"
+      },
+      "min_year": 1961,
+      "max_year": 1963,
+      "face": {
+        "value": 50,
+        "unit": "Bolívares",
+        "text": "50 Bolívares"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205871,
+        "title": "50 Bolívares",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "venezuela",
+          "name": "Venezuela"
+        },
+        "min_year": 1961,
+        "max_year": 1963,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/5e9f1877786328.01477596-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/5e9f18781d39c1.97101642-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205873,
+      "title": "50 Bolívares",
+      "issuer": {
+        "code": "venezuela",
+        "name": "Venezuela"
+      },
+      "min_year": 1964,
+      "max_year": 1972,
+      "face": {
+        "value": 50,
+        "unit": "Bolívares",
+        "text": "50 Bolívares"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205873,
+        "title": "50 Bolívares",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "venezuela",
+          "name": "Venezuela"
+        },
+        "min_year": 1964,
+        "max_year": 1972,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/5e9f196050e820.84865938-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/5e9f1960d8d670.63568798-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205876,
+      "title": "50 Bolívares",
+      "issuer": {
+        "code": "venezuela",
+        "name": "Venezuela"
+      },
+      "min_year": 1972,
+      "max_year": 1977,
+      "face": {
+        "value": 50,
+        "unit": "Bolívares",
+        "text": "50 Bolívares"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205876,
+        "title": "50 Bolívares",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "venezuela",
+          "name": "Venezuela"
+        },
+        "min_year": 1972,
+        "max_year": 1977,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/5e9f1a86ee2b29.69110825-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/5e9f1a8783d2b6.75581013-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205883,
+      "title": "50 Bolívares",
+      "issuer": {
+        "code": "venezuela",
+        "name": "Venezuela"
+      },
+      "min_year": 1985,
+      "max_year": 1998,
+      "face": {
+        "value": 50,
+        "unit": "Bolívares",
+        "text": "50 Bolívares"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205883,
+        "title": "50 Bolívares",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "venezuela",
+          "name": "Venezuela"
+        },
+        "min_year": 1985,
+        "max_year": 1998,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/63dbd7f24d9123.27410160-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/63dbd7f5c57607.52230565-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205887,
+      "title": "50 Bolívares",
+      "issuer": {
+        "code": "venezuela",
+        "name": "Venezuela"
+      },
+      "min_year": 1990,
+      "max_year": 1990,
+      "face": {
+        "value": 50,
+        "unit": "Bolívares",
+        "text": "50 Bolívares"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205887,
+        "title": "50 Bolívares",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "venezuela",
+          "name": "Venezuela"
+        },
+        "min_year": 1990,
+        "max_year": 1990,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/5e9f1fcec8ec38.69400047-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/5e9f1fcf4d50a9.26853330-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205888,
+      "title": "50 Bolívares (Bicentennial of the birth of Andrés Bello)",
+      "issuer": {
+        "code": "venezuela",
+        "name": "Venezuela"
+      },
+      "min_year": 1981,
+      "max_year": 1981,
+      "face": {
+        "value": 50,
+        "unit": "Bolívares",
+        "text": "50 Bolívares"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205888,
+        "title": "50 Bolívares (Bicentennial of the birth of Andrés Bello)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "venezuela",
+          "name": "Venezuela"
+        },
+        "min_year": 1981,
+        "max_year": 1981,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/5e9f2099d0d363.79374766-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/5e9f209a55ee19.88654731-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205895,
+      "title": "10 Bolívares",
+      "issuer": {
+        "code": "venezuela",
+        "name": "Venezuela"
+      },
+      "min_year": 1961,
+      "max_year": 1961,
+      "face": {
+        "value": 10,
+        "unit": "Bolívares",
+        "text": "10 Bolívares"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205895,
+        "title": "10 Bolívares",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "venezuela",
+          "name": "Venezuela"
+        },
+        "min_year": 1961,
+        "max_year": 1961,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/5e9f2937eb3407.70238228-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/5e9f29387a9ba2.54361114-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 208164,
+      "title": "5 Bolívares",
+      "issuer": {
+        "code": "venezuela",
+        "name": "Venezuela"
+      },
+      "min_year": 2018,
+      "max_year": 2018,
+      "face": {
+        "value": 5,
+        "unit": "Bolívares",
+        "text": "5 Bolívares"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 208164,
+        "title": "5 Bolívares",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "venezuela",
+          "name": "Venezuela"
+        },
+        "min_year": 2018,
+        "max_year": 2018,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/62fbbf68256194.30714097-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/62fbbf68b08049.82704308-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 208165,
+      "title": "10 Bolívares",
+      "issuer": {
+        "code": "venezuela",
+        "name": "Venezuela"
+      },
+      "min_year": 2018,
+      "max_year": 2018,
+      "face": {
+        "value": 10,
+        "unit": "Bolívares",
+        "text": "10 Bolívares"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 208165,
+        "title": "10 Bolívares",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "venezuela",
+          "name": "Venezuela"
+        },
+        "min_year": 2018,
+        "max_year": 2018,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/62fbbff480b712.53364294-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/62fbbff5193e97.03797237-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 208166,
+      "title": "20 Bolívares",
+      "issuer": {
+        "code": "venezuela",
+        "name": "Venezuela"
+      },
+      "min_year": 2018,
+      "max_year": 2018,
+      "face": {
+        "value": 20,
+        "unit": "Bolívares",
+        "text": "20 Bolívares"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 208166,
+        "title": "20 Bolívares",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "venezuela",
+          "name": "Venezuela"
+        },
+        "min_year": 2018,
+        "max_year": 2018,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/62fbc02b6624f1.49392127-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/62fbc02c0edf82.06265586-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 208167,
+      "title": "50 Bolívares",
+      "issuer": {
+        "code": "venezuela",
+        "name": "Venezuela"
+      },
+      "min_year": 2018,
+      "max_year": 2018,
+      "face": {
+        "value": 50,
+        "unit": "Bolívares",
+        "text": "50 Bolívares"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 208167,
+        "title": "50 Bolívares",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "venezuela",
+          "name": "Venezuela"
+        },
+        "min_year": 2018,
+        "max_year": 2018,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/62fbc093d26471.62743863-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/62fbc0946ab193.21540400-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 208168,
+      "title": "100 Bolívares",
+      "issuer": {
+        "code": "venezuela",
+        "name": "Venezuela"
+      },
+      "min_year": 2018,
+      "max_year": 2018,
+      "face": {
+        "value": 100,
+        "unit": "Bolívares",
+        "text": "100 Bolívares"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 208168,
+        "title": "100 Bolívares",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "venezuela",
+          "name": "Venezuela"
+        },
+        "min_year": 2018,
+        "max_year": 2018,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/62fbc0bc9a8114.46291062-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/62fbc0bd2b3041.56823397-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 208169,
+      "title": "200 Bolívares",
+      "issuer": {
+        "code": "venezuela",
+        "name": "Venezuela"
+      },
+      "min_year": 2018,
+      "max_year": 2018,
+      "face": {
+        "value": 200,
+        "unit": "Bolívares",
+        "text": "200 Bolívares"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 208169,
+        "title": "200 Bolívares",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "venezuela",
+          "name": "Venezuela"
+        },
+        "min_year": 2018,
+        "max_year": 2018,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/62fbc0fa31e710.53450014-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/62fbc0fab30ee0.74237245-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 208170,
+      "title": "500 Bolívares",
+      "issuer": {
+        "code": "venezuela",
+        "name": "Venezuela"
+      },
+      "min_year": 2018,
+      "max_year": 2018,
+      "face": {
+        "value": 500,
+        "unit": "Bolívares",
+        "text": "500 Bolívares"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 208170,
+        "title": "500 Bolívares",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "venezuela",
+          "name": "Venezuela"
+        },
+        "min_year": 2018,
+        "max_year": 2018,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/62fbc852e54ec4.26501433-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/62fbc853738607.66399321-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 208841,
+      "title": "100 000 Bolívares",
+      "issuer": {
+        "code": "venezuela",
+        "name": "Venezuela"
+      },
+      "min_year": 2017,
+      "max_year": 2017,
+      "face": {
+        "value": 100000,
+        "unit": "Bolívares",
+        "text": "100000 Bolívares"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 208841,
+        "title": "100 000 Bolívares",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "venezuela",
+          "name": "Venezuela"
+        },
+        "min_year": 2017,
+        "max_year": 2017,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/62fbd64adb1140.05601601-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/62fbd64b66afb2.33175535-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 209866,
+      "title": "100 Bolívares",
+      "issuer": {
+        "code": "venezuela",
+        "name": "Venezuela"
+      },
+      "min_year": 1963,
+      "max_year": 1973,
+      "face": {
+        "value": 100,
+        "unit": "Bolívares",
+        "text": "100 Bolívares"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 209866,
+        "title": "100 Bolívares",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "venezuela",
+          "name": "Venezuela"
+        },
+        "min_year": 1963,
+        "max_year": 1973,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/5eabd274a384c0.41937470-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/5eabd275176a44.22838230-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 209868,
+      "title": "100 Bolívares (With printer's name)",
+      "issuer": {
+        "code": "venezuela",
+        "name": "Venezuela"
+      },
+      "min_year": 1972,
+      "max_year": 1981,
+      "face": {
+        "value": 100,
+        "unit": "Bolívares",
+        "text": "100 Bolívares"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 209868,
+        "title": "100 Bolívares (With printer's name)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "venezuela",
+          "name": "Venezuela"
+        },
+        "min_year": 1972,
+        "max_year": 1981,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/5eabd4e8532a46.10574236-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/5eabd4e8b2b338.27311357-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 209882,
+      "title": "500 Bolívares (Sesquicentennial of the Battle of Carabobo)",
+      "issuer": {
+        "code": "venezuela",
+        "name": "Venezuela"
+      },
+      "min_year": 1971,
+      "max_year": 1972,
+      "face": {
+        "value": 500,
+        "unit": "Bolívares",
+        "text": "500 Bolívares"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 209882,
+        "title": "500 Bolívares (Sesquicentennial of the Battle of Carabobo)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "venezuela",
+          "name": "Venezuela"
+        },
+        "min_year": 1971,
+        "max_year": 1972,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/5eabde232dfee4.98188047-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/5eabde23939540.03904598-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 209890,
+      "title": "1000 Bolívares",
+      "issuer": {
+        "code": "venezuela",
+        "name": "Venezuela"
+      },
+      "min_year": 1991,
+      "max_year": 1992,
+      "face": {
+        "value": 1000,
+        "unit": "Bolívares",
+        "text": "1000 Bolívares"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 209890,
+        "title": "1000 Bolívares",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "venezuela",
+          "name": "Venezuela"
+        },
+        "min_year": 1991,
+        "max_year": 1992,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/5eabe1e671bcd5.11772362-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/5eabe1e6d9c979.29340569-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 209905,
+      "title": "1000 Bolívares",
+      "issuer": {
+        "code": "venezuela",
+        "name": "Venezuela"
+      },
+      "min_year": 1994,
+      "max_year": 1998,
+      "face": {
+        "value": 1000,
+        "unit": "Bolívares",
+        "text": "1000 Bolívares"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 209905,
+        "title": "1000 Bolívares",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "venezuela",
+          "name": "Venezuela"
+        },
+        "min_year": 1994,
+        "max_year": 1998,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/5eabe771811f97.10364649-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/5eabe772059ef3.23182252-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 209908,
+      "title": "1000 Bolívares",
+      "issuer": {
+        "code": "venezuela",
+        "name": "Venezuela"
+      },
+      "min_year": 1998,
+      "max_year": 1998,
+      "face": {
+        "value": 1000,
+        "unit": "Bolívares",
+        "text": "1000 Bolívares"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 209908,
+        "title": "1000 Bolívares",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "venezuela",
+          "name": "Venezuela"
+        },
+        "min_year": 1998,
+        "max_year": 1998,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/5eabe836c59e02.90899735-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/5eabe8374a54a1.10999535-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 209928,
+      "title": "2000 Bolívares",
+      "issuer": {
+        "code": "venezuela",
+        "name": "Venezuela"
+      },
+      "min_year": 1994,
+      "max_year": 1995,
+      "face": {
+        "value": 2000,
+        "unit": "Bolívares",
+        "text": "2000 Bolívares"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 209928,
+        "title": "2000 Bolívares",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "venezuela",
+          "name": "Venezuela"
+        },
+        "min_year": 1994,
+        "max_year": 1995,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/5eabefa8dcc546.08313161-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/5eabefa94f0c72.62829510-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 209930,
+      "title": "2000 Bolívares",
+      "issuer": {
+        "code": "venezuela",
+        "name": "Venezuela"
+      },
+      "min_year": 1997,
+      "max_year": 1998,
+      "face": {
+        "value": 2000,
+        "unit": "Bolívares",
+        "text": "2000 Bolívares"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 209930,
+        "title": "2000 Bolívares",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "venezuela",
+          "name": "Venezuela"
+        },
+        "min_year": 1997,
+        "max_year": 1998,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/5eabf1200de8d5.45821247-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/5eabf1207a1a61.10247265-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 209932,
+      "title": "2000 Bolívares",
+      "issuer": {
+        "code": "venezuela",
+        "name": "Venezuela"
+      },
+      "min_year": 1998,
+      "max_year": 1998,
+      "face": {
+        "value": 2000,
+        "unit": "Bolívares",
+        "text": "2000 Bolívares"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 209932,
+        "title": "2000 Bolívares",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "venezuela",
+          "name": "Venezuela"
+        },
+        "min_year": 1998,
+        "max_year": 1998,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/5eabf1cf3fcd71.94766903-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/5eabf1cfb615f5.92970769-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 209934,
+      "title": "5000 Bolívares",
+      "issuer": {
+        "code": "venezuela",
+        "name": "Venezuela"
+      },
+      "min_year": 1994,
+      "max_year": 1996,
+      "face": {
+        "value": 5000,
+        "unit": "Bolívares",
+        "text": "5000 Bolívares"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 209934,
+        "title": "5000 Bolívares",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "venezuela",
+          "name": "Venezuela"
+        },
+        "min_year": 1994,
+        "max_year": 1996,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/5eabf3756659d6.38199033-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/5eabf375f06a63.13684654-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 209935,
+      "title": "5000 Bolívares",
+      "issuer": {
+        "code": "venezuela",
+        "name": "Venezuela"
+      },
+      "min_year": 1997,
+      "max_year": 1998,
+      "face": {
+        "value": 5000,
+        "unit": "Bolívares",
+        "text": "5000 Bolívares"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 209935,
+        "title": "5000 Bolívares",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "venezuela",
+          "name": "Venezuela"
+        },
+        "min_year": 1997,
+        "max_year": 1998,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/5eabf4ac98a346.67997992-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/5eabf4ad292182.38370656-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 209937,
+      "title": "5000 Bolívares",
+      "issuer": {
+        "code": "venezuela",
+        "name": "Venezuela"
+      },
+      "min_year": 2000,
+      "max_year": 2004,
+      "face": {
+        "value": 5000,
+        "unit": "Bolívares",
+        "text": "5000 Bolívares"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 209937,
+        "title": "5000 Bolívares",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "venezuela",
+          "name": "Venezuela"
+        },
+        "min_year": 2000,
+        "max_year": 2004,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/5eabf5d9029f02.23732493-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/5eabf5d96d2f80.40927610-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 209946,
+      "title": "10 000 Bolívares",
+      "issuer": {
+        "code": "venezuela",
+        "name": "Venezuela"
+      },
+      "min_year": 1998,
+      "max_year": 1998,
+      "face": {
+        "value": 10000,
+        "unit": "Bolívares",
+        "text": "10000 Bolívares"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 209946,
+        "title": "10 000 Bolívares",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "venezuela",
+          "name": "Venezuela"
+        },
+        "min_year": 1998,
+        "max_year": 1998,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/5eabfbb9f0e918.62990681-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/5eabfbba6290e0.30003993-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 209951,
+      "title": "10 000 Bolívares",
+      "issuer": {
+        "code": "venezuela",
+        "name": "Venezuela"
+      },
+      "min_year": 2000,
+      "max_year": 2006,
+      "face": {
+        "value": 10000,
+        "unit": "Bolívares",
+        "text": "10000 Bolívares"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 209951,
+        "title": "10 000 Bolívares",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "venezuela",
+          "name": "Venezuela"
+        },
+        "min_year": 2000,
+        "max_year": 2006,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/5eabfeb8b780d6.87312106-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/5eabfeb9329239.65850705-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 209953,
+      "title": "20 000 Bolívares",
+      "issuer": {
+        "code": "venezuela",
+        "name": "Venezuela"
+      },
+      "min_year": 1998,
+      "max_year": 1998,
+      "face": {
+        "value": 20000,
+        "unit": "Bolívares",
+        "text": "20000 Bolívares"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 209953,
+        "title": "20 000 Bolívares",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "venezuela",
+          "name": "Venezuela"
+        },
+        "min_year": 1998,
+        "max_year": 1998,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/5eabffc6e29525.46389507-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/5eabffc75ece32.20832725-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 209961,
+      "title": "20 000 Bolívares",
+      "issuer": {
+        "code": "venezuela",
+        "name": "Venezuela"
+      },
+      "min_year": 2001,
+      "max_year": 2006,
+      "face": {
+        "value": 20000,
+        "unit": "Bolívares",
+        "text": "20000 Bolívares"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 209961,
+        "title": "20 000 Bolívares",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "venezuela",
+          "name": "Venezuela"
+        },
+        "min_year": 2001,
+        "max_year": 2006,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/5eac030b206931.86580138-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/5eac030b8b00b9.58169289-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 209963,
+      "title": "50 000 Bolívares",
+      "issuer": {
+        "code": "venezuela",
+        "name": "Venezuela"
+      },
+      "min_year": 1998,
+      "max_year": 1998,
+      "face": {
+        "value": 50000,
+        "unit": "Bolívares",
+        "text": "50000 Bolívares"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 209963,
+        "title": "50 000 Bolívares",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "venezuela",
+          "name": "Venezuela"
+        },
+        "min_year": 1998,
+        "max_year": 1998,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/5eac049a0c3ed1.07246245-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/5eac049a7c58b8.63981039-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 209968,
+      "title": "50 000 Bolívares",
+      "issuer": {
+        "code": "venezuela",
+        "name": "Venezuela"
+      },
+      "min_year": 2005,
+      "max_year": 2006,
+      "face": {
+        "value": 50000,
+        "unit": "Bolívares",
+        "text": "50000 Bolívares"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 209968,
+        "title": "50 000 Bolívares",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "venezuela",
+          "name": "Venezuela"
+        },
+        "min_year": 2005,
+        "max_year": 2006,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/5eac09710f6d85.67232157-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/5eac09718c0026.67577149-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 215192,
+      "title": "10 000 Bolívares",
+      "issuer": {
+        "code": "venezuela",
+        "name": "Venezuela"
+      },
+      "min_year": 2019,
+      "max_year": 2019,
+      "face": {
+        "value": 10000,
+        "unit": "Bolívares",
+        "text": "10000 Bolívares"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 215192,
+        "title": "10 000 Bolívares",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "venezuela",
+          "name": "Venezuela"
+        },
+        "min_year": 2019,
+        "max_year": 2019,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/63bb388fdcf7b4.30643787-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/63bb389039a566.33886426-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 216017,
+      "title": "20 000 Bolívares",
+      "issuer": {
+        "code": "venezuela",
+        "name": "Venezuela"
+      },
+      "min_year": 2019,
+      "max_year": 2019,
+      "face": {
+        "value": 20000,
+        "unit": "Bolívares",
+        "text": "20000 Bolívares"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 216017,
+        "title": "20 000 Bolívares",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "venezuela",
+          "name": "Venezuela"
+        },
+        "min_year": 2019,
+        "max_year": 2019,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/6a0ad11536d5a6.11368694-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/6a0ad116407816.56509205-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 216019,
+      "title": "50 000 Bolívares",
+      "issuer": {
+        "code": "venezuela",
+        "name": "Venezuela"
+      },
+      "min_year": 2019,
+      "max_year": 2019,
+      "face": {
+        "value": 50000,
+        "unit": "Bolívares",
+        "text": "50000 Bolívares"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 216019,
+        "title": "50 000 Bolívares",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "venezuela",
+          "name": "Venezuela"
+        },
+        "min_year": 2019,
+        "max_year": 2019,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/6a0ad47ed31873.57592858-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/6a0ad47fd82ca7.36607835-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 278128,
+      "title": "200 000 Bolívares",
+      "issuer": {
+        "code": "venezuela",
+        "name": "Venezuela"
+      },
+      "min_year": 2020,
+      "max_year": 2020,
+      "face": {
+        "value": 200000,
+        "unit": "Bolívares",
+        "text": "200000 Bolívares"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 278128,
+        "title": "200 000 Bolívares",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "venezuela",
+          "name": "Venezuela"
+        },
+        "min_year": 2020,
+        "max_year": 2020,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/6153143eb0e538.90731496-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/61531441295d14.35458863-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 278129,
+      "title": "500 000 Bolívares",
+      "issuer": {
+        "code": "venezuela",
+        "name": "Venezuela"
+      },
+      "min_year": 2020,
+      "max_year": 2020,
+      "face": {
+        "value": 500000,
+        "unit": "Bolívares",
+        "text": "500000 Bolívares"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 278129,
+        "title": "500 000 Bolívares",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "venezuela",
+          "name": "Venezuela"
+        },
+        "min_year": 2020,
+        "max_year": 2020,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/64b661d70e13e5.26752829-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/64b661d7d1f033.32407889-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 278130,
+      "title": "1 000 000 Bolívares (200th Anniversary of the Battle of Carabobo)",
+      "issuer": {
+        "code": "venezuela",
+        "name": "Venezuela"
+      },
+      "min_year": 2020,
+      "max_year": 2020,
+      "face": {
+        "value": 1000000,
+        "unit": "Bolívares",
+        "text": "1000000 Bolívares"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 278130,
+        "title": "1 000 000 Bolívares (200th Anniversary of the Battle of Carabobo)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "venezuela",
+          "name": "Venezuela"
+        },
+        "min_year": 2020,
+        "max_year": 2020,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/654b81a1946d84.67251414-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/654b81a1df60b2.93082200-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 309202,
+      "title": "5 Bolívares (200th Anniversary of the Battle of Carabobo)",
+      "issuer": {
+        "code": "venezuela",
+        "name": "Venezuela"
+      },
+      "min_year": 2021,
+      "max_year": 2021,
+      "face": {
+        "value": 5,
+        "unit": "Bolívares",
+        "text": "5 Bolívares"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 309202,
+        "title": "5 Bolívares (200th Anniversary of the Battle of Carabobo)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "venezuela",
+          "name": "Venezuela"
+        },
+        "min_year": 2021,
+        "max_year": 2021,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/685697bec01242.25121691-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/685697c00a5df1.93156202-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 309203,
+      "title": "10 Bolívares (200th Anniversary of the Battle of Carabobo)",
+      "issuer": {
+        "code": "venezuela",
+        "name": "Venezuela"
+      },
+      "min_year": 2021,
+      "max_year": 2021,
+      "face": {
+        "value": 10,
+        "unit": "Bolívares",
+        "text": "10 Bolívares"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 309203,
+        "title": "10 Bolívares (200th Anniversary of the Battle of Carabobo)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "venezuela",
+          "name": "Venezuela"
+        },
+        "min_year": 2021,
+        "max_year": 2021,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/6621870fa703d3.94680063-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/66218710b57c27.24154339-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 325231,
+      "title": "20 Bolívares (200th Anniversary of the Battle of Carabobo)",
+      "issuer": {
+        "code": "venezuela",
+        "name": "Venezuela"
+      },
+      "min_year": 2021,
+      "max_year": 2021,
+      "face": {
+        "value": 20,
+        "unit": "Bolívares",
+        "text": "20 Bolívares"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 325231,
+        "title": "20 Bolívares (200th Anniversary of the Battle of Carabobo)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "venezuela",
+          "name": "Venezuela"
+        },
+        "min_year": 2021,
+        "max_year": 2021,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/68569bcb8e4e09.52482435-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/68569bccc99d01.01690738-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 330909,
+      "title": "50 Bolívares (200th Anniversary of the Battle of Carabobo)",
+      "issuer": {
+        "code": "venezuela",
+        "name": "Venezuela"
+      },
+      "min_year": 2021,
+      "max_year": 2021,
+      "face": {
+        "value": 50,
+        "unit": "Bolívares",
+        "text": "50 Bolívares"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 330909,
+        "title": "50 Bolívares (200th Anniversary of the Battle of Carabobo)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "venezuela",
+          "name": "Venezuela"
+        },
+        "min_year": 2021,
+        "max_year": 2021,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/68569e7b5111e9.97731284-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/68569e7ca72bd4.55876880-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 330916,
+      "title": "100 Bolívares (200th Anniversary of the Battle of Carabobo)",
+      "issuer": {
+        "code": "venezuela",
+        "name": "Venezuela"
+      },
+      "min_year": 2021,
+      "max_year": 2021,
+      "face": {
+        "value": 100,
+        "unit": "Bolívares",
+        "text": "100 Bolívares"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 330916,
+        "title": "100 Bolívares (200th Anniversary of the Battle of Carabobo)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "venezuela",
+          "name": "Venezuela"
+        },
+        "min_year": 2021,
+        "max_year": 2021,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/6856a1d8bdba59.61574924-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/6856a1da1c5db8.58590693-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 429703,
+      "title": "200 Bolívares (Battle of Lake Maracaibo)",
+      "issuer": {
+        "code": "venezuela",
+        "name": "Venezuela"
+      },
+      "min_year": 2023,
+      "max_year": 2025,
+      "face": {
+        "value": 200,
+        "unit": "Bolívares",
+        "text": "200 Bolívares"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 429703,
+        "title": "200 Bolívares (Battle of Lake Maracaibo)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "venezuela",
+          "name": "Venezuela"
+        },
+        "min_year": 2023,
+        "max_year": 2025,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/69f249e401dd52.22391715-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/69f249e589a134.94796370-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 429704,
+      "title": "500 Bolívares (Battle of Lake Maracaibo)",
+      "issuer": {
+        "code": "venezuela",
+        "name": "Venezuela"
+      },
+      "min_year": 2023,
+      "max_year": 2025,
+      "face": {
+        "value": 500,
+        "unit": "Bolívares",
+        "text": "500 Bolívares"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 429704,
+        "title": "500 Bolívares (Battle of Lake Maracaibo)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "venezuela",
+          "name": "Venezuela"
+        },
+        "min_year": 2023,
+        "max_year": 2025,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/6738890deadef6.38838570-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/venezuela/6738891041eae9.14345200-180.jpg",
+        "category": "banknote"
+      }
+    }
+  ]
+}

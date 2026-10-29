@@ -1,0 +1,3207 @@
+{
+  "meta": {
+    "generated_at": "2026-10-29T13:27:57.147Z",
+    "fixture": false,
+    "api": "numista v3",
+    "issuer": "india",
+    "iso": "IN",
+    "category": "banknote",
+    "lang": "en",
+    "since": 1960,
+    "listed": 260,
+    "fetched": 86,
+    "details_fetched": 0,
+    "dropped_before_since": 174,
+    "dropped_by_source": {
+      "list": 174,
+      "detail": 0
+    },
+    "issuer_mismatches": 0,
+    "pages": 6,
+    "requests": 0
+  },
+  "types": [
+    {
+      "numista_type_id": 202054,
+      "title": "20 Rupees (No Date)",
+      "issuer": {
+        "code": "inde",
+        "name": "India"
+      },
+      "min_year": 2002,
+      "max_year": 2002,
+      "face": {
+        "value": 20,
+        "unit": "Rupees",
+        "text": "20 Rupees"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202054,
+        "title": "20 Rupees (No Date)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "inde",
+          "name": "India"
+        },
+        "min_year": 2002,
+        "max_year": 2002,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/62effc9e481939.32715743-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/62effc9fd9a3a8.54442244-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202121,
+      "title": "5 Rupees",
+      "issuer": {
+        "code": "inde",
+        "name": "India"
+      },
+      "min_year": 1970,
+      "max_year": 2001,
+      "face": {
+        "value": 5,
+        "unit": "Rupees",
+        "text": "5 Rupees"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202121,
+        "title": "5 Rupees",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "inde",
+          "name": "India"
+        },
+        "min_year": 1970,
+        "max_year": 2001,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/62fd20f463acb4.87322168-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/62fd20f50db4b2.67884858-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202262,
+      "title": "2000 Rupees",
+      "issuer": {
+        "code": "inde",
+        "name": "India"
+      },
+      "min_year": 2016,
+      "max_year": 2017,
+      "face": {
+        "value": 2000,
+        "unit": "Rupees",
+        "text": "2000 Rupees"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202262,
+        "title": "2000 Rupees",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "inde",
+          "name": "India"
+        },
+        "min_year": 2016,
+        "max_year": 2017,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/5e961aa9a9e6c6.04355655-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/5e961aaa8467e2.53736157-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202272,
+      "title": "1000 Rupees (Dated Reverse with Rupee Symbol - ₹)",
+      "issuer": {
+        "code": "inde",
+        "name": "India"
+      },
+      "min_year": 2006,
+      "max_year": 2016,
+      "face": {
+        "value": 1000,
+        "unit": "Rupees",
+        "text": "1000 Rupees"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202272,
+        "title": "1000 Rupees (Dated Reverse with Rupee Symbol - ₹)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "inde",
+          "name": "India"
+        },
+        "min_year": 2006,
+        "max_year": 2016,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/5e961d6bca9283.88054181-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/5e961d6c727ab6.47844028-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202275,
+      "title": "500 Rupees (Dated Reverse, no Rupee Symbol)",
+      "issuer": {
+        "code": "inde",
+        "name": "India"
+      },
+      "min_year": 2005,
+      "max_year": 2012,
+      "face": {
+        "value": 500,
+        "unit": "Rupees",
+        "text": "500 Rupees"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202275,
+        "title": "500 Rupees (Dated Reverse, no Rupee Symbol)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "inde",
+          "name": "India"
+        },
+        "min_year": 2005,
+        "max_year": 2012,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/5e961e4cb8a780.63610018-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/5e961e4da49a28.16842193-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202282,
+      "title": "500 Rupees (No Date, Yellow)",
+      "issuer": {
+        "code": "inde",
+        "name": "India"
+      },
+      "min_year": 2000,
+      "max_year": 2004,
+      "face": {
+        "value": 500,
+        "unit": "Rupees",
+        "text": "500 Rupees"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202282,
+        "title": "500 Rupees (No Date, Yellow)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "inde",
+          "name": "India"
+        },
+        "min_year": 2000,
+        "max_year": 2004,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/65dcef6db53a28.39680185-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/65dcef70ca8662.51340887-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202288,
+      "title": "200 Rupees",
+      "issuer": {
+        "code": "inde",
+        "name": "India"
+      },
+      "min_year": 2017,
+      "max_year": 2026,
+      "face": {
+        "value": 200,
+        "unit": "Rupees",
+        "text": "200 Rupees"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202288,
+        "title": "200 Rupees",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "inde",
+          "name": "India"
+        },
+        "min_year": 2017,
+        "max_year": 2026,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/664f6d1d55b439.95661092-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/664f6d209dee21.42246554-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202295,
+      "title": "100 Rupees",
+      "issuer": {
+        "code": "inde",
+        "name": "India"
+      },
+      "min_year": 1962,
+      "max_year": 1970,
+      "face": {
+        "value": 100,
+        "unit": "Rupees",
+        "text": "100 Rupees"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202295,
+        "title": "100 Rupees",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "inde",
+          "name": "India"
+        },
+        "min_year": 1962,
+        "max_year": 1970,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/5e9622d62f6be7.00793076-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/5e9622d7067458.13570903-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202296,
+      "title": "500 Rupees",
+      "issuer": {
+        "code": "inde",
+        "name": "India"
+      },
+      "min_year": 2016,
+      "max_year": 2026,
+      "face": {
+        "value": 500,
+        "unit": "Rupees",
+        "text": "500 Rupees"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202296,
+        "title": "500 Rupees",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "inde",
+          "name": "India"
+        },
+        "min_year": 2016,
+        "max_year": 2026,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/664f70cd7069f6.09167228-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/664f70d0adea58.66780071-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202300,
+      "title": "100 Rupees (Dated Reverse with Rupee Symbol - ₹)",
+      "issuer": {
+        "code": "inde",
+        "name": "India"
+      },
+      "min_year": 2011,
+      "max_year": 2018,
+      "face": {
+        "value": 100,
+        "unit": "Rupees",
+        "text": "100 Rupees"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202300,
+        "title": "100 Rupees (Dated Reverse with Rupee Symbol - ₹)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "inde",
+          "name": "India"
+        },
+        "min_year": 2011,
+        "max_year": 2018,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/5e9624260b51c2.02651508-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/5e962426c03f45.33185814-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202303,
+      "title": "100 Rupees (Mahatma Gandhi birth centenary)",
+      "issuer": {
+        "code": "inde",
+        "name": "India"
+      },
+      "min_year": 1969,
+      "max_year": 1970,
+      "face": {
+        "value": 100,
+        "unit": "Rupees",
+        "text": "100 Rupees"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202303,
+        "title": "100 Rupees (Mahatma Gandhi birth centenary)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "inde",
+          "name": "India"
+        },
+        "min_year": 1969,
+        "max_year": 1970,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/5e9624c677aa44.83053777-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/5e9624c734dcd2.01984726-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202307,
+      "title": "100 Rupees (with correct urdu)",
+      "issuer": {
+        "code": "inde",
+        "name": "India"
+      },
+      "min_year": 1970,
+      "max_year": 1982,
+      "face": {
+        "value": 100,
+        "unit": "Rupees",
+        "text": "100 Rupees"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202307,
+        "title": "100 Rupees (with correct urdu)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "inde",
+          "name": "India"
+        },
+        "min_year": 1970,
+        "max_year": 1982,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/66224836d0a6b9.54174048-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/6622483923b8e5.51711136-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202318,
+      "title": "100 Rupees (With small text under Ashoka column)",
+      "issuer": {
+        "code": "inde",
+        "name": "India"
+      },
+      "min_year": 1985,
+      "max_year": 1990,
+      "face": {
+        "value": 100,
+        "unit": "Rupees",
+        "text": "100 Rupees"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202318,
+        "title": "100 Rupees (With small text under Ashoka column)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "inde",
+          "name": "India"
+        },
+        "min_year": 1985,
+        "max_year": 1990,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/5e96288d4de669.07641575-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/5e96288deff8d9.91892778-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202320,
+      "title": "100 Rupees",
+      "issuer": {
+        "code": "inde",
+        "name": "India"
+      },
+      "min_year": 1977,
+      "max_year": 1997,
+      "face": {
+        "value": 100,
+        "unit": "Rupees",
+        "text": "100 Rupees"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202320,
+        "title": "100 Rupees",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "inde",
+          "name": "India"
+        },
+        "min_year": 1977,
+        "max_year": 1997,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/6371688000c0c4.13924629-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/63716880398577.71251579-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202321,
+      "title": "100 Rupees",
+      "issuer": {
+        "code": "inde",
+        "name": "India"
+      },
+      "min_year": 2018,
+      "max_year": 2026,
+      "face": {
+        "value": 100,
+        "unit": "Rupees",
+        "text": "100 Rupees"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202321,
+        "title": "100 Rupees",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "inde",
+          "name": "India"
+        },
+        "min_year": 2018,
+        "max_year": 2026,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/664f6758cd8b02.09617413-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/664f675c47d6d0.53406702-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202323,
+      "title": "50 Rupees (Dated Reverse with Rupee Symbol - ₹)",
+      "issuer": {
+        "code": "inde",
+        "name": "India"
+      },
+      "min_year": 2012,
+      "max_year": 2017,
+      "face": {
+        "value": 50,
+        "unit": "Rupees",
+        "text": "50 Rupees"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202323,
+        "title": "50 Rupees (Dated Reverse with Rupee Symbol - ₹)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "inde",
+          "name": "India"
+        },
+        "min_year": 2012,
+        "max_year": 2017,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/5e962a1def9732.69841246-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/5e962a1e9e1280.58940706-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202324,
+      "title": "50 Rupees",
+      "issuer": {
+        "code": "inde",
+        "name": "India"
+      },
+      "min_year": 1977,
+      "max_year": 2003,
+      "face": {
+        "value": 50,
+        "unit": "Rupees",
+        "text": "50 Rupees"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202324,
+        "title": "50 Rupees",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "inde",
+          "name": "India"
+        },
+        "min_year": 1977,
+        "max_year": 2003,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/5e962a66bbe254.03347330-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/5e962a67737834.21215407-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202325,
+      "title": "50 Rupees",
+      "issuer": {
+        "code": "inde",
+        "name": "India"
+      },
+      "min_year": 2017,
+      "max_year": 2026,
+      "face": {
+        "value": 50,
+        "unit": "Rupees",
+        "text": "50 Rupees"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202325,
+        "title": "50 Rupees",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "inde",
+          "name": "India"
+        },
+        "min_year": 2017,
+        "max_year": 2026,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/626e32584340c1.09753964-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/626e3259325369.34079509-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202326,
+      "title": "20 Rupees",
+      "issuer": {
+        "code": "inde",
+        "name": "India"
+      },
+      "min_year": 1970,
+      "max_year": 1970,
+      "face": {
+        "value": 20,
+        "unit": "Rupees",
+        "text": "20 Rupees"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202326,
+        "title": "20 Rupees",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "inde",
+          "name": "India"
+        },
+        "min_year": 1970,
+        "max_year": 1970,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/5e962b890c7a26.73644780-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/5e962b89ac6c04.38562712-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202329,
+      "title": "20 Rupees",
+      "issuer": {
+        "code": "inde",
+        "name": "India"
+      },
+      "min_year": 1970,
+      "max_year": 2002,
+      "face": {
+        "value": 20,
+        "unit": "Rupees",
+        "text": "20 Rupees"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202329,
+        "title": "20 Rupees",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "inde",
+          "name": "India"
+        },
+        "min_year": 1970,
+        "max_year": 2002,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/5e962bf5596f00.14123910-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/5e962bf605f7b1.08844403-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202331,
+      "title": "20 Rupees (Dated Reverse with Rupee Symbol - ₹)",
+      "issuer": {
+        "code": "inde",
+        "name": "India"
+      },
+      "min_year": 2012,
+      "max_year": 2018,
+      "face": {
+        "value": 20,
+        "unit": "Rupees",
+        "text": "20 Rupees"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202331,
+        "title": "20 Rupees (Dated Reverse with Rupee Symbol - ₹)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "inde",
+          "name": "India"
+        },
+        "min_year": 2012,
+        "max_year": 2018,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/623d6c2fef4c83.83848170-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/623d6c30790ff4.47285228-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202337,
+      "title": "10 Rupees",
+      "issuer": {
+        "code": "inde",
+        "name": "India"
+      },
+      "min_year": 1962,
+      "max_year": 1967,
+      "face": {
+        "value": 10,
+        "unit": "Rupees",
+        "text": "10 Rupees"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202337,
+        "title": "10 Rupees",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "inde",
+          "name": "India"
+        },
+        "min_year": 1962,
+        "max_year": 1967,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/65db5703217150.56723775-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/65db570532fcb2.29949242-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202513,
+      "title": "1 Rupee",
+      "issuer": {
+        "code": "inde",
+        "name": "India"
+      },
+      "min_year": 2015,
+      "max_year": 2019,
+      "face": {
+        "value": 1,
+        "unit": "Rupee",
+        "text": "1 Rupee"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202513,
+        "title": "1 Rupee",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "inde",
+          "name": "India"
+        },
+        "min_year": 2015,
+        "max_year": 2019,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/626e322c2a7ef4.52812450-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/626e322d332769.68680067-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202541,
+      "title": "1 Rupee",
+      "issuer": {
+        "code": "inde",
+        "name": "India"
+      },
+      "min_year": 1983,
+      "max_year": 1994,
+      "face": {
+        "value": 1,
+        "unit": "Rupee",
+        "text": "1 Rupee"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202541,
+        "title": "1 Rupee",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "inde",
+          "name": "India"
+        },
+        "min_year": 1983,
+        "max_year": 1994,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/5f4989e6a2e2e5.88306952-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/5f4989e741eed6.71492277-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202544,
+      "title": "1 Rupee",
+      "issuer": {
+        "code": "inde",
+        "name": "India"
+      },
+      "min_year": 1963,
+      "max_year": 1965,
+      "face": {
+        "value": 1,
+        "unit": "Rupee",
+        "text": "1 Rupee"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202544,
+        "title": "1 Rupee",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "inde",
+          "name": "India"
+        },
+        "min_year": 1963,
+        "max_year": 1965,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/5e968890b73ba4.96284340-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/5e9ac4814047d2.84832442-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202563,
+      "title": "100 Rupees",
+      "issuer": {
+        "code": "inde",
+        "name": "India"
+      },
+      "min_year": 1949,
+      "max_year": 1962,
+      "face": {
+        "value": 100,
+        "unit": "Rupees",
+        "text": "100 Rupees"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202563,
+        "title": "100 Rupees",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "inde",
+          "name": "India"
+        },
+        "min_year": 1949,
+        "max_year": 1962,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/5e9699ca3140c7.86425934-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/5e9699cacec675.68208148-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202568,
+      "title": "100 Rupees",
+      "issuer": {
+        "code": "inde",
+        "name": "India"
+      },
+      "min_year": 1960,
+      "max_year": 1967,
+      "face": {
+        "value": 100,
+        "unit": "Rupees",
+        "text": "100 Rupees"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202568,
+        "title": "100 Rupees",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "inde",
+          "name": "India"
+        },
+        "min_year": 1960,
+        "max_year": 1967,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/662248c99bc191.14161325-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/662248cbde5052.10671589-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202582,
+      "title": "1000 Rupees",
+      "issuer": {
+        "code": "inde",
+        "name": "India"
+      },
+      "min_year": 1975,
+      "max_year": 1977,
+      "face": {
+        "value": 1000,
+        "unit": "Rupees",
+        "text": "1000 Rupees"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202582,
+        "title": "1000 Rupees",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "inde",
+          "name": "India"
+        },
+        "min_year": 1975,
+        "max_year": 1977,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/5e96ac0f77c2c8.54829788-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/5e96ac105c62d5.26021951-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202624,
+      "title": "20 Rupees",
+      "issuer": {
+        "code": "inde",
+        "name": "India"
+      },
+      "min_year": 2019,
+      "max_year": 2026,
+      "face": {
+        "value": 20,
+        "unit": "Rupees",
+        "text": "20 Rupees"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202624,
+        "title": "20 Rupees",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "inde",
+          "name": "India"
+        },
+        "min_year": 2019,
+        "max_year": 2026,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/62fd0f84892d64.62844532-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/62fd0f8534f4c7.47364122-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202678,
+      "title": "2 Rupees",
+      "issuer": {
+        "code": "inde",
+        "name": "India"
+      },
+      "min_year": 1957,
+      "max_year": 1962,
+      "face": {
+        "value": 2,
+        "unit": "Rupees",
+        "text": "2 Rupees"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202678,
+        "title": "2 Rupees",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "inde",
+          "name": "India"
+        },
+        "min_year": 1957,
+        "max_year": 1962,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/5e96df88d3b482.08853969-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/5e96df89418429.59496567-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202691,
+      "title": "100 Rupees (Dated Reverse, no Rupee Symbol)",
+      "issuer": {
+        "code": "inde",
+        "name": "India"
+      },
+      "min_year": 2005,
+      "max_year": 2012,
+      "face": {
+        "value": 100,
+        "unit": "Rupees",
+        "text": "100 Rupees"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202691,
+        "title": "100 Rupees (Dated Reverse, no Rupee Symbol)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "inde",
+          "name": "India"
+        },
+        "min_year": 2005,
+        "max_year": 2012,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/5e96e672e9c258.59162493-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/5e96e6734a50c3.61627203-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202692,
+      "title": "2 Rupees (without motto under pillar)",
+      "issuer": {
+        "code": "inde",
+        "name": "India"
+      },
+      "min_year": 1970,
+      "max_year": 1985,
+      "face": {
+        "value": 2,
+        "unit": "Rupees",
+        "text": "2 Rupees"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202692,
+        "title": "2 Rupees (without motto under pillar)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "inde",
+          "name": "India"
+        },
+        "min_year": 1970,
+        "max_year": 1985,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/624e96cb8e1bd6.67558141-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/624e96cc3700f5.45889890-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202699,
+      "title": "2 Rupees",
+      "issuer": {
+        "code": "inde",
+        "name": "India"
+      },
+      "min_year": 1975,
+      "max_year": 1994,
+      "face": {
+        "value": 2,
+        "unit": "Rupees",
+        "text": "2 Rupees"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202699,
+        "title": "2 Rupees",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "inde",
+          "name": "India"
+        },
+        "min_year": 1975,
+        "max_year": 1994,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/62fd1df428be65.96063140-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/62fd1df4dfb5b3.57614193-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202954,
+      "title": "5 Rupees (No Date)",
+      "issuer": {
+        "code": "inde",
+        "name": "India"
+      },
+      "min_year": 2002,
+      "max_year": 2008,
+      "face": {
+        "value": 5,
+        "unit": "Rupees",
+        "text": "5 Rupees"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202954,
+        "title": "5 Rupees (No Date)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "inde",
+          "name": "India"
+        },
+        "min_year": 2002,
+        "max_year": 2008,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/623d6a9634d931.22163051-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/623d6a96d32db4.32505431-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202960,
+      "title": "5 Rupees (Dated Reverse)",
+      "issuer": {
+        "code": "inde",
+        "name": "India"
+      },
+      "min_year": 2009,
+      "max_year": 2011,
+      "face": {
+        "value": 5,
+        "unit": "Rupees",
+        "text": "5 Rupees"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202960,
+        "title": "5 Rupees (Dated Reverse)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "inde",
+          "name": "India"
+        },
+        "min_year": 2009,
+        "max_year": 2011,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/626e31c98c1397.16718779-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/626e31ca8fd7d4.84808783-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202965,
+      "title": "5 Rupees (Mahatma Gandhi birth centenary)",
+      "issuer": {
+        "code": "inde",
+        "name": "India"
+      },
+      "min_year": 1969,
+      "max_year": 1970,
+      "face": {
+        "value": 5,
+        "unit": "Rupees",
+        "text": "5 Rupees"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202965,
+        "title": "5 Rupees (Mahatma Gandhi birth centenary)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "inde",
+          "name": "India"
+        },
+        "min_year": 1969,
+        "max_year": 1970,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/5e99318bc470f5.76339639-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/5e99318c184396.02616522-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202970,
+      "title": "5 Rupees (Correct Urdu)",
+      "issuer": {
+        "code": "inde",
+        "name": "India"
+      },
+      "min_year": 1970,
+      "max_year": 1970,
+      "face": {
+        "value": 5,
+        "unit": "Rupees",
+        "text": "5 Rupees"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202970,
+        "title": "5 Rupees (Correct Urdu)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "inde",
+          "name": "India"
+        },
+        "min_year": 1970,
+        "max_year": 1970,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/5e993511af2414.31182600-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/5e9935121ec9a4.02050107-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202972,
+      "title": "5 Rupees (Incorrect Urdu)",
+      "issuer": {
+        "code": "inde",
+        "name": "India"
+      },
+      "min_year": 1970,
+      "max_year": 1970,
+      "face": {
+        "value": 5,
+        "unit": "Rupees",
+        "text": "5 Rupees"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202972,
+        "title": "5 Rupees (Incorrect Urdu)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "inde",
+          "name": "India"
+        },
+        "min_year": 1970,
+        "max_year": 1970,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/5e99337bc43bb7.40182546-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/5e99337c21af25.25756989-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202975,
+      "title": "5 Rupees",
+      "issuer": {
+        "code": "inde",
+        "name": "India"
+      },
+      "min_year": 1962,
+      "max_year": 1970,
+      "face": {
+        "value": 5,
+        "unit": "Rupees",
+        "text": "5 Rupees"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202975,
+        "title": "5 Rupees",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "inde",
+          "name": "India"
+        },
+        "min_year": 1962,
+        "max_year": 1970,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/5e994b95c92b85.64696991-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/5e994b964b3512.59756863-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202980,
+      "title": "10 Rupees",
+      "issuer": {
+        "code": "inde",
+        "name": "India"
+      },
+      "min_year": 1962,
+      "max_year": 1970,
+      "face": {
+        "value": 10,
+        "unit": "Rupees",
+        "text": "10 Rupees"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202980,
+        "title": "10 Rupees",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "inde",
+          "name": "India"
+        },
+        "min_year": 1962,
+        "max_year": 1970,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/654c9f06d20135.12522403-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/654c9f09433971.92724259-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202986,
+      "title": "10 Rupees",
+      "issuer": {
+        "code": "inde",
+        "name": "India"
+      },
+      "min_year": 1970,
+      "max_year": 1970,
+      "face": {
+        "value": 10,
+        "unit": "Rupees",
+        "text": "10 Rupees"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202986,
+        "title": "10 Rupees",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "inde",
+          "name": "India"
+        },
+        "min_year": 1970,
+        "max_year": 1970,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/5ec43117291697.24165399-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/5ec431174f53d1.18485383-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202989,
+      "title": "10 Rupees (Incorrect Urdu inscription)",
+      "issuer": {
+        "code": "inde",
+        "name": "India"
+      },
+      "min_year": 1970,
+      "max_year": 1970,
+      "face": {
+        "value": 10,
+        "unit": "Rupees",
+        "text": "10 Rupees"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202989,
+        "title": "10 Rupees (Incorrect Urdu inscription)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "inde",
+          "name": "India"
+        },
+        "min_year": 1970,
+        "max_year": 1970,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/65db5190101ee2.54806272-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/65db5192b471b0.83546221-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203000,
+      "title": "10 Rupees (Corrected Urdu inscription)",
+      "issuer": {
+        "code": "inde",
+        "name": "India"
+      },
+      "min_year": 1970,
+      "max_year": 1990,
+      "face": {
+        "value": 10,
+        "unit": "Rupees",
+        "text": "10 Rupees"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203000,
+        "title": "10 Rupees (Corrected Urdu inscription)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "inde",
+          "name": "India"
+        },
+        "min_year": 1970,
+        "max_year": 1990,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/60fc7e750e6f85.57041941-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/60fc7e757c4c12.09597421-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203012,
+      "title": "10 Rupees",
+      "issuer": {
+        "code": "inde",
+        "name": "India"
+      },
+      "min_year": 1985,
+      "max_year": 1997,
+      "face": {
+        "value": 10,
+        "unit": "Rupees",
+        "text": "10 Rupees"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203012,
+        "title": "10 Rupees",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "inde",
+          "name": "India"
+        },
+        "min_year": 1985,
+        "max_year": 1997,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/5e9815a5ee3403.05220756-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/5e9815a685f797.20903534-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203022,
+      "title": "10 Rupees (Mahatma Gandhi birth centenary)",
+      "issuer": {
+        "code": "inde",
+        "name": "India"
+      },
+      "min_year": 1969,
+      "max_year": 1970,
+      "face": {
+        "value": 10,
+        "unit": "Rupees",
+        "text": "10 Rupees"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203022,
+        "title": "10 Rupees (Mahatma Gandhi birth centenary)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "inde",
+          "name": "India"
+        },
+        "min_year": 1969,
+        "max_year": 1970,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/5e9a19be92b5b4.61435052-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/5e9a19bf69e273.34303953-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203074,
+      "title": "10 Rupees (Dated Reverse with Rupee Symbol - ₹)",
+      "issuer": {
+        "code": "inde",
+        "name": "India"
+      },
+      "min_year": 2011,
+      "max_year": 2017,
+      "face": {
+        "value": 10,
+        "unit": "Rupees",
+        "text": "10 Rupees"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203074,
+        "title": "10 Rupees (Dated Reverse with Rupee Symbol - ₹)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "inde",
+          "name": "India"
+        },
+        "min_year": 2011,
+        "max_year": 2017,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/626e31f319f044.95521798-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/626e31f418c739.52948125-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203081,
+      "title": "10 Rupees",
+      "issuer": {
+        "code": "inde",
+        "name": "India"
+      },
+      "min_year": 2017,
+      "max_year": 2026,
+      "face": {
+        "value": 10,
+        "unit": "Rupees",
+        "text": "10 Rupees"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203081,
+        "title": "10 Rupees",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "inde",
+          "name": "India"
+        },
+        "min_year": 2017,
+        "max_year": 2026,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/623d6c77dee4d7.19831925-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/623d6c78535430.27079543-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203239,
+      "title": "10 Rupees (Dated Reverse, no Rupee Symbol)",
+      "issuer": {
+        "code": "inde",
+        "name": "India"
+      },
+      "min_year": 2006,
+      "max_year": 2012,
+      "face": {
+        "value": 10,
+        "unit": "Rupees",
+        "text": "10 Rupees"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203239,
+        "title": "10 Rupees (Dated Reverse, no Rupee Symbol)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "inde",
+          "name": "India"
+        },
+        "min_year": 2006,
+        "max_year": 2012,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/623d6ae7a655f6.18650597-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/623d6ae845b957.42849610-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203244,
+      "title": "5 Rupees",
+      "issuer": {
+        "code": "inde",
+        "name": "India"
+      },
+      "min_year": 1957,
+      "max_year": 1967,
+      "face": {
+        "value": 5,
+        "unit": "Rupees",
+        "text": "5 Rupees"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203244,
+        "title": "5 Rupees",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "inde",
+          "name": "India"
+        },
+        "min_year": 1957,
+        "max_year": 1967,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/5e9888a6a321d1.62902349-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/5e9888a70bb374.46162473-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203491,
+      "title": "10 Rupees (No Date)",
+      "issuer": {
+        "code": "inde",
+        "name": "India"
+      },
+      "min_year": 1996,
+      "max_year": 2006,
+      "face": {
+        "value": 10,
+        "unit": "Rupees",
+        "text": "10 Rupees"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203491,
+        "title": "10 Rupees (No Date)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "inde",
+          "name": "India"
+        },
+        "min_year": 1996,
+        "max_year": 2006,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/674b8b89821814.68656296-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/674b8b8adceb89.32323280-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203518,
+      "title": "10 Rupees",
+      "issuer": {
+        "code": "inde",
+        "name": "India"
+      },
+      "min_year": 1970,
+      "max_year": 1990,
+      "face": {
+        "value": 10,
+        "unit": "Rupees",
+        "text": "10 Rupees"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203518,
+        "title": "10 Rupees",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "inde",
+          "name": "India"
+        },
+        "min_year": 1970,
+        "max_year": 1990,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/62fd2ba8bd0ec7.01313658-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/62fd2ba97592a4.70783553-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203521,
+      "title": "2 Rupees",
+      "issuer": {
+        "code": "inde",
+        "name": "India"
+      },
+      "min_year": 1965,
+      "max_year": 1965,
+      "face": {
+        "value": 2,
+        "unit": "Rupees",
+        "text": "2 Rupees"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203521,
+        "title": "2 Rupees",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "inde",
+          "name": "India"
+        },
+        "min_year": 1965,
+        "max_year": 1965,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/5e99533f03e950.17612321-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/5e99533f78afa4.19329021-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203556,
+      "title": "2 Rupees",
+      "issuer": {
+        "code": "inde",
+        "name": "India"
+      },
+      "min_year": 1962,
+      "max_year": 1962,
+      "face": {
+        "value": 2,
+        "unit": "Rupees",
+        "text": "2 Rupees"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203556,
+        "title": "2 Rupees",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "inde",
+          "name": "India"
+        },
+        "min_year": 1962,
+        "max_year": 1962,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/5e995de7321827.23312586-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/5e995de7a0b504.55690601-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203635,
+      "title": "10 Rupees",
+      "issuer": {
+        "code": "inde",
+        "name": "India"
+      },
+      "min_year": 1949,
+      "max_year": 1962,
+      "face": {
+        "value": 10,
+        "unit": "Rupees",
+        "text": "10 Rupees"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203635,
+        "title": "10 Rupees",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "inde",
+          "name": "India"
+        },
+        "min_year": 1949,
+        "max_year": 1962,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/5e9aebf4b7a6e9.68119774-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/5e9aebf557e9f8.03078556-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203646,
+      "title": "2 Rupees",
+      "issuer": {
+        "code": "inde",
+        "name": "India"
+      },
+      "min_year": 1967,
+      "max_year": 1968,
+      "face": {
+        "value": 2,
+        "unit": "Rupees",
+        "text": "2 Rupees"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203646,
+        "title": "2 Rupees",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "inde",
+          "name": "India"
+        },
+        "min_year": 1967,
+        "max_year": 1968,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/5e9984d8e95939.29765015-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/5e9984d9782410.23560921-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203652,
+      "title": "2 Rupees (Mahatma Gandhi birth centenary)",
+      "issuer": {
+        "code": "inde",
+        "name": "India"
+      },
+      "min_year": 1969,
+      "max_year": 1970,
+      "face": {
+        "value": 2,
+        "unit": "Rupees",
+        "text": "2 Rupees"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203652,
+        "title": "2 Rupees (Mahatma Gandhi birth centenary)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "inde",
+          "name": "India"
+        },
+        "min_year": 1969,
+        "max_year": 1970,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/5e9986cedf0a05.37305975-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/5e9986cf57ff31.18065355-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203803,
+      "title": "1 Rupee (Mahatma Gandhi birth centenary)",
+      "issuer": {
+        "code": "inde",
+        "name": "India"
+      },
+      "min_year": 1969,
+      "max_year": 1970,
+      "face": {
+        "value": 1,
+        "unit": "Rupee",
+        "text": "1 Rupee"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203803,
+        "title": "1 Rupee (Mahatma Gandhi birth centenary)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "inde",
+          "name": "India"
+        },
+        "min_year": 1969,
+        "max_year": 1970,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/6106c945ace563.22903063-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/6106c94604a981.01970906-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203821,
+      "title": "1 Rupee",
+      "issuer": {
+        "code": "inde",
+        "name": "India"
+      },
+      "min_year": 1966,
+      "max_year": 1980,
+      "face": {
+        "value": 1,
+        "unit": "Rupee",
+        "text": "1 Rupee"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203821,
+        "title": "1 Rupee",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "inde",
+          "name": "India"
+        },
+        "min_year": 1966,
+        "max_year": 1980,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/65dbaed48f6868.27091658-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/65dbaed5b16ac5.11495625-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203835,
+      "title": "1 Rupee",
+      "issuer": {
+        "code": "inde",
+        "name": "India"
+      },
+      "min_year": 1981,
+      "max_year": 1981,
+      "face": {
+        "value": 1,
+        "unit": "Rupee",
+        "text": "1 Rupee"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203835,
+        "title": "1 Rupee",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "inde",
+          "name": "India"
+        },
+        "min_year": 1981,
+        "max_year": 1981,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/62fd26f398f730.59988355-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/62fd26f4576e79.67563627-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203932,
+      "title": "10 Rupees",
+      "issuer": {
+        "code": "inde",
+        "name": "India"
+      },
+      "min_year": 1992,
+      "max_year": 1997,
+      "face": {
+        "value": 10,
+        "unit": "Rupees",
+        "text": "10 Rupees"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203932,
+        "title": "10 Rupees",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "inde",
+          "name": "India"
+        },
+        "min_year": 1992,
+        "max_year": 1997,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/5e9a210a57a0d9.12937129-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/5e9a210b10bc99.78780888-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204119,
+      "title": "2 Rupees",
+      "issuer": {
+        "code": "inde",
+        "name": "India"
+      },
+      "min_year": 1970,
+      "max_year": 1970,
+      "face": {
+        "value": 2,
+        "unit": "Rupees",
+        "text": "2 Rupees"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204119,
+        "title": "2 Rupees",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "inde",
+          "name": "India"
+        },
+        "min_year": 1970,
+        "max_year": 1970,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/67b58eb27aae37.27404604-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/67b58eb2d38720.51860414-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204510,
+      "title": "5 Rupees",
+      "issuer": {
+        "code": "inde",
+        "name": "India"
+      },
+      "min_year": 1962,
+      "max_year": 1967,
+      "face": {
+        "value": 5,
+        "unit": "Rupees",
+        "text": "5 Rupees"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204510,
+        "title": "5 Rupees",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "inde",
+          "name": "India"
+        },
+        "min_year": 1962,
+        "max_year": 1967,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/5e9bfd7a26c153.81180275-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/5e9bfd7aacdc12.59153738-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204518,
+      "title": "20 Rupees",
+      "issuer": {
+        "code": "inde",
+        "name": "India"
+      },
+      "min_year": 1970,
+      "max_year": 1970,
+      "face": {
+        "value": 20,
+        "unit": "Rupees",
+        "text": "20 Rupees"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204518,
+        "title": "20 Rupees",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "inde",
+          "name": "India"
+        },
+        "min_year": 1970,
+        "max_year": 1970,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/5ec4317e713fc9.56654453-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/5ec4317ea9b109.86169780-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204531,
+      "title": "20 Rupees (Dated Reverse, no Rupee Symbol)",
+      "issuer": {
+        "code": "inde",
+        "name": "India"
+      },
+      "min_year": 2006,
+      "max_year": 2012,
+      "face": {
+        "value": 20,
+        "unit": "Rupees",
+        "text": "20 Rupees"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204531,
+        "title": "20 Rupees (Dated Reverse, no Rupee Symbol)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "inde",
+          "name": "India"
+        },
+        "min_year": 2006,
+        "max_year": 2012,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/623d6b24ddffe1.39792936-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/623d6b2581cb13.02716028-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205864,
+      "title": "2 Rupees (with motto under pillar)",
+      "issuer": {
+        "code": "inde",
+        "name": "India"
+      },
+      "min_year": 1984,
+      "max_year": 1992,
+      "face": {
+        "value": 2,
+        "unit": "Rupees",
+        "text": "2 Rupees"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205864,
+        "title": "2 Rupees (with motto under pillar)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "inde",
+          "name": "India"
+        },
+        "min_year": 1984,
+        "max_year": 1992,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/62fd247a84e7a0.41687744-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/62fd247b3a4e18.69149651-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206106,
+      "title": "100 Rupees",
+      "issuer": {
+        "code": "inde",
+        "name": "India"
+      },
+      "min_year": 1970,
+      "max_year": 1970,
+      "face": {
+        "value": 100,
+        "unit": "Rupees",
+        "text": "100 Rupees"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206106,
+        "title": "100 Rupees",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "inde",
+          "name": "India"
+        },
+        "min_year": 1970,
+        "max_year": 1970,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/69b79447982a60.85045438-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/69b79448805855.24360529-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206114,
+      "title": "50 Rupees",
+      "issuer": {
+        "code": "inde",
+        "name": "India"
+      },
+      "min_year": 1975,
+      "max_year": 1982,
+      "face": {
+        "value": 50,
+        "unit": "Rupees",
+        "text": "50 Rupees"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206114,
+        "title": "50 Rupees",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "inde",
+          "name": "India"
+        },
+        "min_year": 1975,
+        "max_year": 1982,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/628b49a1aaf5c4.16614535-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/628b49a363d7c0.87854462-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 207003,
+      "title": "100 Rupees (No Date)",
+      "issuer": {
+        "code": "inde",
+        "name": "India"
+      },
+      "min_year": 1996,
+      "max_year": 2005,
+      "face": {
+        "value": 100,
+        "unit": "Rupees",
+        "text": "100 Rupees"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 207003,
+        "title": "100 Rupees (No Date)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "inde",
+          "name": "India"
+        },
+        "min_year": 1996,
+        "max_year": 2005,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/62effdeb3ee0c2.43660736-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/62effdec38a507.03295473-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 207138,
+      "title": "50 Rupees (No Date)",
+      "issuer": {
+        "code": "inde",
+        "name": "India"
+      },
+      "min_year": 1997,
+      "max_year": 2002,
+      "face": {
+        "value": 50,
+        "unit": "Rupees",
+        "text": "50 Rupees"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 207138,
+        "title": "50 Rupees (No Date)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "inde",
+          "name": "India"
+        },
+        "min_year": 1997,
+        "max_year": 2002,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/628b5137706fc7.34410262-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/628b513924dbc6.27091049-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 208093,
+      "title": "500 Rupees (No Date, Gray)",
+      "issuer": {
+        "code": "inde",
+        "name": "India"
+      },
+      "min_year": 1997,
+      "max_year": 2000,
+      "face": {
+        "value": 500,
+        "unit": "Rupees",
+        "text": "500 Rupees"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 208093,
+        "title": "500 Rupees (No Date, Gray)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "inde",
+          "name": "India"
+        },
+        "min_year": 1997,
+        "max_year": 2000,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/65219db31f6c24.50745861-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/65219db3e5f3a8.92502009-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 208095,
+      "title": "50 Rupees (Dated Reverse, no Rupee Symbol)",
+      "issuer": {
+        "code": "inde",
+        "name": "India"
+      },
+      "min_year": 2005,
+      "max_year": 2011,
+      "face": {
+        "value": 50,
+        "unit": "Rupees",
+        "text": "50 Rupees"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 208095,
+        "title": "50 Rupees (Dated Reverse, no Rupee Symbol)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "inde",
+          "name": "India"
+        },
+        "min_year": 2005,
+        "max_year": 2011,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/662fc4e2890226.14686818-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/662fc4e56934c2.77516157-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 208238,
+      "title": "500 Rupees",
+      "issuer": {
+        "code": "inde",
+        "name": "India"
+      },
+      "min_year": 1985,
+      "max_year": 1992,
+      "face": {
+        "value": 500,
+        "unit": "Rupees",
+        "text": "500 Rupees"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 208238,
+        "title": "500 Rupees",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "inde",
+          "name": "India"
+        },
+        "min_year": 1985,
+        "max_year": 1992,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/5ea6f283841ff6.67466597-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/5ea6f285bf50a4.48974889-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 210984,
+      "title": "500 Rupees (Dated Reverse with Rupee Symbol - ₹)",
+      "issuer": {
+        "code": "inde",
+        "name": "India"
+      },
+      "min_year": 2011,
+      "max_year": 2016,
+      "face": {
+        "value": 500,
+        "unit": "Rupees",
+        "text": "500 Rupees"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 210984,
+        "title": "500 Rupees (Dated Reverse with Rupee Symbol - ₹)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "inde",
+          "name": "India"
+        },
+        "min_year": 2011,
+        "max_year": 2016,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/5eaea181df19e3.01821071-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/5eaea184e53b62.09601719-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 213473,
+      "title": "1000 Rupees (No Date)",
+      "issuer": {
+        "code": "inde",
+        "name": "India"
+      },
+      "min_year": 2000,
+      "max_year": 2002,
+      "face": {
+        "value": 1000,
+        "unit": "Rupees",
+        "text": "1000 Rupees"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 213473,
+        "title": "1000 Rupees (No Date)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "inde",
+          "name": "India"
+        },
+        "min_year": 2000,
+        "max_year": 2002,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/5fc394cc7ee479.90448374-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/5fc394cd0f1cf5.64436610-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 215316,
+      "title": "100 Rupees (Without small text under Ashoka column)",
+      "issuer": {
+        "code": "inde",
+        "name": "India"
+      },
+      "min_year": 1975,
+      "max_year": 1990,
+      "face": {
+        "value": 100,
+        "unit": "Rupees",
+        "text": "100 Rupees"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 215316,
+        "title": "100 Rupees (Without small text under Ashoka column)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "inde",
+          "name": "India"
+        },
+        "min_year": 1975,
+        "max_year": 1990,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/5ebf074ca07344.88094743-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/5ebf074d64dc24.09443389-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 220001,
+      "title": "1 Rupee (Gulf)",
+      "issuer": {
+        "code": "inde",
+        "name": "India"
+      },
+      "min_year": 1959,
+      "max_year": 1970,
+      "face": {
+        "value": 1,
+        "unit": "Rupee",
+        "text": "1 Rupee"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 220001,
+        "title": "1 Rupee (Gulf)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "inde",
+          "name": "India"
+        },
+        "min_year": 1959,
+        "max_year": 1970,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/5ed930c4db98e1.28388666-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/5ed930c52118c3.26389041-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 228557,
+      "title": "1000 Rupees (Dated Reverse, no Rupee Symbol)",
+      "issuer": {
+        "code": "inde",
+        "name": "India"
+      },
+      "min_year": 2005,
+      "max_year": 2012,
+      "face": {
+        "value": 1000,
+        "unit": "Rupees",
+        "text": "1000 Rupees"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 228557,
+        "title": "1000 Rupees (Dated Reverse, no Rupee Symbol)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "inde",
+          "name": "India"
+        },
+        "min_year": 2005,
+        "max_year": 2012,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/62ab3c21a4ccf4.78008266-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/62ab3c23412102.23751339-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 305294,
+      "title": "1 Rupee",
+      "issuer": {
+        "code": "inde",
+        "name": "India"
+      },
+      "min_year": 2020,
+      "max_year": 2020,
+      "face": {
+        "value": 1,
+        "unit": "Rupee",
+        "text": "1 Rupee"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 305294,
+        "title": "1 Rupee",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "inde",
+          "name": "India"
+        },
+        "min_year": 2020,
+        "max_year": 2020,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/614f6e7d323be2.37480250-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/614f6e7d638027.14554416-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 332026,
+      "title": "1000 Rupees (Correct spelling of Rupee; 7 Regional Language on back)",
+      "issuer": {
+        "code": "inde",
+        "name": "India"
+      },
+      "min_year": 1954,
+      "max_year": 1962,
+      "face": {
+        "value": 1000,
+        "unit": "Rupees",
+        "text": "1000 Rupees"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 332026,
+        "title": "1000 Rupees (Correct spelling of Rupee; 7 Regional Language on back)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "inde",
+          "name": "India"
+        },
+        "min_year": 1954,
+        "max_year": 1962,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/689cfc0c3a9292.23274493-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/689cfc0d2d20f6.57502701-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 332028,
+      "title": "5000 Rupees (Correct spelling of Rupee)",
+      "issuer": {
+        "code": "inde",
+        "name": "India"
+      },
+      "min_year": 1957,
+      "max_year": 1962,
+      "face": {
+        "value": 5000,
+        "unit": "Rupees",
+        "text": "5000 Rupees"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 332028,
+        "title": "5000 Rupees (Correct spelling of Rupee)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "inde",
+          "name": "India"
+        },
+        "min_year": 1957,
+        "max_year": 1962,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/62bdacfbe39dc5.43168824-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/62bdacfc2faef1.95111587-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 332031,
+      "title": "10 000 Rupees (Correct spelling of Rupee)",
+      "issuer": {
+        "code": "inde",
+        "name": "India"
+      },
+      "min_year": 1957,
+      "max_year": 1970,
+      "face": {
+        "value": 10000,
+        "unit": "Rupees",
+        "text": "10000 Rupees"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 332031,
+        "title": "10 000 Rupees (Correct spelling of Rupee)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "inde",
+          "name": "India"
+        },
+        "min_year": 1957,
+        "max_year": 1970,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/639faf200e2810.22254921-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/639faf20583d38.97547686-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 402049,
+      "title": "5 Rupees (Persian Gulf)",
+      "issuer": {
+        "code": "inde",
+        "name": "India"
+      },
+      "min_year": 1957,
+      "max_year": 1962,
+      "face": {
+        "value": 5,
+        "unit": "Rupees",
+        "text": "5 Rupees"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 402049,
+        "title": "5 Rupees (Persian Gulf)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "inde",
+          "name": "India"
+        },
+        "min_year": 1957,
+        "max_year": 1962,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/65df4334187a99.61934730-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/65df4334b56d89.19072075-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 469307,
+      "title": "100 Rupees (Persian Gulf; Reserve Bank of India)",
+      "issuer": {
+        "code": "inde",
+        "name": "India"
+      },
+      "min_year": 1957,
+      "max_year": 1962,
+      "face": {
+        "value": 100,
+        "unit": "Rupees",
+        "text": "100 Rupees"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 469307,
+        "title": "100 Rupees (Persian Gulf; Reserve Bank of India)",
+        "object_type": {
+          "id": 148,
+          "name": "Banknotes"
+        },
+        "issuer": {
+          "code": "inde",
+          "name": "India"
+        },
+        "min_year": 1957,
+        "max_year": 1962,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/682a6b360573f1.31440497-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/682a6b364bb930.33008372-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 469310,
+      "title": "10 Rupees (Haj Pilgrim; Reserve Bank of India)",
+      "issuer": {
+        "code": "inde",
+        "name": "India"
+      },
+      "min_year": 1957,
+      "max_year": 1962,
+      "face": {
+        "value": 10,
+        "unit": "Rupees",
+        "text": "10 Rupees"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 469310,
+        "title": "10 Rupees (Haj Pilgrim; Reserve Bank of India)",
+        "object_type": {
+          "id": 148,
+          "name": "Banknotes"
+        },
+        "issuer": {
+          "code": "inde",
+          "name": "India"
+        },
+        "min_year": 1957,
+        "max_year": 1962,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/682a727a6d3119.73087755-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/682a727ac53477.37149930-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 469315,
+      "title": "100 Rupees (Haj Pilgrim; Reserve Bank of India)",
+      "issuer": {
+        "code": "inde",
+        "name": "India"
+      },
+      "min_year": 1957,
+      "max_year": 1962,
+      "face": {
+        "value": 100,
+        "unit": "Rupees",
+        "text": "100 Rupees"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 469315,
+        "title": "100 Rupees (Haj Pilgrim; Reserve Bank of India)",
+        "object_type": {
+          "id": 148,
+          "name": "Banknotes"
+        },
+        "issuer": {
+          "code": "inde",
+          "name": "India"
+        },
+        "min_year": 1957,
+        "max_year": 1962,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/682a83ccb56483.21521178-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/682a83cd07f592.46463847-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 480834,
+      "title": "1000 Rupees (Correct spelling of Rupee; 13 Regional Language on back)",
+      "issuer": {
+        "code": "inde",
+        "name": "India"
+      },
+      "min_year": 1962,
+      "max_year": 1967,
+      "face": {
+        "value": 1000,
+        "unit": "Rupees",
+        "text": "1000 Rupees"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 480834,
+        "title": "1000 Rupees (Correct spelling of Rupee; 13 Regional Language on back)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "inde",
+          "name": "India"
+        },
+        "min_year": 1962,
+        "max_year": 1967,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/689cf609791f87.14411675-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/inde/689cf60b9cd290.00675132-180.jpg",
+        "category": "banknote"
+      }
+    }
+  ]
+}

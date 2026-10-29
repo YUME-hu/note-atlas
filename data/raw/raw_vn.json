@@ -1,0 +1,1653 @@
+{
+  "meta": {
+    "generated_at": "2026-10-29T13:27:58.438Z",
+    "fixture": false,
+    "api": "numista v3",
+    "issuer": "viet_nam",
+    "iso": "VN",
+    "category": "banknote",
+    "lang": "en",
+    "since": 1960,
+    "listed": 44,
+    "fetched": 44,
+    "details_fetched": 0,
+    "dropped_before_since": 0,
+    "dropped_by_source": {
+      "list": 0,
+      "detail": 0
+    },
+    "issuer_mismatches": 0,
+    "pages": 1,
+    "requests": 0
+  },
+  "types": [
+    {
+      "numista_type_id": 202012,
+      "title": "2000 Đồng",
+      "issuer": {
+        "code": "viet_nam",
+        "name": "Vietnam"
+      },
+      "min_year": 1989,
+      "max_year": 1989,
+      "face": {
+        "value": 2000,
+        "unit": "Đồng",
+        "text": "2000 Đồng"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202012,
+        "title": "2000 Đồng",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "viet_nam",
+          "name": "Vietnam"
+        },
+        "min_year": 1989,
+        "max_year": 1989,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/viet_nam/626b87e6254884.34599868-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/viet_nam/626b87e682a027.56685578-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202330,
+      "title": "1000 Đồng",
+      "issuer": {
+        "code": "viet_nam",
+        "name": "Vietnam"
+      },
+      "min_year": 1989,
+      "max_year": 1989,
+      "face": {
+        "value": 1000,
+        "unit": "Đồng",
+        "text": "1000 Đồng"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202330,
+        "title": "1000 Đồng",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "viet_nam",
+          "name": "Vietnam"
+        },
+        "min_year": 1989,
+        "max_year": 1989,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/viet_nam/626b8a28cd1456.57945404-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/viet_nam/626b8a29348644.78030396-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202790,
+      "title": "100 000 Đồng",
+      "issuer": {
+        "code": "viet_nam",
+        "name": "Vietnam"
+      },
+      "min_year": 2004,
+      "max_year": 2025,
+      "face": {
+        "value": 100000,
+        "unit": "Đồng",
+        "text": "100000 Đồng"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202790,
+        "title": "100 000 Đồng",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "viet_nam",
+          "name": "Vietnam"
+        },
+        "min_year": 2004,
+        "max_year": 2025,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/viet_nam/64f38ae1a90dc4.91546703-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/viet_nam/64f38ae265ffd3.72692798-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203627,
+      "title": "10 000 Đồng",
+      "issuer": {
+        "code": "viet_nam",
+        "name": "Vietnam"
+      },
+      "min_year": 2006,
+      "max_year": 2025,
+      "face": {
+        "value": 10000,
+        "unit": "Đồng",
+        "text": "10000 Đồng"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203627,
+        "title": "10 000 Đồng",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "viet_nam",
+          "name": "Vietnam"
+        },
+        "min_year": 2006,
+        "max_year": 2025,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/viet_nam/629a30e8e84ca4.62721942-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/viet_nam/629a30e97f22e2.67265051-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203786,
+      "title": "500 Đồng",
+      "issuer": {
+        "code": "viet_nam",
+        "name": "Vietnam"
+      },
+      "min_year": 1988,
+      "max_year": 1989,
+      "face": {
+        "value": 500,
+        "unit": "Đồng",
+        "text": "500 Đồng"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203786,
+        "title": "500 Đồng",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "viet_nam",
+          "name": "Vietnam"
+        },
+        "min_year": 1988,
+        "max_year": 1989,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/viet_nam/63fa2f231383e2.73193247-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/viet_nam/63fa2f2657b109.91950806-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203812,
+      "title": "200 Đồng",
+      "issuer": {
+        "code": "viet_nam",
+        "name": "Vietnam"
+      },
+      "min_year": 1987,
+      "max_year": 1987,
+      "face": {
+        "value": 200,
+        "unit": "Đồng",
+        "text": "200 Đồng"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203812,
+        "title": "200 Đồng",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "viet_nam",
+          "name": "Vietnam"
+        },
+        "min_year": 1987,
+        "max_year": 1987,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/viet_nam/65c77094b0f6f4.02705748-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/viet_nam/65c77099b11466.92796418-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204069,
+      "title": "50 Đồng",
+      "issuer": {
+        "code": "viet_nam",
+        "name": "Vietnam"
+      },
+      "min_year": 1987,
+      "max_year": 1987,
+      "face": {
+        "value": 50,
+        "unit": "Đồng",
+        "text": "50 Đồng"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204069,
+        "title": "50 Đồng",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "viet_nam",
+          "name": "Vietnam"
+        },
+        "min_year": 1987,
+        "max_year": 1987,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/viet_nam/64f370a883b6c3.35724973-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/viet_nam/64f370a974a837.45741276-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204511,
+      "title": "5000 Đồng",
+      "issuer": {
+        "code": "viet_nam",
+        "name": "Vietnam"
+      },
+      "min_year": 1993,
+      "max_year": 1993,
+      "face": {
+        "value": 5000,
+        "unit": "Đồng",
+        "text": "5000 Đồng"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204511,
+        "title": "5000 Đồng",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "viet_nam",
+          "name": "Vietnam"
+        },
+        "min_year": 1993,
+        "max_year": 1993,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/viet_nam/626b8803cc0d90.08806464-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/viet_nam/626b88044b84d9.83219279-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204743,
+      "title": "20 000 Đồng",
+      "issuer": {
+        "code": "viet_nam",
+        "name": "Vietnam"
+      },
+      "min_year": 2006,
+      "max_year": 2025,
+      "face": {
+        "value": 20000,
+        "unit": "Đồng",
+        "text": "20000 Đồng"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204743,
+        "title": "20 000 Đồng",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "viet_nam",
+          "name": "Vietnam"
+        },
+        "min_year": 2006,
+        "max_year": 2025,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/viet_nam/63fdf045478aa8.79782893-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/viet_nam/63fdf048f16474.69949110-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204745,
+      "title": "50 000 Đồng",
+      "issuer": {
+        "code": "viet_nam",
+        "name": "Vietnam"
+      },
+      "min_year": 2003,
+      "max_year": 2025,
+      "face": {
+        "value": 50000,
+        "unit": "Đồng",
+        "text": "50000 Đồng"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204745,
+        "title": "50 000 Đồng",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "viet_nam",
+          "name": "Vietnam"
+        },
+        "min_year": 2003,
+        "max_year": 2025,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/viet_nam/5e9e97d1456249.52677947-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/viet_nam/5e9e97d1a0fc48.03218172-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204964,
+      "title": "200 000 Đồng",
+      "issuer": {
+        "code": "viet_nam",
+        "name": "Vietnam"
+      },
+      "min_year": 2006,
+      "max_year": 2023,
+      "face": {
+        "value": 200000,
+        "unit": "Đồng",
+        "text": "200000 Đồng"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204964,
+        "title": "200 000 Đồng",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "viet_nam",
+          "name": "Vietnam"
+        },
+        "min_year": 2006,
+        "max_year": 2023,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/viet_nam/5e9ceba72ab570.69167788-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/viet_nam/5e9ceba77f3fd1.66621952-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205915,
+      "title": "500 000 Đồng",
+      "issuer": {
+        "code": "viet_nam",
+        "name": "Vietnam"
+      },
+      "min_year": 2003,
+      "max_year": 2022,
+      "face": {
+        "value": 500000,
+        "unit": "Đồng",
+        "text": "500000 Đồng"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205915,
+        "title": "500 000 Đồng",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "viet_nam",
+          "name": "Vietnam"
+        },
+        "min_year": 2003,
+        "max_year": 2022,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/viet_nam/65ca1a3c37c767.33491922-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/viet_nam/65ca1a4112ae69.44780004-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206295,
+      "title": "100 Đồng",
+      "issuer": {
+        "code": "viet_nam",
+        "name": "Vietnam"
+      },
+      "min_year": 1992,
+      "max_year": 1992,
+      "face": {
+        "value": 100,
+        "unit": "Đồng",
+        "text": "100 Đồng"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206295,
+        "title": "100 Đồng",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "viet_nam",
+          "name": "Vietnam"
+        },
+        "min_year": 1992,
+        "max_year": 1992,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/viet_nam/6239a473c10a78.37530533-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/viet_nam/6239a474658b71.25310520-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 207001,
+      "title": "100 Đồng (65th Anniversary of the National Bank)",
+      "issuer": {
+        "code": "viet_nam",
+        "name": "Vietnam"
+      },
+      "min_year": 2016,
+      "max_year": 2016,
+      "face": {
+        "value": 100,
+        "unit": "Đồng",
+        "text": "100 Đồng"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 207001,
+        "title": "100 Đồng (65th Anniversary of the National Bank)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "viet_nam",
+          "name": "Vietnam"
+        },
+        "min_year": 2016,
+        "max_year": 2016,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/viet_nam/65d4b5f288a2d4.84675104-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/viet_nam/65d4b5f51e5900.25049636-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 208765,
+      "title": "50 Đồng",
+      "issuer": {
+        "code": "viet_nam",
+        "name": "Vietnam"
+      },
+      "min_year": 1985,
+      "max_year": 1985,
+      "face": {
+        "value": 50,
+        "unit": "Đồng",
+        "text": "50 Đồng"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 208765,
+        "title": "50 Đồng",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "viet_nam",
+          "name": "Vietnam"
+        },
+        "min_year": 1985,
+        "max_year": 1985,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/viet_nam/6596895eebbd48.20042491-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/viet_nam/65968961260662.33952904-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 208771,
+      "title": "2 Đồng",
+      "issuer": {
+        "code": "viet_nam",
+        "name": "Vietnam"
+      },
+      "min_year": 1981,
+      "max_year": 1981,
+      "face": {
+        "value": 2,
+        "unit": "Đồng",
+        "text": "2 Đồng"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 208771,
+        "title": "2 Đồng",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "viet_nam",
+          "name": "Vietnam"
+        },
+        "min_year": 1981,
+        "max_year": 1981,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/viet_nam/6239a3613b6c94.13310426-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/viet_nam/6239a361d08252.24325230-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 208779,
+      "title": "5 Hào",
+      "issuer": {
+        "code": "viet_nam",
+        "name": "Vietnam"
+      },
+      "min_year": 1976,
+      "max_year": 1976,
+      "face": {
+        "value": 5,
+        "unit": "Hào",
+        "text": "5 Hào"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 208779,
+        "title": "5 Hào",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "viet_nam",
+          "name": "Vietnam"
+        },
+        "min_year": 1976,
+        "max_year": 1976,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/viet_nam/5ea887c92e40b2.24859061-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/viet_nam/5ea887c9774129.96853296-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 211173,
+      "title": "1 Đồng",
+      "issuer": {
+        "code": "viet_nam",
+        "name": "Vietnam"
+      },
+      "min_year": 1976,
+      "max_year": 1976,
+      "face": {
+        "value": 1,
+        "unit": "Đồng",
+        "text": "1 Đồng"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 211173,
+        "title": "1 Đồng",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "viet_nam",
+          "name": "Vietnam"
+        },
+        "min_year": 1976,
+        "max_year": 1976,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/viet_nam/68505f649e5608.88343270-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/viet_nam/68505f658543c2.36816760-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 211302,
+      "title": "30 Đồng",
+      "issuer": {
+        "code": "viet_nam",
+        "name": "Vietnam"
+      },
+      "min_year": 1981,
+      "max_year": 1981,
+      "face": {
+        "value": 30,
+        "unit": "Đồng",
+        "text": "30 Đồng"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 211302,
+        "title": "30 Đồng",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "viet_nam",
+          "name": "Vietnam"
+        },
+        "min_year": 1981,
+        "max_year": 1981,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/viet_nam/63e418c26a02c9.87462566-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/viet_nam/63e418c48e6837.35489624-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 211304,
+      "title": "20 Đồng",
+      "issuer": {
+        "code": "viet_nam",
+        "name": "Vietnam"
+      },
+      "min_year": 1985,
+      "max_year": 1985,
+      "face": {
+        "value": 20,
+        "unit": "Đồng",
+        "text": "20 Đồng"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 211304,
+        "title": "20 Đồng",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "viet_nam",
+          "name": "Vietnam"
+        },
+        "min_year": 1985,
+        "max_year": 1985,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/viet_nam/626b87c0a14125.69179083-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/viet_nam/626b87c13f2a99.33249681-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 211308,
+      "title": "10 Đồng",
+      "issuer": {
+        "code": "viet_nam",
+        "name": "Vietnam"
+      },
+      "min_year": 1980,
+      "max_year": 1980,
+      "face": {
+        "value": 10,
+        "unit": "Đồng",
+        "text": "10 Đồng"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 211308,
+        "title": "10 Đồng",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "viet_nam",
+          "name": "Vietnam"
+        },
+        "min_year": 1980,
+        "max_year": 1980,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/viet_nam/6a1300f1154331.48200606-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/viet_nam/6a1300f1b47913.17003816-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 211313,
+      "title": "5 Đồng",
+      "issuer": {
+        "code": "viet_nam",
+        "name": "Vietnam"
+      },
+      "min_year": 1985,
+      "max_year": 1985,
+      "face": {
+        "value": 5,
+        "unit": "Đồng",
+        "text": "5 Đồng"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 211313,
+        "title": "5 Đồng",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "viet_nam",
+          "name": "Vietnam"
+        },
+        "min_year": 1985,
+        "max_year": 1985,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/viet_nam/62f28f4667ccf8.05247837-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/viet_nam/62f28f47067d61.39318768-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 211315,
+      "title": "2 Đồng",
+      "issuer": {
+        "code": "viet_nam",
+        "name": "Vietnam"
+      },
+      "min_year": 1985,
+      "max_year": 1985,
+      "face": {
+        "value": 2,
+        "unit": "Đồng",
+        "text": "2 Đồng"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 211315,
+        "title": "2 Đồng",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "viet_nam",
+          "name": "Vietnam"
+        },
+        "min_year": 1985,
+        "max_year": 1985,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/viet_nam/63bb3ddc42fc21.75491719-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/viet_nam/63bb3ddc83f0e7.85135496-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 211318,
+      "title": "1 Đồng",
+      "issuer": {
+        "code": "viet_nam",
+        "name": "Vietnam"
+      },
+      "min_year": 1985,
+      "max_year": 1985,
+      "face": {
+        "value": 1,
+        "unit": "Đồng",
+        "text": "1 Đồng"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 211318,
+        "title": "1 Đồng",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "viet_nam",
+          "name": "Vietnam"
+        },
+        "min_year": 1985,
+        "max_year": 1985,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/viet_nam/63e49de20b1e41.86020782-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/viet_nam/63e49de28a8746.44284358-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 213249,
+      "title": "5000 Đồng",
+      "issuer": {
+        "code": "viet_nam",
+        "name": "Vietnam"
+      },
+      "min_year": 1989,
+      "max_year": 1989,
+      "face": {
+        "value": 5000,
+        "unit": "Đồng",
+        "text": "5000 Đồng"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 213249,
+        "title": "5000 Đồng",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "viet_nam",
+          "name": "Vietnam"
+        },
+        "min_year": 1989,
+        "max_year": 1989,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/viet_nam/6179daad5becf1.68114390-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/viet_nam/6179daaec465f7.77307980-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 213560,
+      "title": "10 000 Đồng",
+      "issuer": {
+        "code": "viet_nam",
+        "name": "Vietnam"
+      },
+      "min_year": 1993,
+      "max_year": 1993,
+      "face": {
+        "value": 10000,
+        "unit": "Đồng",
+        "text": "10000 Đồng"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 213560,
+        "title": "10 000 Đồng",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "viet_nam",
+          "name": "Vietnam"
+        },
+        "min_year": 1993,
+        "max_year": 1993,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/viet_nam/677cef6886ef59.62846005-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/viet_nam/677cef6a5e60f1.66775035-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 213751,
+      "title": "20 000 Đồng",
+      "issuer": {
+        "code": "viet_nam",
+        "name": "Vietnam"
+      },
+      "min_year": 1993,
+      "max_year": 1993,
+      "face": {
+        "value": 20000,
+        "unit": "Đồng",
+        "text": "20000 Đồng"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 213751,
+        "title": "20 000 Đồng",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "viet_nam",
+          "name": "Vietnam"
+        },
+        "min_year": 1993,
+        "max_year": 1993,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/viet_nam/64f3826e9f6033.08868686-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/viet_nam/64f3826f491aa8.90051241-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 213754,
+      "title": "50 000 Đồng",
+      "issuer": {
+        "code": "viet_nam",
+        "name": "Vietnam"
+      },
+      "min_year": 1994,
+      "max_year": 1994,
+      "face": {
+        "value": 50000,
+        "unit": "Đồng",
+        "text": "50000 Đồng"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 213754,
+        "title": "50 000 Đồng",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "viet_nam",
+          "name": "Vietnam"
+        },
+        "min_year": 1994,
+        "max_year": 1994,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/viet_nam/5eb81c5d707219.02267015-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/viet_nam/5eb81c5dd284a0.80164294-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 214227,
+      "title": "20 Đồng",
+      "issuer": {
+        "code": "viet_nam",
+        "name": "Vietnam"
+      },
+      "min_year": 1976,
+      "max_year": 1976,
+      "face": {
+        "value": 20,
+        "unit": "Đồng",
+        "text": "20 Đồng"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 214227,
+        "title": "20 Đồng",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "viet_nam",
+          "name": "Vietnam"
+        },
+        "min_year": 1976,
+        "max_year": 1976,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/viet_nam/6555ef51decda9.70369485-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/viet_nam/6555ef52551921.10842519-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 215457,
+      "title": "10 Đồng",
+      "issuer": {
+        "code": "viet_nam",
+        "name": "Vietnam"
+      },
+      "min_year": 1985,
+      "max_year": 1985,
+      "face": {
+        "value": 10,
+        "unit": "Đồng",
+        "text": "10 Đồng"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 215457,
+        "title": "10 Đồng",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "viet_nam",
+          "name": "Vietnam"
+        },
+        "min_year": 1985,
+        "max_year": 1985,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/viet_nam/5ec01824638c47.59492433-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/viet_nam/5ec01824c7b931.00219218-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 219786,
+      "title": "50 Đồng",
+      "issuer": {
+        "code": "viet_nam",
+        "name": "Vietnam"
+      },
+      "min_year": 1976,
+      "max_year": 1976,
+      "face": {
+        "value": 50,
+        "unit": "Đồng",
+        "text": "50 Đồng"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 219786,
+        "title": "50 Đồng",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "viet_nam",
+          "name": "Vietnam"
+        },
+        "min_year": 1976,
+        "max_year": 1976,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/viet_nam/5ed8964eb35211.72984576-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/viet_nam/5ed8964fac7fa8.19352936-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 222049,
+      "title": "2000 Đồng",
+      "issuer": {
+        "code": "viet_nam",
+        "name": "Vietnam"
+      },
+      "min_year": 1987,
+      "max_year": 1987,
+      "face": {
+        "value": 2000,
+        "unit": "Đồng",
+        "text": "2000 Đồng"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 222049,
+        "title": "2000 Đồng",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "viet_nam",
+          "name": "Vietnam"
+        },
+        "min_year": 1987,
+        "max_year": 1987,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/viet_nam/5ee691b327a5f1.40095860-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/viet_nam/5ee691b35df6b1.13250831-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 223637,
+      "title": "1000 Đồng",
+      "issuer": {
+        "code": "viet_nam",
+        "name": "Vietnam"
+      },
+      "min_year": 1987,
+      "max_year": 1987,
+      "face": {
+        "value": 1000,
+        "unit": "Đồng",
+        "text": "1000 Đồng"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 223637,
+        "title": "1000 Đồng",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "viet_nam",
+          "name": "Vietnam"
+        },
+        "min_year": 1987,
+        "max_year": 1987,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/viet_nam/5ef31aec2a8045.15501017-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/viet_nam/5ef31aec65cf39.55176855-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 230627,
+      "title": "100 000 Đồng",
+      "issuer": {
+        "code": "viet_nam",
+        "name": "Vietnam"
+      },
+      "min_year": 1994,
+      "max_year": 1994,
+      "face": {
+        "value": 100000,
+        "unit": "Đồng",
+        "text": "100000 Đồng"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 230627,
+        "title": "100 000 Đồng",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "viet_nam",
+          "name": "Vietnam"
+        },
+        "min_year": 1994,
+        "max_year": 1994,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/viet_nam/65e9c00b8ca9e1.77984198-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/viet_nam/65e9c00e5cfca5.54621354-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 238257,
+      "title": "5 Đồng",
+      "issuer": {
+        "code": "viet_nam",
+        "name": "Vietnam"
+      },
+      "min_year": 1976,
+      "max_year": 1976,
+      "face": {
+        "value": 5,
+        "unit": "Đồng",
+        "text": "5 Đồng"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 238257,
+        "title": "5 Đồng",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "viet_nam",
+          "name": "Vietnam"
+        },
+        "min_year": 1976,
+        "max_year": 1976,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/viet_nam/5f6d0c69b936c1.23369554-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/viet_nam/5f6d0c6ad0b2e5.53157055-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 240604,
+      "title": "10 Đồng",
+      "issuer": {
+        "code": "viet_nam",
+        "name": "Vietnam"
+      },
+      "min_year": 1976,
+      "max_year": 1976,
+      "face": {
+        "value": 10,
+        "unit": "Đồng",
+        "text": "10 Đồng"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 240604,
+        "title": "10 Đồng",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "viet_nam",
+          "name": "Vietnam"
+        },
+        "min_year": 1976,
+        "max_year": 1976,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/viet_nam/60bcb5fa8f34f9.76565097-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/viet_nam/60bcb5fa953d96.90507351-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 240608,
+      "title": "100 Đồng",
+      "issuer": {
+        "code": "viet_nam",
+        "name": "Vietnam"
+      },
+      "min_year": 1981,
+      "max_year": 1981,
+      "face": {
+        "value": 100,
+        "unit": "Đồng",
+        "text": "100 Đồng"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 240608,
+        "title": "100 Đồng",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "viet_nam",
+          "name": "Vietnam"
+        },
+        "min_year": 1981,
+        "max_year": 1981,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/viet_nam/5f87523a5e8cf4.73918015-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/viet_nam/5f87523be70950.97853576-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 245544,
+      "title": "5 Hào",
+      "issuer": {
+        "code": "viet_nam",
+        "name": "Vietnam"
+      },
+      "min_year": 1985,
+      "max_year": 1985,
+      "face": {
+        "value": 5,
+        "unit": "Hào",
+        "text": "5 Hào"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 245544,
+        "title": "5 Hào",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "viet_nam",
+          "name": "Vietnam"
+        },
+        "min_year": 1985,
+        "max_year": 1985,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/viet_nam/5fb18014a4f0b7.53920202-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/viet_nam/5fb180156c93e1.03180116-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 254218,
+      "title": "30 Đồng",
+      "issuer": {
+        "code": "viet_nam",
+        "name": "Vietnam"
+      },
+      "min_year": 1985,
+      "max_year": 1985,
+      "face": {
+        "value": 30,
+        "unit": "Đồng",
+        "text": "30 Đồng"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 254218,
+        "title": "30 Đồng",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "viet_nam",
+          "name": "Vietnam"
+        },
+        "min_year": 1985,
+        "max_year": 1985,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/viet_nam/5fcde2e93b4de7.04825618-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/viet_nam/5fcde2e991a8d7.40635909-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 266151,
+      "title": "50 Đồng (50th Anniversary of the National Bank)",
+      "issuer": {
+        "code": "viet_nam",
+        "name": "Vietnam"
+      },
+      "min_year": 2001,
+      "max_year": 2001,
+      "face": {
+        "value": 50,
+        "unit": "Đồng",
+        "text": "50 Đồng"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 266151,
+        "title": "50 Đồng (50th Anniversary of the National Bank)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "viet_nam",
+          "name": "Vietnam"
+        },
+        "min_year": 2001,
+        "max_year": 2001,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/viet_nam/5ff9f9a4811c86.15596171-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/viet_nam/5ff9f9a5232349.78584131-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 275562,
+      "title": "100 Đồng",
+      "issuer": {
+        "code": "viet_nam",
+        "name": "Vietnam"
+      },
+      "min_year": 1985,
+      "max_year": 1985,
+      "face": {
+        "value": 100,
+        "unit": "Đồng",
+        "text": "100 Đồng"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 275562,
+        "title": "100 Đồng",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "viet_nam",
+          "name": "Vietnam"
+        },
+        "min_year": 1985,
+        "max_year": 1985,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/viet_nam/66294b26ca4b29.61250850-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/viet_nam/66294b2ba66449.62359853-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 275563,
+      "title": "500 Đồng",
+      "issuer": {
+        "code": "viet_nam",
+        "name": "Vietnam"
+      },
+      "min_year": 1985,
+      "max_year": 1985,
+      "face": {
+        "value": 500,
+        "unit": "Đồng",
+        "text": "500 Đồng"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 275563,
+        "title": "500 Đồng",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "viet_nam",
+          "name": "Vietnam"
+        },
+        "min_year": 1985,
+        "max_year": 1985,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/viet_nam/602ed5462a41d8.98915389-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/viet_nam/602ed5464f0052.10856681-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 275569,
+      "title": "50 000 Đồng",
+      "issuer": {
+        "code": "viet_nam",
+        "name": "Vietnam"
+      },
+      "min_year": 1990,
+      "max_year": 1990,
+      "face": {
+        "value": 50000,
+        "unit": "Đồng",
+        "text": "50000 Đồng"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 275569,
+        "title": "50 000 Đồng",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "viet_nam",
+          "name": "Vietnam"
+        },
+        "min_year": 1990,
+        "max_year": 1990,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/viet_nam/602ed81b2b24f6.50240661-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/viet_nam/602ed81b5880f8.38218570-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 302315,
+      "title": "10 000 Đồng",
+      "issuer": {
+        "code": "viet_nam",
+        "name": "Vietnam"
+      },
+      "min_year": 1990,
+      "max_year": 1990,
+      "face": {
+        "value": 10000,
+        "unit": "Đồng",
+        "text": "10000 Đồng"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 302315,
+        "title": "10 000 Đồng",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "viet_nam",
+          "name": "Vietnam"
+        },
+        "min_year": 1990,
+        "max_year": 1990,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/viet_nam/611819eb549672.78680107-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/viet_nam/611819eb77c871.03949967-180.jpg",
+        "category": "banknote"
+      }
+    }
+  ]
+}

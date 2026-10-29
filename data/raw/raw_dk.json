@@ -1,0 +1,2208 @@
+{
+  "meta": {
+    "generated_at": "2026-10-29T13:27:54.234Z",
+    "fixture": false,
+    "api": "numista v3",
+    "issuer": "denmark",
+    "iso": "DK",
+    "category": "banknote",
+    "lang": "en",
+    "since": 1960,
+    "listed": 291,
+    "fetched": 59,
+    "details_fetched": 0,
+    "dropped_before_since": 232,
+    "dropped_by_source": {
+      "list": 232,
+      "detail": 0
+    },
+    "issuer_mismatches": 24,
+    "pages": 6,
+    "requests": 0
+  },
+  "types": [
+    {
+      "numista_type_id": 201701,
+      "title": "10 Kroner (Den Kongelige Grønlandske Handel)",
+      "issuer": {
+        "code": "groenland",
+        "name": "Greenland"
+      },
+      "min_year": 1953,
+      "max_year": 1967,
+      "face": {
+        "value": 10,
+        "unit": "Kroner",
+        "text": "10 Kroner"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 201701,
+        "title": "10 Kroner (Den Kongelige Grønlandske Handel)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "groenland",
+          "name": "Greenland"
+        },
+        "min_year": 1953,
+        "max_year": 1967,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/groenland/6a88f2bf682bb4.51687648-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/groenland/6a86ed129be441.63016857-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202093,
+      "title": "50 Kroner (Danish Bridges and Antiquities. Type 1)",
+      "issuer": {
+        "code": "danemark",
+        "name": "Denmark"
+      },
+      "min_year": 2009,
+      "max_year": 2016,
+      "face": {
+        "value": 50,
+        "unit": "Kroner",
+        "text": "50 Kroner"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202093,
+        "title": "50 Kroner (Danish Bridges and Antiquities. Type 1)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "danemark",
+          "name": "Denmark"
+        },
+        "min_year": 2009,
+        "max_year": 2016,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/danemark/623acb29412a53.65491453-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/danemark/623acb29da8d20.03748811-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202119,
+      "title": "100 Kroner (Danish Bridges and Antiquities. Type 1)",
+      "issuer": {
+        "code": "danemark",
+        "name": "Denmark"
+      },
+      "min_year": 2009,
+      "max_year": 2015,
+      "face": {
+        "value": 100,
+        "unit": "Kroner",
+        "text": "100 Kroner"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202119,
+        "title": "100 Kroner (Danish Bridges and Antiquities. Type 1)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "danemark",
+          "name": "Denmark"
+        },
+        "min_year": 2009,
+        "max_year": 2015,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/danemark/5e9733333309e3.98928119-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/danemark/5e973333b98811.27588858-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202228,
+      "title": "10 Krónur (Famous men and Faroes landscapes. Type 1: Red)",
+      "issuer": {
+        "code": "feroe",
+        "name": "Faroe Islands"
+      },
+      "min_year": 1949,
+      "max_year": 1971,
+      "face": {
+        "value": 10,
+        "unit": "Krónur",
+        "text": "10 Krónur"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202228,
+        "title": "10 Krónur (Famous men and Faroes landscapes. Type 1: Red)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "feroe",
+          "name": "Faroe Islands"
+        },
+        "min_year": 1949,
+        "max_year": 1971,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/feroe/62e3af34ad01a3.30609733-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/feroe/62e3af3720bd59.47244156-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202233,
+      "title": "10 Krónur (Famous men and Faroes landscapes. Type 2: Green)",
+      "issuer": {
+        "code": "feroe",
+        "name": "Faroe Islands"
+      },
+      "min_year": 1978,
+      "max_year": 1978,
+      "face": {
+        "value": 10,
+        "unit": "Krónur",
+        "text": "10 Krónur"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202233,
+        "title": "10 Krónur (Famous men and Faroes landscapes. Type 2: Green)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "feroe",
+          "name": "Faroe Islands"
+        },
+        "min_year": 1978,
+        "max_year": 1978,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/feroe/62e3af4016b214.42115417-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/feroe/62e3af42a89e78.20991202-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202236,
+      "title": "100 Krónur (Faroese animals and landscapes. Type 1; thin security thread)",
+      "issuer": {
+        "code": "feroe",
+        "name": "Faroe Islands"
+      },
+      "min_year": 2002,
+      "max_year": 2002,
+      "face": {
+        "value": 100,
+        "unit": "Krónur",
+        "text": "100 Krónur"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202236,
+        "title": "100 Krónur (Faroese animals and landscapes. Type 1; thin security thread)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "feroe",
+          "name": "Faroe Islands"
+        },
+        "min_year": 2002,
+        "max_year": 2002,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/feroe/62e3af453168f4.68111789-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/feroe/62e3af47dc8510.40445565-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202242,
+      "title": "50 Krónur (Faroese animals and landscapes. Type 1; thin security thread)",
+      "issuer": {
+        "code": "feroe",
+        "name": "Faroe Islands"
+      },
+      "min_year": 2001,
+      "max_year": 2001,
+      "face": {
+        "value": 50,
+        "unit": "Krónur",
+        "text": "50 Krónur"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202242,
+        "title": "50 Krónur (Faroese animals and landscapes. Type 1; thin security thread)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "feroe",
+          "name": "Faroe Islands"
+        },
+        "min_year": 2001,
+        "max_year": 2001,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/feroe/67cf60b51a4b73.77380758-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/feroe/67cf60b7751995.64918986-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203640,
+      "title": "10 Kroner (Portrait and Landscape. Top banner begins with \"TI\")",
+      "issuer": {
+        "code": "danemark",
+        "name": "Denmark"
+      },
+      "min_year": 1950,
+      "max_year": 1974,
+      "face": {
+        "value": 10,
+        "unit": "Kroner",
+        "text": "10 Kroner"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203640,
+        "title": "10 Kroner (Portrait and Landscape. Top banner begins with \"TI\")",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "danemark",
+          "name": "Denmark"
+        },
+        "min_year": 1950,
+        "max_year": 1974,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/danemark/5e99832f454728.85825368-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/danemark/5e998331215ec3.45545392-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204321,
+      "title": "20 Kroner \"Spurve\" (Painting and Animal)",
+      "issuer": {
+        "code": "danemark",
+        "name": "Denmark"
+      },
+      "min_year": 1979,
+      "max_year": 1988,
+      "face": {
+        "value": 20,
+        "unit": "Kroner \"Spurve",
+        "text": "20 Kroner \"Spurve"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204321,
+        "title": "20 Kroner \"Spurve\" (Painting and Animal)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "danemark",
+          "name": "Denmark"
+        },
+        "min_year": 1979,
+        "max_year": 1988,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/danemark/63b582614b2cc8.41862260-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/danemark/63b58263cfe7f0.16743207-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204863,
+      "title": "50 Kroner (Famous Men and Women. Type 1)",
+      "issuer": {
+        "code": "danemark",
+        "name": "Denmark"
+      },
+      "min_year": 1999,
+      "max_year": 2002,
+      "face": {
+        "value": 50,
+        "unit": "Kroner",
+        "text": "50 Kroner"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204863,
+        "title": "50 Kroner (Famous Men and Women. Type 1)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "danemark",
+          "name": "Denmark"
+        },
+        "min_year": 1999,
+        "max_year": 2002,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/danemark/5e9cb2a3802b96.59275047-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/danemark/5e9cb2a4976476.00899259-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205589,
+      "title": "100 Kroner \"Møl\" (Painting and Animal. Type 1; without security thread)",
+      "issuer": {
+        "code": "danemark",
+        "name": "Denmark"
+      },
+      "min_year": 1972,
+      "max_year": 1993,
+      "face": {
+        "value": 100,
+        "unit": "Kroner \"Møl",
+        "text": "100 Kroner \"Møl"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205589,
+        "title": "100 Kroner \"Møl\" (Painting and Animal. Type 1; without security thread)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "danemark",
+          "name": "Denmark"
+        },
+        "min_year": 1972,
+        "max_year": 1993,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/danemark/5e9e6313d12586.24967615-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/danemark/5e9e631541fe57.47707321-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205704,
+      "title": "200 Kroner (Danish Bridges and Antiquities. Type 1)",
+      "issuer": {
+        "code": "danemark",
+        "name": "Denmark"
+      },
+      "min_year": 2010,
+      "max_year": 2016,
+      "face": {
+        "value": 200,
+        "unit": "Kroner",
+        "text": "200 Kroner"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205704,
+        "title": "200 Kroner (Danish Bridges and Antiquities. Type 1)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "danemark",
+          "name": "Denmark"
+        },
+        "min_year": 2010,
+        "max_year": 2016,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/danemark/5e9eb3da213f36.78698199-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/danemark/5e9eb3dc4759f7.72456052-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205708,
+      "title": "500 Kroner (Danish Bridges and Antiquities. Type 1)",
+      "issuer": {
+        "code": "danemark",
+        "name": "Denmark"
+      },
+      "min_year": 2010,
+      "max_year": 2016,
+      "face": {
+        "value": 500,
+        "unit": "Kroner",
+        "text": "500 Kroner"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205708,
+        "title": "500 Kroner (Danish Bridges and Antiquities. Type 1)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "danemark",
+          "name": "Denmark"
+        },
+        "min_year": 2010,
+        "max_year": 2016,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/danemark/5e9eb6d11275d0.89365662-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/danemark/5e9eb6d31dc562.98596921-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205713,
+      "title": "1000 Kroner (Danish Bridges and Antiquities)",
+      "issuer": {
+        "code": "danemark",
+        "name": "Denmark"
+      },
+      "min_year": 2011,
+      "max_year": 2013,
+      "face": {
+        "value": 1000,
+        "unit": "Kroner",
+        "text": "1000 Kroner"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205713,
+        "title": "1000 Kroner (Danish Bridges and Antiquities)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "danemark",
+          "name": "Denmark"
+        },
+        "min_year": 2011,
+        "max_year": 2013,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/danemark/5e9eb8fbd97395.92191073-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/danemark/5e9eb8fec56899.36903072-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205730,
+      "title": "100 Kroner (Famous Men and Women. Type 2; enhanced security features)",
+      "issuer": {
+        "code": "danemark",
+        "name": "Denmark"
+      },
+      "min_year": 2002,
+      "max_year": 2008,
+      "face": {
+        "value": 100,
+        "unit": "Kroner",
+        "text": "100 Kroner"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205730,
+        "title": "100 Kroner (Famous Men and Women. Type 2; enhanced security features)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "danemark",
+          "name": "Denmark"
+        },
+        "min_year": 2002,
+        "max_year": 2008,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/danemark/5f29b92231f6a6.81324311-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/danemark/5e9ec042821776.12935943-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205736,
+      "title": "1000 Kroner (Famous Men and Women. Type 1)",
+      "issuer": {
+        "code": "danemark",
+        "name": "Denmark"
+      },
+      "min_year": 1998,
+      "max_year": 1998,
+      "face": {
+        "value": 1000,
+        "unit": "Kroner",
+        "text": "1000 Kroner"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205736,
+        "title": "1000 Kroner (Famous Men and Women. Type 1)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "danemark",
+          "name": "Denmark"
+        },
+        "min_year": 1998,
+        "max_year": 1998,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/danemark/5ea453b0ba0c04.51914024-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/danemark/5ea453b3d3c415.83317592-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205741,
+      "title": "500 Kroner (Famous Men and Women. Type 1)",
+      "issuer": {
+        "code": "danemark",
+        "name": "Denmark"
+      },
+      "min_year": 1997,
+      "max_year": 2003,
+      "face": {
+        "value": 500,
+        "unit": "Kroner",
+        "text": "500 Kroner"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205741,
+        "title": "500 Kroner (Famous Men and Women. Type 1)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "danemark",
+          "name": "Denmark"
+        },
+        "min_year": 1997,
+        "max_year": 2003,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/danemark/5e9ec4be13d510.89177518-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/danemark/5e9ec4c06a4a69.24869258-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205743,
+      "title": "100 Kroner (Famous Men and Women. Type 1)",
+      "issuer": {
+        "code": "danemark",
+        "name": "Denmark"
+      },
+      "min_year": 1999,
+      "max_year": 2001,
+      "face": {
+        "value": 100,
+        "unit": "Kroner",
+        "text": "100 Kroner"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205743,
+        "title": "100 Kroner (Famous Men and Women. Type 1)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "danemark",
+          "name": "Denmark"
+        },
+        "min_year": 1999,
+        "max_year": 2001,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/danemark/5f2995563ba528.86248353-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/danemark/5e9ec746077615.43874036-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205825,
+      "title": "50 Kroner \"Karusse\" (Painting and Animal)",
+      "issuer": {
+        "code": "danemark",
+        "name": "Denmark"
+      },
+      "min_year": 1972,
+      "max_year": 1998,
+      "face": {
+        "value": 50,
+        "unit": "Kroner \"Karusse",
+        "text": "50 Kroner \"Karusse"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205825,
+        "title": "50 Kroner \"Karusse\" (Painting and Animal)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "danemark",
+          "name": "Denmark"
+        },
+        "min_year": 1972,
+        "max_year": 1998,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/danemark/5e9efb8f0b78d9.16578346-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/danemark/5e9efb9055ff78.72256969-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206828,
+      "title": "1000 Kroner \"Egern\" (Painting and Animal)",
+      "issuer": {
+        "code": "danemark",
+        "name": "Denmark"
+      },
+      "min_year": 1972,
+      "max_year": 1992,
+      "face": {
+        "value": 1000,
+        "unit": "Kroner \"Egern",
+        "text": "1000 Kroner \"Egern"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206828,
+        "title": "1000 Kroner \"Egern\" (Painting and Animal)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "danemark",
+          "name": "Denmark"
+        },
+        "min_year": 1972,
+        "max_year": 1992,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/danemark/5ea1babccfcfe2.73242456-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/danemark/5ea1babe2f2f67.74605150-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206831,
+      "title": "100 Kroner \"Møl\" (Painting and Animal. Type 2; with security thread)",
+      "issuer": {
+        "code": "danemark",
+        "name": "Denmark"
+      },
+      "min_year": 1994,
+      "max_year": 1998,
+      "face": {
+        "value": 100,
+        "unit": "Kroner \"Møl",
+        "text": "100 Kroner \"Møl"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206831,
+        "title": "100 Kroner \"Møl\" (Painting and Animal. Type 2; with security thread)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "danemark",
+          "name": "Denmark"
+        },
+        "min_year": 1994,
+        "max_year": 1998,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/danemark/5ea1bce3cdf020.85751728-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/danemark/5ea1bce4a11b76.77237465-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206833,
+      "title": "500 Kroner \"Firben\" (Painting and Animal)",
+      "issuer": {
+        "code": "danemark",
+        "name": "Denmark"
+      },
+      "min_year": 1972,
+      "max_year": 1988,
+      "face": {
+        "value": 500,
+        "unit": "Kroner \"Firben",
+        "text": "500 Kroner \"Firben"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206833,
+        "title": "500 Kroner \"Firben\" (Painting and Animal)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "danemark",
+          "name": "Denmark"
+        },
+        "min_year": 1972,
+        "max_year": 1988,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/danemark/5ea1bf4e26e758.07958396-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/danemark/5ea1bf4f254141.43110644-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206837,
+      "title": "5 Kroner \"Fem spir\" (Portrait and Landscape)",
+      "issuer": {
+        "code": "danemark",
+        "name": "Denmark"
+      },
+      "min_year": 1952,
+      "max_year": 1960,
+      "face": {
+        "value": 5,
+        "unit": "Kroner \"Fem spir",
+        "text": "5 Kroner \"Fem spir"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206837,
+        "title": "5 Kroner \"Fem spir\" (Portrait and Landscape)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "danemark",
+          "name": "Denmark"
+        },
+        "min_year": 1952,
+        "max_year": 1960,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/danemark/5ea1c7bd40d2c4.43475951-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/danemark/5ea1c7be1cc009.39219055-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206840,
+      "title": "50 Kroner (Portrait and Landscape. Type 2; no crowns in watermark)",
+      "issuer": {
+        "code": "danemark",
+        "name": "Denmark"
+      },
+      "min_year": 1961,
+      "max_year": 1970,
+      "face": {
+        "value": 50,
+        "unit": "Kroner",
+        "text": "50 Kroner"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206840,
+        "title": "50 Kroner (Portrait and Landscape. Type 2; no crowns in watermark)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "danemark",
+          "name": "Denmark"
+        },
+        "min_year": 1961,
+        "max_year": 1970,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/danemark/5ea1ca90622590.66972050-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/danemark/5ea1ca915fe4a4.57113324-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206843,
+      "title": "100 Kroner (Portrait and Landscape. Type 2; number watermark)",
+      "issuer": {
+        "code": "danemark",
+        "name": "Denmark"
+      },
+      "min_year": 1961,
+      "max_year": 1970,
+      "face": {
+        "value": 100,
+        "unit": "Kroner",
+        "text": "100 Kroner"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206843,
+        "title": "100 Kroner (Portrait and Landscape. Type 2; number watermark)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "danemark",
+          "name": "Denmark"
+        },
+        "min_year": 1961,
+        "max_year": 1970,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/danemark/5f1c44641f6836.93573478-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/danemark/5ea1cddd347f00.04470122-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206845,
+      "title": "500 Kroner (Portrait and Landscape)",
+      "issuer": {
+        "code": "danemark",
+        "name": "Denmark"
+      },
+      "min_year": 1963,
+      "max_year": 1967,
+      "face": {
+        "value": 500,
+        "unit": "Kroner",
+        "text": "500 Kroner"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206845,
+        "title": "500 Kroner (Portrait and Landscape)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "danemark",
+          "name": "Denmark"
+        },
+        "min_year": 1963,
+        "max_year": 1967,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/danemark/5ea1d029a0b1f5.61715203-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/danemark/5ea1d02a8fe119.79273198-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206847,
+      "title": "200 Krónur (Faroese animals and landscapes. Type 1; thin security thread)",
+      "issuer": {
+        "code": "feroe",
+        "name": "Faroe Islands"
+      },
+      "min_year": 2004,
+      "max_year": 2004,
+      "face": {
+        "value": 200,
+        "unit": "Krónur",
+        "text": "200 Krónur"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206847,
+        "title": "200 Krónur (Faroese animals and landscapes. Type 1; thin security thread)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "feroe",
+          "name": "Faroe Islands"
+        },
+        "min_year": 2004,
+        "max_year": 2004,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/feroe/5ea1d4f6b3cc17.42031209-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/feroe/5ea1d4f776eeb3.80564273-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206849,
+      "title": "50 Krónur (Faroese animals and landscapes. Type 2; thick security thread; enhanced security features)",
+      "issuer": {
+        "code": "feroe",
+        "name": "Faroe Islands"
+      },
+      "min_year": 2011,
+      "max_year": 2011,
+      "face": {
+        "value": 50,
+        "unit": "Krónur",
+        "text": "50 Krónur"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206849,
+        "title": "50 Krónur (Faroese animals and landscapes. Type 2; thick security thread; enhanced security features)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "feroe",
+          "name": "Faroe Islands"
+        },
+        "min_year": 2011,
+        "max_year": 2011,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/feroe/62e3af3ba8a566.00512429-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/feroe/62e3af3ddf8dc1.15380053-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206851,
+      "title": "100 Krónur (Faroese animals and landscapes. Type 2; thick security thread; enhanced security features)",
+      "issuer": {
+        "code": "feroe",
+        "name": "Faroe Islands"
+      },
+      "min_year": 2012,
+      "max_year": 2012,
+      "face": {
+        "value": 100,
+        "unit": "Krónur",
+        "text": "100 Krónur"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206851,
+        "title": "100 Krónur (Faroese animals and landscapes. Type 2; thick security thread; enhanced security features)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "feroe",
+          "name": "Faroe Islands"
+        },
+        "min_year": 2012,
+        "max_year": 2012,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/feroe/62e3a77ef14fc6.24213569-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/feroe/62e3a7817d1ff0.54730618-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 207309,
+      "title": "10 Kroner \"Edderfugl\" (Painting and Animal)",
+      "issuer": {
+        "code": "danemark",
+        "name": "Denmark"
+      },
+      "min_year": 1972,
+      "max_year": 1978,
+      "face": {
+        "value": 10,
+        "unit": "Kroner \"Edderfugl",
+        "text": "10 Kroner \"Edderfugl"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 207309,
+        "title": "10 Kroner \"Edderfugl\" (Painting and Animal)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "danemark",
+          "name": "Denmark"
+        },
+        "min_year": 1972,
+        "max_year": 1978,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/danemark/63b9681d7e5c45.10737198-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/danemark/63b96820405593.55322528-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 207565,
+      "title": "200 Kroner (Famous Men and Women. Type 1)",
+      "issuer": {
+        "code": "danemark",
+        "name": "Denmark"
+      },
+      "min_year": 1997,
+      "max_year": 2000,
+      "face": {
+        "value": 200,
+        "unit": "Kroner",
+        "text": "200 Kroner"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 207565,
+        "title": "200 Kroner (Famous Men and Women. Type 1)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "danemark",
+          "name": "Denmark"
+        },
+        "min_year": 1997,
+        "max_year": 2000,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/danemark/5f2aa2ff919463.15804460-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/danemark/5f2aa3001db230.77245089-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 207571,
+      "title": "50 Kroner (Famous Men and Women. Type 2; enhanced security features)",
+      "issuer": {
+        "code": "danemark",
+        "name": "Denmark"
+      },
+      "min_year": 2004,
+      "max_year": 2007,
+      "face": {
+        "value": 50,
+        "unit": "Kroner",
+        "text": "50 Kroner"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 207571,
+        "title": "50 Kroner (Famous Men and Women. Type 2; enhanced security features)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "danemark",
+          "name": "Denmark"
+        },
+        "min_year": 2004,
+        "max_year": 2007,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/danemark/5eb903b5d1eff2.68738087-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/danemark/5eb903b74755f4.03295744-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 207588,
+      "title": "200 Krónur (Faroese animals and landscapes. Type 2; thick security thread; enhanced security features)",
+      "issuer": {
+        "code": "feroe",
+        "name": "Faroe Islands"
+      },
+      "min_year": 2012,
+      "max_year": 2012,
+      "face": {
+        "value": 200,
+        "unit": "Krónur",
+        "text": "200 Krónur"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 207588,
+        "title": "200 Krónur (Faroese animals and landscapes. Type 2; thick security thread; enhanced security features)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "feroe",
+          "name": "Faroe Islands"
+        },
+        "min_year": 2012,
+        "max_year": 2012,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/feroe/62e3a793748660.38573059-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/feroe/62e3a7961eeda5.00144889-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 207590,
+      "title": "500 Krónur (Faroese animals and landscapes. Type 2; thick security thread; enhanced security features)",
+      "issuer": {
+        "code": "feroe",
+        "name": "Faroe Islands"
+      },
+      "min_year": 2012,
+      "max_year": 2012,
+      "face": {
+        "value": 500,
+        "unit": "Krónur",
+        "text": "500 Krónur"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 207590,
+        "title": "500 Krónur (Faroese animals and landscapes. Type 2; thick security thread; enhanced security features)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "feroe",
+          "name": "Faroe Islands"
+        },
+        "min_year": 2012,
+        "max_year": 2012,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/feroe/62e3a78e63fc09.61976471-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/feroe/62e3a790dae9f0.36935774-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 208699,
+      "title": "1000 Krónur (Faroese animals and landscapes. Type 2; thick security thread; enhanced security features)",
+      "issuer": {
+        "code": "feroe",
+        "name": "Faroe Islands"
+      },
+      "min_year": 2012,
+      "max_year": 2012,
+      "face": {
+        "value": 1000,
+        "unit": "Krónur",
+        "text": "1000 Krónur"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 208699,
+        "title": "1000 Krónur (Faroese animals and landscapes. Type 2; thick security thread; enhanced security features)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "feroe",
+          "name": "Faroe Islands"
+        },
+        "min_year": 2012,
+        "max_year": 2012,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/feroe/62e3a798ee0ee2.74986360-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/feroe/62e3a79bc724e8.96577471-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 208705,
+      "title": "20 Krónur (Famous men and Faroes landscapes. Type 2)",
+      "issuer": {
+        "code": "feroe",
+        "name": "Faroe Islands"
+      },
+      "min_year": 1987,
+      "max_year": 1988,
+      "face": {
+        "value": 20,
+        "unit": "Krónur",
+        "text": "20 Krónur"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 208705,
+        "title": "20 Krónur (Famous men and Faroes landscapes. Type 2)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "feroe",
+          "name": "Faroe Islands"
+        },
+        "min_year": 1987,
+        "max_year": 1988,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/feroe/67fccd617f8611.05817055-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/feroe/67fccd62b33464.61071485-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 208709,
+      "title": "100 Krónur (Famous men and Faroes landscapes. Type 1)",
+      "issuer": {
+        "code": "feroe",
+        "name": "Faroe Islands"
+      },
+      "min_year": 1964,
+      "max_year": 1975,
+      "face": {
+        "value": 100,
+        "unit": "Krónur",
+        "text": "100 Krónur"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 208709,
+        "title": "100 Krónur (Famous men and Faroes landscapes. Type 1)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "feroe",
+          "name": "Faroe Islands"
+        },
+        "min_year": 1964,
+        "max_year": 1975,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/feroe/67fccd8e5c4532.44914378-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/feroe/67fccd8ff130d4.68507380-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 208737,
+      "title": "200 Kroner (Famous Men and Women. Type 2; enhanced security features)",
+      "issuer": {
+        "code": "danemark",
+        "name": "Denmark"
+      },
+      "min_year": 2003,
+      "max_year": 2008,
+      "face": {
+        "value": 200,
+        "unit": "Kroner",
+        "text": "200 Kroner"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 208737,
+        "title": "200 Kroner (Famous Men and Women. Type 2; enhanced security features)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "danemark",
+          "name": "Denmark"
+        },
+        "min_year": 2003,
+        "max_year": 2008,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/danemark/5f2aacd6785460.98400556-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/danemark/5f2aacd6f1f0b3.42448528-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 208739,
+      "title": "500 Kroner (Famous Men and Women. Type 2; enhanced security features)",
+      "issuer": {
+        "code": "danemark",
+        "name": "Denmark"
+      },
+      "min_year": 2003,
+      "max_year": 2008,
+      "face": {
+        "value": 500,
+        "unit": "Kroner",
+        "text": "500 Kroner"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 208739,
+        "title": "500 Kroner (Famous Men and Women. Type 2; enhanced security features)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "danemark",
+          "name": "Denmark"
+        },
+        "min_year": 2003,
+        "max_year": 2008,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/danemark/5f2af4e42a3624.35672113-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/danemark/5f2af4e4b164f3.96913626-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 208743,
+      "title": "1000 Kroner (Famous Men and Women. Type 2; enhanced security features)",
+      "issuer": {
+        "code": "danemark",
+        "name": "Denmark"
+      },
+      "min_year": 2004,
+      "max_year": 2006,
+      "face": {
+        "value": 1000,
+        "unit": "Kroner",
+        "text": "1000 Kroner"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 208743,
+        "title": "1000 Kroner (Famous Men and Women. Type 2; enhanced security features)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "danemark",
+          "name": "Denmark"
+        },
+        "min_year": 2004,
+        "max_year": 2006,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/danemark/5f2b0a07589df9.10889502-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/danemark/5f2b0a07a42803.61605916-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 222650,
+      "title": "50 Krónur (Famous men and Faroes landscapes. Type 2)",
+      "issuer": {
+        "code": "feroe",
+        "name": "Faroe Islands"
+      },
+      "min_year": 1978,
+      "max_year": 1994,
+      "face": {
+        "value": 50,
+        "unit": "Krónur",
+        "text": "50 Krónur"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 222650,
+        "title": "50 Krónur (Famous men and Faroes landscapes. Type 2)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "feroe",
+          "name": "Faroe Islands"
+        },
+        "min_year": 1978,
+        "max_year": 1994,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/feroe/5eeb3c8787b9a1.14094104-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/feroe/5eeb3c87ab8c17.30084930-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 223129,
+      "title": "5 Kroner (Den Kongelige Grønlandske Handel)",
+      "issuer": {
+        "code": "groenland",
+        "name": "Greenland"
+      },
+      "min_year": 1953,
+      "max_year": 1967,
+      "face": {
+        "value": 5,
+        "unit": "Kroner",
+        "text": "5 Kroner"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 223129,
+        "title": "5 Kroner (Den Kongelige Grønlandske Handel)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "groenland",
+          "name": "Greenland"
+        },
+        "min_year": 1953,
+        "max_year": 1967,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/groenland/5fddf8c35c37f9.74520481-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/groenland/5fddf8c3960042.62578429-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 225829,
+      "title": "100 Kroner (Substitution note)",
+      "issuer": {
+        "code": "danemark",
+        "name": "Denmark"
+      },
+      "min_year": 1944,
+      "max_year": 1960,
+      "face": {
+        "value": 100,
+        "unit": "Kroner",
+        "text": "100 Kroner"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 225829,
+        "title": "100 Kroner (Substitution note)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "danemark",
+          "name": "Denmark"
+        },
+        "min_year": 1944,
+        "max_year": 1960,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/danemark/67731f738a7f49.83065803-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/danemark/67731f74392726.18295935-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 226192,
+      "title": "500 Kroner (Substitution note)",
+      "issuer": {
+        "code": "danemark",
+        "name": "Denmark"
+      },
+      "min_year": 1944,
+      "max_year": 1962,
+      "face": {
+        "value": 500,
+        "unit": "Kroner",
+        "text": "500 Kroner"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 226192,
+        "title": "500 Kroner (Substitution note)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "danemark",
+          "name": "Denmark"
+        },
+        "min_year": 1944,
+        "max_year": 1962,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/danemark/6773200f0c9da3.53463865-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/danemark/6773200f833168.44782019-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 228948,
+      "title": "50 Kroner (Portrait and Landscape. Type 1; crowns in watermark)",
+      "issuer": {
+        "code": "danemark",
+        "name": "Denmark"
+      },
+      "min_year": 1956,
+      "max_year": 1960,
+      "face": {
+        "value": 50,
+        "unit": "Kroner",
+        "text": "50 Kroner"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 228948,
+        "title": "50 Kroner (Portrait and Landscape. Type 1; crowns in watermark)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "danemark",
+          "name": "Denmark"
+        },
+        "min_year": 1956,
+        "max_year": 1960,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/danemark/5f9aa747ac8794.01527832-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/danemark/5f9aa748108781.72710314-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 229134,
+      "title": "100 Kroner (Portrait and Landscape. Type 1; compass watermark)",
+      "issuer": {
+        "code": "danemark",
+        "name": "Denmark"
+      },
+      "min_year": 1961,
+      "max_year": 1961,
+      "face": {
+        "value": 100,
+        "unit": "Kroner",
+        "text": "100 Kroner"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 229134,
+        "title": "100 Kroner (Portrait and Landscape. Type 1; compass watermark)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "danemark",
+          "name": "Denmark"
+        },
+        "min_year": 1961,
+        "max_year": 1961,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/danemark/5f72f8d5982748.09942933-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/danemark/5f72f8d6184575.21451299-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 233360,
+      "title": "100 Krónur (Famous men and Faroes landscapes. Type 2)",
+      "issuer": {
+        "code": "feroe",
+        "name": "Faroe Islands"
+      },
+      "min_year": 1978,
+      "max_year": 1994,
+      "face": {
+        "value": 100,
+        "unit": "Krónur",
+        "text": "100 Krónur"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 233360,
+        "title": "100 Krónur (Famous men and Faroes landscapes. Type 2)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "feroe",
+          "name": "Faroe Islands"
+        },
+        "min_year": 1978,
+        "max_year": 1994,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/feroe/5f3d41a94f3440.70133520-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/feroe/5f3d41a9e076f3.85870992-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 240323,
+      "title": "50 Krónur (Famous men and Faroes landscapes. Type 1)",
+      "issuer": {
+        "code": "feroe",
+        "name": "Faroe Islands"
+      },
+      "min_year": 1967,
+      "max_year": 1967,
+      "face": {
+        "value": 50,
+        "unit": "Krónur",
+        "text": "50 Krónur"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 240323,
+        "title": "50 Krónur (Famous men and Faroes landscapes. Type 1)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "feroe",
+          "name": "Faroe Islands"
+        },
+        "min_year": 1967,
+        "max_year": 1967,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/feroe/5f83f6cdebe5b2.48714497-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/feroe/64975bec64bbf2.30869721-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 247247,
+      "title": "500 Kroner (Danish Bridges and Antiquities. Type 2)",
+      "issuer": {
+        "code": "danemark",
+        "name": "Denmark"
+      },
+      "min_year": 2020,
+      "max_year": 2022,
+      "face": {
+        "value": 500,
+        "unit": "Kroner",
+        "text": "500 Kroner"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 247247,
+        "title": "500 Kroner (Danish Bridges and Antiquities. Type 2)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "danemark",
+          "name": "Denmark"
+        },
+        "min_year": 2020,
+        "max_year": 2022,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/danemark/5fbc2513e26bb1.11437244-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/danemark/5fbc25144885e0.79600696-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 301843,
+      "title": "100 Kroner (Den Kongelige Grønlandske Handel)",
+      "issuer": {
+        "code": "groenland",
+        "name": "Greenland"
+      },
+      "min_year": 1953,
+      "max_year": 1967,
+      "face": {
+        "value": 100,
+        "unit": "Kroner",
+        "text": "100 Kroner"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 301843,
+        "title": "100 Kroner (Den Kongelige Grønlandske Handel)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "groenland",
+          "name": "Greenland"
+        },
+        "min_year": 1953,
+        "max_year": 1967,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/groenland/610d8c5ecd62d5.72703649-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/groenland/610d8c5f1c1d00.91994317-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 301844,
+      "title": "50 Kroner (Den Kongelige Grønlandske Handel)",
+      "issuer": {
+        "code": "groenland",
+        "name": "Greenland"
+      },
+      "min_year": 1953,
+      "max_year": 1967,
+      "face": {
+        "value": 50,
+        "unit": "Kroner",
+        "text": "50 Kroner"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 301844,
+        "title": "50 Kroner (Den Kongelige Grønlandske Handel)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "groenland",
+          "name": "Greenland"
+        },
+        "min_year": 1953,
+        "max_year": 1967,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/groenland/610d8e1ab2d2c1.28808641-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/groenland/610d8e1aea0544.89742654-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 359089,
+      "title": "500 Krónur (Famous men and Faroes landscapes. Type 2)",
+      "issuer": {
+        "code": "feroe",
+        "name": "Faroe Islands"
+      },
+      "min_year": 1978,
+      "max_year": 1994,
+      "face": {
+        "value": 500,
+        "unit": "Krónur",
+        "text": "500 Krónur"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 359089,
+        "title": "500 Krónur (Famous men and Faroes landscapes. Type 2)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "feroe",
+          "name": "Faroe Islands"
+        },
+        "min_year": 1978,
+        "max_year": 1994,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/feroe/67fccdb591ab40.43859047-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/feroe/67fccdb5c750f3.50775999-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 359091,
+      "title": "1000 Krónur (Famous men and Faroes landscapes. Type 2)",
+      "issuer": {
+        "code": "feroe",
+        "name": "Faroe Islands"
+      },
+      "min_year": 1978,
+      "max_year": 1994,
+      "face": {
+        "value": 1000,
+        "unit": "Krónur",
+        "text": "1000 Krónur"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 359091,
+        "title": "1000 Krónur (Famous men and Faroes landscapes. Type 2)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "feroe",
+          "name": "Faroe Islands"
+        },
+        "min_year": 1978,
+        "max_year": 1994,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/feroe/67fcce02a7ed61.20445386-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/feroe/67fcce02f38686.02253507-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 369642,
+      "title": "500 Krónur (Faroese animals and landscapes. Type 1; thin security thread)",
+      "issuer": {
+        "code": "feroe",
+        "name": "Faroe Islands"
+      },
+      "min_year": 2004,
+      "max_year": 2004,
+      "face": {
+        "value": 500,
+        "unit": "Krónur",
+        "text": "500 Krónur"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 369642,
+        "title": "500 Krónur (Faroese animals and landscapes. Type 1; thin security thread)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "feroe",
+          "name": "Faroe Islands"
+        },
+        "min_year": 2004,
+        "max_year": 2004,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/feroe/67fccddb0c1794.98977328-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/feroe/67fccddb3e3f85.33685112-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 369643,
+      "title": "1000 Krónur (Faroese animals and landscapes. Type 1; thin security thread)",
+      "issuer": {
+        "code": "feroe",
+        "name": "Faroe Islands"
+      },
+      "min_year": 2005,
+      "max_year": 2005,
+      "face": {
+        "value": 1000,
+        "unit": "Krónur",
+        "text": "1000 Krónur"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 369643,
+        "title": "1000 Krónur (Faroese animals and landscapes. Type 1; thin security thread)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "feroe",
+          "name": "Faroe Islands"
+        },
+        "min_year": 2005,
+        "max_year": 2005,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/feroe/67fcce2f70c376.50950421-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/feroe/67fcce2fbdfc57.86589544-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 403936,
+      "title": "100 Kroner (Danish Bridges and Antiquities. Type 2)",
+      "issuer": {
+        "code": "danemark",
+        "name": "Denmark"
+      },
+      "min_year": 2024,
+      "max_year": 2024,
+      "face": {
+        "value": 100,
+        "unit": "Kroner",
+        "text": "100 Kroner"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 403936,
+        "title": "100 Kroner (Danish Bridges and Antiquities. Type 2)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "danemark",
+          "name": "Denmark"
+        },
+        "min_year": 2024,
+        "max_year": 2024,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/danemark/65eca9abdee411.97880349-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/danemark/65eca9acae9b23.34878698-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 407959,
+      "title": "200 Kroner (Danish Bridges and Antiquities. Type 2)",
+      "issuer": {
+        "code": "danemark",
+        "name": "Denmark"
+      },
+      "min_year": 2024,
+      "max_year": 2024,
+      "face": {
+        "value": 200,
+        "unit": "Kroner",
+        "text": "200 Kroner"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 407959,
+        "title": "200 Kroner (Danish Bridges and Antiquities. Type 2)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "danemark",
+          "name": "Denmark"
+        },
+        "min_year": 2024,
+        "max_year": 2024,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/danemark/660867bf82a926.38510066-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/danemark/660867c01cf374.53884347-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 534592,
+      "title": "20 Kroner Essay",
+      "issuer": {
+        "code": "groenland",
+        "name": "Greenland"
+      },
+      "min_year": 2017,
+      "max_year": 2017,
+      "face": {
+        "value": 20,
+        "unit": "Kroner Essay",
+        "text": "20 Kroner Essay"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 534592,
+        "title": "20 Kroner Essay",
+        "object_type": {
+          "id": 89,
+          "name": "Banknote patterns and trials"
+        },
+        "issuer": {
+          "code": "groenland",
+          "name": "Greenland"
+        },
+        "min_year": 2017,
+        "max_year": 2017,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/groenland/69255164943d62.49613626-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/groenland/692551661ee206.87729343-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 591379,
+      "title": "50 Kroner (Danish Bridges and Antiquities. Type 2)",
+      "issuer": {
+        "code": "danemark",
+        "name": "Denmark"
+      },
+      "min_year": 2026,
+      "max_year": 2026,
+      "face": {
+        "value": 50,
+        "unit": "Kroner",
+        "text": "50 Kroner"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 591379,
+        "title": "50 Kroner (Danish Bridges and Antiquities. Type 2)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "danemark",
+          "name": "Denmark"
+        },
+        "min_year": 2026,
+        "max_year": 2026,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/danemark/6a5de122a4dab0.05532625-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/danemark/6a5de123694407.29197612-180.jpg",
+        "category": "banknote"
+      }
+    }
+  ]
+}

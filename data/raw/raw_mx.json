@@ -1,0 +1,3281 @@
+{
+  "meta": {
+    "generated_at": "2026-10-29T13:27:55.553Z",
+    "fixture": false,
+    "api": "numista v3",
+    "issuer": "mexico",
+    "iso": "MX",
+    "category": "banknote",
+    "lang": "en",
+    "since": 1960,
+    "listed": 369,
+    "fetched": 88,
+    "details_fetched": 0,
+    "dropped_before_since": 281,
+    "dropped_by_source": {
+      "list": 281,
+      "detail": 0
+    },
+    "issuer_mismatches": 0,
+    "pages": 8,
+    "requests": 0
+  },
+  "types": [
+    {
+      "numista_type_id": 201657,
+      "title": "10 Pesos",
+      "issuer": {
+        "code": "mexique",
+        "name": "Mexico"
+      },
+      "min_year": 1954,
+      "max_year": 1967,
+      "face": {
+        "value": 10,
+        "unit": "Pesos",
+        "text": "10 Pesos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 201657,
+        "title": "10 Pesos",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "mexique",
+          "name": "Mexico"
+        },
+        "min_year": 1954,
+        "max_year": 1967,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/6a1c2f509b5ba9.07615719-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/6a1c2f5160fda3.77138516-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 201892,
+      "title": "20 Pesos",
+      "issuer": {
+        "code": "mexique",
+        "name": "Mexico"
+      },
+      "min_year": 2006,
+      "max_year": 2018,
+      "face": {
+        "value": 20,
+        "unit": "Pesos",
+        "text": "20 Pesos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 201892,
+        "title": "20 Pesos",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "mexique",
+          "name": "Mexico"
+        },
+        "min_year": 2006,
+        "max_year": 2018,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/678a442a01ea21.64254739-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/678a442a9788d6.54949311-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202266,
+      "title": "100 Pesos (1917 Constitution)",
+      "issuer": {
+        "code": "mexique",
+        "name": "Mexico"
+      },
+      "min_year": 2016,
+      "max_year": 2017,
+      "face": {
+        "value": 100,
+        "unit": "Pesos",
+        "text": "100 Pesos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202266,
+        "title": "100 Pesos (1917 Constitution)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "mexique",
+          "name": "Mexico"
+        },
+        "min_year": 2016,
+        "max_year": 2017,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/5e961bcf21fcc2.25268268-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/62bdf712eb7163.28594492-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202429,
+      "title": "200 Pesos",
+      "issuer": {
+        "code": "mexique",
+        "name": "Mexico"
+      },
+      "min_year": 2018,
+      "max_year": 2025,
+      "face": {
+        "value": 200,
+        "unit": "Pesos",
+        "text": "200 Pesos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202429,
+        "title": "200 Pesos",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "mexique",
+          "name": "Mexico"
+        },
+        "min_year": 2018,
+        "max_year": 2025,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/5e9648c9577ba0.25460725-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/5e9648ca67c964.63594980-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202895,
+      "title": "200 Pesos",
+      "issuer": {
+        "code": "mexique",
+        "name": "Mexico"
+      },
+      "min_year": 2007,
+      "max_year": 2017,
+      "face": {
+        "value": 200,
+        "unit": "Pesos",
+        "text": "200 Pesos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202895,
+        "title": "200 Pesos",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "mexique",
+          "name": "Mexico"
+        },
+        "min_year": 2007,
+        "max_year": 2017,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/68e3f769c57fb0.53989844-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/68e3f76bdb6793.58684054-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202942,
+      "title": "500 Pesos",
+      "issuer": {
+        "code": "mexique",
+        "name": "Mexico"
+      },
+      "min_year": 1948,
+      "max_year": 1978,
+      "face": {
+        "value": 500,
+        "unit": "Pesos",
+        "text": "500 Pesos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202942,
+        "title": "500 Pesos",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "mexique",
+          "name": "Mexico"
+        },
+        "min_year": 1948,
+        "max_year": 1978,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/630b6f81d36d63.18165694-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/630b6f82284749.88046411-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202945,
+      "title": "1000 Pesos",
+      "issuer": {
+        "code": "mexique",
+        "name": "Mexico"
+      },
+      "min_year": 1948,
+      "max_year": 1977,
+      "face": {
+        "value": 1000,
+        "unit": "Pesos",
+        "text": "1000 Pesos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202945,
+        "title": "1000 Pesos",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "mexique",
+          "name": "Mexico"
+        },
+        "min_year": 1948,
+        "max_year": 1977,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/630b71da55cc70.86556196-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/630b71dab854e1.23489009-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204355,
+      "title": "1 Peso",
+      "issuer": {
+        "code": "mexique",
+        "name": "Mexico"
+      },
+      "min_year": 1957,
+      "max_year": 1970,
+      "face": {
+        "value": 1,
+        "unit": "Peso",
+        "text": "1 Peso"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204355,
+        "title": "1 Peso",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "mexique",
+          "name": "Mexico"
+        },
+        "min_year": 1957,
+        "max_year": 1970,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/670bd563c02107.35648519-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/670bd565ca07f7.46658628-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204430,
+      "title": "10 Pesos",
+      "issuer": {
+        "code": "mexique",
+        "name": "Mexico"
+      },
+      "min_year": 1969,
+      "max_year": 1977,
+      "face": {
+        "value": 10,
+        "unit": "Pesos",
+        "text": "10 Pesos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204430,
+        "title": "10 Pesos",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "mexique",
+          "name": "Mexico"
+        },
+        "min_year": 1969,
+        "max_year": 1977,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/6270ee7baf7fd9.34784188-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/6270ee7c529d10.17093416-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204930,
+      "title": "20 Pesos",
+      "issuer": {
+        "code": "mexique",
+        "name": "Mexico"
+      },
+      "min_year": 1994,
+      "max_year": 1999,
+      "face": {
+        "value": 20,
+        "unit": "Pesos",
+        "text": "20 Pesos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204930,
+        "title": "20 Pesos",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "mexique",
+          "name": "Mexico"
+        },
+        "min_year": 1994,
+        "max_year": 1999,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/5fc1f2db322d16.12845594-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/5fc1f2dd11e081.86931140-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204983,
+      "title": "20 Pesos",
+      "issuer": {
+        "code": "mexique",
+        "name": "Mexico"
+      },
+      "min_year": 1950,
+      "max_year": 1970,
+      "face": {
+        "value": 20,
+        "unit": "Pesos",
+        "text": "20 Pesos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204983,
+        "title": "20 Pesos",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "mexique",
+          "name": "Mexico"
+        },
+        "min_year": 1950,
+        "max_year": 1970,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/5e9cf8c2310b14.63909166-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/5e9cf8c33362c6.48341838-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204991,
+      "title": "50 Pesos",
+      "issuer": {
+        "code": "mexique",
+        "name": "Mexico"
+      },
+      "min_year": 1948,
+      "max_year": 1972,
+      "face": {
+        "value": 50,
+        "unit": "Pesos",
+        "text": "50 Pesos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204991,
+        "title": "50 Pesos",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "mexique",
+          "name": "Mexico"
+        },
+        "min_year": 1948,
+        "max_year": 1972,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/5e9d01bfa930f6.42412765-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/5e9d01c0e0b733.70091180-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205301,
+      "title": "5 Pesos",
+      "issuer": {
+        "code": "mexique",
+        "name": "Mexico"
+      },
+      "min_year": 1969,
+      "max_year": 1972,
+      "face": {
+        "value": 5,
+        "unit": "Pesos",
+        "text": "5 Pesos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205301,
+        "title": "5 Pesos",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "mexique",
+          "name": "Mexico"
+        },
+        "min_year": 1969,
+        "max_year": 1972,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/623b45a462bab7.55792392-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/623b45a4edde36.60918852-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205302,
+      "title": "50 Pesos",
+      "issuer": {
+        "code": "mexique",
+        "name": "Mexico"
+      },
+      "min_year": 1981,
+      "max_year": 1981,
+      "face": {
+        "value": 50,
+        "unit": "Pesos",
+        "text": "50 Pesos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205302,
+        "title": "50 Pesos",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "mexique",
+          "name": "Mexico"
+        },
+        "min_year": 1981,
+        "max_year": 1981,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/623b4997900a58.86315791-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/623b499831f915.64553518-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205304,
+      "title": "100 Pesos",
+      "issuer": {
+        "code": "mexique",
+        "name": "Mexico"
+      },
+      "min_year": 1981,
+      "max_year": 1982,
+      "face": {
+        "value": 100,
+        "unit": "Pesos",
+        "text": "100 Pesos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205304,
+        "title": "100 Pesos",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "mexique",
+          "name": "Mexico"
+        },
+        "min_year": 1981,
+        "max_year": 1982,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/623b4a71af3663.07673700-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/623b4a724027e3.94663173-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205307,
+      "title": "500 Pesos",
+      "issuer": {
+        "code": "mexique",
+        "name": "Mexico"
+      },
+      "min_year": 1983,
+      "max_year": 1984,
+      "face": {
+        "value": 500,
+        "unit": "Pesos",
+        "text": "500 Pesos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205307,
+        "title": "500 Pesos",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "mexique",
+          "name": "Mexico"
+        },
+        "min_year": 1983,
+        "max_year": 1984,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/623b4ab7bb8055.95338723-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/623b4ab8581334.13954479-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205309,
+      "title": "1000 Pesos",
+      "issuer": {
+        "code": "mexique",
+        "name": "Mexico"
+      },
+      "min_year": 1983,
+      "max_year": 1984,
+      "face": {
+        "value": 1000,
+        "unit": "Pesos",
+        "text": "1000 Pesos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205309,
+        "title": "1000 Pesos",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "mexique",
+          "name": "Mexico"
+        },
+        "min_year": 1983,
+        "max_year": 1984,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/60a95d8d72f870.14166465-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/60a95d8dc9c5e8.32490876-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205549,
+      "title": "2000 Pesos",
+      "issuer": {
+        "code": "mexique",
+        "name": "Mexico"
+      },
+      "min_year": 1985,
+      "max_year": 1989,
+      "face": {
+        "value": 2000,
+        "unit": "Pesos",
+        "text": "2000 Pesos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205549,
+        "title": "2000 Pesos",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "mexique",
+          "name": "Mexico"
+        },
+        "min_year": 1985,
+        "max_year": 1989,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/6696aaeba95c58.16900179-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/6696aaed91b8c5.03977086-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206370,
+      "title": "20 Pesos",
+      "issuer": {
+        "code": "mexique",
+        "name": "Mexico"
+      },
+      "min_year": 1972,
+      "max_year": 1977,
+      "face": {
+        "value": 20,
+        "unit": "Pesos",
+        "text": "20 Pesos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206370,
+        "title": "20 Pesos",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "mexique",
+          "name": "Mexico"
+        },
+        "min_year": 1972,
+        "max_year": 1977,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/6270ee9e151b89.87520734-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/6270ee9e7c05f5.22204145-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206877,
+      "title": "1000 Pesos",
+      "issuer": {
+        "code": "mexique",
+        "name": "Mexico"
+      },
+      "min_year": 2006,
+      "max_year": 2013,
+      "face": {
+        "value": 1000,
+        "unit": "Pesos",
+        "text": "1000 Pesos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206877,
+        "title": "1000 Pesos",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "mexique",
+          "name": "Mexico"
+        },
+        "min_year": 2006,
+        "max_year": 2013,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/5fdfe32ce259f8.88986709-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/5fdfe32d377c19.19933048-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 207520,
+      "title": "500 Pesos",
+      "issuer": {
+        "code": "mexique",
+        "name": "Mexico"
+      },
+      "min_year": 2010,
+      "max_year": 2017,
+      "face": {
+        "value": 500,
+        "unit": "Pesos",
+        "text": "500 Pesos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 207520,
+        "title": "500 Pesos",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "mexique",
+          "name": "Mexico"
+        },
+        "min_year": 2010,
+        "max_year": 2017,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/5fdfe60b7b78d4.82282126-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/5fdfe60bdf2da6.53739771-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 207969,
+      "title": "5000 Pesos",
+      "issuer": {
+        "code": "mexique",
+        "name": "Mexico"
+      },
+      "min_year": 1985,
+      "max_year": 1989,
+      "face": {
+        "value": 5000,
+        "unit": "Pesos",
+        "text": "5000 Pesos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 207969,
+        "title": "5000 Pesos",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "mexique",
+          "name": "Mexico"
+        },
+        "min_year": 1985,
+        "max_year": 1989,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/62f1057cc271c2.64944762-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/62f1057db24bb9.09989970-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 209543,
+      "title": "20 000 Pesos",
+      "issuer": {
+        "code": "mexique",
+        "name": "Mexico"
+      },
+      "min_year": 1988,
+      "max_year": 1989,
+      "face": {
+        "value": 20000,
+        "unit": "Pesos",
+        "text": "20000 Pesos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 209543,
+        "title": "20 000 Pesos",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "mexique",
+          "name": "Mexico"
+        },
+        "min_year": 1988,
+        "max_year": 1989,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/5eba128e389e35.42077133-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/5eba128e82f467.07048773-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 210242,
+      "title": "100 Pesos",
+      "issuer": {
+        "code": "mexique",
+        "name": "Mexico"
+      },
+      "min_year": 2000,
+      "max_year": 2009,
+      "face": {
+        "value": 100,
+        "unit": "Pesos",
+        "text": "100 Pesos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 210242,
+        "title": "100 Pesos",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "mexique",
+          "name": "Mexico"
+        },
+        "min_year": 2000,
+        "max_year": 2009,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/662825e128e4c9.85055275-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/662825e346a9a3.60989725-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 210506,
+      "title": "10 Nuevos Pesos",
+      "issuer": {
+        "code": "mexique",
+        "name": "Mexico"
+      },
+      "min_year": 1992,
+      "max_year": 1992,
+      "face": {
+        "value": 10,
+        "unit": "Nuevos Pesos",
+        "text": "10 Nuevos Pesos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 210506,
+        "title": "10 Nuevos Pesos",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "mexique",
+          "name": "Mexico"
+        },
+        "min_year": 1992,
+        "max_year": 1992,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/6a1c34f7b48893.15904031-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/6a1c34f8445234.35927549-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 210537,
+      "title": "20 Pesos",
+      "issuer": {
+        "code": "mexique",
+        "name": "Mexico"
+      },
+      "min_year": 2001,
+      "max_year": 2006,
+      "face": {
+        "value": 20,
+        "unit": "Pesos",
+        "text": "20 Pesos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 210537,
+        "title": "20 Pesos",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "mexique",
+          "name": "Mexico"
+        },
+        "min_year": 2001,
+        "max_year": 2006,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/5fbf380fe855c6.64241204-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/5fbf3810780633.22522317-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 210546,
+      "title": "50 Pesos",
+      "issuer": {
+        "code": "mexique",
+        "name": "Mexico"
+      },
+      "min_year": 2004,
+      "max_year": 2012,
+      "face": {
+        "value": 50,
+        "unit": "Pesos",
+        "text": "50 Pesos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 210546,
+        "title": "50 Pesos",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "mexique",
+          "name": "Mexico"
+        },
+        "min_year": 2004,
+        "max_year": 2012,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/5fbf37cb930f96.33061319-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/5fbf37cd282f74.81309649-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 210650,
+      "title": "100 Pesos",
+      "issuer": {
+        "code": "mexique",
+        "name": "Mexico"
+      },
+      "min_year": 1974,
+      "max_year": 1978,
+      "face": {
+        "value": 100,
+        "unit": "Pesos",
+        "text": "100 Pesos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 210650,
+        "title": "100 Pesos",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "mexique",
+          "name": "Mexico"
+        },
+        "min_year": 1974,
+        "max_year": 1978,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/623b475c154870.81355406-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/623b475ca78686.83865164-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 210667,
+      "title": "5 Pesos",
+      "issuer": {
+        "code": "mexique",
+        "name": "Mexico"
+      },
+      "min_year": 1957,
+      "max_year": 1970,
+      "face": {
+        "value": 5,
+        "unit": "Pesos",
+        "text": "5 Pesos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 210667,
+        "title": "5 Pesos",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "mexique",
+          "name": "Mexico"
+        },
+        "min_year": 1957,
+        "max_year": 1970,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/6a1c2d2a61fb95.50581956-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/6a1c2d2b38b725.69050670-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 210674,
+      "title": "100 000 Pesos",
+      "issuer": {
+        "code": "mexique",
+        "name": "Mexico"
+      },
+      "min_year": 1988,
+      "max_year": 1991,
+      "face": {
+        "value": 100000,
+        "unit": "Pesos",
+        "text": "100000 Pesos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 210674,
+        "title": "100 000 Pesos",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "mexique",
+          "name": "Mexico"
+        },
+        "min_year": 1988,
+        "max_year": 1991,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/68088fcf27b740.51552260-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/68088fd016b515.18256534-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 210691,
+      "title": "50 000 Pesos",
+      "issuer": {
+        "code": "mexique",
+        "name": "Mexico"
+      },
+      "min_year": 1986,
+      "max_year": 1990,
+      "face": {
+        "value": 50000,
+        "unit": "Pesos",
+        "text": "50000 Pesos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 210691,
+        "title": "50 000 Pesos",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "mexique",
+          "name": "Mexico"
+        },
+        "min_year": 1986,
+        "max_year": 1990,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/630b7447214b92.21418789-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/630b74477480e3.58816343-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 210697,
+      "title": "50 Nuevos Pesos",
+      "issuer": {
+        "code": "mexique",
+        "name": "Mexico"
+      },
+      "min_year": 1992,
+      "max_year": 1992,
+      "face": {
+        "value": 50,
+        "unit": "Nuevos Pesos",
+        "text": "50 Nuevos Pesos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 210697,
+        "title": "50 Nuevos Pesos",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "mexique",
+          "name": "Mexico"
+        },
+        "min_year": 1992,
+        "max_year": 1992,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/5fbf3c59468db9.29329917-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/5fbf3c5b701bf1.79005854-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 210698,
+      "title": "100 Nuevos Pesos",
+      "issuer": {
+        "code": "mexique",
+        "name": "Mexico"
+      },
+      "min_year": 1992,
+      "max_year": 1992,
+      "face": {
+        "value": 100,
+        "unit": "Nuevos Pesos",
+        "text": "100 Nuevos Pesos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 210698,
+        "title": "100 Nuevos Pesos",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "mexique",
+          "name": "Mexico"
+        },
+        "min_year": 1992,
+        "max_year": 1992,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/5fbf3bc94b0f81.17877219-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/5fbf3bcb32e5c8.13850479-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 210952,
+      "title": "100 Pesos",
+      "issuer": {
+        "code": "mexique",
+        "name": "Mexico"
+      },
+      "min_year": 2008,
+      "max_year": 2019,
+      "face": {
+        "value": 100,
+        "unit": "Pesos",
+        "text": "100 Pesos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 210952,
+        "title": "100 Pesos",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "mexique",
+          "name": "Mexico"
+        },
+        "min_year": 2008,
+        "max_year": 2019,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/69b8537c0df446.92605446-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/69b8537d9a5c05.16500924-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 211150,
+      "title": "1000 Pesos",
+      "issuer": {
+        "code": "mexique",
+        "name": "Mexico"
+      },
+      "min_year": 1978,
+      "max_year": 1979,
+      "face": {
+        "value": 1000,
+        "unit": "Pesos",
+        "text": "1000 Pesos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 211150,
+        "title": "1000 Pesos",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "mexique",
+          "name": "Mexico"
+        },
+        "min_year": 1978,
+        "max_year": 1979,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/5eaef594122a20.55987592-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/5eaef595d0ec36.08600643-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 211314,
+      "title": "10 Pesos",
+      "issuer": {
+        "code": "mexique",
+        "name": "Mexico"
+      },
+      "min_year": 1994,
+      "max_year": 1996,
+      "face": {
+        "value": 10,
+        "unit": "Pesos",
+        "text": "10 Pesos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 211314,
+        "title": "10 Pesos",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "mexique",
+          "name": "Mexico"
+        },
+        "min_year": 1994,
+        "max_year": 1996,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/674c9fe9895ea9.23618117-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/674c9fea1754e4.75969544-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 211413,
+      "title": "50 Nuevos Pesos",
+      "issuer": {
+        "code": "mexique",
+        "name": "Mexico"
+      },
+      "min_year": 1992,
+      "max_year": 1992,
+      "face": {
+        "value": 50,
+        "unit": "Nuevos Pesos",
+        "text": "50 Nuevos Pesos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 211413,
+        "title": "50 Nuevos Pesos",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "mexique",
+          "name": "Mexico"
+        },
+        "min_year": 1992,
+        "max_year": 1992,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/5fc1f3e1638ed3.84390713-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/5fc1f3e31f9603.35442612-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 212068,
+      "title": "10 000 Pesos",
+      "issuer": {
+        "code": "mexique",
+        "name": "Mexico"
+      },
+      "min_year": 1943,
+      "max_year": 1978,
+      "face": {
+        "value": 10000,
+        "unit": "Pesos",
+        "text": "10000 Pesos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 212068,
+        "title": "10 000 Pesos",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "mexique",
+          "name": "Mexico"
+        },
+        "min_year": 1943,
+        "max_year": 1978,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/5eb193964d87f6.52224668-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/5eb19397970711.09579529-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 212147,
+      "title": "10 000 Pesos",
+      "issuer": {
+        "code": "mexique",
+        "name": "Mexico"
+      },
+      "min_year": 1983,
+      "max_year": 1987,
+      "face": {
+        "value": 10000,
+        "unit": "Pesos",
+        "text": "10000 Pesos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 212147,
+        "title": "10 000 Pesos",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "mexique",
+          "name": "Mexico"
+        },
+        "min_year": 1983,
+        "max_year": 1987,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/68f58138a0f4c7.77616115-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/68f5813a8d3776.71066376-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 212148,
+      "title": "10 000 Pesos",
+      "issuer": {
+        "code": "mexique",
+        "name": "Mexico"
+      },
+      "min_year": 1987,
+      "max_year": 1991,
+      "face": {
+        "value": 10000,
+        "unit": "Pesos",
+        "text": "10000 Pesos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 212148,
+        "title": "10 000 Pesos",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "mexique",
+          "name": "Mexico"
+        },
+        "min_year": 1987,
+        "max_year": 1991,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/5fc1f78deefc64.62805236-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/5fc1f7901dd880.36195631-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 212153,
+      "title": "20 Nuevos Pesos",
+      "issuer": {
+        "code": "mexique",
+        "name": "Mexico"
+      },
+      "min_year": 1992,
+      "max_year": 1992,
+      "face": {
+        "value": 20,
+        "unit": "Nuevos Pesos",
+        "text": "20 Nuevos Pesos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 212153,
+        "title": "20 Nuevos Pesos",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "mexique",
+          "name": "Mexico"
+        },
+        "min_year": 1992,
+        "max_year": 1992,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/674c9112712534.55181514-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/674c9113397a61.09173877-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 212157,
+      "title": "200 Pesos",
+      "issuer": {
+        "code": "mexique",
+        "name": "Mexico"
+      },
+      "min_year": 2000,
+      "max_year": 2007,
+      "face": {
+        "value": 200,
+        "unit": "Pesos",
+        "text": "200 Pesos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 212157,
+        "title": "200 Pesos",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "mexique",
+          "name": "Mexico"
+        },
+        "min_year": 2000,
+        "max_year": 2007,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/5fbf38dbad7d07.57660645-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/5fbf38dd913c02.74162313-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 212163,
+      "title": "500 Pesos",
+      "issuer": {
+        "code": "mexique",
+        "name": "Mexico"
+      },
+      "min_year": 1995,
+      "max_year": 1999,
+      "face": {
+        "value": 500,
+        "unit": "Pesos",
+        "text": "500 Pesos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 212163,
+        "title": "500 Pesos",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "mexique",
+          "name": "Mexico"
+        },
+        "min_year": 1995,
+        "max_year": 1999,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/68e3f8e8788bf2.82188131-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/68e3f8ea345e65.83984787-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 212177,
+      "title": "100 Pesos (Revolution)",
+      "issuer": {
+        "code": "mexique",
+        "name": "Mexico"
+      },
+      "min_year": 2007,
+      "max_year": 2007,
+      "face": {
+        "value": 100,
+        "unit": "Pesos",
+        "text": "100 Pesos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 212177,
+        "title": "100 Pesos (Revolution)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "mexique",
+          "name": "Mexico"
+        },
+        "min_year": 2007,
+        "max_year": 2007,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/5eb1d8911bedd2.04693223-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/5eb1d892ac7f65.03413209-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 212179,
+      "title": "200 Pesos (Independence)",
+      "issuer": {
+        "code": "mexique",
+        "name": "Mexico"
+      },
+      "min_year": 2008,
+      "max_year": 2008,
+      "face": {
+        "value": 200,
+        "unit": "Pesos",
+        "text": "200 Pesos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 212179,
+        "title": "200 Pesos (Independence)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "mexique",
+          "name": "Mexico"
+        },
+        "min_year": 2008,
+        "max_year": 2008,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/666dfe1cd8d134.66731921-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/666dfe206d3ad0.53094093-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 212480,
+      "title": "10 Nuevos Pesos",
+      "issuer": {
+        "code": "mexique",
+        "name": "Mexico"
+      },
+      "min_year": 1992,
+      "max_year": 1992,
+      "face": {
+        "value": 10,
+        "unit": "Nuevos Pesos",
+        "text": "10 Nuevos Pesos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 212480,
+        "title": "10 Nuevos Pesos",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "mexique",
+          "name": "Mexico"
+        },
+        "min_year": 1992,
+        "max_year": 1992,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/6a1c37a6147c64.27434468-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/6a1c37a6ed2703.14145424-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 212493,
+      "title": "50 Pesos",
+      "issuer": {
+        "code": "mexique",
+        "name": "Mexico"
+      },
+      "min_year": 1973,
+      "max_year": 1978,
+      "face": {
+        "value": 50,
+        "unit": "Pesos",
+        "text": "50 Pesos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 212493,
+        "title": "50 Pesos",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "mexique",
+          "name": "Mexico"
+        },
+        "min_year": 1973,
+        "max_year": 1978,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/623b4704ea73b4.46440346-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/623b47058a1fd5.97564375-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 212499,
+      "title": "50 Pesos",
+      "issuer": {
+        "code": "mexique",
+        "name": "Mexico"
+      },
+      "min_year": 1994,
+      "max_year": 2000,
+      "face": {
+        "value": 50,
+        "unit": "Pesos",
+        "text": "50 Pesos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 212499,
+        "title": "50 Pesos",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "mexique",
+          "name": "Mexico"
+        },
+        "min_year": 1994,
+        "max_year": 2000,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/5fbe1116797ce5.40736870-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/5fbe111707cd49.52521543-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 212502,
+      "title": "500 Pesos",
+      "issuer": {
+        "code": "mexique",
+        "name": "Mexico"
+      },
+      "min_year": 1981,
+      "max_year": 1982,
+      "face": {
+        "value": 500,
+        "unit": "Pesos",
+        "text": "500 Pesos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 212502,
+        "title": "500 Pesos",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "mexique",
+          "name": "Mexico"
+        },
+        "min_year": 1981,
+        "max_year": 1982,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/5eb30e57eca539.32796798-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/5eb30e5873dbf2.65088035-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 212505,
+      "title": "5000 Pesos",
+      "issuer": {
+        "code": "mexique",
+        "name": "Mexico"
+      },
+      "min_year": 1980,
+      "max_year": 1985,
+      "face": {
+        "value": 5000,
+        "unit": "Pesos",
+        "text": "5000 Pesos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 212505,
+        "title": "5000 Pesos",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "mexique",
+          "name": "Mexico"
+        },
+        "min_year": 1980,
+        "max_year": 1985,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/6a2f7b9b7a1c17.51310359-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/6a2f7b9dab8419.65779926-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 212863,
+      "title": "500 Pesos",
+      "issuer": {
+        "code": "mexique",
+        "name": "Mexico"
+      },
+      "min_year": 2017,
+      "max_year": 2025,
+      "face": {
+        "value": 500,
+        "unit": "Pesos",
+        "text": "500 Pesos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 212863,
+        "title": "500 Pesos",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "mexique",
+          "name": "Mexico"
+        },
+        "min_year": 2017,
+        "max_year": 2025,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/6a10bb8ae82101.65536236-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/6a10bb8c794013.87873970-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 214014,
+      "title": "20 000 Pesos",
+      "issuer": {
+        "code": "mexique",
+        "name": "Mexico"
+      },
+      "min_year": 1985,
+      "max_year": 1987,
+      "face": {
+        "value": 20000,
+        "unit": "Pesos",
+        "text": "20000 Pesos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 214014,
+        "title": "20 000 Pesos",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "mexique",
+          "name": "Mexico"
+        },
+        "min_year": 1985,
+        "max_year": 1987,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/62ac9212c2ca34.31159893-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/62ac9213244af2.19985965-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 215317,
+      "title": "1000 Pesos",
+      "issuer": {
+        "code": "mexique",
+        "name": "Mexico"
+      },
+      "min_year": 1984,
+      "max_year": 1985,
+      "face": {
+        "value": 1000,
+        "unit": "Pesos",
+        "text": "1000 Pesos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 215317,
+        "title": "1000 Pesos",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "mexique",
+          "name": "Mexico"
+        },
+        "min_year": 1984,
+        "max_year": 1985,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/626b80b5367431.28007740-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/626b80b5cd6015.74921990-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 219717,
+      "title": "50 Pesos",
+      "issuer": {
+        "code": "mexique",
+        "name": "Mexico"
+      },
+      "min_year": 2000,
+      "max_year": 2004,
+      "face": {
+        "value": 50,
+        "unit": "Pesos",
+        "text": "50 Pesos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 219717,
+        "title": "50 Pesos",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "mexique",
+          "name": "Mexico"
+        },
+        "min_year": 2000,
+        "max_year": 2004,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/6a2f8ec6494fd1.43433344-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/6a2f8ec939b986.82940118-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 220314,
+      "title": "2000 Pesos (w/ \"C.N.B.S. INSPECTOR\")",
+      "issuer": {
+        "code": "mexique",
+        "name": "Mexico"
+      },
+      "min_year": 1983,
+      "max_year": 1984,
+      "face": {
+        "value": 2000,
+        "unit": "Pesos",
+        "text": "2000 Pesos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 220314,
+        "title": "2000 Pesos (w/ \"C.N.B.S. INSPECTOR\")",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "mexique",
+          "name": "Mexico"
+        },
+        "min_year": 1983,
+        "max_year": 1984,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/6696a13c0c3138.67776081-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/6696a13e1f6946.10435709-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 222525,
+      "title": "100 Pesos",
+      "issuer": {
+        "code": "mexique",
+        "name": "Mexico"
+      },
+      "min_year": 1961,
+      "max_year": 1973,
+      "face": {
+        "value": 100,
+        "unit": "Pesos",
+        "text": "100 Pesos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 222525,
+        "title": "100 Pesos",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "mexique",
+          "name": "Mexico"
+        },
+        "min_year": 1961,
+        "max_year": 1973,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/674bcf5ce9c398.90095373-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/674bcf5d5efaa4.47325251-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 223817,
+      "title": "20 Nuevos Pesos",
+      "issuer": {
+        "code": "mexique",
+        "name": "Mexico"
+      },
+      "min_year": 1992,
+      "max_year": 1992,
+      "face": {
+        "value": 20,
+        "unit": "Nuevos Pesos",
+        "text": "20 Nuevos Pesos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 223817,
+        "title": "20 Nuevos Pesos",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "mexique",
+          "name": "Mexico"
+        },
+        "min_year": 1992,
+        "max_year": 1992,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/5fc1f49303d655.96998665-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/5fc1f494e30379.16034045-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 223954,
+      "title": "20 Pesos (75th Anniversary of Banco de Mexico)",
+      "issuer": {
+        "code": "mexique",
+        "name": "Mexico"
+      },
+      "min_year": 2000,
+      "max_year": 2000,
+      "face": {
+        "value": 20,
+        "unit": "Pesos",
+        "text": "20 Pesos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 223954,
+        "title": "20 Pesos (75th Anniversary of Banco de Mexico)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "mexique",
+          "name": "Mexico"
+        },
+        "min_year": 2000,
+        "max_year": 2000,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/674cb828bebee2.72274413-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/674cb829399825.77160676-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 224284,
+      "title": "1000 Pesos (\"BANCO DE MEXICO S.A.\")",
+      "issuer": {
+        "code": "mexique",
+        "name": "Mexico"
+      },
+      "min_year": 1981,
+      "max_year": 1982,
+      "face": {
+        "value": 1000,
+        "unit": "Pesos",
+        "text": "1000 Pesos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 224284,
+        "title": "1000 Pesos (\"BANCO DE MEXICO S.A.\")",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "mexique",
+          "name": "Mexico"
+        },
+        "min_year": 1981,
+        "max_year": 1982,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/6a1c310eeb22b2.77857572-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/6a1c310fbee5c1.44645558-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 224286,
+      "title": "100 Pesos",
+      "issuer": {
+        "code": "mexique",
+        "name": "Mexico"
+      },
+      "min_year": 1978,
+      "max_year": 1979,
+      "face": {
+        "value": 100,
+        "unit": "Pesos",
+        "text": "100 Pesos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 224286,
+        "title": "100 Pesos",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "mexique",
+          "name": "Mexico"
+        },
+        "min_year": 1978,
+        "max_year": 1979,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/5f136cd1838b45.50424766-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/5f136cd34f08f2.38234987-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 225372,
+      "title": "50 Pesos",
+      "issuer": {
+        "code": "mexique",
+        "name": "Mexico"
+      },
+      "min_year": 1978,
+      "max_year": 1979,
+      "face": {
+        "value": 50,
+        "unit": "Pesos",
+        "text": "50 Pesos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 225372,
+        "title": "50 Pesos",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "mexique",
+          "name": "Mexico"
+        },
+        "min_year": 1978,
+        "max_year": 1979,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/667312c77e0534.23080820-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/667312c9252126.71507927-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 225373,
+      "title": "10 000 Pesos",
+      "issuer": {
+        "code": "mexique",
+        "name": "Mexico"
+      },
+      "min_year": 1981,
+      "max_year": 1983,
+      "face": {
+        "value": 10000,
+        "unit": "Pesos",
+        "text": "10000 Pesos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 225373,
+        "title": "10 000 Pesos",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "mexique",
+          "name": "Mexico"
+        },
+        "min_year": 1981,
+        "max_year": 1983,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/68f584d370c070.46601136-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/68f584d42cc806.42337991-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 226436,
+      "title": "100 Pesos",
+      "issuer": {
+        "code": "mexique",
+        "name": "Mexico"
+      },
+      "min_year": 1992,
+      "max_year": 1999,
+      "face": {
+        "value": 100,
+        "unit": "Pesos",
+        "text": "100 Pesos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 226436,
+        "title": "100 Pesos",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "mexique",
+          "name": "Mexico"
+        },
+        "min_year": 1992,
+        "max_year": 1999,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/6a5c6c0ae8d868.39792042-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/6a5c6c0d18ffa2.75777862-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 226441,
+      "title": "200 Pesos",
+      "issuer": {
+        "code": "mexique",
+        "name": "Mexico"
+      },
+      "min_year": 1995,
+      "max_year": 1999,
+      "face": {
+        "value": 200,
+        "unit": "Pesos",
+        "text": "200 Pesos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 226441,
+        "title": "200 Pesos",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "mexique",
+          "name": "Mexico"
+        },
+        "min_year": 1995,
+        "max_year": 1999,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/6a323349413142.24957584-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/6a32334aaf2b40.23109640-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 226444,
+      "title": "50 Pesos (75th Anniversary of Banco de Mexico)",
+      "issuer": {
+        "code": "mexique",
+        "name": "Mexico"
+      },
+      "min_year": 2000,
+      "max_year": 2000,
+      "face": {
+        "value": 50,
+        "unit": "Pesos",
+        "text": "50 Pesos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 226444,
+        "title": "50 Pesos (75th Anniversary of Banco de Mexico)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "mexique",
+          "name": "Mexico"
+        },
+        "min_year": 2000,
+        "max_year": 2000,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/5f0864aeb1bd80.39964495-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/5f0864aeddd096.39013457-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 227915,
+      "title": "100 Pesos",
+      "issuer": {
+        "code": "mexique",
+        "name": "Mexico"
+      },
+      "min_year": 1948,
+      "max_year": 1961,
+      "face": {
+        "value": 100,
+        "unit": "Pesos",
+        "text": "100 Pesos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 227915,
+        "title": "100 Pesos",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "mexique",
+          "name": "Mexico"
+        },
+        "min_year": 1948,
+        "max_year": 1961,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/5f1367b08f9f38.63273995-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/5f1367b2b47cb6.02559589-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 228979,
+      "title": "500 Pesos",
+      "issuer": {
+        "code": "mexique",
+        "name": "Mexico"
+      },
+      "min_year": 2000,
+      "max_year": 2008,
+      "face": {
+        "value": 500,
+        "unit": "Pesos",
+        "text": "500 Pesos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 228979,
+        "title": "500 Pesos",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "mexique",
+          "name": "Mexico"
+        },
+        "min_year": 2000,
+        "max_year": 2008,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/69b821ccc34311.97936811-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/69b821ceb99cd8.05493574-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 236491,
+      "title": "50 Pesos",
+      "issuer": {
+        "code": "mexique",
+        "name": "Mexico"
+      },
+      "min_year": 2012,
+      "max_year": 2019,
+      "face": {
+        "value": 50,
+        "unit": "Pesos",
+        "text": "50 Pesos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 236491,
+        "title": "50 Pesos",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "mexique",
+          "name": "Mexico"
+        },
+        "min_year": 2012,
+        "max_year": 2019,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/69fb720d469189.42372284-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/69fb720f7aa538.37594011-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 236663,
+      "title": "200 Pesos (25 years of Bank of Mexico Authonomy)",
+      "issuer": {
+        "code": "mexique",
+        "name": "Mexico"
+      },
+      "min_year": 2019,
+      "max_year": 2019,
+      "face": {
+        "value": 200,
+        "unit": "Pesos",
+        "text": "200 Pesos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 236663,
+        "title": "200 Pesos (25 years of Bank of Mexico Authonomy)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "mexique",
+          "name": "Mexico"
+        },
+        "min_year": 2019,
+        "max_year": 2019,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/666b4a81f10fc7.32057293-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/666b4a8392eea1.18097504-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 244911,
+      "title": "100 Pesos",
+      "issuer": {
+        "code": "mexique",
+        "name": "Mexico"
+      },
+      "min_year": 2020,
+      "max_year": 2025,
+      "face": {
+        "value": 100,
+        "unit": "Pesos",
+        "text": "100 Pesos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 244911,
+        "title": "100 Pesos",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "mexique",
+          "name": "Mexico"
+        },
+        "min_year": 2020,
+        "max_year": 2025,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/5ff045226b7a64.18419948-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/5ff045236acd14.13978878-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 258722,
+      "title": "1000 Pesos",
+      "issuer": {
+        "code": "mexique",
+        "name": "Mexico"
+      },
+      "min_year": 2002,
+      "max_year": 2002,
+      "face": {
+        "value": 1000,
+        "unit": "Pesos",
+        "text": "1000 Pesos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 258722,
+        "title": "1000 Pesos",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "mexique",
+          "name": "Mexico"
+        },
+        "min_year": 2002,
+        "max_year": 2002,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/5fdfd84ba61996.03550553-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/5fdfd84c043c41.17040018-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 258918,
+      "title": "1000 Pesos",
+      "issuer": {
+        "code": "mexique",
+        "name": "Mexico"
+      },
+      "min_year": 2019,
+      "max_year": 2023,
+      "face": {
+        "value": 1000,
+        "unit": "Pesos",
+        "text": "1000 Pesos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 258918,
+        "title": "1000 Pesos",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "mexique",
+          "name": "Mexico"
+        },
+        "min_year": 2019,
+        "max_year": 2023,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/5fe2ac70375507.85486700-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/5fe2ac70a02227.79101593-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 283153,
+      "title": "200 Nuevos Pesos",
+      "issuer": {
+        "code": "mexique",
+        "name": "Mexico"
+      },
+      "min_year": 1992,
+      "max_year": 1992,
+      "face": {
+        "value": 200,
+        "unit": "Nuevos Pesos",
+        "text": "200 Nuevos Pesos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 283153,
+        "title": "200 Nuevos Pesos",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "mexique",
+          "name": "Mexico"
+        },
+        "min_year": 1992,
+        "max_year": 1992,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/606243a4ae5ea1.06771176-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/606243a4dd0b70.78852150-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 283154,
+      "title": "500 Nuevos Pesos",
+      "issuer": {
+        "code": "mexique",
+        "name": "Mexico"
+      },
+      "min_year": 1992,
+      "max_year": 1992,
+      "face": {
+        "value": 500,
+        "unit": "Nuevos Pesos",
+        "text": "500 Nuevos Pesos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 283154,
+        "title": "500 Nuevos Pesos",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "mexique",
+          "name": "Mexico"
+        },
+        "min_year": 1992,
+        "max_year": 1992,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/6a1c48a31342b3.13436149-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/6a1c48a3b6ed34.43702714-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 306846,
+      "title": "20 Pesos (Independence)",
+      "issuer": {
+        "code": "mexique",
+        "name": "Mexico"
+      },
+      "min_year": 2021,
+      "max_year": 2024,
+      "face": {
+        "value": 20,
+        "unit": "Pesos",
+        "text": "20 Pesos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 306846,
+        "title": "20 Pesos (Independence)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "mexique",
+          "name": "Mexico"
+        },
+        "min_year": 2021,
+        "max_year": 2024,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/63655f9401da61.86612891-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/63655f94988567.10557954-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 308305,
+      "title": "100 Nuevos Pesos",
+      "issuer": {
+        "code": "mexique",
+        "name": "Mexico"
+      },
+      "min_year": 1992,
+      "max_year": 1992,
+      "face": {
+        "value": 100,
+        "unit": "Nuevos Pesos",
+        "text": "100 Nuevos Pesos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 308305,
+        "title": "100 Nuevos Pesos",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "mexique",
+          "name": "Mexico"
+        },
+        "min_year": 1992,
+        "max_year": 1992,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/66745b157e1da6.38004035-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/66745b1701b6d7.39978444-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 310606,
+      "title": "50 Pesos",
+      "issuer": {
+        "code": "mexique",
+        "name": "Mexico"
+      },
+      "min_year": 2021,
+      "max_year": 2024,
+      "face": {
+        "value": 50,
+        "unit": "Pesos",
+        "text": "50 Pesos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 310606,
+        "title": "50 Pesos",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "mexique",
+          "name": "Mexico"
+        },
+        "min_year": 2021,
+        "max_year": 2024,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/63df8a646760f0.63101121-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/63df8a65c8dea1.89084352-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 323771,
+      "title": "500 Pesos",
+      "issuer": {
+        "code": "mexique",
+        "name": "Mexico"
+      },
+      "min_year": 1979,
+      "max_year": 1979,
+      "face": {
+        "value": 500,
+        "unit": "Pesos",
+        "text": "500 Pesos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 323771,
+        "title": "500 Pesos",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "mexique",
+          "name": "Mexico"
+        },
+        "min_year": 1979,
+        "max_year": 1979,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/623b48e1df3c53.09819821-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/623b48e27bfad0.11318674-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 342836,
+      "title": "500 Pesos (75th Anniversary of Banco de Mexico)",
+      "issuer": {
+        "code": "mexique",
+        "name": "Mexico"
+      },
+      "min_year": 2000,
+      "max_year": 2000,
+      "face": {
+        "value": 500,
+        "unit": "Pesos",
+        "text": "500 Pesos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 342836,
+        "title": "500 Pesos (75th Anniversary of Banco de Mexico)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "mexique",
+          "name": "Mexico"
+        },
+        "min_year": 2000,
+        "max_year": 2000,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/63a08d4d30a0e4.92070320-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/63a08d4d6fb5c5.97462656-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 343307,
+      "title": "100 Pesos (75th Anniversary of Banco de Mexico)",
+      "issuer": {
+        "code": "mexique",
+        "name": "Mexico"
+      },
+      "min_year": 2000,
+      "max_year": 2000,
+      "face": {
+        "value": 100,
+        "unit": "Pesos",
+        "text": "100 Pesos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 343307,
+        "title": "100 Pesos (75th Anniversary of Banco de Mexico)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "mexique",
+          "name": "Mexico"
+        },
+        "min_year": 2000,
+        "max_year": 2000,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/63a08b07a3aa08.41403617-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/63a08b07e25c98.35795632-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 343308,
+      "title": "200 Pesos (75th Anniversary of Banco de Mexico)",
+      "issuer": {
+        "code": "mexique",
+        "name": "Mexico"
+      },
+      "min_year": 2000,
+      "max_year": 2000,
+      "face": {
+        "value": 200,
+        "unit": "Pesos",
+        "text": "200 Pesos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 343308,
+        "title": "200 Pesos (75th Anniversary of Banco de Mexico)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "mexique",
+          "name": "Mexico"
+        },
+        "min_year": 2000,
+        "max_year": 2000,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/63a08c40befb10.68418796-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/63a08c40e699d8.02731259-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 427807,
+      "title": "Test Note (Fabrica de Billetes)",
+      "issuer": {
+        "code": "mexique",
+        "name": "Mexico"
+      },
+      "min_year": 1989,
+      "max_year": 1989,
+      "face": {
+        "value": null,
+        "unit": null,
+        "text": null
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 427807,
+        "title": "Test Note (Fabrica de Billetes)",
+        "object_type": {
+          "id": 89,
+          "name": "Banknote patterns and trials"
+        },
+        "issuer": {
+          "code": "mexique",
+          "name": "Mexico"
+        },
+        "min_year": 1989,
+        "max_year": 1989,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/68088ff72e7ba3.96168983-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/68088ff942d260.31919655-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 470172,
+      "title": "200 Pesos (30 years of Bank of Mexico Authonomy)",
+      "issuer": {
+        "code": "mexique",
+        "name": "Mexico"
+      },
+      "min_year": 2023,
+      "max_year": 2023,
+      "face": {
+        "value": 200,
+        "unit": "Pesos",
+        "text": "200 Pesos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 470172,
+        "title": "200 Pesos (30 years of Bank of Mexico Authonomy)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "mexique",
+          "name": "Mexico"
+        },
+        "min_year": 2023,
+        "max_year": 2023,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/69f7e9835b37e7.70546615-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/69f7e984e03e29.03175555-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 482762,
+      "title": "50 Pesos (100th Anniversary of the Bank of Mexico)",
+      "issuer": {
+        "code": "mexique",
+        "name": "Mexico"
+      },
+      "min_year": 2024,
+      "max_year": 2024,
+      "face": {
+        "value": 50,
+        "unit": "Pesos",
+        "text": "50 Pesos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 482762,
+        "title": "50 Pesos (100th Anniversary of the Bank of Mexico)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "mexique",
+          "name": "Mexico"
+        },
+        "min_year": 2024,
+        "max_year": 2024,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/68bdcb30d36b31.83202349-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/68bdcb3279ce79.31129882-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 482764,
+      "title": "100 Pesos (100th Anniversary of the Bank of Mexico)",
+      "issuer": {
+        "code": "mexique",
+        "name": "Mexico"
+      },
+      "min_year": 2024,
+      "max_year": 2025,
+      "face": {
+        "value": 100,
+        "unit": "Pesos",
+        "text": "100 Pesos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 482764,
+        "title": "100 Pesos (100th Anniversary of the Bank of Mexico)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "mexique",
+          "name": "Mexico"
+        },
+        "min_year": 2024,
+        "max_year": 2025,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/698c38b286e2e4.69933854-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/698c38b3eaaf11.14338778-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 482768,
+      "title": "200 Pesos (100th Anniversary of Bank of Mexico)",
+      "issuer": {
+        "code": "mexique",
+        "name": "Mexico"
+      },
+      "min_year": 2024,
+      "max_year": 2025,
+      "face": {
+        "value": 200,
+        "unit": "Pesos",
+        "text": "200 Pesos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 482768,
+        "title": "200 Pesos (100th Anniversary of Bank of Mexico)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "mexique",
+          "name": "Mexico"
+        },
+        "min_year": 2024,
+        "max_year": 2025,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/694e8175904803.07189351-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/694e81780811e8.92842530-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 482769,
+      "title": "500 Pesos (100th Anniversary of the Bank of Mexico)",
+      "issuer": {
+        "code": "mexique",
+        "name": "Mexico"
+      },
+      "min_year": 2024,
+      "max_year": 2025,
+      "face": {
+        "value": 500,
+        "unit": "Pesos",
+        "text": "500 Pesos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 482769,
+        "title": "500 Pesos (100th Anniversary of the Bank of Mexico)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "mexique",
+          "name": "Mexico"
+        },
+        "min_year": 2024,
+        "max_year": 2025,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/6965693cd33294.08558477-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/6965693e4d82c3.27121735-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 482771,
+      "title": "1000 Pesos (100th Anniversary of the Bank of Mexico)",
+      "issuer": {
+        "code": "mexique",
+        "name": "Mexico"
+      },
+      "min_year": 2024,
+      "max_year": 2025,
+      "face": {
+        "value": 1000,
+        "unit": "Pesos",
+        "text": "1000 Pesos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 482771,
+        "title": "1000 Pesos (100th Anniversary of the Bank of Mexico)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "mexique",
+          "name": "Mexico"
+        },
+        "min_year": 2024,
+        "max_year": 2025,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/68d8756dc36980.60469488-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/mexique/68d8756e63dab8.48877192-180.jpg",
+        "category": "banknote"
+      }
+    }
+  ]
+}

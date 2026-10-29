@@ -1,0 +1,4021 @@
+{
+  "meta": {
+    "generated_at": "2026-10-29T13:27:55.884Z",
+    "fixture": false,
+    "api": "numista v3",
+    "issuer": "bresil",
+    "iso": "BR",
+    "category": "banknote",
+    "lang": "en",
+    "since": 1960,
+    "listed": 453,
+    "fetched": 108,
+    "details_fetched": 0,
+    "dropped_before_since": 345,
+    "dropped_by_source": {
+      "list": 345,
+      "detail": 0
+    },
+    "issuer_mismatches": 0,
+    "pages": 10,
+    "requests": 0
+  },
+  "types": [
+    {
+      "numista_type_id": 201713,
+      "title": "5 Reais (2nd. Family)",
+      "issuer": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "min_year": 2010,
+      "max_year": 2025,
+      "face": {
+        "value": 5,
+        "unit": "Reais",
+        "text": "5 Reais"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 201713,
+        "title": "5 Reais (2nd. Family)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bresil",
+          "name": "Brazil"
+        },
+        "min_year": 2010,
+        "max_year": 2025,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/63e65016e938d7.40651051-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/63e6501a179a77.60863269-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202089,
+      "title": "5 Cruzeiros (Thesouro Nacional; 2nd print; \"Valor Legal\")",
+      "issuer": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "min_year": 1962,
+      "max_year": 1964,
+      "face": {
+        "value": 5,
+        "unit": "Cruzeiros",
+        "text": "5 Cruzeiros"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202089,
+        "title": "5 Cruzeiros (Thesouro Nacional; 2nd print; \"Valor Legal\")",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bresil",
+          "name": "Brazil"
+        },
+        "min_year": 1962,
+        "max_year": 1964,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/62ffa3f20d1c32.65795080-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/62ffa3f2a34008.07139290-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202100,
+      "title": "100 Cruzados",
+      "issuer": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "min_year": 1986,
+      "max_year": 1988,
+      "face": {
+        "value": 100,
+        "unit": "Cruzados",
+        "text": "100 Cruzados"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202100,
+        "title": "100 Cruzados",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bresil",
+          "name": "Brazil"
+        },
+        "min_year": 1986,
+        "max_year": 1988,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/6270d3c09f79e8.35457758-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/6270d3c16e0b04.85998899-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202105,
+      "title": "500 Cruzeiros (3rd edition; overprint on 500 Cruzados Novos)",
+      "issuer": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "min_year": 1990,
+      "max_year": 1990,
+      "face": {
+        "value": 500,
+        "unit": "Cruzeiros",
+        "text": "500 Cruzeiros"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202105,
+        "title": "500 Cruzeiros (3rd edition; overprint on 500 Cruzados Novos)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bresil",
+          "name": "Brazil"
+        },
+        "min_year": 1990,
+        "max_year": 1990,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/654f574a8ee519.97104103-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/654f574bcb0924.67690648-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202120,
+      "title": "50 Cruzeiros (3rd edition; overprint on 50 Cruzados Novos)",
+      "issuer": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "min_year": 1990,
+      "max_year": 1990,
+      "face": {
+        "value": 50,
+        "unit": "Cruzeiros",
+        "text": "50 Cruzeiros"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202120,
+        "title": "50 Cruzeiros (3rd edition; overprint on 50 Cruzados Novos)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bresil",
+          "name": "Brazil"
+        },
+        "min_year": 1990,
+        "max_year": 1990,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/6270d4aabf1c28.73170555-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/6270d4ab5de1f8.67446002-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202197,
+      "title": "2 Reais (2nd. Family; Casa da Moeda do Brasil)",
+      "issuer": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "min_year": 2010,
+      "max_year": 2026,
+      "face": {
+        "value": 2,
+        "unit": "Reais",
+        "text": "2 Reais"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202197,
+        "title": "2 Reais (2nd. Family; Casa da Moeda do Brasil)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bresil",
+          "name": "Brazil"
+        },
+        "min_year": 2010,
+        "max_year": 2026,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/5eb4b89f99c432.97713538-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/5eb4b8a08cb728.23385429-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202203,
+      "title": "10 Reais (2nd. Family)",
+      "issuer": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "min_year": 2010,
+      "max_year": 2026,
+      "face": {
+        "value": 10,
+        "unit": "Reais",
+        "text": "10 Reais"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202203,
+        "title": "10 Reais (2nd. Family)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bresil",
+          "name": "Brazil"
+        },
+        "min_year": 2010,
+        "max_year": 2026,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/674b7fc7dc8e70.51208127-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/674b7fc96e0442.55556856-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202208,
+      "title": "20 Reais (2nd. Family)",
+      "issuer": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "min_year": 2010,
+      "max_year": 2025,
+      "face": {
+        "value": 20,
+        "unit": "Reais",
+        "text": "20 Reais"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202208,
+        "title": "20 Reais (2nd. Family)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bresil",
+          "name": "Brazil"
+        },
+        "min_year": 2010,
+        "max_year": 2025,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/64d7d12b765f03.15557920-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/64d7d12cea9f28.76473344-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202212,
+      "title": "50 Reais (2nd. Family)",
+      "issuer": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "min_year": 2010,
+      "max_year": 2025,
+      "face": {
+        "value": 50,
+        "unit": "Reais",
+        "text": "50 Reais"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202212,
+        "title": "50 Reais (2nd. Family)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bresil",
+          "name": "Brazil"
+        },
+        "min_year": 2010,
+        "max_year": 2025,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/6adbe83897e5c6.05893462-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/6adbe83caa8436.79433148-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202214,
+      "title": "100 Reais (2nd. Family)",
+      "issuer": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "min_year": 2010,
+      "max_year": 2026,
+      "face": {
+        "value": 100,
+        "unit": "Reais",
+        "text": "100 Reais"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202214,
+        "title": "100 Reais (2nd. Family)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bresil",
+          "name": "Brazil"
+        },
+        "min_year": 2010,
+        "max_year": 2026,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/64171011db8455.62600143-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/641710144a7ef4.73943240-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202403,
+      "title": "10 Reais (Pedro Álvares Cabral; Discovery)",
+      "issuer": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "min_year": 2000,
+      "max_year": 2001,
+      "face": {
+        "value": 10,
+        "unit": "Reais",
+        "text": "10 Reais"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202403,
+        "title": "10 Reais (Pedro Álvares Cabral; Discovery)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "bresil",
+          "name": "Brazil"
+        },
+        "min_year": 2000,
+        "max_year": 2001,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/5eb48e4dbefc53.39655186-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/5eb48e4f4208a9.44489387-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202746,
+      "title": "1 Real (1st. Family; Stamp A; Watermark \"Effigy\")",
+      "issuer": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "min_year": 1994,
+      "max_year": 1996,
+      "face": {
+        "value": 1,
+        "unit": "Real",
+        "text": "1 Real"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202746,
+        "title": "1 Real (1st. Family; Stamp A; Watermark \"Effigy\")",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bresil",
+          "name": "Brazil"
+        },
+        "min_year": 1994,
+        "max_year": 1996,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/654f626c11ad33.34574147-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/654f626dba64d0.25318011-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202764,
+      "title": "5 Reais (1st. Family; Stamps A/B; Watermark \"Effigy\")",
+      "issuer": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "min_year": 1994,
+      "max_year": 1995,
+      "face": {
+        "value": 5,
+        "unit": "Reais",
+        "text": "5 Reais"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202764,
+        "title": "5 Reais (1st. Family; Stamps A/B; Watermark \"Effigy\")",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bresil",
+          "name": "Brazil"
+        },
+        "min_year": 1994,
+        "max_year": 1995,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/5e971030591db3.35499613-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/5eb3beacba3482.17466803-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203188,
+      "title": "100 Cruzados Novos",
+      "issuer": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "min_year": 1989,
+      "max_year": 1989,
+      "face": {
+        "value": 100,
+        "unit": "Cruzados Novos",
+        "text": "100 Cruzados Novos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203188,
+        "title": "100 Cruzados Novos",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bresil",
+          "name": "Brazil"
+        },
+        "min_year": 1989,
+        "max_year": 1989,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/6485b7fc49ce42.53393946-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/6485b7fcb09c70.35157817-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203534,
+      "title": "1 Real (1st. Family; Stamp B; Watermark \"Flag\")",
+      "issuer": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "min_year": 1997,
+      "max_year": 2003,
+      "face": {
+        "value": 1,
+        "unit": "Real",
+        "text": "1 Real"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203534,
+        "title": "1 Real (1st. Family; Stamp B; Watermark \"Flag\")",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bresil",
+          "name": "Brazil"
+        },
+        "min_year": 1997,
+        "max_year": 2003,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/65509f2935abd3.25546637-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/65509f2ae75d68.96573484-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203536,
+      "title": "100 Cruzeiros (2nd Edition; 2nd Type)",
+      "issuer": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "min_year": 1981,
+      "max_year": 1984,
+      "face": {
+        "value": 100,
+        "unit": "Cruzeiros",
+        "text": "100 Cruzeiros"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203536,
+        "title": "100 Cruzeiros (2nd Edition; 2nd Type)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bresil",
+          "name": "Brazil"
+        },
+        "min_year": 1981,
+        "max_year": 1984,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/6270d40d0fa654.43713256-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/6270d40d8ecf64.23418245-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203546,
+      "title": "200 Cruzeiros (2nd Edition; 2nd Type)",
+      "issuer": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "min_year": 1981,
+      "max_year": 1984,
+      "face": {
+        "value": 200,
+        "unit": "Cruzeiros",
+        "text": "200 Cruzeiros"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203546,
+        "title": "200 Cruzeiros (2nd Edition; 2nd Type)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bresil",
+          "name": "Brazil"
+        },
+        "min_year": 1981,
+        "max_year": 1984,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/6270d42df1c4f6.94532013-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/6270d42eaa0b94.12104799-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203551,
+      "title": "1 Cruzeiro (2nd Edition; 1st Type; Stamp B)",
+      "issuer": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "min_year": 1972,
+      "max_year": 1980,
+      "face": {
+        "value": 1,
+        "unit": "Cruzeiro",
+        "text": "1 Cruzeiro"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203551,
+        "title": "1 Cruzeiro (2nd Edition; 1st Type; Stamp B)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bresil",
+          "name": "Brazil"
+        },
+        "min_year": 1972,
+        "max_year": 1980,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/626b7e240b4d30.10658314-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/626b7e24a699d5.10765546-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203950,
+      "title": "50 Cruzeiros (Thesouro Nacional; 1st print; \"Valor Legal\")",
+      "issuer": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "min_year": 1961,
+      "max_year": 1961,
+      "face": {
+        "value": 50,
+        "unit": "Cruzeiros",
+        "text": "50 Cruzeiros"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203950,
+        "title": "50 Cruzeiros (Thesouro Nacional; 1st print; \"Valor Legal\")",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bresil",
+          "name": "Brazil"
+        },
+        "min_year": 1961,
+        "max_year": 1961,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/64737efe87b8e4.68725625-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/64737eff18f923.72182260-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204089,
+      "title": "100 Cruzados (Overprint on 100 000 Cruzeiros)",
+      "issuer": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "min_year": 1986,
+      "max_year": 1986,
+      "face": {
+        "value": 100,
+        "unit": "Cruzados",
+        "text": "100 Cruzados"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204089,
+        "title": "100 Cruzados (Overprint on 100 000 Cruzeiros)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bresil",
+          "name": "Brazil"
+        },
+        "min_year": 1986,
+        "max_year": 1986,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/6479d430bf69c9.34982522-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/6479d43126dbe3.08988771-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204093,
+      "title": "1000 Cruzados",
+      "issuer": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "min_year": 1987,
+      "max_year": 1988,
+      "face": {
+        "value": 1000,
+        "unit": "Cruzados",
+        "text": "1000 Cruzados"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204093,
+        "title": "1000 Cruzados",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bresil",
+          "name": "Brazil"
+        },
+        "min_year": 1987,
+        "max_year": 1988,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/6270d45c4ebdf1.50811246-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/6270d45ceb7947.90093009-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204240,
+      "title": "20 Reais (1st. Family; Stamp A)",
+      "issuer": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "min_year": 2002,
+      "max_year": 2010,
+      "face": {
+        "value": 20,
+        "unit": "Reais",
+        "text": "20 Reais"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204240,
+        "title": "20 Reais (1st. Family; Stamp A)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bresil",
+          "name": "Brazil"
+        },
+        "min_year": 2002,
+        "max_year": 2010,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/6550a0913b5c40.38306178-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/6550a092ea0225.91988125-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204418,
+      "title": "100 Cruzeiros (Thesouro Nacional; 1st print; \"Valor Legal\")",
+      "issuer": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "min_year": 1961,
+      "max_year": 1964,
+      "face": {
+        "value": 100,
+        "unit": "Cruzeiros",
+        "text": "100 Cruzeiros"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204418,
+        "title": "100 Cruzeiros (Thesouro Nacional; 1st print; \"Valor Legal\")",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bresil",
+          "name": "Brazil"
+        },
+        "min_year": 1961,
+        "max_year": 1964,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/64ef56ba228d09.10356001-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/64ef56bba5fd67.04488973-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204449,
+      "title": "200 Cruzeiros (Thesouro Nacional; 1st print; \"Valor Legal\")",
+      "issuer": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "min_year": 1961,
+      "max_year": 1964,
+      "face": {
+        "value": 200,
+        "unit": "Cruzeiros",
+        "text": "200 Cruzeiros"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204449,
+        "title": "200 Cruzeiros (Thesouro Nacional; 1st print; \"Valor Legal\")",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bresil",
+          "name": "Brazil"
+        },
+        "min_year": 1961,
+        "max_year": 1964,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/64ef5879a47f78.53638165-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/64ef58b5a4fc42.55199459-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204465,
+      "title": "500 Cruzados",
+      "issuer": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "min_year": 1986,
+      "max_year": 1988,
+      "face": {
+        "value": 500,
+        "unit": "Cruzados",
+        "text": "500 Cruzados"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204465,
+        "title": "500 Cruzados",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bresil",
+          "name": "Brazil"
+        },
+        "min_year": 1986,
+        "max_year": 1988,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/5e9bd1fc174ed7.54952298-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/5ebb8f40d0d050.58042023-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204475,
+      "title": "500 Cruzeiros (Thesouro Nacional; 1st print; \"Valor Legal\")",
+      "issuer": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "min_year": 1961,
+      "max_year": 1962,
+      "face": {
+        "value": 500,
+        "unit": "Cruzeiros",
+        "text": "500 Cruzeiros"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204475,
+        "title": "500 Cruzeiros (Thesouro Nacional; 1st print; \"Valor Legal\")",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bresil",
+          "name": "Brazil"
+        },
+        "min_year": 1961,
+        "max_year": 1962,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/5ec9e5b3139dc0.24232742-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/5ec9e5b35ec604.60924319-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204630,
+      "title": "1 Cruzado Novo (Overprint on 1000 Cruzados)",
+      "issuer": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "min_year": 1989,
+      "max_year": 1989,
+      "face": {
+        "value": 1,
+        "unit": "Cruzado Novo",
+        "text": "1 Cruzado Novo"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204630,
+        "title": "1 Cruzado Novo (Overprint on 1000 Cruzados)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bresil",
+          "name": "Brazil"
+        },
+        "min_year": 1989,
+        "max_year": 1989,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/63da25c46473d3.22646049-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/63da25c56bc069.89697407-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204976,
+      "title": "1000 Cruzeiros (Thesouro Nacional; 1st print; \"Valor Legal\")",
+      "issuer": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "min_year": 1961,
+      "max_year": 1963,
+      "face": {
+        "value": 1000,
+        "unit": "Cruzeiros",
+        "text": "1000 Cruzeiros"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204976,
+        "title": "1000 Cruzeiros (Thesouro Nacional; 1st print; \"Valor Legal\")",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bresil",
+          "name": "Brazil"
+        },
+        "min_year": 1961,
+        "max_year": 1963,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/6414f7f61f7050.87713551-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/6414f7f7e56e57.92950679-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205028,
+      "title": "2 Reais (1st. Family; Stamp A)",
+      "issuer": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "min_year": 2001,
+      "max_year": 2009,
+      "face": {
+        "value": 2,
+        "unit": "Reais",
+        "text": "2 Reais"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205028,
+        "title": "2 Reais (1st. Family; Stamp A)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bresil",
+          "name": "Brazil"
+        },
+        "min_year": 2001,
+        "max_year": 2009,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/63a31e85b3a8a9.04987517-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/63a31e8655b744.24882104-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205041,
+      "title": "5000 Cruzeiros (Thesouro Nacional; 1st print)",
+      "issuer": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "min_year": 1963,
+      "max_year": 1964,
+      "face": {
+        "value": 5000,
+        "unit": "Cruzeiros",
+        "text": "5000 Cruzeiros"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205041,
+        "title": "5000 Cruzeiros (Thesouro Nacional; 1st print)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bresil",
+          "name": "Brazil"
+        },
+        "min_year": 1963,
+        "max_year": 1964,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/5ecda68f833971.83099172-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/5ecda68fd16b30.79134698-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205120,
+      "title": "10 000 Cruzeiros (Banco Central do Brasil; 1st print)",
+      "issuer": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "min_year": 1966,
+      "max_year": 1966,
+      "face": {
+        "value": 10000,
+        "unit": "Cruzeiros",
+        "text": "10000 Cruzeiros"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205120,
+        "title": "10 000 Cruzeiros (Banco Central do Brasil; 1st print)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bresil",
+          "name": "Brazil"
+        },
+        "min_year": 1966,
+        "max_year": 1966,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/5ece0a4f630b61.88396798-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/5e9d4c00ed1a79.19414297-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205655,
+      "title": "100 Cruzeiros (3rd edition; overprint on 100 Cruzados Novos)",
+      "issuer": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "min_year": 1990,
+      "max_year": 1990,
+      "face": {
+        "value": 100,
+        "unit": "Cruzeiros",
+        "text": "100 Cruzeiros"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205655,
+        "title": "100 Cruzeiros (3rd edition; overprint on 100 Cruzados Novos)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bresil",
+          "name": "Brazil"
+        },
+        "min_year": 1990,
+        "max_year": 1990,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/6485c855c6ce14.60263381-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/6485c8564ccf15.28613348-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205660,
+      "title": "10 Reais (1st. Family; Stamps A/B; Watermark \"Effigy\")",
+      "issuer": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "min_year": 1994,
+      "max_year": 1996,
+      "face": {
+        "value": 10,
+        "unit": "Reais",
+        "text": "10 Reais"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205660,
+        "title": "10 Reais (1st. Family; Stamps A/B; Watermark \"Effigy\")",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bresil",
+          "name": "Brazil"
+        },
+        "min_year": 1994,
+        "max_year": 1996,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/654f671036f351.69475494-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/654f67122c3556.36394441-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205661,
+      "title": "50 Reais (1st. Family; Stamp A)",
+      "issuer": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "min_year": 1994,
+      "max_year": 2009,
+      "face": {
+        "value": 50,
+        "unit": "Reais",
+        "text": "50 Reais"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205661,
+        "title": "50 Reais (1st. Family; Stamp A)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bresil",
+          "name": "Brazil"
+        },
+        "min_year": 1994,
+        "max_year": 2009,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/64170b5b13b435.74560884-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/64170b5d760860.46235997-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205667,
+      "title": "5 Cruzeiros (2nd Edition; 1st Type)",
+      "issuer": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "min_year": 1970,
+      "max_year": 1979,
+      "face": {
+        "value": 5,
+        "unit": "Cruzeiros",
+        "text": "5 Cruzeiros"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205667,
+        "title": "5 Cruzeiros (2nd Edition; 1st Type)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bresil",
+          "name": "Brazil"
+        },
+        "min_year": 1970,
+        "max_year": 1979,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/6270d34b1d2a13.62836136-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/6270d34bda16c7.96777981-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205668,
+      "title": "10 Cruzeiros (2nd Edition; 1st Type)",
+      "issuer": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "min_year": 1970,
+      "max_year": 1980,
+      "face": {
+        "value": 10,
+        "unit": "Cruzeiros",
+        "text": "10 Cruzeiros"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205668,
+        "title": "10 Cruzeiros (2nd Edition; 1st Type)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bresil",
+          "name": "Brazil"
+        },
+        "min_year": 1970,
+        "max_year": 1980,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/6270d3769528c6.24834025-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/6270d37738bc27.44377692-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205669,
+      "title": "50 Cruzeiros (2nd Edition; 1st Type)",
+      "issuer": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "min_year": 1970,
+      "max_year": 1980,
+      "face": {
+        "value": 50,
+        "unit": "Cruzeiros",
+        "text": "50 Cruzeiros"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205669,
+        "title": "50 Cruzeiros (2nd Edition; 1st Type)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bresil",
+          "name": "Brazil"
+        },
+        "min_year": 1970,
+        "max_year": 1980,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/63e64ec0dbe945.24903330-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/63e64ec42d2c32.48522492-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205670,
+      "title": "100 Cruzeiros (2nd Edition; 1st Type)",
+      "issuer": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "min_year": 1970,
+      "max_year": 1981,
+      "face": {
+        "value": 100,
+        "unit": "Cruzeiros",
+        "text": "100 Cruzeiros"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205670,
+        "title": "100 Cruzeiros (2nd Edition; 1st Type)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bresil",
+          "name": "Brazil"
+        },
+        "min_year": 1970,
+        "max_year": 1981,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/647a25f92309a6.86651903-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/647a25f9a7b228.00120282-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205673,
+      "title": "500 Cruzeiros (2nd Edition; 2nd Type)",
+      "issuer": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "min_year": 1981,
+      "max_year": 1985,
+      "face": {
+        "value": 500,
+        "unit": "Cruzeiros",
+        "text": "500 Cruzeiros"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205673,
+        "title": "500 Cruzeiros (2nd Edition; 2nd Type)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bresil",
+          "name": "Brazil"
+        },
+        "min_year": 1981,
+        "max_year": 1985,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/63e64ef4599773.37192346-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/63e64ef765e949.29718215-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205674,
+      "title": "1000 Cruzeiros (2nd Edition; 2nd Type; Stamp B)",
+      "issuer": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "min_year": 1981,
+      "max_year": 1986,
+      "face": {
+        "value": 1000,
+        "unit": "Cruzeiros",
+        "text": "1000 Cruzeiros"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205674,
+        "title": "1000 Cruzeiros (2nd Edition; 2nd Type; Stamp B)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bresil",
+          "name": "Brazil"
+        },
+        "min_year": 1981,
+        "max_year": 1986,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/63e64f26816f61.05495292-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/63e64f299e1039.04424942-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205676,
+      "title": "5000 Cruzeiros (2nd Edition; 2nd Type)",
+      "issuer": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "min_year": 1981,
+      "max_year": 1985,
+      "face": {
+        "value": 5000,
+        "unit": "Cruzeiros",
+        "text": "5000 Cruzeiros"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205676,
+        "title": "5000 Cruzeiros (2nd Edition; 2nd Type)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bresil",
+          "name": "Brazil"
+        },
+        "min_year": 1981,
+        "max_year": 1985,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/63e64f4ecb8733.22936457-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/63e64f5200dcb3.73817686-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206016,
+      "title": "1 Cruzeiro (2nd Edition; 1st Type; Stamp A)",
+      "issuer": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "min_year": 1970,
+      "max_year": 1970,
+      "face": {
+        "value": 1,
+        "unit": "Cruzeiro",
+        "text": "1 Cruzeiro"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206016,
+        "title": "1 Cruzeiro (2nd Edition; 1st Type; Stamp A)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bresil",
+          "name": "Brazil"
+        },
+        "min_year": 1970,
+        "max_year": 1970,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/5e9f8b30bf68e0.81549459-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/5e9f8b310f7341.67321176-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206058,
+      "title": "100 Cruzeiros (Thesouro Nacional; 2nd print; \"Valor Recebido\")",
+      "issuer": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "min_year": 1960,
+      "max_year": 1960,
+      "face": {
+        "value": 100,
+        "unit": "Cruzeiros",
+        "text": "100 Cruzeiros"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206058,
+        "title": "100 Cruzeiros (Thesouro Nacional; 2nd print; \"Valor Recebido\")",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bresil",
+          "name": "Brazil"
+        },
+        "min_year": 1960,
+        "max_year": 1960,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/5e9fd3a0ec3770.05151791-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/5e9fd3a147dbf6.60230825-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206063,
+      "title": "100 Cruzeiros (Thesouro Nacional; 2nd print; \"Valor Legal\")",
+      "issuer": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "min_year": 1963,
+      "max_year": 1963,
+      "face": {
+        "value": 100,
+        "unit": "Cruzeiros",
+        "text": "100 Cruzeiros"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206063,
+        "title": "100 Cruzeiros (Thesouro Nacional; 2nd print; \"Valor Legal\")",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bresil",
+          "name": "Brazil"
+        },
+        "min_year": 1963,
+        "max_year": 1963,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/64ef5d87bdb730.64743325-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/64ef5d895847c7.31242290-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206078,
+      "title": "10 Cruzados",
+      "issuer": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "min_year": 1986,
+      "max_year": 1987,
+      "face": {
+        "value": 10,
+        "unit": "Cruzados",
+        "text": "10 Cruzados"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206078,
+        "title": "10 Cruzados",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bresil",
+          "name": "Brazil"
+        },
+        "min_year": 1986,
+        "max_year": 1987,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/63da2323c35d28.63008109-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/63da2324ceb4d8.20741661-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206080,
+      "title": "50 Cruzados",
+      "issuer": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "min_year": 1986,
+      "max_year": 1988,
+      "face": {
+        "value": 50,
+        "unit": "Cruzados",
+        "text": "50 Cruzados"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206080,
+        "title": "50 Cruzados",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bresil",
+          "name": "Brazil"
+        },
+        "min_year": 1986,
+        "max_year": 1988,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/63da1d7d656101.78603422-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/63da1d7e84f578.33345773-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206081,
+      "title": "50 Cruzados (Overprint on 50 000 Cruzeiros)",
+      "issuer": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "min_year": 1986,
+      "max_year": 1986,
+      "face": {
+        "value": 50,
+        "unit": "Cruzados",
+        "text": "50 Cruzados"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206081,
+        "title": "50 Cruzados (Overprint on 50 000 Cruzeiros)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bresil",
+          "name": "Brazil"
+        },
+        "min_year": 1986,
+        "max_year": 1986,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/64777ec8b55d37.91963380-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/64777ec91932c9.44519795-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206083,
+      "title": "10 000 Cruzeiros (2nd Edition; 3rd Type)",
+      "issuer": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "min_year": 1984,
+      "max_year": 1985,
+      "face": {
+        "value": 10000,
+        "unit": "Cruzeiros",
+        "text": "10000 Cruzeiros"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206083,
+        "title": "10 000 Cruzeiros (2nd Edition; 3rd Type)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bresil",
+          "name": "Brazil"
+        },
+        "min_year": 1984,
+        "max_year": 1985,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/6479c774701463.59303781-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/6479c774d1f476.80151624-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206087,
+      "title": "5000 Cruzados",
+      "issuer": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "min_year": 1988,
+      "max_year": 1988,
+      "face": {
+        "value": 5000,
+        "unit": "Cruzados",
+        "text": "5000 Cruzados"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206087,
+        "title": "5000 Cruzados",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bresil",
+          "name": "Brazil"
+        },
+        "min_year": 1988,
+        "max_year": 1988,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/6485925903f126.72364471-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/64859259643789.73515398-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206089,
+      "title": "5 Cruzados Novos (Overprint on 5000 Cruzados)",
+      "issuer": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "min_year": 1989,
+      "max_year": 1989,
+      "face": {
+        "value": 5,
+        "unit": "Cruzados Novos",
+        "text": "5 Cruzados Novos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206089,
+        "title": "5 Cruzados Novos (Overprint on 5000 Cruzados)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bresil",
+          "name": "Brazil"
+        },
+        "min_year": 1989,
+        "max_year": 1989,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/6485a6104f3a42.95608133-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/6485a610c0d667.04884304-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206090,
+      "title": "10 000 Cruzados",
+      "issuer": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "min_year": 1988,
+      "max_year": 1988,
+      "face": {
+        "value": 10000,
+        "unit": "Cruzados",
+        "text": "10000 Cruzados"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206090,
+        "title": "10 000 Cruzados",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bresil",
+          "name": "Brazil"
+        },
+        "min_year": 1988,
+        "max_year": 1988,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/647330f42401e2.67654080-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/647330f48679c0.00453781-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206091,
+      "title": "10 Cruzados Novos (Overprint on 10 000 Cruzados)",
+      "issuer": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "min_year": 1989,
+      "max_year": 1990,
+      "face": {
+        "value": 10,
+        "unit": "Cruzados Novos",
+        "text": "10 Cruzados Novos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206091,
+        "title": "10 Cruzados Novos (Overprint on 10 000 Cruzados)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bresil",
+          "name": "Brazil"
+        },
+        "min_year": 1989,
+        "max_year": 1990,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/6270d47f9f8315.38411573-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/6270d48062cdb4.87081013-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206093,
+      "title": "50 Cruzados Novos",
+      "issuer": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "min_year": 1989,
+      "max_year": 1990,
+      "face": {
+        "value": 50,
+        "unit": "Cruzados Novos",
+        "text": "50 Cruzados Novos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206093,
+        "title": "50 Cruzados Novos",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bresil",
+          "name": "Brazil"
+        },
+        "min_year": 1989,
+        "max_year": 1990,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/6485b8f7a3a7e5.12215959-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/6485b8f8071eb0.04981529-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206094,
+      "title": "500 Cruzados Novos",
+      "issuer": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "min_year": 1990,
+      "max_year": 1990,
+      "face": {
+        "value": 500,
+        "unit": "Cruzados Novos",
+        "text": "500 Cruzados Novos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206094,
+        "title": "500 Cruzados Novos",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bresil",
+          "name": "Brazil"
+        },
+        "min_year": 1990,
+        "max_year": 1990,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/6485b8cb94b246.51837252-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/6485b8cbeeaf55.98762743-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206096,
+      "title": "500 Cruzeiros (3rd edition)",
+      "issuer": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "min_year": 1990,
+      "max_year": 1990,
+      "face": {
+        "value": 500,
+        "unit": "Cruzeiros",
+        "text": "500 Cruzeiros"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206096,
+        "title": "500 Cruzeiros (3rd edition)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bresil",
+          "name": "Brazil"
+        },
+        "min_year": 1990,
+        "max_year": 1990,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/6485d8e80effd0.83975513-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/6485d8e8824073.40971895-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206098,
+      "title": "1000 Cruzeiros (3rd edition)",
+      "issuer": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "min_year": 1990,
+      "max_year": 1991,
+      "face": {
+        "value": 1000,
+        "unit": "Cruzeiros",
+        "text": "1000 Cruzeiros"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206098,
+        "title": "1000 Cruzeiros (3rd edition)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bresil",
+          "name": "Brazil"
+        },
+        "min_year": 1990,
+        "max_year": 1991,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/63da2aabaf23a6.23996541-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/63da2aac8f2ea9.09980257-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206099,
+      "title": "5000 Cruzeiros (3rd edition)",
+      "issuer": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "min_year": 1990,
+      "max_year": 1993,
+      "face": {
+        "value": 5000,
+        "unit": "Cruzeiros",
+        "text": "5000 Cruzeiros"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206099,
+        "title": "5000 Cruzeiros (3rd edition)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bresil",
+          "name": "Brazil"
+        },
+        "min_year": 1990,
+        "max_year": 1993,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/6270d526ece669.71290345-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/6270d52789a914.87258304-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206100,
+      "title": "10 000 Cruzeiros (3rd edition)",
+      "issuer": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "min_year": 1991,
+      "max_year": 1993,
+      "face": {
+        "value": 10000,
+        "unit": "Cruzeiros",
+        "text": "10000 Cruzeiros"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206100,
+        "title": "10 000 Cruzeiros (3rd edition)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bresil",
+          "name": "Brazil"
+        },
+        "min_year": 1991,
+        "max_year": 1993,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/63e64f8b23b664.01500780-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/63e64f8e482281.05127339-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206102,
+      "title": "100 000 Cruzeiros (3rd edition)",
+      "issuer": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "min_year": 1992,
+      "max_year": 1993,
+      "face": {
+        "value": 100000,
+        "unit": "Cruzeiros",
+        "text": "100000 Cruzeiros"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206102,
+        "title": "100 000 Cruzeiros (3rd edition)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bresil",
+          "name": "Brazil"
+        },
+        "min_year": 1992,
+        "max_year": 1993,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/6477a1ab4274b4.56394178-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/6477a1aba93795.58812383-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206105,
+      "title": "500 Cruzeiros Reais (Overprint on 500 000 Cruzeiros)",
+      "issuer": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "min_year": 1993,
+      "max_year": 1993,
+      "face": {
+        "value": 500,
+        "unit": "Cruzeiros Reais",
+        "text": "500 Cruzeiros Reais"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206105,
+        "title": "500 Cruzeiros Reais (Overprint on 500 000 Cruzeiros)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bresil",
+          "name": "Brazil"
+        },
+        "min_year": 1993,
+        "max_year": 1993,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/64797f5aa9ed94.96336010-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/64797f5b2e3470.51072152-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206108,
+      "title": "200 Cruzeiros (3rd edition; overprint on 200 Cruzados Novos)",
+      "issuer": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "min_year": 1990,
+      "max_year": 1990,
+      "face": {
+        "value": 200,
+        "unit": "Cruzeiros",
+        "text": "200 Cruzeiros"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206108,
+        "title": "200 Cruzeiros (3rd edition; overprint on 200 Cruzados Novos)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bresil",
+          "name": "Brazil"
+        },
+        "min_year": 1990,
+        "max_year": 1990,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/6485c81bb59935.68507488-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/6485c81c2a1958.12401636-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206110,
+      "title": "200 Cruzeiros (3rd edition)",
+      "issuer": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "min_year": 1990,
+      "max_year": 1990,
+      "face": {
+        "value": 200,
+        "unit": "Cruzeiros",
+        "text": "200 Cruzeiros"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206110,
+        "title": "200 Cruzeiros (3rd edition)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bresil",
+          "name": "Brazil"
+        },
+        "min_year": 1990,
+        "max_year": 1990,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/6270d4ffcfeee0.41627144-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/6270d500928dc6.63934888-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206135,
+      "title": "5 Cruzeiros (Thesouro Nacional; 3rd print)",
+      "issuer": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "min_year": 1961,
+      "max_year": 1962,
+      "face": {
+        "value": 5,
+        "unit": "Cruzeiros",
+        "text": "5 Cruzeiros"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206135,
+        "title": "5 Cruzeiros (Thesouro Nacional; 3rd print)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bresil",
+          "name": "Brazil"
+        },
+        "min_year": 1961,
+        "max_year": 1962,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/63e64e4e48e8f6.35738851-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/63e64e5190b1e9.57983700-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206140,
+      "title": "1000 Cruzeiros (Thesouro Nacional; 2nd print; \"Valor Recebido\")",
+      "issuer": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "min_year": 1960,
+      "max_year": 1960,
+      "face": {
+        "value": 1000,
+        "unit": "Cruzeiros",
+        "text": "1000 Cruzeiros"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206140,
+        "title": "1000 Cruzeiros (Thesouro Nacional; 2nd print; \"Valor Recebido\")",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bresil",
+          "name": "Brazil"
+        },
+        "min_year": 1960,
+        "max_year": 1960,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/5eccd7062cf530.99568663-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/5eccd70691fee6.41434285-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206145,
+      "title": "20 Cruzeiros (Thesouro Nacional; 2nd print; \"Valor Legal\")",
+      "issuer": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "min_year": 1962,
+      "max_year": 1962,
+      "face": {
+        "value": 20,
+        "unit": "Cruzeiros",
+        "text": "20 Cruzeiros"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206145,
+        "title": "20 Cruzeiros (Thesouro Nacional; 2nd print; \"Valor Legal\")",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bresil",
+          "name": "Brazil"
+        },
+        "min_year": 1962,
+        "max_year": 1962,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/647386b6a16065.67276645-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/647386b7139a63.30502756-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206153,
+      "title": "1 Centavo (Overprint on 10 Cruzeiros)",
+      "issuer": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "min_year": 1966,
+      "max_year": 1967,
+      "face": {
+        "value": 1,
+        "unit": "Centavo",
+        "text": "1 Centavo"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206153,
+        "title": "1 Centavo (Overprint on 10 Cruzeiros)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bresil",
+          "name": "Brazil"
+        },
+        "min_year": 1966,
+        "max_year": 1967,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/675803e6dd4944.74906641-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/675803e92e6d10.42730684-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206155,
+      "title": "5 Centavos (Overprint on 50 Cruzeiros)",
+      "issuer": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "min_year": 1966,
+      "max_year": 1967,
+      "face": {
+        "value": 5,
+        "unit": "Centavos",
+        "text": "5 Centavos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206155,
+        "title": "5 Centavos (Overprint on 50 Cruzeiros)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bresil",
+          "name": "Brazil"
+        },
+        "min_year": 1966,
+        "max_year": 1967,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/647cb01acef142.33346038-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/647cb01b8d44d1.99059517-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206157,
+      "title": "10 Centavos (Overprint on 100 Cruzeiros)",
+      "issuer": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "min_year": 1966,
+      "max_year": 1967,
+      "face": {
+        "value": 10,
+        "unit": "Centavos",
+        "text": "10 Centavos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206157,
+        "title": "10 Centavos (Overprint on 100 Cruzeiros)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bresil",
+          "name": "Brazil"
+        },
+        "min_year": 1966,
+        "max_year": 1967,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/647397334cfb46.35468231-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/64739733b3f556.85521001-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206158,
+      "title": "50 Centavos (Overprint on 500 Cruzeiros)",
+      "issuer": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "min_year": 1967,
+      "max_year": 1967,
+      "face": {
+        "value": 50,
+        "unit": "Centavos",
+        "text": "50 Centavos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206158,
+        "title": "50 Centavos (Overprint on 500 Cruzeiros)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bresil",
+          "name": "Brazil"
+        },
+        "min_year": 1967,
+        "max_year": 1967,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/6473831310a444.92141596-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/64738313681b66.86584999-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 207012,
+      "title": "50 000 Cruzeiros (2nd Edition; 3rd Type)",
+      "issuer": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "min_year": 1984,
+      "max_year": 1986,
+      "face": {
+        "value": 50000,
+        "unit": "Cruzeiros",
+        "text": "50000 Cruzeiros"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 207012,
+        "title": "50 000 Cruzeiros (2nd Edition; 3rd Type)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bresil",
+          "name": "Brazil"
+        },
+        "min_year": 1984,
+        "max_year": 1986,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/6479d14dbb30e6.50705356-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/6479d14e2e8099.86145109-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 207019,
+      "title": "100 000 Cruzeiros (2nd Edition; 3rd Type)",
+      "issuer": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "min_year": 1985,
+      "max_year": 1985,
+      "face": {
+        "value": 100000,
+        "unit": "Cruzeiros",
+        "text": "100000 Cruzeiros"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 207019,
+        "title": "100 000 Cruzeiros (2nd Edition; 3rd Type)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bresil",
+          "name": "Brazil"
+        },
+        "min_year": 1985,
+        "max_year": 1985,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/64777e00debfe4.54071540-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/64777e01556969.38083412-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 207300,
+      "title": "1000 Cruzeiros (Thesouro Nacional; 2nd print; \"Valor Legal\")",
+      "issuer": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "min_year": 1963,
+      "max_year": 1963,
+      "face": {
+        "value": 1000,
+        "unit": "Cruzeiros",
+        "text": "1000 Cruzeiros"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 207300,
+        "title": "1000 Cruzeiros (Thesouro Nacional; 2nd print; \"Valor Legal\")",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bresil",
+          "name": "Brazil"
+        },
+        "min_year": 1963,
+        "max_year": 1963,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/5ecd70854f7227.09853584-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/5ecd708595a303.58859865-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 207643,
+      "title": "100 Cruzeiros (3rd edition)",
+      "issuer": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "min_year": 1990,
+      "max_year": 1990,
+      "face": {
+        "value": 100,
+        "unit": "Cruzeiros",
+        "text": "100 Cruzeiros"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 207643,
+        "title": "100 Cruzeiros (3rd edition)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bresil",
+          "name": "Brazil"
+        },
+        "min_year": 1990,
+        "max_year": 1990,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/6270d4d82f9278.68500447-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/6270d4d8c78e31.49755621-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 207943,
+      "title": "5000 Cruzeiros (Banco Central do Brasil - reused from the Thesouro Nacional)",
+      "issuer": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "min_year": 1965,
+      "max_year": 1965,
+      "face": {
+        "value": 5000,
+        "unit": "Cruzeiros",
+        "text": "5000 Cruzeiros"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 207943,
+        "title": "5000 Cruzeiros (Banco Central do Brasil - reused from the Thesouro Nacional)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bresil",
+          "name": "Brazil"
+        },
+        "min_year": 1965,
+        "max_year": 1965,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/5ecdff01628580.31369378-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/5ecdff01a760a0.11431421-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 208195,
+      "title": "1000 Cruzeiros Reais",
+      "issuer": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "min_year": 1993,
+      "max_year": 1993,
+      "face": {
+        "value": 1000,
+        "unit": "Cruzeiros Reais",
+        "text": "1000 Cruzeiros Reais"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 208195,
+        "title": "1000 Cruzeiros Reais",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bresil",
+          "name": "Brazil"
+        },
+        "min_year": 1993,
+        "max_year": 1993,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/63a31e381624c0.42253113-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/63a31e38b37462.49055317-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 208199,
+      "title": "50 000 Cruzeiros (3rd edition)",
+      "issuer": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "min_year": 1992,
+      "max_year": 1992,
+      "face": {
+        "value": 50000,
+        "unit": "Cruzeiros",
+        "text": "50000 Cruzeiros"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 208199,
+        "title": "50 000 Cruzeiros (3rd edition)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bresil",
+          "name": "Brazil"
+        },
+        "min_year": 1992,
+        "max_year": 1992,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/63e64fb2d801f2.52744147-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/63e64fb6543a26.70227348-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 209797,
+      "title": "10 Reais (1st. Family; Stamp C; Watermark \"Flag\")",
+      "issuer": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "min_year": 1997,
+      "max_year": 2010,
+      "face": {
+        "value": 10,
+        "unit": "Reais",
+        "text": "10 Reais"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 209797,
+        "title": "10 Reais (1st. Family; Stamp C; Watermark \"Flag\")",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bresil",
+          "name": "Brazil"
+        },
+        "min_year": 1997,
+        "max_year": 2010,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/65509df183cff2.35916141-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/65509df31d5dd8.35034613-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 209854,
+      "title": "200 Cruzados Novos",
+      "issuer": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "min_year": 1989,
+      "max_year": 1989,
+      "face": {
+        "value": 200,
+        "unit": "Cruzados Novos",
+        "text": "200 Cruzados Novos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 209854,
+        "title": "200 Cruzados Novos",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bresil",
+          "name": "Brazil"
+        },
+        "min_year": 1989,
+        "max_year": 1989,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/6485b8a3894e23.95244971-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/6485b8a3ea9917.23569140-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 210058,
+      "title": "20 Cruzeiros (Thesouro Nacional; 1st print; \"Valor Legal\")",
+      "issuer": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "min_year": 1961,
+      "max_year": 1963,
+      "face": {
+        "value": 20,
+        "unit": "Cruzeiros",
+        "text": "20 Cruzeiros"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 210058,
+        "title": "20 Cruzeiros (Thesouro Nacional; 1st print; \"Valor Legal\")",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bresil",
+          "name": "Brazil"
+        },
+        "min_year": 1961,
+        "max_year": 1963,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/647389216ef337.59078868-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/64738921d12977.71461780-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 210067,
+      "title": "5000 Cruzeiros (3rd edition; Provisional issue)",
+      "issuer": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "min_year": 1990,
+      "max_year": 1990,
+      "face": {
+        "value": 5000,
+        "unit": "Cruzeiros",
+        "text": "5000 Cruzeiros"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 210067,
+        "title": "5000 Cruzeiros (3rd edition; Provisional issue)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bresil",
+          "name": "Brazil"
+        },
+        "min_year": 1990,
+        "max_year": 1990,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/647777f177b313.13125436-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/647777f203f125.45038296-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 210070,
+      "title": "100 Cruzeiros Reais (Overprint on 100 000 Cruzeiros)",
+      "issuer": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "min_year": 1993,
+      "max_year": 1993,
+      "face": {
+        "value": 100,
+        "unit": "Cruzeiros Reais",
+        "text": "100 Cruzeiros Reais"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 210070,
+        "title": "100 Cruzeiros Reais (Overprint on 100 000 Cruzeiros)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bresil",
+          "name": "Brazil"
+        },
+        "min_year": 1993,
+        "max_year": 1993,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/64f07ceac84415.86645505-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/64f07cec44b409.73120684-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 210071,
+      "title": "5000 Cruzeiros Reais",
+      "issuer": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "min_year": 1993,
+      "max_year": 1993,
+      "face": {
+        "value": 5000,
+        "unit": "Cruzeiros Reais",
+        "text": "5000 Cruzeiros Reais"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 210071,
+        "title": "5000 Cruzeiros Reais",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bresil",
+          "name": "Brazil"
+        },
+        "min_year": 1993,
+        "max_year": 1993,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/6485dce3632101.43533351-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/6485dce3d40cb3.47169412-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 210494,
+      "title": "50 000 Cruzeiros Reais",
+      "issuer": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "min_year": 1994,
+      "max_year": 1994,
+      "face": {
+        "value": 50000,
+        "unit": "Cruzeiros Reais",
+        "text": "50000 Cruzeiros Reais"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 210494,
+        "title": "50 000 Cruzeiros Reais",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bresil",
+          "name": "Brazil"
+        },
+        "min_year": 1994,
+        "max_year": 1994,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/6485e55aa6f612.88694433-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/6485e55b33f608.42182060-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 210503,
+      "title": "50 Cruzeiros Reais (Overprint on 50 000 Cruzeiros)",
+      "issuer": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "min_year": 1993,
+      "max_year": 1993,
+      "face": {
+        "value": 50,
+        "unit": "Cruzeiros Reais",
+        "text": "50 Cruzeiros Reais"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 210503,
+        "title": "50 Cruzeiros Reais (Overprint on 50 000 Cruzeiros)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bresil",
+          "name": "Brazil"
+        },
+        "min_year": 1993,
+        "max_year": 1993,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/64f07df87b5960.99376331-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/5eae8be6913e59.75299300-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 210520,
+      "title": "500 000 Cruzeiros (3rd edition)",
+      "issuer": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "min_year": 1993,
+      "max_year": 1993,
+      "face": {
+        "value": 500000,
+        "unit": "Cruzeiros",
+        "text": "500000 Cruzeiros"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 210520,
+        "title": "500 000 Cruzeiros (3rd edition)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bresil",
+          "name": "Brazil"
+        },
+        "min_year": 1993,
+        "max_year": 1993,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/6550a27997a170.47481049-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/6550a27ba63582.96747497-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 211634,
+      "title": "10 Cruzeiros (Thesouro Nacional; 2nd print; \"Valor Recebido\")",
+      "issuer": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "min_year": 1953,
+      "max_year": 1960,
+      "face": {
+        "value": 10,
+        "unit": "Cruzeiros",
+        "text": "10 Cruzeiros"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 211634,
+        "title": "10 Cruzeiros (Thesouro Nacional; 2nd print; \"Valor Recebido\")",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bresil",
+          "name": "Brazil"
+        },
+        "min_year": 1953,
+        "max_year": 1960,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/64e21726a2baf0.62296689-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/64e217283262a5.13801085-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 211641,
+      "title": "10 Cruzeiros (Thesouro Nacional; 2nd print; \"Valor Legal\")",
+      "issuer": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "min_year": 1962,
+      "max_year": 1962,
+      "face": {
+        "value": 10,
+        "unit": "Cruzeiros",
+        "text": "10 Cruzeiros"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 211641,
+        "title": "10 Cruzeiros (Thesouro Nacional; 2nd print; \"Valor Legal\")",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bresil",
+          "name": "Brazil"
+        },
+        "min_year": 1962,
+        "max_year": 1962,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/63e64e831be0c7.61709644-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/63e64e86aa04a5.11704110-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 212215,
+      "title": "2 Reais (2nd. Family; Crane-AB)",
+      "issuer": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "min_year": 2016,
+      "max_year": 2016,
+      "face": {
+        "value": 2,
+        "unit": "Reais",
+        "text": "2 Reais"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 212215,
+        "title": "2 Reais (2nd. Family; Crane-AB)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bresil",
+          "name": "Brazil"
+        },
+        "min_year": 2016,
+        "max_year": 2016,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/64f09ee7be4c44.59119396-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/64f09ee99d3447.87941947-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 212393,
+      "title": "5000 Cruzeiros (Thesouro Nacional; 2nd print)",
+      "issuer": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "min_year": 1963,
+      "max_year": 1964,
+      "face": {
+        "value": 5000,
+        "unit": "Cruzeiros",
+        "text": "5000 Cruzeiros"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 212393,
+        "title": "5000 Cruzeiros (Thesouro Nacional; 2nd print)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bresil",
+          "name": "Brazil"
+        },
+        "min_year": 1963,
+        "max_year": 1964,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/64ef5f5ed4cfc7.08654884-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/64ef5f60aea055.53428371-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 212590,
+      "title": "1 Real (1st. Family; Stamp C; República Federativa do Brasil)",
+      "issuer": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "min_year": 2003,
+      "max_year": 2003,
+      "face": {
+        "value": 1,
+        "unit": "Real",
+        "text": "1 Real"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 212590,
+        "title": "1 Real (1st. Family; Stamp C; República Federativa do Brasil)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bresil",
+          "name": "Brazil"
+        },
+        "min_year": 2003,
+        "max_year": 2003,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/5eb4b6c2e98ea8.23244457-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/5eb4b6c3d1ca48.11456177-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 212656,
+      "title": "5 Reais (1st. Family; Stamp C; Watermark \"Flag\")",
+      "issuer": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "min_year": 1997,
+      "max_year": 2009,
+      "face": {
+        "value": 5,
+        "unit": "Reais",
+        "text": "5 Reais"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 212656,
+        "title": "5 Reais (1st. Family; Stamp C; Watermark \"Flag\")",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bresil",
+          "name": "Brazil"
+        },
+        "min_year": 1997,
+        "max_year": 2009,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/654f65212460f6.94308440-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/654f6522e98f80.97728497-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 212819,
+      "title": "100 Reais (1st. Family; Stamp A)",
+      "issuer": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "min_year": 1994,
+      "max_year": 2007,
+      "face": {
+        "value": 100,
+        "unit": "Reais",
+        "text": "100 Reais"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 212819,
+        "title": "100 Reais (1st. Family; Stamp A)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bresil",
+          "name": "Brazil"
+        },
+        "min_year": 1994,
+        "max_year": 2007,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/65509c51ef1a29.07798448-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/65509c53ede731.46784671-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 212851,
+      "title": "10 Cruzados (Overprint on 10 000 Cruzeiros)",
+      "issuer": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "min_year": 1986,
+      "max_year": 1986,
+      "face": {
+        "value": 10,
+        "unit": "Cruzados",
+        "text": "10 Cruzados"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 212851,
+        "title": "10 Cruzados (Overprint on 10 000 Cruzeiros)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bresil",
+          "name": "Brazil"
+        },
+        "min_year": 1986,
+        "max_year": 1986,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/64739e33371137.71661587-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/64739e33b25ea8.26602207-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 212853,
+      "title": "500 Cruzeiros (2 Edition; 1st Type; Stamp A)",
+      "issuer": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "min_year": 1972,
+      "max_year": 1974,
+      "face": {
+        "value": 500,
+        "unit": "Cruzeiros",
+        "text": "500 Cruzeiros"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 212853,
+        "title": "500 Cruzeiros (2 Edition; 1st Type; Stamp A)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "bresil",
+          "name": "Brazil"
+        },
+        "min_year": 1972,
+        "max_year": 1974,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/64ccd29c7d3513.11942698-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/64ccd29cd830c0.95880684-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 212988,
+      "title": "10 000 Cruzeiros Reais (trial)",
+      "issuer": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "min_year": 1993,
+      "max_year": 1993,
+      "face": {
+        "value": 10000,
+        "unit": "Cruzeiros Reais",
+        "text": "10000 Cruzeiros Reais"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 212988,
+        "title": "10 000 Cruzeiros Reais (trial)",
+        "object_type": {
+          "id": 89,
+          "name": "Banknote patterns and trials"
+        },
+        "issuer": {
+          "code": "bresil",
+          "name": "Brazil"
+        },
+        "min_year": 1993,
+        "max_year": 1993,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/5eb515147cd977.56277391-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/5eb51514c30e43.34665689-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 213150,
+      "title": "10 Cruzeiros Novos (Overprint on 10 000 Cruzeiros)",
+      "issuer": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "min_year": 1966,
+      "max_year": 1967,
+      "face": {
+        "value": 10,
+        "unit": "Cruzeiros Novos",
+        "text": "10 Cruzeiros Novos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 213150,
+        "title": "10 Cruzeiros Novos (Overprint on 10 000 Cruzeiros)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bresil",
+          "name": "Brazil"
+        },
+        "min_year": 1966,
+        "max_year": 1967,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/5ec1c8379cec11.39091360-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/5ec1c837cea853.84947836-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 213151,
+      "title": "10 Cruzeiros Novos (overprint on 10 000 Cruzeiros - 2nd print)",
+      "issuer": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "min_year": 1967,
+      "max_year": 1967,
+      "face": {
+        "value": 10,
+        "unit": "Cruzeiros Novos",
+        "text": "10 Cruzeiros Novos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 213151,
+        "title": "10 Cruzeiros Novos (overprint on 10 000 Cruzeiros - 2nd print)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bresil",
+          "name": "Brazil"
+        },
+        "min_year": 1967,
+        "max_year": 1967,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/5ec1c8905081a9.79896905-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/5ec1c8909b8005.74221189-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 214054,
+      "title": "10 Cruzeiros (Thesouro Nacional; 1st print; \"Valor Legal\")",
+      "issuer": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "min_year": 1961,
+      "max_year": 1963,
+      "face": {
+        "value": 10,
+        "unit": "Cruzeiros",
+        "text": "10 Cruzeiros"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 214054,
+        "title": "10 Cruzeiros (Thesouro Nacional; 1st print; \"Valor Legal\")",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bresil",
+          "name": "Brazil"
+        },
+        "min_year": 1961,
+        "max_year": 1963,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/5eb992c61c9e10.19687941-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/5eb992c69819b3.36557202-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 214636,
+      "title": "200 Cruzeiros (Thesouro Nacional; 2nd print)",
+      "issuer": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "min_year": 1960,
+      "max_year": 1960,
+      "face": {
+        "value": 200,
+        "unit": "Cruzeiros",
+        "text": "200 Cruzeiros"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 214636,
+        "title": "200 Cruzeiros (Thesouro Nacional; 2nd print)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bresil",
+          "name": "Brazil"
+        },
+        "min_year": 1960,
+        "max_year": 1960,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/64ef5a9a3be6a6.31333083-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/64ef5a9bc53314.97942899-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 214652,
+      "title": "1 Cruzeiro Novo (Overprint on 1000 Cruzeiros)",
+      "issuer": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "min_year": 1966,
+      "max_year": 1967,
+      "face": {
+        "value": 1,
+        "unit": "Cruzeiro Novo",
+        "text": "1 Cruzeiro Novo"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 214652,
+        "title": "1 Cruzeiro Novo (Overprint on 1000 Cruzeiros)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bresil",
+          "name": "Brazil"
+        },
+        "min_year": 1966,
+        "max_year": 1967,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/699f158b8cbca1.28363017-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/699f158d1edbf4.89915191-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 215128,
+      "title": "50 Cruzeiros (Thesouro Nacional; 2nd print; \"Valor Legal\")",
+      "issuer": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "min_year": 1963,
+      "max_year": 1963,
+      "face": {
+        "value": 50,
+        "unit": "Cruzeiros",
+        "text": "50 Cruzeiros"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 215128,
+        "title": "50 Cruzeiros (Thesouro Nacional; 2nd print; \"Valor Legal\")",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bresil",
+          "name": "Brazil"
+        },
+        "min_year": 1963,
+        "max_year": 1963,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/64cd522ff3bd46.85705880-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/64cd52317ba0a5.94122607-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 215698,
+      "title": "5 Cruzeiros Novos (Overprint on 5000 Cruzeiros)",
+      "issuer": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "min_year": 1966,
+      "max_year": 1967,
+      "face": {
+        "value": 5,
+        "unit": "Cruzeiros Novos",
+        "text": "5 Cruzeiros Novos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 215698,
+        "title": "5 Cruzeiros Novos (Overprint on 5000 Cruzeiros)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bresil",
+          "name": "Brazil"
+        },
+        "min_year": 1966,
+        "max_year": 1967,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/5ec1c7d0e63d67.68080936-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/5ec1c7d149d899.13390128-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 215739,
+      "title": "500 Cruzeiros (2 Edition; 1st Type; Stamp B)",
+      "issuer": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "min_year": 1979,
+      "max_year": 1980,
+      "face": {
+        "value": 500,
+        "unit": "Cruzeiros",
+        "text": "500 Cruzeiros"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 215739,
+        "title": "500 Cruzeiros (2 Edition; 1st Type; Stamp B)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "bresil",
+          "name": "Brazil"
+        },
+        "min_year": 1979,
+        "max_year": 1980,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/5ec2058e950917.31190868-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/5ec2058ee67ad4.89400958-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 216000,
+      "title": "1000 Cruzeiros (2nd Edition; 2nd Type; Stamp A)",
+      "issuer": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "min_year": 1978,
+      "max_year": 1980,
+      "face": {
+        "value": 1000,
+        "unit": "Cruzeiros",
+        "text": "1000 Cruzeiros"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 216000,
+        "title": "1000 Cruzeiros (2nd Edition; 2nd Type; Stamp A)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bresil",
+          "name": "Brazil"
+        },
+        "min_year": 1978,
+        "max_year": 1980,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/64777b9dc9f3f9.13960240-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/64777b9e3c9645.20910431-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 216994,
+      "title": "20 Cruzeiros (Thesouro Nacional; 2nd print; \"Valor Recebido\")",
+      "issuer": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "min_year": 1955,
+      "max_year": 1960,
+      "face": {
+        "value": 20,
+        "unit": "Cruzeiros",
+        "text": "20 Cruzeiros"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 216994,
+        "title": "20 Cruzeiros (Thesouro Nacional; 2nd print; \"Valor Recebido\")",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bresil",
+          "name": "Brazil"
+        },
+        "min_year": 1955,
+        "max_year": 1960,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/6479b5fa7d1cb9.15352210-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/6479b5fad8b909.66533553-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 217041,
+      "title": "50 Cruzeiros (Thesouro Nacional; 2nd print; \"Valor Recebido\")",
+      "issuer": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "min_year": 1954,
+      "max_year": 1960,
+      "face": {
+        "value": 50,
+        "unit": "Cruzeiros",
+        "text": "50 Cruzeiros"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 217041,
+        "title": "50 Cruzeiros (Thesouro Nacional; 2nd print; \"Valor Recebido\")",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bresil",
+          "name": "Brazil"
+        },
+        "min_year": 1954,
+        "max_year": 1960,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/64738b31c42072.93290153-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/6495c15d9846f0.96790698-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 217636,
+      "title": "500 Cruzeiros (Thesouro Nacional; 2nd print)",
+      "issuer": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "min_year": 1955,
+      "max_year": 1960,
+      "face": {
+        "value": 500,
+        "unit": "Cruzeiros",
+        "text": "500 Cruzeiros"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 217636,
+        "title": "500 Cruzeiros (Thesouro Nacional; 2nd print)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bresil",
+          "name": "Brazil"
+        },
+        "min_year": 1955,
+        "max_year": 1960,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/64ef5bf132c1e9.31112998-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/64ef5bf32f3072.13017053-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 235384,
+      "title": "200 Reais (2nd. Family)",
+      "issuer": {
+        "code": "bresil",
+        "name": "Brazil"
+      },
+      "min_year": 2020,
+      "max_year": 2020,
+      "face": {
+        "value": 200,
+        "unit": "Reais",
+        "text": "200 Reais"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 235384,
+        "title": "200 Reais (2nd. Family)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bresil",
+          "name": "Brazil"
+        },
+        "min_year": 2020,
+        "max_year": 2020,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/64d763f1e6db86.02685006-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bresil/64d763f39531e0.99234697-180.jpg",
+        "category": "banknote"
+      }
+    }
+  ]
+}

@@ -1,0 +1,4206 @@
+{
+  "meta": {
+    "generated_at": "2026-10-29T13:27:58.752Z",
+    "fixture": false,
+    "api": "numista v3",
+    "issuer": "philippines",
+    "iso": "PH",
+    "category": "banknote",
+    "lang": "en",
+    "since": 1960,
+    "listed": 267,
+    "fetched": 113,
+    "details_fetched": 0,
+    "dropped_before_since": 154,
+    "dropped_by_source": {
+      "list": 154,
+      "detail": 0
+    },
+    "issuer_mismatches": 0,
+    "pages": 6,
+    "requests": 0
+  },
+  "types": [
+    {
+      "numista_type_id": 202153,
+      "title": "20 Piso (Seal type 6; without tactile marks)",
+      "issuer": {
+        "code": "philippines",
+        "name": "Philippines"
+      },
+      "min_year": 2010,
+      "max_year": 2022,
+      "face": {
+        "value": 20,
+        "unit": "Piso",
+        "text": "20 Piso"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202153,
+        "title": "20 Piso (Seal type 6; without tactile marks)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "philippines",
+          "name": "Philippines"
+        },
+        "min_year": 2010,
+        "max_year": 2022,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/626c56e0c26f45.85129711-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/626c56e15bc792.92892749-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202539,
+      "title": "1 Peso",
+      "issuer": {
+        "code": "philippines",
+        "name": "Philippines"
+      },
+      "min_year": 1951,
+      "max_year": 1970,
+      "face": {
+        "value": 1,
+        "unit": "Peso",
+        "text": "1 Peso"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202539,
+        "title": "1 Peso",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "philippines",
+          "name": "Philippines"
+        },
+        "min_year": 1951,
+        "max_year": 1970,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/6a130f05b35a24.30482642-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/6a130f06414d36.35205994-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202944,
+      "title": "1 Piso (Seal type 3; White border)",
+      "issuer": {
+        "code": "philippines",
+        "name": "Philippines"
+      },
+      "min_year": 1969,
+      "max_year": 1969,
+      "face": {
+        "value": 1,
+        "unit": "Piso",
+        "text": "1 Piso"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202944,
+        "title": "1 Piso (Seal type 3; White border)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "philippines",
+          "name": "Philippines"
+        },
+        "min_year": 1969,
+        "max_year": 1969,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/6a132ef974c1b2.12491639-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/6a132efa033571.46637355-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202950,
+      "title": "50 Piso (Sergio Osmeña)",
+      "issuer": {
+        "code": "philippines",
+        "name": "Philippines"
+      },
+      "min_year": 1978,
+      "max_year": 1978,
+      "face": {
+        "value": 50,
+        "unit": "Piso",
+        "text": "50 Piso"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202950,
+        "title": "50 Piso (Sergio Osmeña)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "philippines",
+          "name": "Philippines"
+        },
+        "min_year": 1978,
+        "max_year": 1978,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/6819e947c701f3.14006729-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/6819e94842f964.81997244-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202990,
+      "title": "200 Piso (Seal type 6; Barasoain church)",
+      "issuer": {
+        "code": "philippines",
+        "name": "Philippines"
+      },
+      "min_year": 2010,
+      "max_year": 2017,
+      "face": {
+        "value": 200,
+        "unit": "Piso",
+        "text": "200 Piso"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202990,
+        "title": "200 Piso (Seal type 6; Barasoain church)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "philippines",
+          "name": "Philippines"
+        },
+        "min_year": 2010,
+        "max_year": 2017,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/62efd24f5c4547.11425817-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/62efd24fe7fbe5.81776037-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203201,
+      "title": "20 Piso (Seal type 5)",
+      "issuer": {
+        "code": "philippines",
+        "name": "Philippines"
+      },
+      "min_year": 1997,
+      "max_year": 2012,
+      "face": {
+        "value": 20,
+        "unit": "Piso",
+        "text": "20 Piso"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203201,
+        "title": "20 Piso (Seal type 5)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "philippines",
+          "name": "Philippines"
+        },
+        "min_year": 1997,
+        "max_year": 2012,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/5e987100b0ebf0.58192228-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/6a1354fabd5f07.77788048-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203333,
+      "title": "50 Piso (Seal type 6; without tactile marks)",
+      "issuer": {
+        "code": "philippines",
+        "name": "Philippines"
+      },
+      "min_year": 2010,
+      "max_year": 2021,
+      "face": {
+        "value": 50,
+        "unit": "Piso",
+        "text": "50 Piso"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203333,
+        "title": "50 Piso (Seal type 6; without tactile marks)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "philippines",
+          "name": "Philippines"
+        },
+        "min_year": 2010,
+        "max_year": 2021,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/5e9fe9f2da5dc5.54441924-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/5e9fe9f9d07c41.29313837-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204432,
+      "title": "1000 Piso (Seal type 6; without tactile marks)",
+      "issuer": {
+        "code": "philippines",
+        "name": "Philippines"
+      },
+      "min_year": 2010,
+      "max_year": 2021,
+      "face": {
+        "value": 1000,
+        "unit": "Piso",
+        "text": "1000 Piso"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204432,
+        "title": "1000 Piso (Seal type 6; without tactile marks)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "philippines",
+          "name": "Philippines"
+        },
+        "min_year": 2010,
+        "max_year": 2021,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/5ea59e2087f8b5.91520374-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/5ea59e21457338.76639940-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204782,
+      "title": "500 Piso (Seal type 6; without tactile marks)",
+      "issuer": {
+        "code": "philippines",
+        "name": "Philippines"
+      },
+      "min_year": 2010,
+      "max_year": 2020,
+      "face": {
+        "value": 500,
+        "unit": "Piso",
+        "text": "500 Piso"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204782,
+        "title": "500 Piso (Seal type 6; without tactile marks)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "philippines",
+          "name": "Philippines"
+        },
+        "min_year": 2010,
+        "max_year": 2020,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/5ea59e4def30d6.59557638-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/5ea59e4e992db4.60741527-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204883,
+      "title": "20 Piso (Seal type 4)",
+      "issuer": {
+        "code": "philippines",
+        "name": "Philippines"
+      },
+      "min_year": 1986,
+      "max_year": 1993,
+      "face": {
+        "value": 20,
+        "unit": "Piso",
+        "text": "20 Piso"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204883,
+        "title": "20 Piso (Seal type 4)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "philippines",
+          "name": "Philippines"
+        },
+        "min_year": 1986,
+        "max_year": 1993,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/5e9cb8e07779c5.93780086-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/5e9cb8e1b09ae4.61380165-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205005,
+      "title": "2 Piso (Ang Bagong Lipunan; Seal type 3)",
+      "issuer": {
+        "code": "philippines",
+        "name": "Philippines"
+      },
+      "min_year": 1973,
+      "max_year": 1978,
+      "face": {
+        "value": 2,
+        "unit": "Piso",
+        "text": "2 Piso"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205005,
+        "title": "2 Piso (Ang Bagong Lipunan; Seal type 3)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "philippines",
+          "name": "Philippines"
+        },
+        "min_year": 1973,
+        "max_year": 1978,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/674d344ebff618.39441400-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/674d34504f7d62.77384847-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205015,
+      "title": "5 Piso (Ang Bagong Lipunan; Seal type 4)",
+      "issuer": {
+        "code": "philippines",
+        "name": "Philippines"
+      },
+      "min_year": 1978,
+      "max_year": 1985,
+      "face": {
+        "value": 5,
+        "unit": "Piso",
+        "text": "5 Piso"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205015,
+        "title": "5 Piso (Ang Bagong Lipunan; Seal type 4)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "philippines",
+          "name": "Philippines"
+        },
+        "min_year": 1978,
+        "max_year": 1985,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/63f7975e36a8c2.72209489-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/63f79761e38677.61722750-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205296,
+      "title": "100 Piso (Seal type 6; light purple; without tactile marks)",
+      "issuer": {
+        "code": "philippines",
+        "name": "Philippines"
+      },
+      "min_year": 2010,
+      "max_year": 2015,
+      "face": {
+        "value": 100,
+        "unit": "Piso",
+        "text": "100 Piso"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205296,
+        "title": "100 Piso (Seal type 6; light purple; without tactile marks)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "philippines",
+          "name": "Philippines"
+        },
+        "min_year": 2010,
+        "max_year": 2015,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/62ea929fc3faa4.65003138-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/62ea92a0212593.24171154-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205311,
+      "title": "100 Piso (Seal type 6; without tactile marks)",
+      "issuer": {
+        "code": "philippines",
+        "name": "Philippines"
+      },
+      "min_year": 2014,
+      "max_year": 2022,
+      "face": {
+        "value": 100,
+        "unit": "Piso",
+        "text": "100 Piso"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205311,
+        "title": "100 Piso (Seal type 6; without tactile marks)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "philippines",
+          "name": "Philippines"
+        },
+        "min_year": 2014,
+        "max_year": 2022,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/62f2506be0ebf8.96668608-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/62f2506cace594.69060764-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205600,
+      "title": "20 Piso (Central Banking)",
+      "issuer": {
+        "code": "philippines",
+        "name": "Philippines"
+      },
+      "min_year": 2009,
+      "max_year": 2009,
+      "face": {
+        "value": 20,
+        "unit": "Piso",
+        "text": "20 Piso"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205600,
+        "title": "20 Piso (Central Banking)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "philippines",
+          "name": "Philippines"
+        },
+        "min_year": 2009,
+        "max_year": 2009,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/6817078ce9ca23.32166317-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/68170790dc1475.38120029-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205999,
+      "title": "5 Piso (Seal type 4)",
+      "issuer": {
+        "code": "philippines",
+        "name": "Philippines"
+      },
+      "min_year": 1985,
+      "max_year": 1993,
+      "face": {
+        "value": 5,
+        "unit": "Piso",
+        "text": "5 Piso"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205999,
+        "title": "5 Piso (Seal type 4)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "philippines",
+          "name": "Philippines"
+        },
+        "min_year": 1985,
+        "max_year": 1993,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/67e4bcba0d6280.15528834-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/67e4bcbb61a3e6.09187312-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206353,
+      "title": "20 Pesos",
+      "issuer": {
+        "code": "philippines",
+        "name": "Philippines"
+      },
+      "min_year": 1951,
+      "max_year": 1970,
+      "face": {
+        "value": 20,
+        "unit": "Pesos",
+        "text": "20 Pesos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206353,
+        "title": "20 Pesos",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "philippines",
+          "name": "Philippines"
+        },
+        "min_year": 1951,
+        "max_year": 1970,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/637a66f417a9d2.67409013-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/637a66f4798fc3.58724707-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206365,
+      "title": "50 Pesos",
+      "issuer": {
+        "code": "philippines",
+        "name": "Philippines"
+      },
+      "min_year": 1951,
+      "max_year": 1962,
+      "face": {
+        "value": 50,
+        "unit": "Pesos",
+        "text": "50 Pesos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206365,
+        "title": "50 Pesos",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "philippines",
+          "name": "Philippines"
+        },
+        "min_year": 1951,
+        "max_year": 1962,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/5ea074a8906b15.47979196-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/6a1315af4bdca5.24201016-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206426,
+      "title": "2 Piso (Papal Visit)",
+      "issuer": {
+        "code": "philippines",
+        "name": "Philippines"
+      },
+      "min_year": 1981,
+      "max_year": 1981,
+      "face": {
+        "value": 2,
+        "unit": "Piso",
+        "text": "2 Piso"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206426,
+        "title": "2 Piso (Papal Visit)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "philippines",
+          "name": "Philippines"
+        },
+        "min_year": 1981,
+        "max_year": 1981,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/6a0ae891a25e85.48902143-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/6a0ae89449b034.80232841-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206450,
+      "title": "100 Piso (Ang Bagong Lipunan; Seal type 4)",
+      "issuer": {
+        "code": "philippines",
+        "name": "Philippines"
+      },
+      "min_year": 1978,
+      "max_year": 1985,
+      "face": {
+        "value": 100,
+        "unit": "Piso",
+        "text": "100 Piso"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206450,
+        "title": "100 Piso (Ang Bagong Lipunan; Seal type 4)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "philippines",
+          "name": "Philippines"
+        },
+        "min_year": 1978,
+        "max_year": 1985,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/5ea098e3c932e4.83310122-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/5ea098e5618ca1.04525848-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206462,
+      "title": "50 Piso (Ang Bagong Lipunan; Seal type 3)",
+      "issuer": {
+        "code": "philippines",
+        "name": "Philippines"
+      },
+      "min_year": 1973,
+      "max_year": 1979,
+      "face": {
+        "value": 50,
+        "unit": "Piso",
+        "text": "50 Piso"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206462,
+        "title": "50 Piso (Ang Bagong Lipunan; Seal type 3)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "philippines",
+          "name": "Philippines"
+        },
+        "min_year": 1973,
+        "max_year": 1979,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/6a133783a62b64.70469253-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/6a13378436da98.57024888-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206465,
+      "title": "50 Piso (Ang Bagong Lipunan; Seal type 4)",
+      "issuer": {
+        "code": "philippines",
+        "name": "Philippines"
+      },
+      "min_year": 1978,
+      "max_year": 1985,
+      "face": {
+        "value": 50,
+        "unit": "Piso",
+        "text": "50 Piso"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206465,
+        "title": "50 Piso (Ang Bagong Lipunan; Seal type 4)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "philippines",
+          "name": "Philippines"
+        },
+        "min_year": 1978,
+        "max_year": 1985,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/5ea0a38430fad4.99331265-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/5ea0a385899b49.97552060-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206554,
+      "title": "10 Piso (Seal type 4)",
+      "issuer": {
+        "code": "philippines",
+        "name": "Philippines"
+      },
+      "min_year": 1985,
+      "max_year": 1993,
+      "face": {
+        "value": 10,
+        "unit": "Piso",
+        "text": "10 Piso"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206554,
+        "title": "10 Piso (Seal type 4)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "philippines",
+          "name": "Philippines"
+        },
+        "min_year": 1985,
+        "max_year": 1993,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/6a134af6cb0745.82594567-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/6a134af798dde4.44118449-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206914,
+      "title": "200 Piso (Seal type 6; without tactile marks)",
+      "issuer": {
+        "code": "philippines",
+        "name": "Philippines"
+      },
+      "min_year": 2019,
+      "max_year": 2020,
+      "face": {
+        "value": 200,
+        "unit": "Piso",
+        "text": "200 Piso"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206914,
+        "title": "200 Piso (Seal type 6; without tactile marks)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "philippines",
+          "name": "Philippines"
+        },
+        "min_year": 2019,
+        "max_year": 2020,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/62efd289e13c96.15015151-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/62efd28a5c8f31.09379293-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 207004,
+      "title": "500 Piso (Asian Development Bank)",
+      "issuer": {
+        "code": "philippines",
+        "name": "Philippines"
+      },
+      "min_year": 2012,
+      "max_year": 2012,
+      "face": {
+        "value": 500,
+        "unit": "Piso",
+        "text": "500 Piso"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 207004,
+        "title": "500 Piso (Asian Development Bank)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "philippines",
+          "name": "Philippines"
+        },
+        "min_year": 2012,
+        "max_year": 2012,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/5ea285473598b1.85634948-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/5ea28547d57e43.07465777-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 207338,
+      "title": "5 Piso (Seal type 5)",
+      "issuer": {
+        "code": "philippines",
+        "name": "Philippines"
+      },
+      "min_year": 1995,
+      "max_year": 1997,
+      "face": {
+        "value": 5,
+        "unit": "Piso",
+        "text": "5 Piso"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 207338,
+        "title": "5 Piso (Seal type 5)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "philippines",
+          "name": "Philippines"
+        },
+        "min_year": 1995,
+        "max_year": 1997,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/5ea3826d65b3c5.99791521-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/5ea3826ede4413.00711188-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 207718,
+      "title": "20 Piso (Seal type 2; White border)",
+      "issuer": {
+        "code": "philippines",
+        "name": "Philippines"
+      },
+      "min_year": 1969,
+      "max_year": 1969,
+      "face": {
+        "value": 20,
+        "unit": "Piso",
+        "text": "20 Piso"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 207718,
+        "title": "20 Piso (Seal type 2; White border)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "philippines",
+          "name": "Philippines"
+        },
+        "min_year": 1969,
+        "max_year": 1969,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/60a32b8b542f12.55137212-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/60a32b8ba3f992.18129546-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 207720,
+      "title": "20 Piso (Seal type 3; Without border)",
+      "issuer": {
+        "code": "philippines",
+        "name": "Philippines"
+      },
+      "min_year": 1972,
+      "max_year": 1972,
+      "face": {
+        "value": 20,
+        "unit": "Piso",
+        "text": "20 Piso"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 207720,
+        "title": "20 Piso (Seal type 3; Without border)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "philippines",
+          "name": "Philippines"
+        },
+        "min_year": 1972,
+        "max_year": 1972,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/65d7ce5c4524c6.94367773-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/65d7ce5e167589.68399073-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 207725,
+      "title": "20 Piso (Ang Bagong Lipunan; Seal type 4)",
+      "issuer": {
+        "code": "philippines",
+        "name": "Philippines"
+      },
+      "min_year": 1978,
+      "max_year": 1985,
+      "face": {
+        "value": 20,
+        "unit": "Piso",
+        "text": "20 Piso"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 207725,
+        "title": "20 Piso (Ang Bagong Lipunan; Seal type 4)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "philippines",
+          "name": "Philippines"
+        },
+        "min_year": 1978,
+        "max_year": 1985,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/63f797bf52fbe2.14648770-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/63f797c3200346.86476006-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 207730,
+      "title": "10 Piso (Marcos Inauguration)",
+      "issuer": {
+        "code": "philippines",
+        "name": "Philippines"
+      },
+      "min_year": 1981,
+      "max_year": 1981,
+      "face": {
+        "value": 10,
+        "unit": "Piso",
+        "text": "10 Piso"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 207730,
+        "title": "10 Piso (Marcos Inauguration)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "philippines",
+          "name": "Philippines"
+        },
+        "min_year": 1981,
+        "max_year": 1981,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/626c56a64810b0.18240941-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/626c56a6ddb3c2.97369066-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 208010,
+      "title": "10 Piso (Ang Bagong Lipunan; Seal type 4)",
+      "issuer": {
+        "code": "philippines",
+        "name": "Philippines"
+      },
+      "min_year": 1978,
+      "max_year": 1985,
+      "face": {
+        "value": 10,
+        "unit": "Piso",
+        "text": "10 Piso"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 208010,
+        "title": "10 Piso (Ang Bagong Lipunan; Seal type 4)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "philippines",
+          "name": "Philippines"
+        },
+        "min_year": 1978,
+        "max_year": 1985,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/63f7979ccb6313.25444443-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/63f797a0871026.49912330-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 208016,
+      "title": "10 Piso (Seal type 2; White border)",
+      "issuer": {
+        "code": "philippines",
+        "name": "Philippines"
+      },
+      "min_year": 1969,
+      "max_year": 1969,
+      "face": {
+        "value": 10,
+        "unit": "Piso",
+        "text": "10 Piso"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 208016,
+        "title": "10 Piso (Seal type 2; White border)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "philippines",
+          "name": "Philippines"
+        },
+        "min_year": 1969,
+        "max_year": 1969,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/681956672520d2.63600243-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/681956678bc9b9.07973342-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 208019,
+      "title": "10 Piso (Ang Bagong Lipunan; Seal type 3)",
+      "issuer": {
+        "code": "philippines",
+        "name": "Philippines"
+      },
+      "min_year": 1973,
+      "max_year": 1985,
+      "face": {
+        "value": 10,
+        "unit": "Piso",
+        "text": "10 Piso"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 208019,
+        "title": "10 Piso (Ang Bagong Lipunan; Seal type 3)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "philippines",
+          "name": "Philippines"
+        },
+        "min_year": 1973,
+        "max_year": 1985,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/624e9371a93a40.29294034-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/624e9372497de3.50082081-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 208038,
+      "title": "5 Piso (Seal type 3; Without border)",
+      "issuer": {
+        "code": "philippines",
+        "name": "Philippines"
+      },
+      "min_year": 1972,
+      "max_year": 1972,
+      "face": {
+        "value": 5,
+        "unit": "Piso",
+        "text": "5 Piso"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 208038,
+        "title": "5 Piso (Seal type 3; Without border)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "philippines",
+          "name": "Philippines"
+        },
+        "min_year": 1972,
+        "max_year": 1972,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/5ea6185bbe2f64.30255230-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/5ea6185d5bc4c6.79207133-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 208041,
+      "title": "5 Piso (Seal type 2; White border)",
+      "issuer": {
+        "code": "philippines",
+        "name": "Philippines"
+      },
+      "min_year": 1969,
+      "max_year": 1969,
+      "face": {
+        "value": 5,
+        "unit": "Piso",
+        "text": "5 Piso"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 208041,
+        "title": "5 Piso (Seal type 2; White border)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "philippines",
+          "name": "Philippines"
+        },
+        "min_year": 1969,
+        "max_year": 1969,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/68192120b0db05.64150032-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/681921211979d3.91726986-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 208056,
+      "title": "100 000 Piso (Philippine Centennial)",
+      "issuer": {
+        "code": "philippines",
+        "name": "Philippines"
+      },
+      "min_year": 1998,
+      "max_year": 2001,
+      "face": {
+        "value": 100000,
+        "unit": "Piso",
+        "text": "100000 Piso"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 208056,
+        "title": "100 000 Piso (Philippine Centennial)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "philippines",
+          "name": "Philippines"
+        },
+        "min_year": 1998,
+        "max_year": 2001,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/68191e202c2cb1.78811766-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/68191e20a86b93.92210368-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 209118,
+      "title": "50 Piso (Seal type 5; National Museum)",
+      "issuer": {
+        "code": "philippines",
+        "name": "Philippines"
+      },
+      "min_year": 2001,
+      "max_year": 2013,
+      "face": {
+        "value": 50,
+        "unit": "Piso",
+        "text": "50 Piso"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 209118,
+        "title": "50 Piso (Seal type 5; National Museum)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "philippines",
+          "name": "Philippines"
+        },
+        "min_year": 2001,
+        "max_year": 2013,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/5ea98295663086.85846153-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/5ea982973dbfc9.21347300-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 209130,
+      "title": "10 Piso (Seal type 5; two portraits on observe)",
+      "issuer": {
+        "code": "philippines",
+        "name": "Philippines"
+      },
+      "min_year": 1997,
+      "max_year": 2001,
+      "face": {
+        "value": 10,
+        "unit": "Piso",
+        "text": "10 Piso"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 209130,
+        "title": "10 Piso (Seal type 5; two portraits on observe)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "philippines",
+          "name": "Philippines"
+        },
+        "min_year": 1997,
+        "max_year": 2001,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/5ea986c2947f50.51139323-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/5ea986c4b45420.61302418-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 209516,
+      "title": "200 Piso (Seal type 5; with segmented security thread)",
+      "issuer": {
+        "code": "philippines",
+        "name": "Philippines"
+      },
+      "min_year": 2002,
+      "max_year": 2013,
+      "face": {
+        "value": 200,
+        "unit": "Piso",
+        "text": "200 Piso"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 209516,
+        "title": "200 Piso (Seal type 5; with segmented security thread)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "philippines",
+          "name": "Philippines"
+        },
+        "min_year": 2002,
+        "max_year": 2013,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/67589ff7656fd0.82788304-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/67589ff7e5a4f1.66235919-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 209525,
+      "title": "100 Piso (Seal type 5; with segmented security thread)",
+      "issuer": {
+        "code": "philippines",
+        "name": "Philippines"
+      },
+      "min_year": 2001,
+      "max_year": 2013,
+      "face": {
+        "value": 100,
+        "unit": "Piso",
+        "text": "100 Piso"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 209525,
+        "title": "100 Piso (Seal type 5; with segmented security thread)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "philippines",
+          "name": "Philippines"
+        },
+        "min_year": 2001,
+        "max_year": 2013,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/69b51e3d5763f1.61228501-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/69b51e3f757081.31235434-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 210258,
+      "title": "2 Piso (Ang Bagong Lipunan; Seal type 4)",
+      "issuer": {
+        "code": "philippines",
+        "name": "Philippines"
+      },
+      "min_year": 1978,
+      "max_year": 1983,
+      "face": {
+        "value": 2,
+        "unit": "Piso",
+        "text": "2 Piso"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 210258,
+        "title": "2 Piso (Ang Bagong Lipunan; Seal type 4)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "philippines",
+          "name": "Philippines"
+        },
+        "min_year": 1978,
+        "max_year": 1983,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/63f7973279fab1.64492664-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/63f7973635afa5.19032519-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 211300,
+      "title": "5 Pesos",
+      "issuer": {
+        "code": "philippines",
+        "name": "Philippines"
+      },
+      "min_year": 1951,
+      "max_year": 1970,
+      "face": {
+        "value": 5,
+        "unit": "Pesos",
+        "text": "5 Pesos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 211300,
+        "title": "5 Pesos",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "philippines",
+          "name": "Philippines"
+        },
+        "min_year": 1951,
+        "max_year": 1970,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/66c99b40749380.07644256-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/66c99b4264c336.07517011-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 211327,
+      "title": "100 Piso (Shell Oil)",
+      "issuer": {
+        "code": "philippines",
+        "name": "Philippines"
+      },
+      "min_year": 2013,
+      "max_year": 2013,
+      "face": {
+        "value": 100,
+        "unit": "Piso",
+        "text": "100 Piso"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 211327,
+        "title": "100 Piso (Shell Oil)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "philippines",
+          "name": "Philippines"
+        },
+        "min_year": 2013,
+        "max_year": 2013,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/5ec2d33c76ee38.74741284-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/5ec2d33ca26e03.08985691-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 211810,
+      "title": "1000 Piso (Seal type 4)",
+      "issuer": {
+        "code": "philippines",
+        "name": "Philippines"
+      },
+      "min_year": 1991,
+      "max_year": 1994,
+      "face": {
+        "value": 1000,
+        "unit": "Piso",
+        "text": "1000 Piso"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 211810,
+        "title": "1000 Piso (Seal type 4)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "philippines",
+          "name": "Philippines"
+        },
+        "min_year": 1991,
+        "max_year": 1994,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/681a94bc49e1f0.60717806-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/681a94bd3fa305.55920266-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 212098,
+      "title": "500 Piso (Seal type 4)",
+      "issuer": {
+        "code": "philippines",
+        "name": "Philippines"
+      },
+      "min_year": 1987,
+      "max_year": 1993,
+      "face": {
+        "value": 500,
+        "unit": "Piso",
+        "text": "500 Piso"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 212098,
+        "title": "500 Piso (Seal type 4)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "philippines",
+          "name": "Philippines"
+        },
+        "min_year": 1987,
+        "max_year": 1993,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/681a955b0b3de1.40717981-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/681a955b668609.57159105-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 212495,
+      "title": "10 Piso (Seal type 5; one portrait on observe)",
+      "issuer": {
+        "code": "philippines",
+        "name": "Philippines"
+      },
+      "min_year": 1995,
+      "max_year": 1997,
+      "face": {
+        "value": 10,
+        "unit": "Piso",
+        "text": "10 Piso"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 212495,
+        "title": "10 Piso (Seal type 5; one portrait on observe)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "philippines",
+          "name": "Philippines"
+        },
+        "min_year": 1995,
+        "max_year": 1997,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/6a1c2e96eef8d1.35876384-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/6a1c2e97b1f273.46236181-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 212503,
+      "title": "50 Piso (Bangko Sentral ng Pilipinas)",
+      "issuer": {
+        "code": "philippines",
+        "name": "Philippines"
+      },
+      "min_year": 1999,
+      "max_year": 1999,
+      "face": {
+        "value": 50,
+        "unit": "Piso",
+        "text": "50 Piso"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 212503,
+        "title": "50 Piso (Bangko Sentral ng Pilipinas)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "philippines",
+          "name": "Philippines"
+        },
+        "min_year": 1999,
+        "max_year": 1999,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/5ed56f50009c32.73530143-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/5ed56f5032dc18.57739614-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 213178,
+      "title": "2 Pesos",
+      "issuer": {
+        "code": "philippines",
+        "name": "Philippines"
+      },
+      "min_year": 1951,
+      "max_year": 1965,
+      "face": {
+        "value": 2,
+        "unit": "Pesos",
+        "text": "2 Pesos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 213178,
+        "title": "2 Pesos",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "philippines",
+          "name": "Philippines"
+        },
+        "min_year": 1951,
+        "max_year": 1965,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/62ea907cbbe494.51418235-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/62ea907d1d5198.40334080-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 213181,
+      "title": "10 Pesos",
+      "issuer": {
+        "code": "philippines",
+        "name": "Philippines"
+      },
+      "min_year": 1951,
+      "max_year": 1970,
+      "face": {
+        "value": 10,
+        "unit": "Pesos",
+        "text": "10 Pesos"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 213181,
+        "title": "10 Pesos",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "philippines",
+          "name": "Philippines"
+        },
+        "min_year": 1951,
+        "max_year": 1970,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/6a1312aa853a39.65557435-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/6a1312ac132ef3.25390210-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 213211,
+      "title": "5 Piso (Lorenzo Ruiz)",
+      "issuer": {
+        "code": "philippines",
+        "name": "Philippines"
+      },
+      "min_year": 1987,
+      "max_year": 1987,
+      "face": {
+        "value": 5,
+        "unit": "Piso",
+        "text": "5 Piso"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 213211,
+        "title": "5 Piso (Lorenzo Ruiz)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "philippines",
+          "name": "Philippines"
+        },
+        "min_year": 1987,
+        "max_year": 1987,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/5eb5d0a046e8e8.88016203-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/5eb5d0a0d15463.94319892-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 213212,
+      "title": "5 Piso (Central Bank)",
+      "issuer": {
+        "code": "philippines",
+        "name": "Philippines"
+      },
+      "min_year": 1989,
+      "max_year": 1989,
+      "face": {
+        "value": 5,
+        "unit": "Piso",
+        "text": "5 Piso"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 213212,
+        "title": "5 Piso (Central Bank)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "philippines",
+          "name": "Philippines"
+        },
+        "min_year": 1989,
+        "max_year": 1989,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/5eb5d19c8e7295.92033570-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/5eb5d19d2c2db5.63079460-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 213214,
+      "title": "5 Piso (Women for Development)",
+      "issuer": {
+        "code": "philippines",
+        "name": "Philippines"
+      },
+      "min_year": 1990,
+      "max_year": 1990,
+      "face": {
+        "value": 5,
+        "unit": "Piso",
+        "text": "5 Piso"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 213214,
+        "title": "5 Piso (Women for Development)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "philippines",
+          "name": "Philippines"
+        },
+        "min_year": 1990,
+        "max_year": 1990,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/5eb5d30359b850.14072132-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/5eb5d303dc23d9.34524850-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 213217,
+      "title": "50 Piso (Seal type 3; White border)",
+      "issuer": {
+        "code": "philippines",
+        "name": "Philippines"
+      },
+      "min_year": 1969,
+      "max_year": 1969,
+      "face": {
+        "value": 50,
+        "unit": "Piso",
+        "text": "50 Piso"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 213217,
+        "title": "50 Piso (Seal type 3; White border)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "philippines",
+          "name": "Philippines"
+        },
+        "min_year": 1969,
+        "max_year": 1969,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/5eb5db00b98fa0.49778468-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/5eb5db013e8168.04519441-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 213221,
+      "title": "50 Piso (Seal type 5; Executive House)",
+      "issuer": {
+        "code": "philippines",
+        "name": "Philippines"
+      },
+      "min_year": 1995,
+      "max_year": 2001,
+      "face": {
+        "value": 50,
+        "unit": "Piso",
+        "text": "50 Piso"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 213221,
+        "title": "50 Piso (Seal type 5; Executive House)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "philippines",
+          "name": "Philippines"
+        },
+        "min_year": 1995,
+        "max_year": 2001,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/5eb5df5a9bd358.01532769-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/5eb5df5b3f6388.93329537-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 213224,
+      "title": "100 Piso (Seal type 3; White border)",
+      "issuer": {
+        "code": "philippines",
+        "name": "Philippines"
+      },
+      "min_year": 1969,
+      "max_year": 1969,
+      "face": {
+        "value": 100,
+        "unit": "Piso",
+        "text": "100 Piso"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 213224,
+        "title": "100 Piso (Seal type 3; White border)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "philippines",
+          "name": "Philippines"
+        },
+        "min_year": 1969,
+        "max_year": 1969,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/5eb5e1be8fdc20.51106116-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/5eb5e1bf203bb1.23117571-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 213227,
+      "title": "500 Piso (Seal type 5; with segmented security thread)",
+      "issuer": {
+        "code": "philippines",
+        "name": "Philippines"
+      },
+      "min_year": 2001,
+      "max_year": 2013,
+      "face": {
+        "value": 500,
+        "unit": "Piso",
+        "text": "500 Piso"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 213227,
+        "title": "500 Piso (Seal type 5; with segmented security thread)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "philippines",
+          "name": "Philippines"
+        },
+        "min_year": 2001,
+        "max_year": 2013,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/5eb5e6cd705870.26969847-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/5eb5e6ce0409f1.38981976-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 213228,
+      "title": "1000 Piso (Seal type 5; with segmented security thread)",
+      "issuer": {
+        "code": "philippines",
+        "name": "Philippines"
+      },
+      "min_year": 2001,
+      "max_year": 2012,
+      "face": {
+        "value": 1000,
+        "unit": "Piso",
+        "text": "1000 Piso"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 213228,
+        "title": "1000 Piso (Seal type 5; with segmented security thread)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "philippines",
+          "name": "Philippines"
+        },
+        "min_year": 2001,
+        "max_year": 2012,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/5eb5e8f5665950.02626457-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/5eb5e8f5e70e95.43113558-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 213230,
+      "title": "2000 Piso (Philippine Centennial)",
+      "issuer": {
+        "code": "philippines",
+        "name": "Philippines"
+      },
+      "min_year": 1998,
+      "max_year": 2001,
+      "face": {
+        "value": 2000,
+        "unit": "Piso",
+        "text": "2000 Piso"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 213230,
+        "title": "2000 Piso (Philippine Centennial)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "philippines",
+          "name": "Philippines"
+        },
+        "min_year": 1998,
+        "max_year": 2001,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/5eb5ebe7ea07d3.92867933-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/5eb5ebe6c9e442.00676741-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 213430,
+      "title": "100 Piso (Seal type 4)",
+      "issuer": {
+        "code": "philippines",
+        "name": "Philippines"
+      },
+      "min_year": 1987,
+      "max_year": 1993,
+      "face": {
+        "value": 100,
+        "unit": "Piso",
+        "text": "100 Piso"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 213430,
+        "title": "100 Piso (Seal type 4)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "philippines",
+          "name": "Philippines"
+        },
+        "min_year": 1987,
+        "max_year": 1993,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/62dc76766ef6e0.30037976-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/62dc7677df9c61.12165517-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 213817,
+      "title": "20 Piso (Ang Bagong Lipunan; Seal type 3)",
+      "issuer": {
+        "code": "philippines",
+        "name": "Philippines"
+      },
+      "min_year": 1973,
+      "max_year": 1978,
+      "face": {
+        "value": 20,
+        "unit": "Piso",
+        "text": "20 Piso"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 213817,
+        "title": "20 Piso (Ang Bagong Lipunan; Seal type 3)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "philippines",
+          "name": "Philippines"
+        },
+        "min_year": 1973,
+        "max_year": 1978,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/6a1336a6b57bf8.39217088-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/6a1336a758add3.70393619-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 214252,
+      "title": "50 Piso (Seal type 4)",
+      "issuer": {
+        "code": "philippines",
+        "name": "Philippines"
+      },
+      "min_year": 1987,
+      "max_year": 1993,
+      "face": {
+        "value": 50,
+        "unit": "Piso",
+        "text": "50 Piso"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 214252,
+        "title": "50 Piso (Seal type 4)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "philippines",
+          "name": "Philippines"
+        },
+        "min_year": 1987,
+        "max_year": 1993,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/5eba8a65ad86b1.71513144-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/5eba8a65d97005.86905783-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 214255,
+      "title": "100 Piso (Seal type 5; without segmented security thread)",
+      "issuer": {
+        "code": "philippines",
+        "name": "Philippines"
+      },
+      "min_year": 1998,
+      "max_year": 2001,
+      "face": {
+        "value": 100,
+        "unit": "Piso",
+        "text": "100 Piso"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 214255,
+        "title": "100 Piso (Seal type 5; without segmented security thread)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "philippines",
+          "name": "Philippines"
+        },
+        "min_year": 1998,
+        "max_year": 2001,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/5eba8bb7664bb5.57344473-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/5eba8bb794a591.92378036-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 223074,
+      "title": "50 Piso (Philippine Deposit Insurance Corporation)",
+      "issuer": {
+        "code": "philippines",
+        "name": "Philippines"
+      },
+      "min_year": 2013,
+      "max_year": 2013,
+      "face": {
+        "value": 50,
+        "unit": "Piso",
+        "text": "50 Piso"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 223074,
+        "title": "50 Piso (Philippine Deposit Insurance Corporation)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "philippines",
+          "name": "Philippines"
+        },
+        "min_year": 2013,
+        "max_year": 2013,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/66e2563ad953e9.19165513-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/66e2563f883b10.75023806-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 224192,
+      "title": "5 Piso (Presidential Visit)",
+      "issuer": {
+        "code": "philippines",
+        "name": "Philippines"
+      },
+      "min_year": 1986,
+      "max_year": 1986,
+      "face": {
+        "value": 5,
+        "unit": "Piso",
+        "text": "5 Piso"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 224192,
+        "title": "5 Piso (Presidential Visit)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "philippines",
+          "name": "Philippines"
+        },
+        "min_year": 1986,
+        "max_year": 1986,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/6a134e3316fe84.40112355-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/6a134e33a197d6.09936241-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 224425,
+      "title": "10 Piso (Seal type 3; Without border)",
+      "issuer": {
+        "code": "philippines",
+        "name": "Philippines"
+      },
+      "min_year": 1972,
+      "max_year": 1972,
+      "face": {
+        "value": 10,
+        "unit": "Piso",
+        "text": "10 Piso"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 224425,
+        "title": "10 Piso (Seal type 3; Without border)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "philippines",
+          "name": "Philippines"
+        },
+        "min_year": 1972,
+        "max_year": 1972,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/6819e28751eb77.01117756-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/6819e287b1f6a0.82607282-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 224426,
+      "title": "100 Piso (Philippine Centennial)",
+      "issuer": {
+        "code": "philippines",
+        "name": "Philippines"
+      },
+      "min_year": 1997,
+      "max_year": 1998,
+      "face": {
+        "value": 100,
+        "unit": "Piso",
+        "text": "100 Piso"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 224426,
+        "title": "100 Piso (Philippine Centennial)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "philippines",
+          "name": "Philippines"
+        },
+        "min_year": 1997,
+        "max_year": 1998,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/5f744dee226367.49407208-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/5f744dee7075e2.86150007-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 224429,
+      "title": "100 Piso (University of the Philippines)",
+      "issuer": {
+        "code": "philippines",
+        "name": "Philippines"
+      },
+      "min_year": 2008,
+      "max_year": 2008,
+      "face": {
+        "value": 100,
+        "unit": "Piso",
+        "text": "100 Piso"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 224429,
+        "title": "100 Piso (University of the Philippines)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "philippines",
+          "name": "Philippines"
+        },
+        "min_year": 2008,
+        "max_year": 2008,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/5f744eba36d898.84775875-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/5f744eba7d1c52.30958013-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 224430,
+      "title": "50 Piso (Association of Southeast Asian Nations)",
+      "issuer": {
+        "code": "philippines",
+        "name": "Philippines"
+      },
+      "min_year": 2012,
+      "max_year": 2012,
+      "face": {
+        "value": 50,
+        "unit": "Piso",
+        "text": "50 Piso"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 224430,
+        "title": "50 Piso (Association of Southeast Asian Nations)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "philippines",
+          "name": "Philippines"
+        },
+        "min_year": 2012,
+        "max_year": 2012,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/6822542a812a82.12132554-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/6822542c6a1480.82363255-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 224431,
+      "title": "100 Piso (Ateneo Law School)",
+      "issuer": {
+        "code": "philippines",
+        "name": "Philippines"
+      },
+      "min_year": 2011,
+      "max_year": 2011,
+      "face": {
+        "value": 100,
+        "unit": "Piso",
+        "text": "100 Piso"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 224431,
+        "title": "100 Piso (Ateneo Law School)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "philippines",
+          "name": "Philippines"
+        },
+        "min_year": 2011,
+        "max_year": 2011,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/5f75039d71c4c1.35023495-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/5f75039db906a4.69985945-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 224432,
+      "title": "100 Piso (De La Salle)",
+      "issuer": {
+        "code": "philippines",
+        "name": "Philippines"
+      },
+      "min_year": 2011,
+      "max_year": 2011,
+      "face": {
+        "value": 100,
+        "unit": "Piso",
+        "text": "100 Piso"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 224432,
+        "title": "100 Piso (De La Salle)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "philippines",
+          "name": "Philippines"
+        },
+        "min_year": 2011,
+        "max_year": 2011,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/5f7503533c8519.66626200-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/5f7503538fa137.28696056-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 224434,
+      "title": "100 Piso (College of Law)",
+      "issuer": {
+        "code": "philippines",
+        "name": "Philippines"
+      },
+      "min_year": 2011,
+      "max_year": 2011,
+      "face": {
+        "value": 100,
+        "unit": "Piso",
+        "text": "100 Piso"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 224434,
+        "title": "100 Piso (College of Law)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "philippines",
+          "name": "Philippines"
+        },
+        "min_year": 2011,
+        "max_year": 2011,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/68207b78c03fd1.64221836-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/68207b7a31f400.69730529-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 224435,
+      "title": "100 Piso (Manila Hotel)",
+      "issuer": {
+        "code": "philippines",
+        "name": "Philippines"
+      },
+      "min_year": 2012,
+      "max_year": 2012,
+      "face": {
+        "value": 100,
+        "unit": "Piso",
+        "text": "100 Piso"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 224435,
+        "title": "100 Piso (Manila Hotel)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "philippines",
+          "name": "Philippines"
+        },
+        "min_year": 2012,
+        "max_year": 2012,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/5f7c54e07fcfe9.71323310-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/5f7c54e0ad3640.32298582-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 224436,
+      "title": "100 Piso (Masonry)",
+      "issuer": {
+        "code": "philippines",
+        "name": "Philippines"
+      },
+      "min_year": 2012,
+      "max_year": 2012,
+      "face": {
+        "value": 100,
+        "unit": "Piso",
+        "text": "100 Piso"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 224436,
+        "title": "100 Piso (Masonry)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "philippines",
+          "name": "Philippines"
+        },
+        "min_year": 2012,
+        "max_year": 2012,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/5f7c5534135555.46668259-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/5f7c55343d24b6.54674470-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 224437,
+      "title": "100 Piso (Central Banking)",
+      "issuer": {
+        "code": "philippines",
+        "name": "Philippines"
+      },
+      "min_year": 2013,
+      "max_year": 2013,
+      "face": {
+        "value": 100,
+        "unit": "Piso",
+        "text": "100 Piso"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 224437,
+        "title": "100 Piso (Central Banking)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "philippines",
+          "name": "Philippines"
+        },
+        "min_year": 2013,
+        "max_year": 2013,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/6817457df1e488.87547481-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/6817457e754a11.34832196-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 224439,
+      "title": "100 Piso (Year of Rice)",
+      "issuer": {
+        "code": "philippines",
+        "name": "Philippines"
+      },
+      "min_year": 2013,
+      "max_year": 2013,
+      "face": {
+        "value": 100,
+        "unit": "Piso",
+        "text": "100 Piso"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 224439,
+        "title": "100 Piso (Year of Rice)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "philippines",
+          "name": "Philippines"
+        },
+        "min_year": 2013,
+        "max_year": 2013,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/5f586064718a29.00715201-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/5f586065e1b655.91311807-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 224440,
+      "title": "100 Piso (Iglesia ni Cristo)",
+      "issuer": {
+        "code": "philippines",
+        "name": "Philippines"
+      },
+      "min_year": 2013,
+      "max_year": 2013,
+      "face": {
+        "value": 100,
+        "unit": "Piso",
+        "text": "100 Piso"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 224440,
+        "title": "100 Piso (Iglesia ni Cristo)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "philippines",
+          "name": "Philippines"
+        },
+        "min_year": 2013,
+        "max_year": 2013,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/5f7c614276a988.62250598-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/5f7c6142b4b6a7.25773872-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 224441,
+      "title": "100 Piso (Ang Bagong Lipunan; seal type 3; white margins)",
+      "issuer": {
+        "code": "philippines",
+        "name": "Philippines"
+      },
+      "min_year": 1973,
+      "max_year": 1978,
+      "face": {
+        "value": 100,
+        "unit": "Piso",
+        "text": "100 Piso"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 224441,
+        "title": "100 Piso (Ang Bagong Lipunan; seal type 3; white margins)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "philippines",
+          "name": "Philippines"
+        },
+        "min_year": 1973,
+        "max_year": 1978,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/681a787906bcd0.29600575-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/681a787978d7a2.11745707-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 224442,
+      "title": "50 Piso (Pedro Calungsod)",
+      "issuer": {
+        "code": "philippines",
+        "name": "Philippines"
+      },
+      "min_year": 2013,
+      "max_year": 2013,
+      "face": {
+        "value": 50,
+        "unit": "Piso",
+        "text": "50 Piso"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 224442,
+        "title": "50 Piso (Pedro Calungsod)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "philippines",
+          "name": "Philippines"
+        },
+        "min_year": 2013,
+        "max_year": 2013,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/6817461ac56c21.55997897-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/6817461b5f3805.62658792-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 224443,
+      "title": "50 Piso (Trinity University of Asia)",
+      "issuer": {
+        "code": "philippines",
+        "name": "Philippines"
+      },
+      "min_year": 2013,
+      "max_year": 2013,
+      "face": {
+        "value": 50,
+        "unit": "Piso",
+        "text": "50 Piso"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 224443,
+        "title": "50 Piso (Trinity University of Asia)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "philippines",
+          "name": "Philippines"
+        },
+        "min_year": 2013,
+        "max_year": 2013,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/66e255db22e981.82387127-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/66e255e09e0010.13128276-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 224445,
+      "title": "50 Piso (Seal type 3; Without border)",
+      "issuer": {
+        "code": "philippines",
+        "name": "Philippines"
+      },
+      "min_year": 1972,
+      "max_year": 1972,
+      "face": {
+        "value": 50,
+        "unit": "Piso",
+        "text": "50 Piso"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 224445,
+        "title": "50 Piso (Seal type 3; Without border)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "philippines",
+          "name": "Philippines"
+        },
+        "min_year": 1972,
+        "max_year": 1972,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/5f744a577df3a8.32215537-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/5f744a57b72ca2.24572971-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 224446,
+      "title": "5 Piso (Ang Bagong Lipunan; Seal type 3)",
+      "issuer": {
+        "code": "philippines",
+        "name": "Philippines"
+      },
+      "min_year": 1973,
+      "max_year": 1985,
+      "face": {
+        "value": 5,
+        "unit": "Piso",
+        "text": "5 Piso"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 224446,
+        "title": "5 Piso (Ang Bagong Lipunan; Seal type 3)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "philippines",
+          "name": "Philippines"
+        },
+        "min_year": 1973,
+        "max_year": 1985,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/5f6d2f2f22da75.16065947-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/5f6d2f308b47d1.07195521-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 225416,
+      "title": "200 Piso (Pontifical and Royal University of Santo Tomas)",
+      "issuer": {
+        "code": "philippines",
+        "name": "Philippines"
+      },
+      "min_year": 2011,
+      "max_year": 2011,
+      "face": {
+        "value": 200,
+        "unit": "Piso",
+        "text": "200 Piso"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 225416,
+        "title": "200 Piso (Pontifical and Royal University of Santo Tomas)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "philippines",
+          "name": "Philippines"
+        },
+        "min_year": 2011,
+        "max_year": 2011,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/681746749f37e1.99437749-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/68174675240180.80456357-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 225420,
+      "title": "500 Piso (Seal type 5; with solid security thread)",
+      "issuer": {
+        "code": "philippines",
+        "name": "Philippines"
+      },
+      "min_year": 1998,
+      "max_year": 2001,
+      "face": {
+        "value": 500,
+        "unit": "Piso",
+        "text": "500 Piso"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 225420,
+        "title": "500 Piso (Seal type 5; with solid security thread)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "philippines",
+          "name": "Philippines"
+        },
+        "min_year": 1998,
+        "max_year": 2001,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/6003cebb47d078.04600957-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/6003cebbc7ed53.55294868-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 232122,
+      "title": "50 Piso (Seal type 6; with tactile marks)",
+      "issuer": {
+        "code": "philippines",
+        "name": "Philippines"
+      },
+      "min_year": 2020,
+      "max_year": 2022,
+      "face": {
+        "value": 50,
+        "unit": "Piso",
+        "text": "50 Piso"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 232122,
+        "title": "50 Piso (Seal type 6; with tactile marks)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "philippines",
+          "name": "Philippines"
+        },
+        "min_year": 2020,
+        "max_year": 2022,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/65cba001de14e8.50067569-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/65cba0033a0941.54508346-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 232125,
+      "title": "100 Piso (Seal type 6; with tactile marks)",
+      "issuer": {
+        "code": "philippines",
+        "name": "Philippines"
+      },
+      "min_year": 2020,
+      "max_year": 2021,
+      "face": {
+        "value": 100,
+        "unit": "Piso",
+        "text": "100 Piso"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 232125,
+        "title": "100 Piso (Seal type 6; with tactile marks)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "philippines",
+          "name": "Philippines"
+        },
+        "min_year": 2020,
+        "max_year": 2021,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/65cba059ba49d9.38026137-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/65cba05b44def3.23347312-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 232127,
+      "title": "200 Piso (Seal type 6; with tactile marks)",
+      "issuer": {
+        "code": "philippines",
+        "name": "Philippines"
+      },
+      "min_year": 2020,
+      "max_year": 2020,
+      "face": {
+        "value": 200,
+        "unit": "Piso",
+        "text": "200 Piso"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 232127,
+        "title": "200 Piso (Seal type 6; with tactile marks)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "philippines",
+          "name": "Philippines"
+        },
+        "min_year": 2020,
+        "max_year": 2020,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/69b9ff313077f4.39960375-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/69b9ff329bb020.94555313-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 232128,
+      "title": "500 Piso (Seal type 6; with tactile marks)",
+      "issuer": {
+        "code": "philippines",
+        "name": "Philippines"
+      },
+      "min_year": 2020,
+      "max_year": 2021,
+      "face": {
+        "value": 500,
+        "unit": "Piso",
+        "text": "500 Piso"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 232128,
+        "title": "500 Piso (Seal type 6; with tactile marks)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "philippines",
+          "name": "Philippines"
+        },
+        "min_year": 2020,
+        "max_year": 2021,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/5f679d2a104935.39070146-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/5f679d2a3beb57.07518303-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 232131,
+      "title": "1000 Piso (Seal type 6; with tactile marks)",
+      "issuer": {
+        "code": "philippines",
+        "name": "Philippines"
+      },
+      "min_year": 2020,
+      "max_year": 2021,
+      "face": {
+        "value": 1000,
+        "unit": "Piso",
+        "text": "1000 Piso"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 232131,
+        "title": "1000 Piso (Seal type 6; with tactile marks)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "philippines",
+          "name": "Philippines"
+        },
+        "min_year": 2020,
+        "max_year": 2021,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/5f63cc6b7943b3.62722510-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/5f63cc6ba857a3.51751749-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 237693,
+      "title": "1000 Piso (Seal type 5; with solid security thread)",
+      "issuer": {
+        "code": "philippines",
+        "name": "Philippines"
+      },
+      "min_year": 1998,
+      "max_year": 2001,
+      "face": {
+        "value": 1000,
+        "unit": "Piso",
+        "text": "1000 Piso"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 237693,
+        "title": "1000 Piso (Seal type 5; with solid security thread)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "philippines",
+          "name": "Philippines"
+        },
+        "min_year": 1998,
+        "max_year": 2001,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/681916f6e27947.79891742-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/681916f74c59d4.41913095-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 238865,
+      "title": "5 Piso (Plenary Council)",
+      "issuer": {
+        "code": "philippines",
+        "name": "Philippines"
+      },
+      "min_year": 1991,
+      "max_year": 1991,
+      "face": {
+        "value": 5,
+        "unit": "Piso",
+        "text": "5 Piso"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 238865,
+        "title": "5 Piso (Plenary Council)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "philippines",
+          "name": "Philippines"
+        },
+        "min_year": 1991,
+        "max_year": 1991,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/63f7977e3735e7.73208898-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/63f79781b934f8.78896079-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 238867,
+      "title": "50 Piso (Central Banking)",
+      "issuer": {
+        "code": "philippines",
+        "name": "Philippines"
+      },
+      "min_year": 2009,
+      "max_year": 2009,
+      "face": {
+        "value": 50,
+        "unit": "Piso",
+        "text": "50 Piso"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 238867,
+        "title": "50 Piso (Central Banking)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "philippines",
+          "name": "Philippines"
+        },
+        "min_year": 2009,
+        "max_year": 2009,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/5f744fe0a19eb1.31983376-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/5f744fe0e83740.65865567-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 238868,
+      "title": "100 Piso (Central Banking)",
+      "issuer": {
+        "code": "philippines",
+        "name": "Philippines"
+      },
+      "min_year": 2009,
+      "max_year": 2009,
+      "face": {
+        "value": 100,
+        "unit": "Piso",
+        "text": "100 Piso"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 238868,
+        "title": "100 Piso (Central Banking)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "philippines",
+          "name": "Philippines"
+        },
+        "min_year": 2009,
+        "max_year": 2009,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/5f7450869f3b63.71191562-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/5f745086d56080.61994069-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 238872,
+      "title": "200 Piso (Central Banking)",
+      "issuer": {
+        "code": "philippines",
+        "name": "Philippines"
+      },
+      "min_year": 2009,
+      "max_year": 2009,
+      "face": {
+        "value": 200,
+        "unit": "Piso",
+        "text": "200 Piso"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 238872,
+        "title": "200 Piso (Central Banking)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "philippines",
+          "name": "Philippines"
+        },
+        "min_year": 2009,
+        "max_year": 2009,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/5f745150bb5aa7.99093023-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/5f745150f3e060.57709691-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 238876,
+      "title": "500 Piso (Central Banking)",
+      "issuer": {
+        "code": "philippines",
+        "name": "Philippines"
+      },
+      "min_year": 2009,
+      "max_year": 2009,
+      "face": {
+        "value": 500,
+        "unit": "Piso",
+        "text": "500 Piso"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 238876,
+        "title": "500 Piso (Central Banking)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "philippines",
+          "name": "Philippines"
+        },
+        "min_year": 2009,
+        "max_year": 2009,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/5f745286640ec2.41772880-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/5f74528699f2a9.88070294-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 238877,
+      "title": "1000 Piso (Central Banking)",
+      "issuer": {
+        "code": "philippines",
+        "name": "Philippines"
+      },
+      "min_year": 2009,
+      "max_year": 2009,
+      "face": {
+        "value": 1000,
+        "unit": "Piso",
+        "text": "1000 Piso"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 238877,
+        "title": "1000 Piso (Central Banking)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "philippines",
+          "name": "Philippines"
+        },
+        "min_year": 2009,
+        "max_year": 2009,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/5f74534e5f3100.80101170-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/5f74534ea98451.82769507-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 239572,
+      "title": "20 Piso (Year of Microcredit)",
+      "issuer": {
+        "code": "philippines",
+        "name": "Philippines"
+      },
+      "min_year": 2004,
+      "max_year": 2004,
+      "face": {
+        "value": 20,
+        "unit": "Piso",
+        "text": "20 Piso"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 239572,
+        "title": "20 Piso (Year of Microcredit)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "philippines",
+          "name": "Philippines"
+        },
+        "min_year": 2004,
+        "max_year": 2004,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/68e1a6c57248d5.44278745-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/68e1a6cd4edd82.96993167-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 267739,
+      "title": "5000 Piso (Victory at Mactan)",
+      "issuer": {
+        "code": "philippines",
+        "name": "Philippines"
+      },
+      "min_year": 2021,
+      "max_year": 2021,
+      "face": {
+        "value": 5000,
+        "unit": "Piso",
+        "text": "5000 Piso"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 267739,
+        "title": "5000 Piso (Victory at Mactan)",
+        "object_type": {
+          "id": 159,
+          "name": "Non-circulating banknotes"
+        },
+        "issuer": {
+          "code": "philippines",
+          "name": "Philippines"
+        },
+        "min_year": 2021,
+        "max_year": 2021,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/6ae11adc4e96a0.06888827-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/6ae11ae04d7e88.17484114-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 316600,
+      "title": "1000 Piso (Seal type 7; polymer)",
+      "issuer": {
+        "code": "philippines",
+        "name": "Philippines"
+      },
+      "min_year": 2022,
+      "max_year": 2025,
+      "face": {
+        "value": 1000,
+        "unit": "Piso",
+        "text": "1000 Piso"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 316600,
+        "title": "1000 Piso (Seal type 7; polymer)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "philippines",
+          "name": "Philippines"
+        },
+        "min_year": 2022,
+        "max_year": 2025,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/65a6c375d2b762.69052079-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/65a6c378306e06.49821106-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 348336,
+      "title": "100 Piso (Ang Bagong Lipunan; seal type 3)",
+      "issuer": {
+        "code": "philippines",
+        "name": "Philippines"
+      },
+      "min_year": 1973,
+      "max_year": 1978,
+      "face": {
+        "value": 100,
+        "unit": "Piso",
+        "text": "100 Piso"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 348336,
+        "title": "100 Piso (Ang Bagong Lipunan; seal type 3)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "philippines",
+          "name": "Philippines"
+        },
+        "min_year": 1973,
+        "max_year": 1978,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/6819e60fa941c7.14828770-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/6819e61010bd53.05514822-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 362748,
+      "title": "20 Piso (Seal type 7; without tactile marks)",
+      "issuer": {
+        "code": "philippines",
+        "name": "Philippines"
+      },
+      "min_year": 2022,
+      "max_year": 2023,
+      "face": {
+        "value": 20,
+        "unit": "Piso",
+        "text": "20 Piso"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 362748,
+        "title": "20 Piso (Seal type 7; without tactile marks)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "philippines",
+          "name": "Philippines"
+        },
+        "min_year": 2022,
+        "max_year": 2023,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/682248de0158d4.89615166-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/682248dfaa9250.89122527-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 362749,
+      "title": "50 Piso (Seal type 7; without tactile marks)",
+      "issuer": {
+        "code": "philippines",
+        "name": "Philippines"
+      },
+      "min_year": 2022,
+      "max_year": 2022,
+      "face": {
+        "value": 50,
+        "unit": "Piso",
+        "text": "50 Piso"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 362749,
+        "title": "50 Piso (Seal type 7; without tactile marks)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "philippines",
+          "name": "Philippines"
+        },
+        "min_year": 2022,
+        "max_year": 2022,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/658491d4412bc8.67643877-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/658491d4adde59.54589982-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 362750,
+      "title": "100 Piso (Seal type 7; without tactile marks)",
+      "issuer": {
+        "code": "philippines",
+        "name": "Philippines"
+      },
+      "min_year": 2022,
+      "max_year": 2023,
+      "face": {
+        "value": 100,
+        "unit": "Piso",
+        "text": "100 Piso"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 362750,
+        "title": "100 Piso (Seal type 7; without tactile marks)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "philippines",
+          "name": "Philippines"
+        },
+        "min_year": 2022,
+        "max_year": 2023,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/643f0268e4fb42.76909939-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/643f0269591e91.43246617-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 362751,
+      "title": "500 Piso (Seal type 7; without tactile marks)",
+      "issuer": {
+        "code": "philippines",
+        "name": "Philippines"
+      },
+      "min_year": 2022,
+      "max_year": 2024,
+      "face": {
+        "value": 500,
+        "unit": "Piso",
+        "text": "500 Piso"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 362751,
+        "title": "500 Piso (Seal type 7; without tactile marks)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "philippines",
+          "name": "Philippines"
+        },
+        "min_year": 2022,
+        "max_year": 2024,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/647b579c717944.13908072-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/647b579ca74198.54785023-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 362752,
+      "title": "1000 Piso (Seal type 7; without tactile marks)",
+      "issuer": {
+        "code": "philippines",
+        "name": "Philippines"
+      },
+      "min_year": 2022,
+      "max_year": 2024,
+      "face": {
+        "value": 1000,
+        "unit": "Piso",
+        "text": "1000 Piso"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 362752,
+        "title": "1000 Piso (Seal type 7; without tactile marks)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "philippines",
+          "name": "Philippines"
+        },
+        "min_year": 2022,
+        "max_year": 2024,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/6814d624d0e419.26182666-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/6814d625a4a7b1.97494246-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 378792,
+      "title": "20 Piso (Bangko Sentral ng Pilipinas)",
+      "issuer": {
+        "code": "philippines",
+        "name": "Philippines"
+      },
+      "min_year": 2023,
+      "max_year": 2023,
+      "face": {
+        "value": 20,
+        "unit": "Piso",
+        "text": "20 Piso"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 378792,
+        "title": "20 Piso (Bangko Sentral ng Pilipinas)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "philippines",
+          "name": "Philippines"
+        },
+        "min_year": 2023,
+        "max_year": 2023,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/650f78d80198d4.80986551-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/650f78d86470c1.98448100-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 404193,
+      "title": "100 Piso (Seal type 7; with tactile marks)",
+      "issuer": {
+        "code": "philippines",
+        "name": "Philippines"
+      },
+      "min_year": 2023,
+      "max_year": 2026,
+      "face": {
+        "value": 100,
+        "unit": "Piso",
+        "text": "100 Piso"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 404193,
+        "title": "100 Piso (Seal type 7; with tactile marks)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "philippines",
+          "name": "Philippines"
+        },
+        "min_year": 2023,
+        "max_year": 2026,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/6a7a8d3ee271a3.83583981-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/6a7a8d3fb3e673.25841707-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 419368,
+      "title": "50 Piso (Seal type 7; with tactile marks)",
+      "issuer": {
+        "code": "philippines",
+        "name": "Philippines"
+      },
+      "min_year": 2023,
+      "max_year": 2026,
+      "face": {
+        "value": 50,
+        "unit": "Piso",
+        "text": "50 Piso"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 419368,
+        "title": "50 Piso (Seal type 7; with tactile marks)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "philippines",
+          "name": "Philippines"
+        },
+        "min_year": 2023,
+        "max_year": 2026,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/690e086ed54533.38944980-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/690e0870b7acb3.62012550-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 437892,
+      "title": "500 Piso (Seal Type 7; with tactile marks)",
+      "issuer": {
+        "code": "philippines",
+        "name": "Philippines"
+      },
+      "min_year": 2024,
+      "max_year": 2026,
+      "face": {
+        "value": 500,
+        "unit": "Piso",
+        "text": "500 Piso"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 437892,
+        "title": "500 Piso (Seal Type 7; with tactile marks)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "philippines",
+          "name": "Philippines"
+        },
+        "min_year": 2024,
+        "max_year": 2026,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/67101bdb941013.21096748-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/67101bdbd379d0.70069241-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 446654,
+      "title": "500 Piso (Seal type 7; polymer)",
+      "issuer": {
+        "code": "philippines",
+        "name": "Philippines"
+      },
+      "min_year": 2024,
+      "max_year": 2025,
+      "face": {
+        "value": 500,
+        "unit": "Piso",
+        "text": "500 Piso"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 446654,
+        "title": "500 Piso (Seal type 7; polymer)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "philippines",
+          "name": "Philippines"
+        },
+        "min_year": 2024,
+        "max_year": 2025,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/67712711e739d4.85497547-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/677127126f9363.85886014-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 446774,
+      "title": "100 Piso (Seal type 7; polymer)",
+      "issuer": {
+        "code": "philippines",
+        "name": "Philippines"
+      },
+      "min_year": 2024,
+      "max_year": 2026,
+      "face": {
+        "value": 100,
+        "unit": "Piso",
+        "text": "100 Piso"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 446774,
+        "title": "100 Piso (Seal type 7; polymer)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "philippines",
+          "name": "Philippines"
+        },
+        "min_year": 2024,
+        "max_year": 2026,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/6799b846b1eb43.40928467-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/6799b846edfe75.03670502-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 446780,
+      "title": "50 Piso (Seal type 7; polymer)",
+      "issuer": {
+        "code": "philippines",
+        "name": "Philippines"
+      },
+      "min_year": 2024,
+      "max_year": 2025,
+      "face": {
+        "value": 50,
+        "unit": "Piso",
+        "text": "50 Piso"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 446780,
+        "title": "50 Piso (Seal type 7; polymer)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "philippines",
+          "name": "Philippines"
+        },
+        "min_year": 2024,
+        "max_year": 2025,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/67ff77f9277814.45493569-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/67ff77fb2b26c4.42836174-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 494615,
+      "title": "1000 Piso (Seal type 7; with tactile marks)",
+      "issuer": {
+        "code": "philippines",
+        "name": "Philippines"
+      },
+      "min_year": 2024,
+      "max_year": 2025,
+      "face": {
+        "value": 1000,
+        "unit": "Piso",
+        "text": "1000 Piso"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 494615,
+        "title": "1000 Piso (Seal type 7; with tactile marks)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "philippines",
+          "name": "Philippines"
+        },
+        "min_year": 2024,
+        "max_year": 2025,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/68da7a0c4c04b8.16879081-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/68da7a0d839068.66131280-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 585230,
+      "title": "3000 Piso (Supreme Court of the Philippines)",
+      "issuer": {
+        "code": "philippines",
+        "name": "Philippines"
+      },
+      "min_year": 2026,
+      "max_year": 2026,
+      "face": {
+        "value": 3000,
+        "unit": "Piso",
+        "text": "3000 Piso"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 585230,
+        "title": "3000 Piso (Supreme Court of the Philippines)",
+        "object_type": {
+          "id": 159,
+          "name": "Non-circulating banknotes"
+        },
+        "issuer": {
+          "code": "philippines",
+          "name": "Philippines"
+        },
+        "min_year": 2026,
+        "max_year": 2026,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/6ae1282450bc89.62389967-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/philippines/6ae12826008e06.78702824-180.jpg",
+        "category": "banknote"
+      }
+    }
+  ]
+}

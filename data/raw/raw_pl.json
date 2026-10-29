@@ -1,0 +1,2282 @@
+{
+  "meta": {
+    "generated_at": "2026-10-29T13:27:54.566Z",
+    "fixture": false,
+    "api": "numista v3",
+    "issuer": "pologne",
+    "iso": "PL",
+    "category": "banknote",
+    "lang": "en",
+    "since": 1960,
+    "listed": 210,
+    "fetched": 61,
+    "details_fetched": 0,
+    "dropped_before_since": 149,
+    "dropped_by_source": {
+      "list": 149,
+      "detail": 0
+    },
+    "issuer_mismatches": 0,
+    "pages": 5,
+    "requests": 0
+  },
+  "types": [
+    {
+      "numista_type_id": 202134,
+      "title": "10 Zlotys",
+      "issuer": {
+        "code": "pologne",
+        "name": "Poland"
+      },
+      "min_year": 1994,
+      "max_year": 1994,
+      "face": {
+        "value": 10,
+        "unit": "Zlotys",
+        "text": "10 Zlotys"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202134,
+        "title": "10 Zlotys",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "pologne",
+          "name": "Poland"
+        },
+        "min_year": 1994,
+        "max_year": 1994,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pologne/626b8354995e17.17172250-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pologne/626b8355424ba4.08292984-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202649,
+      "title": "50 Zlotys (Pope John Paul II)",
+      "issuer": {
+        "code": "pologne",
+        "name": "Poland"
+      },
+      "min_year": 2006,
+      "max_year": 2006,
+      "face": {
+        "value": 50,
+        "unit": "Zlotys",
+        "text": "50 Zlotys"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202649,
+        "title": "50 Zlotys (Pope John Paul II)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "pologne",
+          "name": "Poland"
+        },
+        "min_year": 2006,
+        "max_year": 2006,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pologne/692f0dc42f6605.12612261-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pologne/692f0dc6bdbd05.70327202-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202956,
+      "title": "10 Zlotys (Józef Piłsudski)",
+      "issuer": {
+        "code": "pologne",
+        "name": "Poland"
+      },
+      "min_year": 2008,
+      "max_year": 2008,
+      "face": {
+        "value": 10,
+        "unit": "Zlotys",
+        "text": "10 Zlotys"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202956,
+        "title": "10 Zlotys (Józef Piłsudski)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "pologne",
+          "name": "Poland"
+        },
+        "min_year": 2008,
+        "max_year": 2008,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pologne/698c6bd86d3584.13799644-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pologne/698c6bd8e10934.53507946-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202973,
+      "title": "20 Zlotys (Juliusz Słowacki)",
+      "issuer": {
+        "code": "pologne",
+        "name": "Poland"
+      },
+      "min_year": 2009,
+      "max_year": 2009,
+      "face": {
+        "value": 20,
+        "unit": "Zlotys",
+        "text": "20 Zlotys"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202973,
+        "title": "20 Zlotys (Juliusz Słowacki)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "pologne",
+          "name": "Poland"
+        },
+        "min_year": 2009,
+        "max_year": 2009,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pologne/698c6c49a054c9.57616303-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pologne/698c6c4a322e42.40035587-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202977,
+      "title": "20 Zlotys (Frédéric Chopin)",
+      "issuer": {
+        "code": "pologne",
+        "name": "Poland"
+      },
+      "min_year": 2010,
+      "max_year": 2010,
+      "face": {
+        "value": 20,
+        "unit": "Zlotys",
+        "text": "20 Zlotys"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202977,
+        "title": "20 Zlotys (Frédéric Chopin)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "pologne",
+          "name": "Poland"
+        },
+        "min_year": 2010,
+        "max_year": 2010,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pologne/668e5a7302e8e3.04063293-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pologne/668e5a7503c311.77227469-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202979,
+      "title": "20 Zlotys (Marie Skłodowska-Curie)",
+      "issuer": {
+        "code": "pologne",
+        "name": "Poland"
+      },
+      "min_year": 2011,
+      "max_year": 2011,
+      "face": {
+        "value": 20,
+        "unit": "Zlotys",
+        "text": "20 Zlotys"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202979,
+        "title": "20 Zlotys (Marie Skłodowska-Curie)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "pologne",
+          "name": "Poland"
+        },
+        "min_year": 2011,
+        "max_year": 2011,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pologne/5e9804ad25c4b0.67320822-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pologne/5e9804ac1f4d14.51819305-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202995,
+      "title": "20 Zlotys (Polish Legions)",
+      "issuer": {
+        "code": "pologne",
+        "name": "Poland"
+      },
+      "min_year": 2014,
+      "max_year": 2014,
+      "face": {
+        "value": 20,
+        "unit": "Zlotys",
+        "text": "20 Zlotys"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202995,
+        "title": "20 Zlotys (Polish Legions)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "pologne",
+          "name": "Poland"
+        },
+        "min_year": 2014,
+        "max_year": 2014,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pologne/5e980f5c3163a7.14600738-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pologne/5e980f5b97d5c1.58006893-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202998,
+      "title": "20 Zlotys (Jan Długosz)",
+      "issuer": {
+        "code": "pologne",
+        "name": "Poland"
+      },
+      "min_year": 2015,
+      "max_year": 2015,
+      "face": {
+        "value": 20,
+        "unit": "Zlotys",
+        "text": "20 Zlotys"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202998,
+        "title": "20 Zlotys (Jan Długosz)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "pologne",
+          "name": "Poland"
+        },
+        "min_year": 2015,
+        "max_year": 2015,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pologne/5e9810646a9488.27441001-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pologne/5e9810641ca0e0.93257786-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203489,
+      "title": "20 Zlotys (Baptism of Poland)",
+      "issuer": {
+        "code": "pologne",
+        "name": "Poland"
+      },
+      "min_year": 2015,
+      "max_year": 2015,
+      "face": {
+        "value": 20,
+        "unit": "Zlotys",
+        "text": "20 Zlotys"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203489,
+        "title": "20 Zlotys (Baptism of Poland)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "pologne",
+          "name": "Poland"
+        },
+        "min_year": 2015,
+        "max_year": 2015,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pologne/5e9940c31fd2a4.60586466-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pologne/5e9940c2b5efd6.14699712-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203494,
+      "title": "20 Zlotys (Our Lady of Częstochowa)",
+      "issuer": {
+        "code": "pologne",
+        "name": "Poland"
+      },
+      "min_year": 2017,
+      "max_year": 2017,
+      "face": {
+        "value": 20,
+        "unit": "Zlotys",
+        "text": "20 Zlotys"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203494,
+        "title": "20 Zlotys (Our Lady of Częstochowa)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "pologne",
+          "name": "Poland"
+        },
+        "min_year": 2017,
+        "max_year": 2017,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pologne/5e9945e89190b7.17414609-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pologne/5e9945e840b490.13953114-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203499,
+      "title": "20 Zlotys (Independence)",
+      "issuer": {
+        "code": "pologne",
+        "name": "Poland"
+      },
+      "min_year": 2018,
+      "max_year": 2018,
+      "face": {
+        "value": 20,
+        "unit": "Zlotys",
+        "text": "20 Zlotys"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203499,
+        "title": "20 Zlotys (Independence)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "pologne",
+          "name": "Poland"
+        },
+        "min_year": 2018,
+        "max_year": 2018,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pologne/5e9948951d39e4.49055919-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pologne/5e994894a6f5a2.79466867-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203503,
+      "title": "19 Zlotys (Polish Security Printing Works)",
+      "issuer": {
+        "code": "pologne",
+        "name": "Poland"
+      },
+      "min_year": 2019,
+      "max_year": 2019,
+      "face": {
+        "value": 19,
+        "unit": "Zlotys",
+        "text": "19 Zlotys"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203503,
+        "title": "19 Zlotys (Polish Security Printing Works)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "pologne",
+          "name": "Poland"
+        },
+        "min_year": 2019,
+        "max_year": 2019,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pologne/64c1b687898255.23631681-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pologne/64c1b6885bc815.80393260-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203638,
+      "title": "5000 Zlotys",
+      "issuer": {
+        "code": "pologne",
+        "name": "Poland"
+      },
+      "min_year": 1982,
+      "max_year": 1988,
+      "face": {
+        "value": 5000,
+        "unit": "Zlotys",
+        "text": "5000 Zlotys"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203638,
+        "title": "5000 Zlotys",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "pologne",
+          "name": "Poland"
+        },
+        "min_year": 1982,
+        "max_year": 1988,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pologne/626d3e5f6a65e6.46125293-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pologne/626d3e601409f4.00960727-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203922,
+      "title": "20 Zlotys",
+      "issuer": {
+        "code": "pologne",
+        "name": "Poland"
+      },
+      "min_year": 1982,
+      "max_year": 1982,
+      "face": {
+        "value": 20,
+        "unit": "Zlotys",
+        "text": "20 Zlotys"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203922,
+        "title": "20 Zlotys",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "pologne",
+          "name": "Poland"
+        },
+        "min_year": 1982,
+        "max_year": 1982,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pologne/623b6a176424e9.46538760-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pologne/623b6a17f1f179.42452343-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203924,
+      "title": "50 Zlotys",
+      "issuer": {
+        "code": "pologne",
+        "name": "Poland"
+      },
+      "min_year": 1975,
+      "max_year": 1988,
+      "face": {
+        "value": 50,
+        "unit": "Zlotys",
+        "text": "50 Zlotys"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203924,
+        "title": "50 Zlotys",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "pologne",
+          "name": "Poland"
+        },
+        "min_year": 1975,
+        "max_year": 1988,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pologne/629a28ee869225.05361313-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pologne/629a28ef2e0612.18192045-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203926,
+      "title": "100 Zlotys",
+      "issuer": {
+        "code": "pologne",
+        "name": "Poland"
+      },
+      "min_year": 1975,
+      "max_year": 1988,
+      "face": {
+        "value": 100,
+        "unit": "Zlotys",
+        "text": "100 Zlotys"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203926,
+        "title": "100 Zlotys",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "pologne",
+          "name": "Poland"
+        },
+        "min_year": 1975,
+        "max_year": 1988,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pologne/629b109c930223.79862635-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pologne/629a2922edfdf8.37809288-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204492,
+      "title": "1000 Zlotys",
+      "issuer": {
+        "code": "pologne",
+        "name": "Poland"
+      },
+      "min_year": 1975,
+      "max_year": 1982,
+      "face": {
+        "value": 1000,
+        "unit": "Zlotys",
+        "text": "1000 Zlotys"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204492,
+        "title": "1000 Zlotys",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "pologne",
+          "name": "Poland"
+        },
+        "min_year": 1975,
+        "max_year": 1982,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pologne/623b69063f7092.74872424-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pologne/623b6906d5c876.25387288-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204554,
+      "title": "200 Zlotys",
+      "issuer": {
+        "code": "pologne",
+        "name": "Poland"
+      },
+      "min_year": 1976,
+      "max_year": 1988,
+      "face": {
+        "value": 200,
+        "unit": "Zlotys",
+        "text": "200 Zlotys"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204554,
+        "title": "200 Zlotys",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "pologne",
+          "name": "Poland"
+        },
+        "min_year": 1976,
+        "max_year": 1988,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pologne/623b698fdd3419.94144774-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pologne/623b699085d740.36299206-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205988,
+      "title": "500 Zlotys",
+      "issuer": {
+        "code": "pologne",
+        "name": "Poland"
+      },
+      "min_year": 1974,
+      "max_year": 1982,
+      "face": {
+        "value": 500,
+        "unit": "Zlotys",
+        "text": "500 Zlotys"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205988,
+        "title": "500 Zlotys",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "pologne",
+          "name": "Poland"
+        },
+        "min_year": 1974,
+        "max_year": 1982,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pologne/629a296a2c1559.11765417-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pologne/629a296ab228d1.20342333-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206772,
+      "title": "10 000 Zlotys",
+      "issuer": {
+        "code": "pologne",
+        "name": "Poland"
+      },
+      "min_year": 1987,
+      "max_year": 1988,
+      "face": {
+        "value": 10000,
+        "unit": "Zlotys",
+        "text": "10000 Zlotys"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206772,
+        "title": "10 000 Zlotys",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "pologne",
+          "name": "Poland"
+        },
+        "min_year": 1987,
+        "max_year": 1988,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pologne/68babff7630f14.19889825-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pologne/68babff82756b4.77808807-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206775,
+      "title": "50 000 Zlotys",
+      "issuer": {
+        "code": "pologne",
+        "name": "Poland"
+      },
+      "min_year": 1989,
+      "max_year": 1989,
+      "face": {
+        "value": 50000,
+        "unit": "Zlotys",
+        "text": "50000 Zlotys"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206775,
+        "title": "50 000 Zlotys",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "pologne",
+          "name": "Poland"
+        },
+        "min_year": 1989,
+        "max_year": 1989,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pologne/67f1061b45b4f3.84285623-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pologne/67f1061c4f72f1.55029587-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206783,
+      "title": "500 000 Zlotys",
+      "issuer": {
+        "code": "pologne",
+        "name": "Poland"
+      },
+      "min_year": 1993,
+      "max_year": 1993,
+      "face": {
+        "value": 500000,
+        "unit": "Zlotys",
+        "text": "500000 Zlotys"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206783,
+        "title": "500 000 Zlotys",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "pologne",
+          "name": "Poland"
+        },
+        "min_year": 1993,
+        "max_year": 1993,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pologne/67f106361b18c4.95865163-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pologne/67f1063700d7b2.63571659-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206814,
+      "title": "10 Zlotys",
+      "issuer": {
+        "code": "pologne",
+        "name": "Poland"
+      },
+      "min_year": 2012,
+      "max_year": 2025,
+      "face": {
+        "value": 10,
+        "unit": "Zlotys",
+        "text": "10 Zlotys"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206814,
+        "title": "10 Zlotys",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "pologne",
+          "name": "Poland"
+        },
+        "min_year": 2012,
+        "max_year": 2025,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pologne/651aea70676a80.30812046-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pologne/651aea7198b7f5.82071573-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206927,
+      "title": "500 Zlotys",
+      "issuer": {
+        "code": "pologne",
+        "name": "Poland"
+      },
+      "min_year": 2016,
+      "max_year": 2017,
+      "face": {
+        "value": 500,
+        "unit": "Zlotys",
+        "text": "500 Zlotys"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206927,
+        "title": "500 Zlotys",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "pologne",
+          "name": "Poland"
+        },
+        "min_year": 2016,
+        "max_year": 2017,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pologne/66753e69cd6fb6.75949379-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pologne/66753e6aa2f450.88139161-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 207463,
+      "title": "20 Zlotys",
+      "issuer": {
+        "code": "pologne",
+        "name": "Poland"
+      },
+      "min_year": 2012,
+      "max_year": 2025,
+      "face": {
+        "value": 20,
+        "unit": "Zlotys",
+        "text": "20 Zlotys"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 207463,
+        "title": "20 Zlotys",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "pologne",
+          "name": "Poland"
+        },
+        "min_year": 2012,
+        "max_year": 2025,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pologne/66a82352b17f60.01788133-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pologne/66a823533469a8.08434395-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 207465,
+      "title": "50 Zlotys",
+      "issuer": {
+        "code": "pologne",
+        "name": "Poland"
+      },
+      "min_year": 2012,
+      "max_year": 2017,
+      "face": {
+        "value": 50,
+        "unit": "Zlotys",
+        "text": "50 Zlotys"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 207465,
+        "title": "50 Zlotys",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "pologne",
+          "name": "Poland"
+        },
+        "min_year": 2012,
+        "max_year": 2017,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pologne/66a82b0547e889.05444544-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pologne/66a82b067d7964.98181457-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 207535,
+      "title": "10 Zlotys",
+      "issuer": {
+        "code": "pologne",
+        "name": "Poland"
+      },
+      "min_year": 1982,
+      "max_year": 1982,
+      "face": {
+        "value": 10,
+        "unit": "Zlotys",
+        "text": "10 Zlotys"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 207535,
+        "title": "10 Zlotys",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "pologne",
+          "name": "Poland"
+        },
+        "min_year": 1982,
+        "max_year": 1982,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pologne/623b69dcd194c1.43810180-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pologne/623b69dd6d6723.06594974-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 207536,
+      "title": "2000 Zlotys",
+      "issuer": {
+        "code": "pologne",
+        "name": "Poland"
+      },
+      "min_year": 1977,
+      "max_year": 1982,
+      "face": {
+        "value": 2000,
+        "unit": "Zlotys",
+        "text": "2000 Zlotys"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 207536,
+        "title": "2000 Zlotys",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "pologne",
+          "name": "Poland"
+        },
+        "min_year": 1977,
+        "max_year": 1982,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pologne/65e9bb9990b059.53335660-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pologne/65e9bb9a08c715.57524665-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 207538,
+      "title": "20 000 Zlotys",
+      "issuer": {
+        "code": "pologne",
+        "name": "Poland"
+      },
+      "min_year": 1989,
+      "max_year": 1989,
+      "face": {
+        "value": 20000,
+        "unit": "Zlotys",
+        "text": "20000 Zlotys"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 207538,
+        "title": "20 000 Zlotys",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "pologne",
+          "name": "Poland"
+        },
+        "min_year": 1989,
+        "max_year": 1989,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pologne/65e9bbe3914709.76966064-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pologne/65e9bbe52164c8.88565395-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 207626,
+      "title": "50 Zlotys",
+      "issuer": {
+        "code": "pologne",
+        "name": "Poland"
+      },
+      "min_year": 1994,
+      "max_year": 1994,
+      "face": {
+        "value": 50,
+        "unit": "Zlotys",
+        "text": "50 Zlotys"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 207626,
+        "title": "50 Zlotys",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "pologne",
+          "name": "Poland"
+        },
+        "min_year": 1994,
+        "max_year": 1994,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pologne/66a82db0bd2ef7.99768557-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pologne/66a82db10e87d4.37559149-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 207645,
+      "title": "100 Zlotys",
+      "issuer": {
+        "code": "pologne",
+        "name": "Poland"
+      },
+      "min_year": 1994,
+      "max_year": 1994,
+      "face": {
+        "value": 100,
+        "unit": "Zlotys",
+        "text": "100 Zlotys"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 207645,
+        "title": "100 Zlotys",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "pologne",
+          "name": "Poland"
+        },
+        "min_year": 1994,
+        "max_year": 1994,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pologne/662ff584e66793.22110713-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pologne/662ff587d69d05.93002829-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 208278,
+      "title": "2 Zlotys",
+      "issuer": {
+        "code": "pologne",
+        "name": "Poland"
+      },
+      "min_year": 1990,
+      "max_year": 1990,
+      "face": {
+        "value": 2,
+        "unit": "Zlotys",
+        "text": "2 Zlotys"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 208278,
+        "title": "2 Zlotys",
+        "object_type": {
+          "id": 162,
+          "name": "Non-issued banknotes"
+        },
+        "issuer": {
+          "code": "pologne",
+          "name": "Poland"
+        },
+        "min_year": 1990,
+        "max_year": 1990,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pologne/5ea70afe1f0f54.11560762-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pologne/5ea70afde45c72.06113775-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 208548,
+      "title": "20 Zlotys",
+      "issuer": {
+        "code": "pologne",
+        "name": "Poland"
+      },
+      "min_year": 1994,
+      "max_year": 1994,
+      "face": {
+        "value": 20,
+        "unit": "Zlotys",
+        "text": "20 Zlotys"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 208548,
+        "title": "20 Zlotys",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "pologne",
+          "name": "Poland"
+        },
+        "min_year": 1994,
+        "max_year": 1994,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pologne/66a96ed8bda097.30546064-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pologne/66a96f0fc73582.50651563-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 209016,
+      "title": "100 Zlotys",
+      "issuer": {
+        "code": "pologne",
+        "name": "Poland"
+      },
+      "min_year": 2012,
+      "max_year": 2018,
+      "face": {
+        "value": 100,
+        "unit": "Zlotys",
+        "text": "100 Zlotys"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 209016,
+        "title": "100 Zlotys",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "pologne",
+          "name": "Poland"
+        },
+        "min_year": 2012,
+        "max_year": 2018,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pologne/62cfff0ef27d18.52157612-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pologne/62cfff0f4f3900.56135163-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 210986,
+      "title": "100 000 Zlotys",
+      "issuer": {
+        "code": "pologne",
+        "name": "Poland"
+      },
+      "min_year": 1990,
+      "max_year": 1990,
+      "face": {
+        "value": 100000,
+        "unit": "Zlotys",
+        "text": "100000 Zlotys"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 210986,
+        "title": "100 000 Zlotys",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "pologne",
+          "name": "Poland"
+        },
+        "min_year": 1990,
+        "max_year": 1990,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pologne/665363832a35d2.21223720-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pologne/665363847e7383.96460478-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 211134,
+      "title": "50 000 Zlotys",
+      "issuer": {
+        "code": "pologne",
+        "name": "Poland"
+      },
+      "min_year": 1993,
+      "max_year": 1993,
+      "face": {
+        "value": 50000,
+        "unit": "Zlotys",
+        "text": "50000 Zlotys"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 211134,
+        "title": "50 000 Zlotys",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "pologne",
+          "name": "Poland"
+        },
+        "min_year": 1993,
+        "max_year": 1993,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pologne/5eaee5e337e715.88636026-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pologne/5eaee5e37f1126.88981640-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 211285,
+      "title": "1000 Zlotys",
+      "issuer": {
+        "code": "pologne",
+        "name": "Poland"
+      },
+      "min_year": 1962,
+      "max_year": 1965,
+      "face": {
+        "value": 1000,
+        "unit": "Zlotys",
+        "text": "1000 Zlotys"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 211285,
+        "title": "1000 Zlotys",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "pologne",
+          "name": "Poland"
+        },
+        "min_year": 1962,
+        "max_year": 1965,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pologne/5eaf2e3ad98ce9.84149231-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pologne/5eaf2e3c49a988.99335828-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 216478,
+      "title": "100 000 Zlotys",
+      "issuer": {
+        "code": "pologne",
+        "name": "Poland"
+      },
+      "min_year": 1993,
+      "max_year": 1993,
+      "face": {
+        "value": 100000,
+        "unit": "Zlotys",
+        "text": "100000 Zlotys"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 216478,
+        "title": "100 000 Zlotys",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "pologne",
+          "name": "Poland"
+        },
+        "min_year": 1993,
+        "max_year": 1993,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pologne/64c1af43072cc2.73465790-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pologne/64c1af4443dd68.45407294-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 221785,
+      "title": "100 Zlotys",
+      "issuer": {
+        "code": "pologne",
+        "name": "Poland"
+      },
+      "min_year": 1944,
+      "max_year": 1974,
+      "face": {
+        "value": 100,
+        "unit": "Zlotys",
+        "text": "100 Zlotys"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 221785,
+        "title": "100 Zlotys",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "pologne",
+          "name": "Poland"
+        },
+        "min_year": 1944,
+        "max_year": 1974,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pologne/5ee4e538a010f4.85448113-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pologne/5ee4e539bb4d94.86155813-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 222540,
+      "title": "200 000 Zlotys",
+      "issuer": {
+        "code": "pologne",
+        "name": "Poland"
+      },
+      "min_year": 1989,
+      "max_year": 1989,
+      "face": {
+        "value": 200000,
+        "unit": "Zlotys",
+        "text": "200000 Zlotys"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 222540,
+        "title": "200 000 Zlotys",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "pologne",
+          "name": "Poland"
+        },
+        "min_year": 1989,
+        "max_year": 1989,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pologne/5eea57b82d8f31.84044958-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pologne/5eea57b87fcd13.50201742-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 230405,
+      "title": "20 Zlotys (Battle of Warsaw 1920)",
+      "issuer": {
+        "code": "pologne",
+        "name": "Poland"
+      },
+      "min_year": 2020,
+      "max_year": 2020,
+      "face": {
+        "value": 20,
+        "unit": "Zlotys",
+        "text": "20 Zlotys"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 230405,
+        "title": "20 Zlotys (Battle of Warsaw 1920)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "pologne",
+          "name": "Poland"
+        },
+        "min_year": 2020,
+        "max_year": 2020,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pologne/5f242ab33f80c9.61558201-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pologne/5f242ab3d543f3.46406752-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 230975,
+      "title": "200 Zlotys",
+      "issuer": {
+        "code": "pologne",
+        "name": "Poland"
+      },
+      "min_year": 1994,
+      "max_year": 1994,
+      "face": {
+        "value": 200,
+        "unit": "Zlotys",
+        "text": "200 Zlotys"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 230975,
+        "title": "200 Zlotys",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "pologne",
+          "name": "Poland"
+        },
+        "min_year": 1994,
+        "max_year": 1994,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pologne/64c1bb2d4c31a8.42255939-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pologne/64c1bb2de50cf8.22425678-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 230977,
+      "title": "200 Zlotys",
+      "issuer": {
+        "code": "pologne",
+        "name": "Poland"
+      },
+      "min_year": 2015,
+      "max_year": 2026,
+      "face": {
+        "value": 200,
+        "unit": "Zlotys",
+        "text": "200 Zlotys"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 230977,
+        "title": "200 Zlotys",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "pologne",
+          "name": "Poland"
+        },
+        "min_year": 2015,
+        "max_year": 2026,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pologne/66802f52b6b479.36744883-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pologne/66802f7dc00bb3.65558333-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 234972,
+      "title": "2 000 000 Zlotys",
+      "issuer": {
+        "code": "pologne",
+        "name": "Poland"
+      },
+      "min_year": 1993,
+      "max_year": 1993,
+      "face": {
+        "value": 2000000,
+        "unit": "Zlotys",
+        "text": "2000000 Zlotys"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 234972,
+        "title": "2 000 000 Zlotys",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "pologne",
+          "name": "Poland"
+        },
+        "min_year": 1993,
+        "max_year": 1993,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pologne/5f4cc0e1bae115.56839373-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pologne/5f4cc0e27bb988.34732038-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 235789,
+      "title": "500 000 Zlotys",
+      "issuer": {
+        "code": "pologne",
+        "name": "Poland"
+      },
+      "min_year": 1990,
+      "max_year": 1990,
+      "face": {
+        "value": 500000,
+        "unit": "Zlotys",
+        "text": "500000 Zlotys"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 235789,
+        "title": "500 000 Zlotys",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "pologne",
+          "name": "Poland"
+        },
+        "min_year": 1990,
+        "max_year": 1990,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pologne/64c1b07f500500.59296336-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pologne/64c1b08008e420.66196411-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 235790,
+      "title": "1 000 000 Zlotys",
+      "issuer": {
+        "code": "pologne",
+        "name": "Poland"
+      },
+      "min_year": 1991,
+      "max_year": 1991,
+      "face": {
+        "value": 1000000,
+        "unit": "Zlotys",
+        "text": "1000000 Zlotys"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 235790,
+        "title": "1 000 000 Zlotys",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "pologne",
+          "name": "Poland"
+        },
+        "min_year": 1991,
+        "max_year": 1991,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pologne/5f5c6bbf86c557.97114531-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pologne/5f5c6bbfbd8ee4.79214261-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 235791,
+      "title": "2 000 000 Zlotys",
+      "issuer": {
+        "code": "pologne",
+        "name": "Poland"
+      },
+      "min_year": 1992,
+      "max_year": 1992,
+      "face": {
+        "value": 2000000,
+        "unit": "Zlotys",
+        "text": "2000000 Zlotys"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 235791,
+        "title": "2 000 000 Zlotys",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "pologne",
+          "name": "Poland"
+        },
+        "min_year": 1992,
+        "max_year": 1992,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pologne/64c1b2bd5daaf5.63426348-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pologne/64c1b2bde8edf1.33982458-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 235798,
+      "title": "1 000 000 Zlotys",
+      "issuer": {
+        "code": "pologne",
+        "name": "Poland"
+      },
+      "min_year": 1993,
+      "max_year": 1993,
+      "face": {
+        "value": 1000000,
+        "unit": "Zlotys",
+        "text": "1000000 Zlotys"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 235798,
+        "title": "1 000 000 Zlotys",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "pologne",
+          "name": "Poland"
+        },
+        "min_year": 1993,
+        "max_year": 1993,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pologne/5f5c6a756c6830.43953876-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pologne/5f5c6a7592c098.55815507-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 266510,
+      "title": "1 Zloty",
+      "issuer": {
+        "code": "pologne",
+        "name": "Poland"
+      },
+      "min_year": 1990,
+      "max_year": 1990,
+      "face": {
+        "value": 1,
+        "unit": "Zloty",
+        "text": "1 Zloty"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 266510,
+        "title": "1 Zloty",
+        "object_type": {
+          "id": 162,
+          "name": "Non-issued banknotes"
+        },
+        "issuer": {
+          "code": "pologne",
+          "name": "Poland"
+        },
+        "min_year": 1990,
+        "max_year": 1990,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pologne/5ffc7858b5c172.80574568-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pologne/5ffc785a440432.07449810-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 266516,
+      "title": "5 Zlotys",
+      "issuer": {
+        "code": "pologne",
+        "name": "Poland"
+      },
+      "min_year": 1990,
+      "max_year": 1990,
+      "face": {
+        "value": 5,
+        "unit": "Zlotys",
+        "text": "5 Zlotys"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 266516,
+        "title": "5 Zlotys",
+        "object_type": {
+          "id": 162,
+          "name": "Non-issued banknotes"
+        },
+        "issuer": {
+          "code": "pologne",
+          "name": "Poland"
+        },
+        "min_year": 1990,
+        "max_year": 1990,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pologne/5ffc7a6652af95.56315284-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pologne/5ffc7a67d1cc30.49926883-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 266523,
+      "title": "10 Zlotys",
+      "issuer": {
+        "code": "pologne",
+        "name": "Poland"
+      },
+      "min_year": 1990,
+      "max_year": 1990,
+      "face": {
+        "value": 10,
+        "unit": "Zlotys",
+        "text": "10 Zlotys"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 266523,
+        "title": "10 Zlotys",
+        "object_type": {
+          "id": 162,
+          "name": "Non-issued banknotes"
+        },
+        "issuer": {
+          "code": "pologne",
+          "name": "Poland"
+        },
+        "min_year": 1990,
+        "max_year": 1990,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pologne/5ffc7beb6e6fd9.70574655-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pologne/5ffc7bed326298.46161703-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 267677,
+      "title": "20 Zlotys",
+      "issuer": {
+        "code": "pologne",
+        "name": "Poland"
+      },
+      "min_year": 1990,
+      "max_year": 1990,
+      "face": {
+        "value": 20,
+        "unit": "Zlotys",
+        "text": "20 Zlotys"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 267677,
+        "title": "20 Zlotys",
+        "object_type": {
+          "id": 162,
+          "name": "Non-issued banknotes"
+        },
+        "issuer": {
+          "code": "pologne",
+          "name": "Poland"
+        },
+        "min_year": 1990,
+        "max_year": 1990,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pologne/6007078e9fa453.05307358-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pologne/600707900130b3.38592805-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 267678,
+      "title": "50 Zlotys",
+      "issuer": {
+        "code": "pologne",
+        "name": "Poland"
+      },
+      "min_year": 1990,
+      "max_year": 1990,
+      "face": {
+        "value": 50,
+        "unit": "Zlotys",
+        "text": "50 Zlotys"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 267678,
+        "title": "50 Zlotys",
+        "object_type": {
+          "id": 162,
+          "name": "Non-issued banknotes"
+        },
+        "issuer": {
+          "code": "pologne",
+          "name": "Poland"
+        },
+        "min_year": 1990,
+        "max_year": 1990,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pologne/60070917112d11.41248373-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pologne/600709189ba8a8.38433643-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 267679,
+      "title": "100 Zlotys",
+      "issuer": {
+        "code": "pologne",
+        "name": "Poland"
+      },
+      "min_year": 1990,
+      "max_year": 1990,
+      "face": {
+        "value": 100,
+        "unit": "Zlotys",
+        "text": "100 Zlotys"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 267679,
+        "title": "100 Zlotys",
+        "object_type": {
+          "id": 162,
+          "name": "Non-issued banknotes"
+        },
+        "issuer": {
+          "code": "pologne",
+          "name": "Poland"
+        },
+        "min_year": 1990,
+        "max_year": 1990,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pologne/60070a4e573e49.25481411-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pologne/60070a4fd4a024.64668272-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 267680,
+      "title": "200 Zlotys",
+      "issuer": {
+        "code": "pologne",
+        "name": "Poland"
+      },
+      "min_year": 1990,
+      "max_year": 1990,
+      "face": {
+        "value": 200,
+        "unit": "Zlotys",
+        "text": "200 Zlotys"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 267680,
+        "title": "200 Zlotys",
+        "object_type": {
+          "id": 162,
+          "name": "Non-issued banknotes"
+        },
+        "issuer": {
+          "code": "pologne",
+          "name": "Poland"
+        },
+        "min_year": 1990,
+        "max_year": 1990,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pologne/60070d1d91b563.36454196-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pologne/60070d1f1eca27.26187765-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 267681,
+      "title": "500 Zlotys",
+      "issuer": {
+        "code": "pologne",
+        "name": "Poland"
+      },
+      "min_year": 1990,
+      "max_year": 1990,
+      "face": {
+        "value": 500,
+        "unit": "Zlotys",
+        "text": "500 Zlotys"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 267681,
+        "title": "500 Zlotys",
+        "object_type": {
+          "id": 162,
+          "name": "Non-issued banknotes"
+        },
+        "issuer": {
+          "code": "pologne",
+          "name": "Poland"
+        },
+        "min_year": 1990,
+        "max_year": 1990,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pologne/60070e674d6f82.21700339-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pologne/60070e68ce77c5.49845168-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 309525,
+      "title": "20 Zlotys (Lech Kaczynski - It Is Worth Being A Pole)",
+      "issuer": {
+        "code": "pologne",
+        "name": "Poland"
+      },
+      "min_year": 2021,
+      "max_year": 2021,
+      "face": {
+        "value": 20,
+        "unit": "Zlotys",
+        "text": "20 Zlotys"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 309525,
+        "title": "20 Zlotys (Lech Kaczynski - It Is Worth Being A Pole)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "pologne",
+          "name": "Poland"
+        },
+        "min_year": 2021,
+        "max_year": 2021,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pologne/61a22f806353c5.98124014-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pologne/61a22f80b592d3.00808521-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 333545,
+      "title": "20 Zlotys (Protection of the Eastern Border)",
+      "issuer": {
+        "code": "pologne",
+        "name": "Poland"
+      },
+      "min_year": 2022,
+      "max_year": 2022,
+      "face": {
+        "value": 20,
+        "unit": "Zlotys",
+        "text": "20 Zlotys"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 333545,
+        "title": "20 Zlotys (Protection of the Eastern Border)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "pologne",
+          "name": "Poland"
+        },
+        "min_year": 2022,
+        "max_year": 2022,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pologne/62d67cfe9be2d6.62843771-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pologne/62d67cff0a86b7.32606327-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 353547,
+      "title": "20 Zlotys (Nicolaus Copernicus)",
+      "issuer": {
+        "code": "pologne",
+        "name": "Poland"
+      },
+      "min_year": 2023,
+      "max_year": 2023,
+      "face": {
+        "value": 20,
+        "unit": "Zlotys",
+        "text": "20 Zlotys"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 353547,
+        "title": "20 Zlotys (Nicolaus Copernicus)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "pologne",
+          "name": "Poland"
+        },
+        "min_year": 2023,
+        "max_year": 2023,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pologne/63e1dbdb57b8e1.44456220-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pologne/63e1dbdc1e7f63.82005651-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 426809,
+      "title": "20 Zlotys (Warsaw Uprising)",
+      "issuer": {
+        "code": "pologne",
+        "name": "Poland"
+      },
+      "min_year": 2024,
+      "max_year": 2024,
+      "face": {
+        "value": 20,
+        "unit": "Zlotys",
+        "text": "20 Zlotys"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 426809,
+        "title": "20 Zlotys (Warsaw Uprising)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "pologne",
+          "name": "Poland"
+        },
+        "min_year": 2024,
+        "max_year": 2024,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pologne/66a661ec679116.57648386-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pologne/66a661ed263541.89912468-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 525355,
+      "title": "20 Zlotys (Millennium of the Coronation of Boleslaus the Brave)",
+      "issuer": {
+        "code": "pologne",
+        "name": "Poland"
+      },
+      "min_year": 2025,
+      "max_year": 2025,
+      "face": {
+        "value": 20,
+        "unit": "Zlotys",
+        "text": "20 Zlotys"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 525355,
+        "title": "20 Zlotys (Millennium of the Coronation of Boleslaus the Brave)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "pologne",
+          "name": "Poland"
+        },
+        "min_year": 2025,
+        "max_year": 2025,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/pologne/690f514668ab34.62955220-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/pologne/690f51475bf6f8.01433450-180.jpg",
+        "category": "banknote"
+      }
+    }
+  ]
+}

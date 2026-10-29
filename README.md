@@ -29,12 +29,13 @@ node scripts/sync-numista.mjs --issuer japon --iso JP --since 1946
 node scripts/build-catalog.mjs
 ```
 
-批量拉取当前维护的国家（GB/BY/ID/SY/VE/BT/KH，叙利亚从 1900 起）：
+批量拉取当前维护的 42 个国家（1960+，叙利亚 1900 起）：
 
 ```powershell
-node scripts/batch-sync.mjs --dry-run     # 只统计，不写文件
-node scripts/batch-sync.mjs               # 全部同步（可断点续传）
-node scripts/batch-sync.mjs --only GB,BY  # 只跑一部分
+node scripts/batch-sync.mjs --estimate     # 只统计，不写文件
+node scripts/batch-sync.mjs --list-only    # 42 国打底：列表数据 + 标准流通钞，几乎不耗配额
+node scripts/batch-sync.mjs --backfill     # 下月额度重置后，给列表数据补详情/变体
+node scripts/batch-sync.mjs --only GB,BR   # 只跑一部分
 ```
 
 小国没有系列结构时，`locales.mjs` 的 `fallbackSeries` 会兜底到「标准流通钞」，不会产生 unassigned。

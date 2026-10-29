@@ -1,0 +1,2356 @@
+{
+  "meta": {
+    "generated_at": "2026-10-29T13:28:00.019Z",
+    "fixture": false,
+    "api": "numista v3",
+    "issuer": "egypte",
+    "iso": "EG",
+    "category": "banknote",
+    "lang": "en",
+    "since": 1960,
+    "listed": 115,
+    "fetched": 63,
+    "details_fetched": 0,
+    "dropped_before_since": 52,
+    "dropped_by_source": {
+      "list": 52,
+      "detail": 0
+    },
+    "issuer_mismatches": 0,
+    "pages": 3,
+    "requests": 0
+  },
+  "types": [
+    {
+      "numista_type_id": 201606,
+      "title": "10 Pounds",
+      "issuer": {
+        "code": "egypte",
+        "name": "Egypt"
+      },
+      "min_year": 1969,
+      "max_year": 1978,
+      "face": {
+        "value": 10,
+        "unit": "Pounds",
+        "text": "10 Pounds"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 201606,
+        "title": "10 Pounds",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "egypte",
+          "name": "Egypt"
+        },
+        "min_year": 1969,
+        "max_year": 1978,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/5f901cc10ab8d6.54095621-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/5f901cc19adcf2.94372898-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202073,
+      "title": "5 Piastres",
+      "issuer": {
+        "code": "egypte",
+        "name": "Egypt"
+      },
+      "min_year": 2002,
+      "max_year": 2006,
+      "face": {
+        "value": 5,
+        "unit": "Piastres",
+        "text": "5 Piastres"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202073,
+        "title": "5 Piastres",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "egypte",
+          "name": "Egypt"
+        },
+        "min_year": 2002,
+        "max_year": 2006,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/62ca8a870a3131.86735153-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/62ca8a87b090d0.05087063-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202087,
+      "title": "10 Pounds",
+      "issuer": {
+        "code": "egypte",
+        "name": "Egypt"
+      },
+      "min_year": 2013,
+      "max_year": 2026,
+      "face": {
+        "value": 10,
+        "unit": "Pounds",
+        "text": "10 Pounds"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202087,
+        "title": "10 Pounds",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "egypte",
+          "name": "Egypt"
+        },
+        "min_year": 2013,
+        "max_year": 2026,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/60706069221c48.28452994-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/6070606ace6844.32435435-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202276,
+      "title": "1 Pound",
+      "issuer": {
+        "code": "egypte",
+        "name": "Egypt"
+      },
+      "min_year": 1978,
+      "max_year": 2022,
+      "face": {
+        "value": 1,
+        "unit": "Pound",
+        "text": "1 Pound"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202276,
+        "title": "1 Pound",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "egypte",
+          "name": "Egypt"
+        },
+        "min_year": 1978,
+        "max_year": 2022,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/62ca8985351d61.35498269-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/62ca8985e7eb32.57499291-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203015,
+      "title": "20 Pounds",
+      "issuer": {
+        "code": "egypte",
+        "name": "Egypt"
+      },
+      "min_year": 2001,
+      "max_year": 2016,
+      "face": {
+        "value": 20,
+        "unit": "Pounds",
+        "text": "20 Pounds"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203015,
+        "title": "20 Pounds",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "egypte",
+          "name": "Egypt"
+        },
+        "min_year": 2001,
+        "max_year": 2016,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/609fece2a26434.44381065-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/633aef692a78c8.95285931-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203021,
+      "title": "50 Pounds",
+      "issuer": {
+        "code": "egypte",
+        "name": "Egypt"
+      },
+      "min_year": 2001,
+      "max_year": 2015,
+      "face": {
+        "value": 50,
+        "unit": "Pounds",
+        "text": "50 Pounds"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203021,
+        "title": "50 Pounds",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "egypte",
+          "name": "Egypt"
+        },
+        "min_year": 2001,
+        "max_year": 2015,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/6182b07add1668.65057961-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/6182b07c9e3d76.14364816-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203124,
+      "title": "10 Pounds",
+      "issuer": {
+        "code": "egypte",
+        "name": "Egypt"
+      },
+      "min_year": 1978,
+      "max_year": 2000,
+      "face": {
+        "value": 10,
+        "unit": "Pounds",
+        "text": "10 Pounds"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203124,
+        "title": "10 Pounds",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "egypte",
+          "name": "Egypt"
+        },
+        "min_year": 1978,
+        "max_year": 2000,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/66e20d9492b758.11962794-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/66e20d9b9027f3.25715496-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203131,
+      "title": "50 Piastres",
+      "issuer": {
+        "code": "egypte",
+        "name": "Egypt"
+      },
+      "min_year": 1994,
+      "max_year": 2008,
+      "face": {
+        "value": 50,
+        "unit": "Piastres",
+        "text": "50 Piastres"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203131,
+        "title": "50 Piastres",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "egypte",
+          "name": "Egypt"
+        },
+        "min_year": 1994,
+        "max_year": 2008,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/62ca89d2ce4741.54438971-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/62ca89d3828688.67320388-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203526,
+      "title": "20 Pounds",
+      "issuer": {
+        "code": "egypte",
+        "name": "Egypt"
+      },
+      "min_year": 1976,
+      "max_year": 1978,
+      "face": {
+        "value": 20,
+        "unit": "Pounds",
+        "text": "20 Pounds"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203526,
+        "title": "20 Pounds",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "egypte",
+          "name": "Egypt"
+        },
+        "min_year": 1976,
+        "max_year": 1978,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/5f9a90e70c3ea3.14465467-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/5f9a90e7c0f250.53863966-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203933,
+      "title": "50 Piastres",
+      "issuer": {
+        "code": "egypte",
+        "name": "Egypt"
+      },
+      "min_year": 2017,
+      "max_year": 2017,
+      "face": {
+        "value": 50,
+        "unit": "Piastres",
+        "text": "50 Piastres"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203933,
+        "title": "50 Piastres",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "egypte",
+          "name": "Egypt"
+        },
+        "min_year": 2017,
+        "max_year": 2017,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/62ff2f3253e3f8.75502175-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/62ff2f33b3dd10.16670310-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204167,
+      "title": "25 Piastres",
+      "issuer": {
+        "code": "egypte",
+        "name": "Egypt"
+      },
+      "min_year": 1976,
+      "max_year": 1978,
+      "face": {
+        "value": 25,
+        "unit": "Piastres",
+        "text": "25 Piastres"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204167,
+        "title": "25 Piastres",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "egypte",
+          "name": "Egypt"
+        },
+        "min_year": 1976,
+        "max_year": 1978,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/614c74d4389981.66089698-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/614c74d49f9158.48919581-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204169,
+      "title": "5 Piastres",
+      "issuer": {
+        "code": "egypte",
+        "name": "Egypt"
+      },
+      "min_year": 1971,
+      "max_year": 1989,
+      "face": {
+        "value": 5,
+        "unit": "Piastres",
+        "text": "5 Piastres"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204169,
+        "title": "5 Piastres",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "egypte",
+          "name": "Egypt"
+        },
+        "min_year": 1971,
+        "max_year": 1989,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/5e9afd9bd49423.26823560-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/5e9afd9c326f42.48580444-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204738,
+      "title": "25 Piastres",
+      "issuer": {
+        "code": "egypte",
+        "name": "Egypt"
+      },
+      "min_year": 1985,
+      "max_year": 2008,
+      "face": {
+        "value": 25,
+        "unit": "Piastres",
+        "text": "25 Piastres"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204738,
+        "title": "25 Piastres",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "egypte",
+          "name": "Egypt"
+        },
+        "min_year": 1985,
+        "max_year": 2008,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/62ee780a48c353.97104051-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/62ee780b7af2b2.53563189-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205253,
+      "title": "10 Pounds",
+      "issuer": {
+        "code": "egypte",
+        "name": "Egypt"
+      },
+      "min_year": 2003,
+      "max_year": 2014,
+      "face": {
+        "value": 10,
+        "unit": "Pounds",
+        "text": "10 Pounds"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205253,
+        "title": "10 Pounds",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "egypte",
+          "name": "Egypt"
+        },
+        "min_year": 2003,
+        "max_year": 2014,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/5ebb4a8128f7f7.33241073-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/5ebb4a82250714.74355916-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205822,
+      "title": "10 Piastres (violet center)",
+      "issuer": {
+        "code": "egypte",
+        "name": "Egypt"
+      },
+      "min_year": 1999,
+      "max_year": 2002,
+      "face": {
+        "value": 10,
+        "unit": "Piastres",
+        "text": "10 Piastres"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205822,
+        "title": "10 Piastres (violet center)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "egypte",
+          "name": "Egypt"
+        },
+        "min_year": 1999,
+        "max_year": 2002,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/633b0dcf489b75.18984685-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/633b0dd0633d69.80140111-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205827,
+      "title": "5 Pounds",
+      "issuer": {
+        "code": "egypte",
+        "name": "Egypt"
+      },
+      "min_year": 2013,
+      "max_year": 2025,
+      "face": {
+        "value": 5,
+        "unit": "Pounds",
+        "text": "5 Pounds"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205827,
+        "title": "5 Pounds",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "egypte",
+          "name": "Egypt"
+        },
+        "min_year": 2013,
+        "max_year": 2025,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/62ffbaf80c9701.75616547-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/62ffbaf97e3140.27691320-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205830,
+      "title": "5 Piastres",
+      "issuer": {
+        "code": "egypte",
+        "name": "Egypt"
+      },
+      "min_year": 1998,
+      "max_year": 1999,
+      "face": {
+        "value": 5,
+        "unit": "Piastres",
+        "text": "5 Piastres"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205830,
+        "title": "5 Piastres",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "egypte",
+          "name": "Egypt"
+        },
+        "min_year": 1998,
+        "max_year": 1999,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/681664f6b6deb8.85504778-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/681664f7452366.51634724-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205837,
+      "title": "200 Pounds",
+      "issuer": {
+        "code": "egypte",
+        "name": "Egypt"
+      },
+      "min_year": 2013,
+      "max_year": 2026,
+      "face": {
+        "value": 200,
+        "unit": "Pounds",
+        "text": "200 Pounds"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205837,
+        "title": "200 Pounds",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "egypte",
+          "name": "Egypt"
+        },
+        "min_year": 2013,
+        "max_year": 2026,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/62ffc31c0cdef0.30641706-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/62ffc31db78cd7.59088913-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206644,
+      "title": "10 Piastres (Flag with eagle)",
+      "issuer": {
+        "code": "egypte",
+        "name": "Egypt"
+      },
+      "min_year": 1982,
+      "max_year": 1991,
+      "face": {
+        "value": 10,
+        "unit": "Piastres",
+        "text": "10 Piastres"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206644,
+        "title": "10 Piastres (Flag with eagle)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "egypte",
+          "name": "Egypt"
+        },
+        "min_year": 1982,
+        "max_year": 1991,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/5f0e386b1745f3.01620355-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/5f0e386ebb84f8.66562857-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206660,
+      "title": "50 Piastres",
+      "issuer": {
+        "code": "egypte",
+        "name": "Egypt"
+      },
+      "min_year": 1985,
+      "max_year": 1995,
+      "face": {
+        "value": 50,
+        "unit": "Piastres",
+        "text": "50 Piastres"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206660,
+        "title": "50 Piastres",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "egypte",
+          "name": "Egypt"
+        },
+        "min_year": 1985,
+        "max_year": 1995,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/62ff2e9b5564d3.38504745-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/62ff2e9ca87785.18936143-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206674,
+      "title": "5 Pounds",
+      "issuer": {
+        "code": "egypte",
+        "name": "Egypt"
+      },
+      "min_year": 1989,
+      "max_year": 2001,
+      "face": {
+        "value": 5,
+        "unit": "Pounds",
+        "text": "5 Pounds"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206674,
+        "title": "5 Pounds",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "egypte",
+          "name": "Egypt"
+        },
+        "min_year": 1989,
+        "max_year": 2001,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/5f9181672cccc5.58466406-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/5f9181690e9ad1.73779029-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206686,
+      "title": "100 Pounds",
+      "issuer": {
+        "code": "egypte",
+        "name": "Egypt"
+      },
+      "min_year": 2000,
+      "max_year": 2014,
+      "face": {
+        "value": 100,
+        "unit": "Pounds",
+        "text": "100 Pounds"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206686,
+        "title": "100 Pounds",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "egypte",
+          "name": "Egypt"
+        },
+        "min_year": 2000,
+        "max_year": 2014,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/5ea170dc2ca258.02381500-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/5ea170de32c3a0.76551775-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 207139,
+      "title": "5 Pounds",
+      "issuer": {
+        "code": "egypte",
+        "name": "Egypt"
+      },
+      "min_year": 1952,
+      "max_year": 1960,
+      "face": {
+        "value": 5,
+        "unit": "Pounds",
+        "text": "5 Pounds"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 207139,
+        "title": "5 Pounds",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "egypte",
+          "name": "Egypt"
+        },
+        "min_year": 1952,
+        "max_year": 1960,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/6847de49389ec3.08128016-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/6847de49ca5de4.23546288-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 207217,
+      "title": "25 Piastres (Two stars in Coat of Arms)",
+      "issuer": {
+        "code": "egypte",
+        "name": "Egypt"
+      },
+      "min_year": 1967,
+      "max_year": 1975,
+      "face": {
+        "value": 25,
+        "unit": "Piastres",
+        "text": "25 Piastres"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 207217,
+        "title": "25 Piastres (Two stars in Coat of Arms)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "egypte",
+          "name": "Egypt"
+        },
+        "min_year": 1967,
+        "max_year": 1975,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/5fc4f1591f8561.15439333-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/5fc4f159bc3292.38753146-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 207247,
+      "title": "10 Piastres",
+      "issuer": {
+        "code": "egypte",
+        "name": "Egypt"
+      },
+      "min_year": 2006,
+      "max_year": 2006,
+      "face": {
+        "value": 10,
+        "unit": "Piastres",
+        "text": "10 Piastres"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 207247,
+        "title": "10 Piastres",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "egypte",
+          "name": "Egypt"
+        },
+        "min_year": 2006,
+        "max_year": 2006,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/62ca8ac8248fb2.85627776-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/62ca8ac8922183.18783893-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 207260,
+      "title": "200 Pounds",
+      "issuer": {
+        "code": "egypte",
+        "name": "Egypt"
+      },
+      "min_year": 2007,
+      "max_year": 2014,
+      "face": {
+        "value": 200,
+        "unit": "Pounds",
+        "text": "200 Pounds"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 207260,
+        "title": "200 Pounds",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "egypte",
+          "name": "Egypt"
+        },
+        "min_year": 2007,
+        "max_year": 2014,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/6849ac66189d32.69271529-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/6849ac67ae3384.04351592-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 207654,
+      "title": "20 Pounds (Without Omron rings)",
+      "issuer": {
+        "code": "egypte",
+        "name": "Egypt"
+      },
+      "min_year": 1978,
+      "max_year": 1998,
+      "face": {
+        "value": 20,
+        "unit": "Pounds",
+        "text": "20 Pounds"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 207654,
+        "title": "20 Pounds (Without Omron rings)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "egypte",
+          "name": "Egypt"
+        },
+        "min_year": 1978,
+        "max_year": 1998,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/63947adf3d5042.66518292-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/63947adfcc0938.96181381-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 207661,
+      "title": "50 Pounds (Without Omron rings)",
+      "issuer": {
+        "code": "egypte",
+        "name": "Egypt"
+      },
+      "min_year": 1993,
+      "max_year": 1999,
+      "face": {
+        "value": 50,
+        "unit": "Pounds",
+        "text": "50 Pounds"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 207661,
+        "title": "50 Pounds (Without Omron rings)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "egypte",
+          "name": "Egypt"
+        },
+        "min_year": 1993,
+        "max_year": 1999,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/63947eba003af0.58271929-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/63947eba858660.83084880-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 207824,
+      "title": "5 Pounds",
+      "issuer": {
+        "code": "egypte",
+        "name": "Egypt"
+      },
+      "min_year": 1981,
+      "max_year": 1989,
+      "face": {
+        "value": 5,
+        "unit": "Pounds",
+        "text": "5 Pounds"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 207824,
+        "title": "5 Pounds",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "egypte",
+          "name": "Egypt"
+        },
+        "min_year": 1981,
+        "max_year": 1989,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/5fa28732e984b7.45821215-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/5fa28733630307.69158206-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 208003,
+      "title": "1 Pound",
+      "issuer": {
+        "code": "egypte",
+        "name": "Egypt"
+      },
+      "min_year": 1952,
+      "max_year": 1961,
+      "face": {
+        "value": 1,
+        "unit": "Pound",
+        "text": "1 Pound"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 208003,
+        "title": "1 Pound",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "egypte",
+          "name": "Egypt"
+        },
+        "min_year": 1952,
+        "max_year": 1961,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/614b34ffe3fe89.50503518-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/614b3500891922.34965911-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 208015,
+      "title": "1 Pound",
+      "issuer": {
+        "code": "egypte",
+        "name": "Egypt"
+      },
+      "min_year": 1968,
+      "max_year": 1978,
+      "face": {
+        "value": 1,
+        "unit": "Pound",
+        "text": "1 Pound"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 208015,
+        "title": "1 Pound",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "egypte",
+          "name": "Egypt"
+        },
+        "min_year": 1968,
+        "max_year": 1978,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/62ff2f7a494276.54026137-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/62ff2f7be86490.27349452-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 208026,
+      "title": "1 Pound",
+      "issuer": {
+        "code": "egypte",
+        "name": "Egypt"
+      },
+      "min_year": 1961,
+      "max_year": 1967,
+      "face": {
+        "value": 1,
+        "unit": "Pound",
+        "text": "1 Pound"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 208026,
+        "title": "1 Pound",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "egypte",
+          "name": "Egypt"
+        },
+        "min_year": 1961,
+        "max_year": 1967,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/5f9d5ff9d41c77.26004997-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/5f9d5ffa6bebf2.96402826-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 208033,
+      "title": "5 Pounds",
+      "issuer": {
+        "code": "egypte",
+        "name": "Egypt"
+      },
+      "min_year": 1969,
+      "max_year": 1978,
+      "face": {
+        "value": 5,
+        "unit": "Pounds",
+        "text": "5 Pounds"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 208033,
+        "title": "5 Pounds",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "egypte",
+          "name": "Egypt"
+        },
+        "min_year": 1969,
+        "max_year": 1978,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/62ffba509a3eb2.40187155-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/62ffba51bebc09.45795775-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 208040,
+      "title": "50 Piastres",
+      "issuer": {
+        "code": "egypte",
+        "name": "Egypt"
+      },
+      "min_year": 1967,
+      "max_year": 1978,
+      "face": {
+        "value": 50,
+        "unit": "Piastres",
+        "text": "50 Piastres"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 208040,
+        "title": "50 Piastres",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "egypte",
+          "name": "Egypt"
+        },
+        "min_year": 1967,
+        "max_year": 1978,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/616c5585a98177.30803269-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/616c5586318580.01030085-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 208209,
+      "title": "50 Piastres",
+      "issuer": {
+        "code": "egypte",
+        "name": "Egypt"
+      },
+      "min_year": 1961,
+      "max_year": 1966,
+      "face": {
+        "value": 50,
+        "unit": "Piastres",
+        "text": "50 Piastres"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 208209,
+        "title": "50 Piastres",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "egypte",
+          "name": "Egypt"
+        },
+        "min_year": 1961,
+        "max_year": 1966,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/608d3981aac653.67725956-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/608d39822dd958.67033103-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 208215,
+      "title": "5 Pounds",
+      "issuer": {
+        "code": "egypte",
+        "name": "Egypt"
+      },
+      "min_year": 2001,
+      "max_year": 2014,
+      "face": {
+        "value": 5,
+        "unit": "Pounds",
+        "text": "5 Pounds"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 208215,
+        "title": "5 Pounds",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "egypte",
+          "name": "Egypt"
+        },
+        "min_year": 2001,
+        "max_year": 2014,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/62ffbcf706d561.78716980-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/62ffbcf87f8799.51585279-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 208232,
+      "title": "5 Piastres (UAR)",
+      "issuer": {
+        "code": "egypte",
+        "name": "Egypt"
+      },
+      "min_year": 1961,
+      "max_year": 1970,
+      "face": {
+        "value": 5,
+        "unit": "Piastres",
+        "text": "5 Piastres"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 208232,
+        "title": "5 Piastres (UAR)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "egypte",
+          "name": "Egypt"
+        },
+        "min_year": 1961,
+        "max_year": 1970,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/5ea6edbff06c48.80897846-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/5ea6edc0688d92.00629452-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 208343,
+      "title": "5 Piastres",
+      "issuer": {
+        "code": "egypte",
+        "name": "Egypt"
+      },
+      "min_year": 1997,
+      "max_year": 1998,
+      "face": {
+        "value": 5,
+        "unit": "Piastres",
+        "text": "5 Piastres"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 208343,
+        "title": "5 Piastres",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "egypte",
+          "name": "Egypt"
+        },
+        "min_year": 1997,
+        "max_year": 1998,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/6270e285a31090.70174522-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/6270e286506297.08156622-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 208363,
+      "title": "10 Piastres (Flag with two stars)",
+      "issuer": {
+        "code": "egypte",
+        "name": "Egypt"
+      },
+      "min_year": 1971,
+      "max_year": 1982,
+      "face": {
+        "value": 10,
+        "unit": "Piastres",
+        "text": "10 Piastres"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 208363,
+        "title": "10 Piastres (Flag with two stars)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "egypte",
+          "name": "Egypt"
+        },
+        "min_year": 1971,
+        "max_year": 1982,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/62ffad3b789fd0.99383008-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/62ffad3c31cf28.83310479-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 208373,
+      "title": "25 Piastres",
+      "issuer": {
+        "code": "egypte",
+        "name": "Egypt"
+      },
+      "min_year": 1961,
+      "max_year": 1966,
+      "face": {
+        "value": 25,
+        "unit": "Piastres",
+        "text": "25 Piastres"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 208373,
+        "title": "25 Piastres",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "egypte",
+          "name": "Egypt"
+        },
+        "min_year": 1961,
+        "max_year": 1966,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/6258286de97f62.76177393-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/6258286e6fd858.27529711-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 208625,
+      "title": "10 Pounds",
+      "issuer": {
+        "code": "egypte",
+        "name": "Egypt"
+      },
+      "min_year": 1961,
+      "max_year": 1965,
+      "face": {
+        "value": 10,
+        "unit": "Pounds",
+        "text": "10 Pounds"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 208625,
+        "title": "10 Pounds",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "egypte",
+          "name": "Egypt"
+        },
+        "min_year": 1961,
+        "max_year": 1965,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/5fa00b910c2ab9.16247214-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/5fa00b91b81936.25363797-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 209289,
+      "title": "25 Piastres",
+      "issuer": {
+        "code": "egypte",
+        "name": "Egypt"
+      },
+      "min_year": 1979,
+      "max_year": 1979,
+      "face": {
+        "value": 25,
+        "unit": "Piastres",
+        "text": "25 Piastres"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 209289,
+        "title": "25 Piastres",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "egypte",
+          "name": "Egypt"
+        },
+        "min_year": 1979,
+        "max_year": 1979,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/5ea9e3b977df36.59119189-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/5ea9e3ba131d90.09017965-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 209291,
+      "title": "25 Piastres",
+      "issuer": {
+        "code": "egypte",
+        "name": "Egypt"
+      },
+      "min_year": 1980,
+      "max_year": 1984,
+      "face": {
+        "value": 25,
+        "unit": "Piastres",
+        "text": "25 Piastres"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 209291,
+        "title": "25 Piastres",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "egypte",
+          "name": "Egypt"
+        },
+        "min_year": 1980,
+        "max_year": 1984,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/62ff2e5b510928.13984327-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/62ff2e5caeef09.15747324-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 209299,
+      "title": "10 Piastres",
+      "issuer": {
+        "code": "egypte",
+        "name": "Egypt"
+      },
+      "min_year": 1996,
+      "max_year": 1999,
+      "face": {
+        "value": 10,
+        "unit": "Piastres",
+        "text": "10 Piastres"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 209299,
+        "title": "10 Piastres",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "egypte",
+          "name": "Egypt"
+        },
+        "min_year": 1996,
+        "max_year": 1999,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/62ff2bf39021d6.54366941-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/62ff2bf48614b0.08102457-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 209798,
+      "title": "50 Piastres",
+      "issuer": {
+        "code": "egypte",
+        "name": "Egypt"
+      },
+      "min_year": 1981,
+      "max_year": 1983,
+      "face": {
+        "value": 50,
+        "unit": "Piastres",
+        "text": "50 Piastres"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 209798,
+        "title": "50 Piastres",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "egypte",
+          "name": "Egypt"
+        },
+        "min_year": 1981,
+        "max_year": 1983,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/63298a564ecb14.68791359-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/63298a56c02ac7.89188262-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 210257,
+      "title": "50 Pounds",
+      "issuer": {
+        "code": "egypte",
+        "name": "Egypt"
+      },
+      "min_year": 2016,
+      "max_year": 2026,
+      "face": {
+        "value": 50,
+        "unit": "Pounds",
+        "text": "50 Pounds"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 210257,
+        "title": "50 Pounds",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "egypte",
+          "name": "Egypt"
+        },
+        "min_year": 2016,
+        "max_year": 2026,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/5eac8ddbb3c301.50895260-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/5eac8ddc6126a2.32995814-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 210618,
+      "title": "10 Piastres (Flag with two stars)",
+      "issuer": {
+        "code": "egypte",
+        "name": "Egypt"
+      },
+      "min_year": 1960,
+      "max_year": 1971,
+      "face": {
+        "value": 10,
+        "unit": "Piastres",
+        "text": "10 Piastres"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 210618,
+        "title": "10 Piastres (Flag with two stars)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "egypte",
+          "name": "Egypt"
+        },
+        "min_year": 1960,
+        "max_year": 1971,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/60901366c6b1f5.88252596-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/609013673ab246.91730616-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 212209,
+      "title": "200 Pounds",
+      "issuer": {
+        "code": "egypte",
+        "name": "Egypt"
+      },
+      "min_year": 2007,
+      "max_year": 2008,
+      "face": {
+        "value": 200,
+        "unit": "Pounds",
+        "text": "200 Pounds"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 212209,
+        "title": "200 Pounds",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "egypte",
+          "name": "Egypt"
+        },
+        "min_year": 2007,
+        "max_year": 2008,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/63299799a1fdd1.34918635-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/6329979a4cb0d2.75379206-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 212973,
+      "title": "20 Pounds",
+      "issuer": {
+        "code": "egypte",
+        "name": "Egypt"
+      },
+      "min_year": 2016,
+      "max_year": 2025,
+      "face": {
+        "value": 20,
+        "unit": "Pounds",
+        "text": "20 Pounds"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 212973,
+        "title": "20 Pounds",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "egypte",
+          "name": "Egypt"
+        },
+        "min_year": 2016,
+        "max_year": 2025,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/633af09b05e9a9.31861276-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/633af09caa95d1.69510620-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 212981,
+      "title": "100 Pounds",
+      "issuer": {
+        "code": "egypte",
+        "name": "Egypt"
+      },
+      "min_year": 2013,
+      "max_year": 2026,
+      "face": {
+        "value": 100,
+        "unit": "Pounds",
+        "text": "100 Pounds"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 212981,
+        "title": "100 Pounds",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "egypte",
+          "name": "Egypt"
+        },
+        "min_year": 2013,
+        "max_year": 2026,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/5eb511e14a91b1.55571641-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/5eb511e2d24fc5.73840293-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 217950,
+      "title": "10 Pounds",
+      "issuer": {
+        "code": "egypte",
+        "name": "Egypt"
+      },
+      "min_year": 1952,
+      "max_year": 1960,
+      "face": {
+        "value": 10,
+        "unit": "Pounds",
+        "text": "10 Pounds"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 217950,
+        "title": "10 Pounds",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "egypte",
+          "name": "Egypt"
+        },
+        "min_year": 1952,
+        "max_year": 1960,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/5f9e8a793b3701.05079813-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/5f9e8d1ec86e66.82354931-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 220350,
+      "title": "50 Piastres",
+      "issuer": {
+        "code": "egypte",
+        "name": "Egypt"
+      },
+      "min_year": 1952,
+      "max_year": 1960,
+      "face": {
+        "value": 50,
+        "unit": "Piastres",
+        "text": "50 Piastres"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 220350,
+        "title": "50 Piastres",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "egypte",
+          "name": "Egypt"
+        },
+        "min_year": 1952,
+        "max_year": 1960,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/6ad87b73328ba8.36259408-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/6ad87b74b03162.75397454-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 220353,
+      "title": "5 Pounds",
+      "issuer": {
+        "code": "egypte",
+        "name": "Egypt"
+      },
+      "min_year": 1961,
+      "max_year": 1961,
+      "face": {
+        "value": 5,
+        "unit": "Pounds",
+        "text": "5 Pounds"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 220353,
+        "title": "5 Pounds",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "egypte",
+          "name": "Egypt"
+        },
+        "min_year": 1961,
+        "max_year": 1961,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/6ad4adaa0f0521.98687440-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/6ad4adab360ca5.97912006-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 220354,
+      "title": "5 Pounds",
+      "issuer": {
+        "code": "egypte",
+        "name": "Egypt"
+      },
+      "min_year": 1961,
+      "max_year": 1964,
+      "face": {
+        "value": 5,
+        "unit": "Pounds",
+        "text": "5 Pounds"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 220354,
+        "title": "5 Pounds",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "egypte",
+          "name": "Egypt"
+        },
+        "min_year": 1961,
+        "max_year": 1964,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/5edb60e0922386.18516603-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/5edb60e0d55319.23414865-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 220355,
+      "title": "5 Pounds (Violet)",
+      "issuer": {
+        "code": "egypte",
+        "name": "Egypt"
+      },
+      "min_year": 1964,
+      "max_year": 1965,
+      "face": {
+        "value": 5,
+        "unit": "Pounds",
+        "text": "5 Pounds"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 220355,
+        "title": "5 Pounds (Violet)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "egypte",
+          "name": "Egypt"
+        },
+        "min_year": 1964,
+        "max_year": 1965,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/631db892d9c909.29791516-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/631db8937a1ef2.34748942-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 220357,
+      "title": "100 Pounds",
+      "issuer": {
+        "code": "egypte",
+        "name": "Egypt"
+      },
+      "min_year": 1978,
+      "max_year": 1992,
+      "face": {
+        "value": 100,
+        "unit": "Pounds",
+        "text": "100 Pounds"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 220357,
+        "title": "100 Pounds",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "egypte",
+          "name": "Egypt"
+        },
+        "min_year": 1978,
+        "max_year": 1992,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/609ff4904d80b4.95986670-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/609ff490ce90f2.27043891-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 220359,
+      "title": "100 Pounds",
+      "issuer": {
+        "code": "egypte",
+        "name": "Egypt"
+      },
+      "min_year": 1994,
+      "max_year": 1997,
+      "face": {
+        "value": 100,
+        "unit": "Pounds",
+        "text": "100 Pounds"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 220359,
+        "title": "100 Pounds",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "egypte",
+          "name": "Egypt"
+        },
+        "min_year": 1994,
+        "max_year": 1997,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/6849aed681fcb6.16035803-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/6849aed82f8392.11559146-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 220413,
+      "title": "5 Piastres (UAR, Egyptian Province)",
+      "issuer": {
+        "code": "egypte",
+        "name": "Egypt"
+      },
+      "min_year": 1958,
+      "max_year": 1960,
+      "face": {
+        "value": 5,
+        "unit": "Piastres",
+        "text": "5 Piastres"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 220413,
+        "title": "5 Piastres (UAR, Egyptian Province)",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "egypte",
+          "name": "Egypt"
+        },
+        "min_year": 1958,
+        "max_year": 1960,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/614ca37ec897a6.71976648-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/614ca37f1bb747.58687575-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 220415,
+      "title": "10 Piastres (Flag with two stars)",
+      "issuer": {
+        "code": "egypte",
+        "name": "Egypt"
+      },
+      "min_year": 1958,
+      "max_year": 1960,
+      "face": {
+        "value": 10,
+        "unit": "Piastres",
+        "text": "10 Piastres"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 220415,
+        "title": "10 Piastres (Flag with two stars)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "egypte",
+          "name": "Egypt"
+        },
+        "min_year": 1958,
+        "max_year": 1960,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/6257f8e304d8f2.03741135-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/6257f8e35b99b1.66056197-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 220417,
+      "title": "5 Piastres (Mule error issue)",
+      "issuer": {
+        "code": "egypte",
+        "name": "Egypt"
+      },
+      "min_year": 1997,
+      "max_year": 1998,
+      "face": {
+        "value": 5,
+        "unit": "Piastres",
+        "text": "5 Piastres"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 220417,
+        "title": "5 Piastres (Mule error issue)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "egypte",
+          "name": "Egypt"
+        },
+        "min_year": 1997,
+        "max_year": 1998,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/614deda9686103.18175076-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/614dedaa3cad95.54528548-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 332533,
+      "title": "10 Pounds",
+      "issuer": {
+        "code": "egypte",
+        "name": "Egypt"
+      },
+      "min_year": 2022,
+      "max_year": 2025,
+      "face": {
+        "value": 10,
+        "unit": "Pounds",
+        "text": "10 Pounds"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 332533,
+        "title": "10 Pounds",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "egypte",
+          "name": "Egypt"
+        },
+        "min_year": 2022,
+        "max_year": 2025,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/63c4fd62ee0598.54564985-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/63c4fd63ab21f0.72467355-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 332536,
+      "title": "20 Pounds",
+      "issuer": {
+        "code": "egypte",
+        "name": "Egypt"
+      },
+      "min_year": 2023,
+      "max_year": 2026,
+      "face": {
+        "value": 20,
+        "unit": "Pounds",
+        "text": "20 Pounds"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 332536,
+        "title": "20 Pounds",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "egypte",
+          "name": "Egypt"
+        },
+        "min_year": 2023,
+        "max_year": 2026,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/64ba4c3af28d41.78830333-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/64ba4c3c439702.86688491-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 341028,
+      "title": "10 Piastres (Light Blue Center)",
+      "issuer": {
+        "code": "egypte",
+        "name": "Egypt"
+      },
+      "min_year": 1998,
+      "max_year": 1999,
+      "face": {
+        "value": 10,
+        "unit": "Piastres",
+        "text": "10 Piastres"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 341028,
+        "title": "10 Piastres (Light Blue Center)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "egypte",
+          "name": "Egypt"
+        },
+        "min_year": 1998,
+        "max_year": 1999,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/633b0d283025d4.79713979-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/egypte/633b0d2934e273.63482116-180.jpg",
+        "category": "banknote"
+      }
+    }
+  ]
+}

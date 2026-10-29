@@ -1,0 +1,2726 @@
+{
+  "meta": {
+    "generated_at": "2026-10-29T13:27:58.120Z",
+    "fixture": false,
+    "api": "numista v3",
+    "issuer": "thailande",
+    "iso": "TH",
+    "category": "banknote",
+    "lang": "en",
+    "since": 1960,
+    "listed": 167,
+    "fetched": 73,
+    "details_fetched": 0,
+    "dropped_before_since": 94,
+    "dropped_by_source": {
+      "list": 94,
+      "detail": 0
+    },
+    "issuer_mismatches": 0,
+    "pages": 4,
+    "requests": 0
+  },
+  "types": [
+    {
+      "numista_type_id": 202122,
+      "title": "20 Baht - Rama IX (Series 15)",
+      "issuer": {
+        "code": "thailande",
+        "name": "Thailand"
+      },
+      "min_year": 2003,
+      "max_year": 2013,
+      "face": {
+        "value": 20,
+        "unit": "Baht",
+        "text": "20 Baht"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202122,
+        "title": "20 Baht - Rama IX (Series 15)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "thailande",
+          "name": "Thailand"
+        },
+        "min_year": 2003,
+        "max_year": 2013,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/62736afa943c36.92259362-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/62736afb38d401.38815420-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202941,
+      "title": "50 Baht - Rama IX (Series 15; Type I polymer)",
+      "issuer": {
+        "code": "thailande",
+        "name": "Thailand"
+      },
+      "min_year": 1997,
+      "max_year": 2004,
+      "face": {
+        "value": 50,
+        "unit": "Baht",
+        "text": "50 Baht"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202941,
+        "title": "50 Baht - Rama IX (Series 15; Type I polymer)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "thailande",
+          "name": "Thailand"
+        },
+        "min_year": 1997,
+        "max_year": 2004,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/62736ace1206b3.21356774-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/62736acebf15a5.31988967-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203579,
+      "title": "16 Baht - Rama IX (80th Birthday of King Rama IX)",
+      "issuer": {
+        "code": "thailande",
+        "name": "Thailand"
+      },
+      "min_year": 2007,
+      "max_year": 2007,
+      "face": {
+        "value": 16,
+        "unit": "Baht",
+        "text": "16 Baht"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203579,
+        "title": "16 Baht - Rama IX (80th Birthday of King Rama IX)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "thailande",
+          "name": "Thailand"
+        },
+        "min_year": 2007,
+        "max_year": 2007,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/651ae550ec4d87.69375822-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/651ae55281dc56.90768073-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203643,
+      "title": "20 Baht - Rama IX (Series 12)",
+      "issuer": {
+        "code": "thailande",
+        "name": "Thailand"
+      },
+      "min_year": 1981,
+      "max_year": 1981,
+      "face": {
+        "value": 20,
+        "unit": "Baht",
+        "text": "20 Baht"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203643,
+        "title": "20 Baht - Rama IX (Series 12)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "thailande",
+          "name": "Thailand"
+        },
+        "min_year": 1981,
+        "max_year": 1981,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/5ebc1b6a798708.27675426-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/5ebc1b6ac9f1d9.30224466-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203852,
+      "title": "100 Baht - Rama IX (Series 15; Type I)",
+      "issuer": {
+        "code": "thailande",
+        "name": "Thailand"
+      },
+      "min_year": 2004,
+      "max_year": 2005,
+      "face": {
+        "value": 100,
+        "unit": "Baht",
+        "text": "100 Baht"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203852,
+        "title": "100 Baht - Rama IX (Series 15; Type I)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "thailande",
+          "name": "Thailand"
+        },
+        "min_year": 2004,
+        "max_year": 2005,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/5e99d9fe540f21.00940003-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/5e99d9ff08c307.03676220-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204251,
+      "title": "60 Baht - Rama IX (60th Birthday of King Rama IX)",
+      "issuer": {
+        "code": "thailande",
+        "name": "Thailand"
+      },
+      "min_year": 1987,
+      "max_year": 1987,
+      "face": {
+        "value": 60,
+        "unit": "Baht",
+        "text": "60 Baht"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204251,
+        "title": "60 Baht - Rama IX (60th Birthday of King Rama IX)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "thailande",
+          "name": "Thailand"
+        },
+        "min_year": 1987,
+        "max_year": 1987,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/67152f96bf0d26.17429534-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/67152f982a6797.83364536-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204487,
+      "title": "20 Baht - Rama IX (Series 16)",
+      "issuer": {
+        "code": "thailande",
+        "name": "Thailand"
+      },
+      "min_year": 2013,
+      "max_year": 2013,
+      "face": {
+        "value": 20,
+        "unit": "Baht",
+        "text": "20 Baht"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204487,
+        "title": "20 Baht - Rama IX (Series 16)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "thailande",
+          "name": "Thailand"
+        },
+        "min_year": 2013,
+        "max_year": 2013,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/63acb6415ce2d6.03530218-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/63acb6420ebc20.10345715-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204652,
+      "title": "50 Baht - Rama IX (50th Anniversary of King Rama IX's Enthronement)",
+      "issuer": {
+        "code": "thailande",
+        "name": "Thailand"
+      },
+      "min_year": 1996,
+      "max_year": 1996,
+      "face": {
+        "value": 50,
+        "unit": "Baht",
+        "text": "50 Baht"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204652,
+        "title": "50 Baht - Rama IX (50th Anniversary of King Rama IX's Enthronement)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "thailande",
+          "name": "Thailand"
+        },
+        "min_year": 1996,
+        "max_year": 1996,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/5e9c414964c712.43169354-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/5e9c4149d69bc4.79082820-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204677,
+      "title": "1000 Baht - Rama X (series 17)",
+      "issuer": {
+        "code": "thailande",
+        "name": "Thailand"
+      },
+      "min_year": 2018,
+      "max_year": 2025,
+      "face": {
+        "value": 1000,
+        "unit": "Baht",
+        "text": "1000 Baht"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204677,
+        "title": "1000 Baht - Rama X (series 17)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "thailande",
+          "name": "Thailand"
+        },
+        "min_year": 2018,
+        "max_year": 2025,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/687b8996adfff8.21747512-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/687b8997acfd90.71602354-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204682,
+      "title": "1000 Baht - Rama IX, Posthumous (Remembrance of Rama IX)",
+      "issuer": {
+        "code": "thailande",
+        "name": "Thailand"
+      },
+      "min_year": 2017,
+      "max_year": 2017,
+      "face": {
+        "value": 1000,
+        "unit": "Baht",
+        "text": "1000 Baht"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204682,
+        "title": "1000 Baht - Rama IX, Posthumous (Remembrance of Rama IX)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "thailande",
+          "name": "Thailand"
+        },
+        "min_year": 2017,
+        "max_year": 2017,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/687b88e0791ca9.61014056-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/687b88e17fded2.24479224-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204684,
+      "title": "1000 Baht",
+      "issuer": {
+        "code": "thailande",
+        "name": "Thailand"
+      },
+      "min_year": 2015,
+      "max_year": 2016,
+      "face": {
+        "value": 1000,
+        "unit": "Baht",
+        "text": "1000 Baht"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204684,
+        "title": "1000 Baht",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "thailande",
+          "name": "Thailand"
+        },
+        "min_year": 2015,
+        "max_year": 2016,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/5ea9c768f29141.86388646-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/5ea9c7692d66d1.87442137-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204692,
+      "title": "1000 Baht (Type 2)",
+      "issuer": {
+        "code": "thailande",
+        "name": "Thailand"
+      },
+      "min_year": 2005,
+      "max_year": 2015,
+      "face": {
+        "value": 1000,
+        "unit": "Baht",
+        "text": "1000 Baht"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204692,
+        "title": "1000 Baht (Type 2)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "thailande",
+          "name": "Thailand"
+        },
+        "min_year": 2005,
+        "max_year": 2015,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/5ecbd0849fb803.63875764-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/5ecbd084c3caf8.65809622-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204710,
+      "title": "500 Baht - Rama X (Series 17)",
+      "issuer": {
+        "code": "thailande",
+        "name": "Thailand"
+      },
+      "min_year": 2018,
+      "max_year": 2018,
+      "face": {
+        "value": 500,
+        "unit": "Baht",
+        "text": "500 Baht"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204710,
+        "title": "500 Baht - Rama X (Series 17)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "thailande",
+          "name": "Thailand"
+        },
+        "min_year": 2018,
+        "max_year": 2018,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/687b870dc1ea70.37939451-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/687b870ef39b34.10010521-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204729,
+      "title": "100 Baht - Rama X (Series 17; paper)",
+      "issuer": {
+        "code": "thailande",
+        "name": "Thailand"
+      },
+      "min_year": 2018,
+      "max_year": 2018,
+      "face": {
+        "value": 100,
+        "unit": "Baht",
+        "text": "100 Baht"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204729,
+        "title": "100 Baht - Rama X (Series 17; paper)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "thailande",
+          "name": "Thailand"
+        },
+        "min_year": 2018,
+        "max_year": 2018,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/631da080e31996.84220090-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/631da0817ea505.21326949-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204759,
+      "title": "50 Baht - Rama X (Series 17; paper)",
+      "issuer": {
+        "code": "thailande",
+        "name": "Thailand"
+      },
+      "min_year": 2018,
+      "max_year": 2025,
+      "face": {
+        "value": 50,
+        "unit": "Baht",
+        "text": "50 Baht"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204759,
+        "title": "50 Baht - Rama X (Series 17; paper)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "thailande",
+          "name": "Thailand"
+        },
+        "min_year": 2018,
+        "max_year": 2025,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/631d9f8bd7e522.57231520-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/631d9f8c6fab38.19372471-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204772,
+      "title": "20 Baht - Rama X (Series 17; paper)",
+      "issuer": {
+        "code": "thailande",
+        "name": "Thailand"
+      },
+      "min_year": 2018,
+      "max_year": 2018,
+      "face": {
+        "value": 20,
+        "unit": "Baht",
+        "text": "20 Baht"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204772,
+        "title": "20 Baht - Rama X (Series 17; paper)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "thailande",
+          "name": "Thailand"
+        },
+        "min_year": 2018,
+        "max_year": 2018,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/631d9ea1a16dc6.79958444-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/631d9ea24c8a41.85561401-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204798,
+      "title": "100 Baht (Queen's 72nd Birthday)",
+      "issuer": {
+        "code": "thailande",
+        "name": "Thailand"
+      },
+      "min_year": 2004,
+      "max_year": 2004,
+      "face": {
+        "value": 100,
+        "unit": "Baht",
+        "text": "100 Baht"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204798,
+        "title": "100 Baht (Queen's 72nd Birthday)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "thailande",
+          "name": "Thailand"
+        },
+        "min_year": 2004,
+        "max_year": 2004,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/63fa2fb88e1147.95864965-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/63fa2fbc101ac2.94983774-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204800,
+      "title": "50 Baht (90th Birthday of the Princess Mother)",
+      "issuer": {
+        "code": "thailande",
+        "name": "Thailand"
+      },
+      "min_year": 1992,
+      "max_year": 1992,
+      "face": {
+        "value": 50,
+        "unit": "Baht",
+        "text": "50 Baht"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204800,
+        "title": "50 Baht (90th Birthday of the Princess Mother)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "thailande",
+          "name": "Thailand"
+        },
+        "min_year": 1992,
+        "max_year": 1992,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/5ff8ad501814f2.82235414-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/5ff8ad50471914.39638775-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204809,
+      "title": "70 Baht - Rama IX (Reign)",
+      "issuer": {
+        "code": "thailande",
+        "name": "Thailand"
+      },
+      "min_year": 2016,
+      "max_year": 2016,
+      "face": {
+        "value": 70,
+        "unit": "Baht",
+        "text": "70 Baht"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204809,
+        "title": "70 Baht - Rama IX (Reign)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "thailande",
+          "name": "Thailand"
+        },
+        "min_year": 2016,
+        "max_year": 2016,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/66d2e79f4256e6.53340632-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/66d2e7a062b880.36817535-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204881,
+      "title": "100 Baht - Rama IX (Princess Sirindhorn)",
+      "issuer": {
+        "code": "thailande",
+        "name": "Thailand"
+      },
+      "min_year": 2015,
+      "max_year": 2015,
+      "face": {
+        "value": 100,
+        "unit": "Baht",
+        "text": "100 Baht"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204881,
+        "title": "100 Baht - Rama IX (Princess Sirindhorn)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "thailande",
+          "name": "Thailand"
+        },
+        "min_year": 2015,
+        "max_year": 2015,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/6935474b431176.82569011-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/693547509c9ff3.00087735-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204896,
+      "title": "100 Baht - Rama IX (60th Anniversary of Enthronement)",
+      "issuer": {
+        "code": "thailande",
+        "name": "Thailand"
+      },
+      "min_year": 2010,
+      "max_year": 2010,
+      "face": {
+        "value": 100,
+        "unit": "Baht",
+        "text": "100 Baht"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204896,
+        "title": "100 Baht - Rama IX (60th Anniversary of Enthronement)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "thailande",
+          "name": "Thailand"
+        },
+        "min_year": 2010,
+        "max_year": 2010,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/6935471f08a707.98460597-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/69354722b9af91.17008112-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204899,
+      "title": "50 Baht - Rama IX (Series 16)",
+      "issuer": {
+        "code": "thailande",
+        "name": "Thailand"
+      },
+      "min_year": 2011,
+      "max_year": 2016,
+      "face": {
+        "value": 50,
+        "unit": "Baht",
+        "text": "50 Baht"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204899,
+        "title": "50 Baht - Rama IX (Series 16)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "thailande",
+          "name": "Thailand"
+        },
+        "min_year": 2011,
+        "max_year": 2016,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/63716c9e221a77.12506758-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/63716c9e8ae860.14928172-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204911,
+      "title": "100 Baht - Rama IX (Series 16)",
+      "issuer": {
+        "code": "thailande",
+        "name": "Thailand"
+      },
+      "min_year": 2015,
+      "max_year": 2015,
+      "face": {
+        "value": 100,
+        "unit": "Baht",
+        "text": "100 Baht"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204911,
+        "title": "100 Baht - Rama IX (Series 16)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "thailande",
+          "name": "Thailand"
+        },
+        "min_year": 2015,
+        "max_year": 2015,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/5e9cc7317a51d0.88106419-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/5e9cc731e81117.06088768-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204919,
+      "title": "20 Baht - Rama IX, Posthumous (Remembrance of Rama IX)",
+      "issuer": {
+        "code": "thailande",
+        "name": "Thailand"
+      },
+      "min_year": 2017,
+      "max_year": 2017,
+      "face": {
+        "value": 20,
+        "unit": "Baht",
+        "text": "20 Baht"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204919,
+        "title": "20 Baht - Rama IX, Posthumous (Remembrance of Rama IX)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "thailande",
+          "name": "Thailand"
+        },
+        "min_year": 2017,
+        "max_year": 2017,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/5e9ccca4430033.30429989-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/5e9ccca4a90de8.78754827-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204922,
+      "title": "50 Baht - Rama IX (Posthumous; Remembrance of Rama IX)",
+      "issuer": {
+        "code": "thailande",
+        "name": "Thailand"
+      },
+      "min_year": 2017,
+      "max_year": 2017,
+      "face": {
+        "value": 50,
+        "unit": "Baht",
+        "text": "50 Baht"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204922,
+        "title": "50 Baht - Rama IX (Posthumous; Remembrance of Rama IX)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "thailande",
+          "name": "Thailand"
+        },
+        "min_year": 2017,
+        "max_year": 2017,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/5e9e99348e7451.07098719-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/5e9e9935013ed9.45436578-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204927,
+      "title": "100 Baht - Rama IX, Posthumous (Remembrance of Rama IX)",
+      "issuer": {
+        "code": "thailande",
+        "name": "Thailand"
+      },
+      "min_year": 2017,
+      "max_year": 2017,
+      "face": {
+        "value": 100,
+        "unit": "Baht",
+        "text": "100 Baht"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204927,
+        "title": "100 Baht - Rama IX, Posthumous (Remembrance of Rama IX)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "thailande",
+          "name": "Thailand"
+        },
+        "min_year": 2017,
+        "max_year": 2017,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/5e9cd2d70031b1.92261010-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/5e9cd2d7738e23.22673422-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205136,
+      "title": "500 Baht - Rama IX (Queen Sirikit)",
+      "issuer": {
+        "code": "thailande",
+        "name": "Thailand"
+      },
+      "min_year": 2016,
+      "max_year": 2016,
+      "face": {
+        "value": 500,
+        "unit": "Baht",
+        "text": "500 Baht"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205136,
+        "title": "500 Baht - Rama IX (Queen Sirikit)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "thailande",
+          "name": "Thailand"
+        },
+        "min_year": 2016,
+        "max_year": 2016,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/63fa2fe96f14a6.52684678-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/63fa2fed4cd777.66947328-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205602,
+      "title": "5 Baht",
+      "issuer": {
+        "code": "thailande",
+        "name": "Thailand"
+      },
+      "min_year": 1969,
+      "max_year": 1973,
+      "face": {
+        "value": 5,
+        "unit": "Baht",
+        "text": "5 Baht"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205602,
+        "title": "5 Baht",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "thailande",
+          "name": "Thailand"
+        },
+        "min_year": 1969,
+        "max_year": 1973,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/623c43bfbb3fc0.58406406-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/623c43c04ff6f3.66405728-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205612,
+      "title": "100 Baht - Rama IX (Series 14)",
+      "issuer": {
+        "code": "thailande",
+        "name": "Thailand"
+      },
+      "min_year": 1994,
+      "max_year": 2003,
+      "face": {
+        "value": 100,
+        "unit": "Baht",
+        "text": "100 Baht"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205612,
+        "title": "100 Baht - Rama IX (Series 14)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "thailande",
+          "name": "Thailand"
+        },
+        "min_year": 1994,
+        "max_year": 2003,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/5e9e7a2e2a56e1.05778277-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/5e9e7a2f5d88a2.20873972-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205626,
+      "title": "100 Baht - Rama IX (Series 15; Type II)",
+      "issuer": {
+        "code": "thailande",
+        "name": "Thailand"
+      },
+      "min_year": 2005,
+      "max_year": 2015,
+      "face": {
+        "value": 100,
+        "unit": "Baht",
+        "text": "100 Baht"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205626,
+        "title": "100 Baht - Rama IX (Series 15; Type II)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "thailande",
+          "name": "Thailand"
+        },
+        "min_year": 2005,
+        "max_year": 2015,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/62d42c096bf8d0.09037007-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/62d42c0c57e0e0.50576723-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206262,
+      "title": "10 Baht - Rama IX (Series 12)",
+      "issuer": {
+        "code": "thailande",
+        "name": "Thailand"
+      },
+      "min_year": 1980,
+      "max_year": 1980,
+      "face": {
+        "value": 10,
+        "unit": "Baht",
+        "text": "10 Baht"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206262,
+        "title": "10 Baht - Rama IX (Series 12)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "thailande",
+          "name": "Thailand"
+        },
+        "min_year": 1980,
+        "max_year": 1980,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/623c4425ea3f64.32934444-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/623c44268bfc38.65465484-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206545,
+      "title": "10 Baht",
+      "issuer": {
+        "code": "thailande",
+        "name": "Thailand"
+      },
+      "min_year": 1969,
+      "max_year": 1978,
+      "face": {
+        "value": 10,
+        "unit": "Baht",
+        "text": "10 Baht"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206545,
+        "title": "10 Baht",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "thailande",
+          "name": "Thailand"
+        },
+        "min_year": 1969,
+        "max_year": 1978,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/67b10c087b4937.92174433-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/67b10c08eb99c2.81020722-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206959,
+      "title": "100 Baht - Rama IX (Series 11)",
+      "issuer": {
+        "code": "thailande",
+        "name": "Thailand"
+      },
+      "min_year": 1972,
+      "max_year": 1978,
+      "face": {
+        "value": 100,
+        "unit": "Baht",
+        "text": "100 Baht"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206959,
+        "title": "100 Baht - Rama IX (Series 11)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "thailande",
+          "name": "Thailand"
+        },
+        "min_year": 1972,
+        "max_year": 1978,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/671116cda075d5.53392497-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/671116ce89ff93.61371371-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 207110,
+      "title": "1 Baht - Rama IX (9th series)",
+      "issuer": {
+        "code": "thailande",
+        "name": "Thailand"
+      },
+      "min_year": 1954,
+      "max_year": 1969,
+      "face": {
+        "value": 1,
+        "unit": "Baht",
+        "text": "1 Baht"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 207110,
+        "title": "1 Baht - Rama IX (9th series)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "thailande",
+          "name": "Thailand"
+        },
+        "min_year": 1954,
+        "max_year": 1969,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/5ea2ea07d07590.20698765-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/5ea2ea08208295.89270101-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 207114,
+      "title": "5 Baht - RamaIX (Series 9; Type VI short penalty)",
+      "issuer": {
+        "code": "thailande",
+        "name": "Thailand"
+      },
+      "min_year": 1955,
+      "max_year": 1969,
+      "face": {
+        "value": 5,
+        "unit": "Baht",
+        "text": "5 Baht"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 207114,
+        "title": "5 Baht - RamaIX (Series 9; Type VI short penalty)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "thailande",
+          "name": "Thailand"
+        },
+        "min_year": 1955,
+        "max_year": 1969,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/5ea2ee4d565ad0.82711184-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/5ea2ee4dc50a44.74769660-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 207125,
+      "title": "20 Baht (Series 11)",
+      "issuer": {
+        "code": "thailande",
+        "name": "Thailand"
+      },
+      "min_year": 1971,
+      "max_year": 1971,
+      "face": {
+        "value": 20,
+        "unit": "Baht",
+        "text": "20 Baht"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 207125,
+        "title": "20 Baht (Series 11)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "thailande",
+          "name": "Thailand"
+        },
+        "min_year": 1971,
+        "max_year": 1971,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/5ea2f4f7d53a39.12869080-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/5ea2f4f82c2ff4.08528912-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 207575,
+      "title": "10 Baht - Rama IX (Series 9; Type VI short penalty)",
+      "issuer": {
+        "code": "thailande",
+        "name": "Thailand"
+      },
+      "min_year": 1953,
+      "max_year": 1974,
+      "face": {
+        "value": 10,
+        "unit": "Baht",
+        "text": "10 Baht"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 207575,
+        "title": "10 Baht - Rama IX (Series 9; Type VI short penalty)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "thailande",
+          "name": "Thailand"
+        },
+        "min_year": 1953,
+        "max_year": 1974,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/630798288b2111.87185113-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/630798290c7366.07157586-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 207604,
+      "title": "20 Baht - Rama IX (Series 9 Type VI; adult portrait, head watermark, short penalty)",
+      "issuer": {
+        "code": "thailande",
+        "name": "Thailand"
+      },
+      "min_year": 1953,
+      "max_year": 1974,
+      "face": {
+        "value": 20,
+        "unit": "Baht",
+        "text": "20 Baht"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 207604,
+        "title": "20 Baht - Rama IX (Series 9 Type VI; adult portrait, head watermark, short penalty)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "thailande",
+          "name": "Thailand"
+        },
+        "min_year": 1953,
+        "max_year": 1974,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/63079cf3e5f912.81208787-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/63079cf4603b32.12715260-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 209014,
+      "title": "500 Baht",
+      "issuer": {
+        "code": "thailande",
+        "name": "Thailand"
+      },
+      "min_year": 2014,
+      "max_year": 2016,
+      "face": {
+        "value": 500,
+        "unit": "Baht",
+        "text": "500 Baht"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 209014,
+        "title": "500 Baht",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "thailande",
+          "name": "Thailand"
+        },
+        "min_year": 2014,
+        "max_year": 2016,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/687b866c616765.05693654-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/687b866d712af6.64133754-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 209052,
+      "title": "500 Baht - Rama IX (Series 15)",
+      "issuer": {
+        "code": "thailande",
+        "name": "Thailand"
+      },
+      "min_year": 2001,
+      "max_year": 2001,
+      "face": {
+        "value": 500,
+        "unit": "Baht",
+        "text": "500 Baht"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 209052,
+        "title": "500 Baht - Rama IX (Series 15)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "thailande",
+          "name": "Thailand"
+        },
+        "min_year": 2001,
+        "max_year": 2001,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/5eb84f925b9ed4.70088901-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/5eb84f945afb13.99398377-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 209056,
+      "title": "50 Baht - Rama IX (Series 15; paper)",
+      "issuer": {
+        "code": "thailande",
+        "name": "Thailand"
+      },
+      "min_year": 2004,
+      "max_year": 2004,
+      "face": {
+        "value": 50,
+        "unit": "Baht",
+        "text": "50 Baht"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 209056,
+        "title": "50 Baht - Rama IX (Series 15; paper)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "thailande",
+          "name": "Thailand"
+        },
+        "min_year": 2004,
+        "max_year": 2004,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/623c450b5aeed3.48553871-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/623c450c0de004.52907745-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 209246,
+      "title": "1000 Baht (Type 1)",
+      "issuer": {
+        "code": "thailande",
+        "name": "Thailand"
+      },
+      "min_year": 1999,
+      "max_year": 2004,
+      "face": {
+        "value": 1000,
+        "unit": "Baht",
+        "text": "1000 Baht"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 209246,
+        "title": "1000 Baht (Type 1)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "thailande",
+          "name": "Thailand"
+        },
+        "min_year": 1999,
+        "max_year": 2004,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/5ef647be45c577.87721112-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/5ef647c0218319.79038854-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 209717,
+      "title": "100 Baht - Rama IX (First Thai Banknote)",
+      "issuer": {
+        "code": "thailande",
+        "name": "Thailand"
+      },
+      "min_year": 2002,
+      "max_year": 2002,
+      "face": {
+        "value": 100,
+        "unit": "Baht",
+        "text": "100 Baht"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 209717,
+        "title": "100 Baht - Rama IX (First Thai Banknote)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "thailande",
+          "name": "Thailand"
+        },
+        "min_year": 2002,
+        "max_year": 2002,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/64c9459fea76d5.91541836-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/64c945a2391d32.82657065-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 211392,
+      "title": "50 Baht - Rama IX (Series 13)",
+      "issuer": {
+        "code": "thailande",
+        "name": "Thailand"
+      },
+      "min_year": 1985,
+      "max_year": 1996,
+      "face": {
+        "value": 50,
+        "unit": "Baht",
+        "text": "50 Baht"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 211392,
+        "title": "50 Baht - Rama IX (Series 13)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "thailande",
+          "name": "Thailand"
+        },
+        "min_year": 1985,
+        "max_year": 1996,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/63acbb258c4086.87908588-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/63acbb25f126b7.73507235-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 212206,
+      "title": "100 Baht - Rama IX (Series 10)",
+      "issuer": {
+        "code": "thailande",
+        "name": "Thailand"
+      },
+      "min_year": 1968,
+      "max_year": 1972,
+      "face": {
+        "value": 100,
+        "unit": "Baht",
+        "text": "100 Baht"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 212206,
+        "title": "100 Baht - Rama IX (Series 10)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "thailande",
+          "name": "Thailand"
+        },
+        "min_year": 1968,
+        "max_year": 1972,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/67b11af1a8a5a7.63541386-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/67b11af24041f6.47337401-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 213144,
+      "title": "100 Baht",
+      "issuer": {
+        "code": "thailande",
+        "name": "Thailand"
+      },
+      "min_year": 1978,
+      "max_year": 1978,
+      "face": {
+        "value": 100,
+        "unit": "Baht",
+        "text": "100 Baht"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 213144,
+        "title": "100 Baht",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "thailande",
+          "name": "Thailand"
+        },
+        "min_year": 1978,
+        "max_year": 1978,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/5eb5853a45fb59.09688826-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/5eb5853a8da0b2.08050378-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 213318,
+      "title": "500 Baht Rama IX, Posthumous (Remembrance of Rama IX)",
+      "issuer": {
+        "code": "thailande",
+        "name": "Thailand"
+      },
+      "min_year": 2017,
+      "max_year": 2017,
+      "face": {
+        "value": 500,
+        "unit": "Baht Rama IX, Posthumous",
+        "text": "500 Baht Rama IX, Posthumous"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 213318,
+        "title": "500 Baht Rama IX, Posthumous (Remembrance of Rama IX)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "thailande",
+          "name": "Thailand"
+        },
+        "min_year": 2017,
+        "max_year": 2017,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/63fa3017bc00d7.52477095-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/63fa301bc7ea53.55609292-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 213409,
+      "title": "10 Baht - Rama IX (Ministry of Finance)",
+      "issuer": {
+        "code": "thailande",
+        "name": "Thailand"
+      },
+      "min_year": 1995,
+      "max_year": 1995,
+      "face": {
+        "value": 10,
+        "unit": "Baht",
+        "text": "10 Baht"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 213409,
+        "title": "10 Baht - Rama IX (Ministry of Finance)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "thailande",
+          "name": "Thailand"
+        },
+        "min_year": 1995,
+        "max_year": 1995,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/623c4483421b30.98229341-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/623c4483a343d6.02115374-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 213954,
+      "title": "500 Baht",
+      "issuer": {
+        "code": "thailande",
+        "name": "Thailand"
+      },
+      "min_year": 1988,
+      "max_year": 1996,
+      "face": {
+        "value": 500,
+        "unit": "Baht",
+        "text": "500 Baht"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 213954,
+        "title": "500 Baht",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "thailande",
+          "name": "Thailand"
+        },
+        "min_year": 1988,
+        "max_year": 1996,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/5ebed00b20bc21.87212589-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/5ebed00b570063.56483945-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 215992,
+      "title": "500 Baht - Rama IX (Series 14)",
+      "issuer": {
+        "code": "thailande",
+        "name": "Thailand"
+      },
+      "min_year": 1996,
+      "max_year": 1996,
+      "face": {
+        "value": 500,
+        "unit": "Baht",
+        "text": "500 Baht"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 215992,
+        "title": "500 Baht - Rama IX (Series 14)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "thailande",
+          "name": "Thailand"
+        },
+        "min_year": 1996,
+        "max_year": 1996,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/5ec2eaf247f890.81046952-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/5ec2eaf37cf2a1.97628637-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 217343,
+      "title": "100 Baht - Rama IX (King's 84th Birthday)",
+      "issuer": {
+        "code": "thailande",
+        "name": "Thailand"
+      },
+      "min_year": 2011,
+      "max_year": 2011,
+      "face": {
+        "value": 100,
+        "unit": "Baht",
+        "text": "100 Baht"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 217343,
+        "title": "100 Baht - Rama IX (King's 84th Birthday)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "thailande",
+          "name": "Thailand"
+        },
+        "min_year": 2011,
+        "max_year": 2011,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/64c943fd08dd30.28071086-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/64c943fe8951b8.08091788-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 217784,
+      "title": "60 Baht (60th anniversary of Rama IX's accession to the throne)",
+      "issuer": {
+        "code": "thailande",
+        "name": "Thailand"
+      },
+      "min_year": 2006,
+      "max_year": 2006,
+      "face": {
+        "value": 60,
+        "unit": "Baht",
+        "text": "60 Baht"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 217784,
+        "title": "60 Baht (60th anniversary of Rama IX's accession to the throne)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "thailande",
+          "name": "Thailand"
+        },
+        "min_year": 2006,
+        "max_year": 2006,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/6ac3d95bb1ead9.48396994-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/6ac3d95e34fe25.15932177-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 220868,
+      "title": "100 Baht - Rama IX (Crown Prince Maha Vajiralongkorn)",
+      "issuer": {
+        "code": "thailande",
+        "name": "Thailand"
+      },
+      "min_year": 2012,
+      "max_year": 2012,
+      "face": {
+        "value": 100,
+        "unit": "Baht",
+        "text": "100 Baht"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 220868,
+        "title": "100 Baht - Rama IX (Crown Prince Maha Vajiralongkorn)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "thailande",
+          "name": "Thailand"
+        },
+        "min_year": 2012,
+        "max_year": 2012,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/5ede3441b2c1d8.43017338-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/5ede3442b23ea4.87663905-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 230480,
+      "title": "80 Baht - Rama IX (Queen Sirikit's 80th Birthday)",
+      "issuer": {
+        "code": "thailande",
+        "name": "Thailand"
+      },
+      "min_year": 2012,
+      "max_year": 2012,
+      "face": {
+        "value": 80,
+        "unit": "Baht",
+        "text": "80 Baht"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 230480,
+        "title": "80 Baht - Rama IX (Queen Sirikit's 80th Birthday)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "thailande",
+          "name": "Thailand"
+        },
+        "min_year": 2012,
+        "max_year": 2012,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/5f2504f5a2c3b8.38029500-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/5f2504f5ebd4d9.72922547-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 230481,
+      "title": "500 000 Baht - Rama IX (Golden Wedding)",
+      "issuer": {
+        "code": "thailande",
+        "name": "Thailand"
+      },
+      "min_year": 2000,
+      "max_year": 2001,
+      "face": {
+        "value": 500000,
+        "unit": "Baht",
+        "text": "500000 Baht"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 230481,
+        "title": "500 000 Baht - Rama IX (Golden Wedding)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "thailande",
+          "name": "Thailand"
+        },
+        "min_year": 2000,
+        "max_year": 2001,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/5f2505a633b208.23086260-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/5f2505a65d5f98.74814856-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 230482,
+      "title": "50 Baht (Golden Wedding)",
+      "issuer": {
+        "code": "thailande",
+        "name": "Thailand"
+      },
+      "min_year": 2000,
+      "max_year": 2000,
+      "face": {
+        "value": 50,
+        "unit": "Baht",
+        "text": "50 Baht"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 230482,
+        "title": "50 Baht (Golden Wedding)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "thailande",
+          "name": "Thailand"
+        },
+        "min_year": 2000,
+        "max_year": 2000,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/6472f62e1b0665.34317043-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/6472f62ea03821.56925545-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 230483,
+      "title": "1000 Baht (72nd Birthday of King Rama IX)",
+      "issuer": {
+        "code": "thailande",
+        "name": "Thailand"
+      },
+      "min_year": 1999,
+      "max_year": 1999,
+      "face": {
+        "value": 1000,
+        "unit": "Baht",
+        "text": "1000 Baht"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 230483,
+        "title": "1000 Baht (72nd Birthday of King Rama IX)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "thailande",
+          "name": "Thailand"
+        },
+        "min_year": 1999,
+        "max_year": 1999,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/6640f2ffc9f400.92793932-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/6640f300ee7d53.42725823-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 230484,
+      "title": "500 Baht - Rama IX (Reign)",
+      "issuer": {
+        "code": "thailande",
+        "name": "Thailand"
+      },
+      "min_year": 1996,
+      "max_year": 1996,
+      "face": {
+        "value": 500,
+        "unit": "Baht",
+        "text": "500 Baht"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 230484,
+        "title": "500 Baht - Rama IX (Reign)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "thailande",
+          "name": "Thailand"
+        },
+        "min_year": 1996,
+        "max_year": 1996,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/6472f1474b08b0.50442663-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/6472f147a6a257.84352470-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 230485,
+      "title": "500 Baht - Rama IX (Reign)",
+      "issuer": {
+        "code": "thailande",
+        "name": "Thailand"
+      },
+      "min_year": 1994,
+      "max_year": 1994,
+      "face": {
+        "value": 500,
+        "unit": "Baht",
+        "text": "500 Baht"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 230485,
+        "title": "500 Baht - Rama IX (Reign)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "thailande",
+          "name": "Thailand"
+        },
+        "min_year": 1994,
+        "max_year": 1994,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/5f25088ac5ea37.71150126-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/5f25088aeaef68.06346159-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 230486,
+      "title": "1000 Baht (Queen Sirikit's 60th Birthday)",
+      "issuer": {
+        "code": "thailande",
+        "name": "Thailand"
+      },
+      "min_year": 1992,
+      "max_year": 1992,
+      "face": {
+        "value": 1000,
+        "unit": "Baht",
+        "text": "1000 Baht"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 230486,
+        "title": "1000 Baht (Queen Sirikit's 60th Birthday)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "thailande",
+          "name": "Thailand"
+        },
+        "min_year": 1992,
+        "max_year": 1992,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/5f250a25dd2863.51915273-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/5f250a261155e3.27912240-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 230487,
+      "title": "500 Baht - Rama IX (Princess Mother)",
+      "issuer": {
+        "code": "thailande",
+        "name": "Thailand"
+      },
+      "min_year": 1990,
+      "max_year": 1990,
+      "face": {
+        "value": 500,
+        "unit": "Baht",
+        "text": "500 Baht"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 230487,
+        "title": "500 Baht - Rama IX (Princess Mother)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "thailande",
+          "name": "Thailand"
+        },
+        "min_year": 1990,
+        "max_year": 1990,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/5f250a7cba7411.24021388-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/5f250a7cdd32d3.12238130-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 230488,
+      "title": "1000 Baht",
+      "issuer": {
+        "code": "thailande",
+        "name": "Thailand"
+      },
+      "min_year": 1992,
+      "max_year": 1992,
+      "face": {
+        "value": 1000,
+        "unit": "Baht",
+        "text": "1000 Baht"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 230488,
+        "title": "1000 Baht",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "thailande",
+          "name": "Thailand"
+        },
+        "min_year": 1992,
+        "max_year": 1992,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/5f250aeaf1f348.75227938-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/5f250aeb2a8f39.75776281-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 230489,
+      "title": "500 Baht",
+      "issuer": {
+        "code": "thailande",
+        "name": "Thailand"
+      },
+      "min_year": 1975,
+      "max_year": 1988,
+      "face": {
+        "value": 500,
+        "unit": "Baht",
+        "text": "500 Baht"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 230489,
+        "title": "500 Baht",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "thailande",
+          "name": "Thailand"
+        },
+        "min_year": 1975,
+        "max_year": 1988,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/5ffab148c69ff7.93321307-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/5ffab14934b8b0.15198752-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 230490,
+      "title": "10 Baht - Rama IX (Opening of Note Printing Works​​​​​)",
+      "issuer": {
+        "code": "thailande",
+        "name": "Thailand"
+      },
+      "min_year": 1969,
+      "max_year": 1969,
+      "face": {
+        "value": 10,
+        "unit": "Baht",
+        "text": "10 Baht"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 230490,
+        "title": "10 Baht - Rama IX (Opening of Note Printing Works​​​​​)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "thailande",
+          "name": "Thailand"
+        },
+        "min_year": 1969,
+        "max_year": 1969,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/5f250c548c2123.24749171-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/5f250c54b92391.59701392-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 230491,
+      "title": "5 Baht \"Commemorative Overprint Issue\"",
+      "issuer": {
+        "code": "thailande",
+        "name": "Thailand"
+      },
+      "min_year": 1969,
+      "max_year": 1969,
+      "face": {
+        "value": 5,
+        "unit": "Baht \"Commemorative Overprint Issue",
+        "text": "5 Baht \"Commemorative Overprint Issue"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 230491,
+        "title": "5 Baht \"Commemorative Overprint Issue\"",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "thailande",
+          "name": "Thailand"
+        },
+        "min_year": 1969,
+        "max_year": 1969,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/5f250c9b0f9526.90275504-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/5f250c9b3d1995.06175595-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 230492,
+      "title": "100 Baht - Rama IX (Series 9; Type V short penalty)",
+      "issuer": {
+        "code": "thailande",
+        "name": "Thailand"
+      },
+      "min_year": 1955,
+      "max_year": 1968,
+      "face": {
+        "value": 100,
+        "unit": "Baht",
+        "text": "100 Baht"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 230492,
+        "title": "100 Baht - Rama IX (Series 9; Type V short penalty)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "thailande",
+          "name": "Thailand"
+        },
+        "min_year": 1955,
+        "max_year": 1968,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/63079fb5aac744.23892935-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/63079fb622b381.29720007-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 253975,
+      "title": "100 Baht (Royal Coronation Ceremony of 2019)",
+      "issuer": {
+        "code": "thailande",
+        "name": "Thailand"
+      },
+      "min_year": 2020,
+      "max_year": 2020,
+      "face": {
+        "value": 100,
+        "unit": "Baht",
+        "text": "100 Baht"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 253975,
+        "title": "100 Baht (Royal Coronation Ceremony of 2019)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "thailande",
+          "name": "Thailand"
+        },
+        "min_year": 2020,
+        "max_year": 2020,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/65fd48a13edea8.20576661-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/65fd48a3ed2c18.38932694-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 253976,
+      "title": "1000 Baht - Rama X (Coronation)",
+      "issuer": {
+        "code": "thailande",
+        "name": "Thailand"
+      },
+      "min_year": 2020,
+      "max_year": 2020,
+      "face": {
+        "value": 1000,
+        "unit": "Baht",
+        "text": "1000 Baht"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 253976,
+        "title": "1000 Baht - Rama X (Coronation)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "thailande",
+          "name": "Thailand"
+        },
+        "min_year": 2020,
+        "max_year": 2020,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/666d568947b5e3.62080578-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/666d568b13f673.12025687-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 317869,
+      "title": "20 Baht - Rama X (Series 17; polymer)",
+      "issuer": {
+        "code": "thailande",
+        "name": "Thailand"
+      },
+      "min_year": 2022,
+      "max_year": 2025,
+      "face": {
+        "value": 20,
+        "unit": "Baht",
+        "text": "20 Baht"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 317869,
+        "title": "20 Baht - Rama X (Series 17; polymer)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "thailande",
+          "name": "Thailand"
+        },
+        "min_year": 2022,
+        "max_year": 2025,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/63df838aa99f08.22925937-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/63df838c666a21.31963691-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 421607,
+      "title": "100 Baht - Rama X (King's 72nd Birthday)",
+      "issuer": {
+        "code": "thailande",
+        "name": "Thailand"
+      },
+      "min_year": 2024,
+      "max_year": 2024,
+      "face": {
+        "value": 100,
+        "unit": "Baht",
+        "text": "100 Baht"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 421607,
+        "title": "100 Baht - Rama X (King's 72nd Birthday)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "thailande",
+          "name": "Thailand"
+        },
+        "min_year": 2024,
+        "max_year": 2024,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/66d2f078e951f2.45037228-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/66d2f079deafb5.86026037-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 467754,
+      "title": "100 Baht - Rama X (Ministry of Finance)",
+      "issuer": {
+        "code": "thailande",
+        "name": "Thailand"
+      },
+      "min_year": 2025,
+      "max_year": 2025,
+      "face": {
+        "value": 100,
+        "unit": "Baht",
+        "text": "100 Baht"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 467754,
+        "title": "100 Baht - Rama X (Ministry of Finance)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "thailande",
+          "name": "Thailand"
+        },
+        "min_year": 2025,
+        "max_year": 2025,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/68745e5562cc13.67471228-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/68745e5616f2c5.26347204-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 536198,
+      "title": "50 Baht - Rama X Series 17; polymer",
+      "issuer": {
+        "code": "thailande",
+        "name": "Thailand"
+      },
+      "min_year": 2025,
+      "max_year": 2025,
+      "face": {
+        "value": 50,
+        "unit": "Baht",
+        "text": "50 Baht"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 536198,
+        "title": "50 Baht - Rama X Series 17; polymer",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "thailande",
+          "name": "Thailand"
+        },
+        "min_year": 2025,
+        "max_year": 2025,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/69919789a145b2.02387884-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/6991978c485e95.86544859-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 538617,
+      "title": "100 Baht - Rama X (Series 17; polymer)",
+      "issuer": {
+        "code": "thailande",
+        "name": "Thailand"
+      },
+      "min_year": 2025,
+      "max_year": 2025,
+      "face": {
+        "value": 100,
+        "unit": "Baht",
+        "text": "100 Baht"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 538617,
+        "title": "100 Baht - Rama X (Series 17; polymer)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "thailande",
+          "name": "Thailand"
+        },
+        "min_year": 2025,
+        "max_year": 2025,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/699199e6ae10d7.44553170-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/thailande/699199e9152464.90253267-180.jpg",
+        "category": "banknote"
+      }
+    }
+  ]
+}

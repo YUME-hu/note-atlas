@@ -202,6 +202,34 @@ function cambodia() {
 `
 }
 
+function brazil() {
+  return `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ${W} ${H}" role="img" aria-label="Brazil">
+  <rect width="${W}" height="${H}" fill="${SUBDUED.green}"/>
+  <polygon points="30,6 55,20 30,34 5,20" fill="${SUBDUED.gold}"/>
+  <circle cx="30" cy="20" r="7.2" fill="${SUBDUED.navy}"/>
+  <path d="M23.5,21.5 Q30,16.5 36.5,18.5" fill="none" stroke="${SUBDUED.pale}" stroke-width="1.4"/>
+  <g fill="${SUBDUED.pale}">
+    <circle cx="27" cy="18.5" r="0.7"/>
+    <circle cx="31" cy="17.5" r="0.6"/>
+    <circle cx="34" cy="20.5" r="0.6"/>
+  </g>
+</svg>
+`
+}
+
+function southAfrica() {
+  return `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ${W} ${H}" role="img" aria-label="South Africa">
+  <rect width="${W}" height="20" fill="${SUBDUED.red}"/>
+  <rect y="20" width="${W}" height="20" fill="${SUBDUED.navy}"/>
+  <g fill="none" stroke-linecap="butt">
+    <path d="M0,0 L20,20 L${W},20 M0,${H} L20,20" stroke="${SUBDUED.pale}" stroke-width="9"/>
+    <path d="M0,0 L20,20 L${W},20 M0,${H} L20,20" stroke="${SUBDUED.green}" stroke-width="5"/>
+  </g>
+  <polygon points="0,0 13,20 0,${H}" fill="${SUBDUED.ink}" stroke="${SUBDUED.gold}" stroke-width="2"/>
+</svg>
+`
+}
+
 await mkdir(OUT, { recursive: true })
 await writeFile(path.join(OUT, 'cn.svg'), china(), 'utf8')
 await writeFile(path.join(OUT, 'jp.svg'), japan(), 'utf8')
@@ -213,4 +241,6 @@ await writeFile(path.join(OUT, 'sy.svg'), syria(), 'utf8')
 await writeFile(path.join(OUT, 've.svg'), venezuela(), 'utf8')
 await writeFile(path.join(OUT, 'bt.svg'), bhutan(), 'utf8')
 await writeFile(path.join(OUT, 'kh.svg'), cambodia(), 'utf8')
-console.log('wrote public/flags/engraved/{cn,jp,us,gb,by,id,sy,ve,bt,kh}.svg')
+await writeFile(path.join(OUT, 'br.svg'), brazil(), 'utf8')
+await writeFile(path.join(OUT, 'za.svg'), southAfrica(), 'utf8')
+console.log('wrote public/flags/engraved/{cn,jp,us,gb,by,id,sy,ve,bt,kh,br,za}.svg')

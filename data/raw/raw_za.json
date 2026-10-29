@@ -1,0 +1,2282 @@
+{
+  "meta": {
+    "generated_at": "2026-10-29T13:28:00.327Z",
+    "fixture": false,
+    "api": "numista v3",
+    "issuer": "south-africa",
+    "iso": "ZA",
+    "category": "banknote",
+    "lang": "en",
+    "since": 1960,
+    "listed": 110,
+    "fetched": 61,
+    "details_fetched": 0,
+    "dropped_before_since": 49,
+    "dropped_by_source": {
+      "list": 49,
+      "detail": 0
+    },
+    "issuer_mismatches": 9,
+    "pages": 3,
+    "requests": 0
+  },
+  "types": [
+    {
+      "numista_type_id": 201800,
+      "title": "5 Rand (Afrikaans - English)",
+      "issuer": {
+        "code": "afrique_du_sud",
+        "name": "South Africa"
+      },
+      "min_year": 1966,
+      "max_year": 1976,
+      "face": {
+        "value": 5,
+        "unit": "Rand",
+        "text": "5 Rand"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 201800,
+        "title": "5 Rand (Afrikaans - English)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "afrique_du_sud",
+          "name": "South Africa"
+        },
+        "min_year": 1966,
+        "max_year": 1976,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/631b7a2def1265.83480165-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/631b7a2e645864.75912111-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202044,
+      "title": "10 Rand",
+      "issuer": {
+        "code": "afrique_du_sud",
+        "name": "South Africa"
+      },
+      "min_year": 1978,
+      "max_year": 1993,
+      "face": {
+        "value": 10,
+        "unit": "Rand",
+        "text": "10 Rand"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202044,
+        "title": "10 Rand",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "afrique_du_sud",
+          "name": "South Africa"
+        },
+        "min_year": 1978,
+        "max_year": 1993,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/623ca336da2133.65759015-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/623ca337901670.06860222-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203853,
+      "title": "20 Rand (With Omron rings)",
+      "issuer": {
+        "code": "afrique_du_sud",
+        "name": "South Africa"
+      },
+      "min_year": 2014,
+      "max_year": 2015,
+      "face": {
+        "value": 20,
+        "unit": "Rand",
+        "text": "20 Rand"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203853,
+        "title": "20 Rand (With Omron rings)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "afrique_du_sud",
+          "name": "South Africa"
+        },
+        "min_year": 2014,
+        "max_year": 2015,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/5e99db45b1f849.31189639-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/5e99db4627c448.26261522-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203929,
+      "title": "20 Rand",
+      "issuer": {
+        "code": "afrique_du_sud",
+        "name": "South Africa"
+      },
+      "min_year": 2005,
+      "max_year": 2009,
+      "face": {
+        "value": 20,
+        "unit": "Rand",
+        "text": "20 Rand"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203929,
+        "title": "20 Rand",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "afrique_du_sud",
+          "name": "South Africa"
+        },
+        "min_year": 2005,
+        "max_year": 2009,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/64eba750a36e59.87818763-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/64eba7519bc129.97311652-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204614,
+      "title": "50 Rand",
+      "issuer": {
+        "code": "afrique_du_sud",
+        "name": "South Africa"
+      },
+      "min_year": 2005,
+      "max_year": 2010,
+      "face": {
+        "value": 50,
+        "unit": "Rand",
+        "text": "50 Rand"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204614,
+        "title": "50 Rand",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "afrique_du_sud",
+          "name": "South Africa"
+        },
+        "min_year": 2005,
+        "max_year": 2010,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/5e9c29340a57b3.18779146-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/5e9c2935973377.47143739-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204746,
+      "title": "10 Rand (Without Omron rings)",
+      "issuer": {
+        "code": "afrique_du_sud",
+        "name": "South Africa"
+      },
+      "min_year": 2012,
+      "max_year": 2012,
+      "face": {
+        "value": 10,
+        "unit": "Rand",
+        "text": "10 Rand"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204746,
+        "title": "10 Rand (Without Omron rings)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "afrique_du_sud",
+          "name": "South Africa"
+        },
+        "min_year": 2012,
+        "max_year": 2012,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/6299a1a515d005.06090938-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/6299a1a5e160e3.22403180-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204757,
+      "title": "10 Rand (With Omron rings)",
+      "issuer": {
+        "code": "afrique_du_sud",
+        "name": "South Africa"
+      },
+      "min_year": 2013,
+      "max_year": 2016,
+      "face": {
+        "value": 10,
+        "unit": "Rand",
+        "text": "10 Rand"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204757,
+        "title": "10 Rand (With Omron rings)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "afrique_du_sud",
+          "name": "South Africa"
+        },
+        "min_year": 2013,
+        "max_year": 2016,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/629b23d1cf1d67.51570415-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/629b23d270ab28.27722921-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204773,
+      "title": "50 Rand (Without Omron rings)",
+      "issuer": {
+        "code": "afrique_du_sud",
+        "name": "South Africa"
+      },
+      "min_year": 2012,
+      "max_year": 2012,
+      "face": {
+        "value": 50,
+        "unit": "Rand",
+        "text": "50 Rand"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204773,
+        "title": "50 Rand (Without Omron rings)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "afrique_du_sud",
+          "name": "South Africa"
+        },
+        "min_year": 2012,
+        "max_year": 2012,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/5e9c75e5313e29.73743537-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/5e9c75e5b86938.29012688-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204784,
+      "title": "100 Rand (Without Omron rings)",
+      "issuer": {
+        "code": "afrique_du_sud",
+        "name": "South Africa"
+      },
+      "min_year": 2012,
+      "max_year": 2012,
+      "face": {
+        "value": 100,
+        "unit": "Rand",
+        "text": "100 Rand"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204784,
+        "title": "100 Rand (Without Omron rings)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "afrique_du_sud",
+          "name": "South Africa"
+        },
+        "min_year": 2012,
+        "max_year": 2012,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/69c82ba7a8ad76.07310791-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/69c82bab0c7364.87819868-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204791,
+      "title": "200 Rand (With Omron rings)",
+      "issuer": {
+        "code": "afrique_du_sud",
+        "name": "South Africa"
+      },
+      "min_year": 2013,
+      "max_year": 2016,
+      "face": {
+        "value": 200,
+        "unit": "Rand",
+        "text": "200 Rand"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204791,
+        "title": "200 Rand (With Omron rings)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "afrique_du_sud",
+          "name": "South Africa"
+        },
+        "min_year": 2013,
+        "max_year": 2016,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/641336bfe8fb39.89135433-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/641d671fb02376.96145593-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204801,
+      "title": "100 Rand",
+      "issuer": {
+        "code": "afrique_du_sud",
+        "name": "South Africa"
+      },
+      "min_year": 2004,
+      "max_year": 2009,
+      "face": {
+        "value": 100,
+        "unit": "Rand",
+        "text": "100 Rand"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204801,
+        "title": "100 Rand",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "afrique_du_sud",
+          "name": "South Africa"
+        },
+        "min_year": 2004,
+        "max_year": 2009,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/62964ecadb8449.93678851-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/62964ecb8f5061.73721804-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204810,
+      "title": "200 Rand",
+      "issuer": {
+        "code": "afrique_du_sud",
+        "name": "South Africa"
+      },
+      "min_year": 2004,
+      "max_year": 2010,
+      "face": {
+        "value": 200,
+        "unit": "Rand",
+        "text": "200 Rand"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204810,
+        "title": "200 Rand",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "afrique_du_sud",
+          "name": "South Africa"
+        },
+        "min_year": 2004,
+        "max_year": 2010,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/5e9c907543c591.22101165-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/5e9c9075a75a26.33845160-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206391,
+      "title": "10 Rand",
+      "issuer": {
+        "code": "afrique_du_sud",
+        "name": "South Africa"
+      },
+      "min_year": 2004,
+      "max_year": 2009,
+      "face": {
+        "value": 10,
+        "unit": "Rand",
+        "text": "10 Rand"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206391,
+        "title": "10 Rand",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "afrique_du_sud",
+          "name": "South Africa"
+        },
+        "min_year": 2004,
+        "max_year": 2009,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/5fca995bab65b8.70767748-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/5fca995d30b127.82547410-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 207683,
+      "title": "1 Rand (English - Afrikaans; Small size)",
+      "issuer": {
+        "code": "afrique_du_sud",
+        "name": "South Africa"
+      },
+      "min_year": 1973,
+      "max_year": 1975,
+      "face": {
+        "value": 1,
+        "unit": "Rand",
+        "text": "1 Rand"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 207683,
+        "title": "1 Rand (English - Afrikaans; Small size)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "afrique_du_sud",
+          "name": "South Africa"
+        },
+        "min_year": 1973,
+        "max_year": 1975,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/63ac9f96509551.69305694-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/63ac9f96dde335.17864535-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 207684,
+      "title": "1 Rand (Afrikaans - English; Small size)",
+      "issuer": {
+        "code": "afrique_du_sud",
+        "name": "South Africa"
+      },
+      "min_year": 1973,
+      "max_year": 1975,
+      "face": {
+        "value": 1,
+        "unit": "Rand",
+        "text": "1 Rand"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 207684,
+        "title": "1 Rand (Afrikaans - English; Small size)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "afrique_du_sud",
+          "name": "South Africa"
+        },
+        "min_year": 1973,
+        "max_year": 1975,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/678e723ef04574.58720260-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/678e72403909b9.75492082-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 207688,
+      "title": "2 Rand",
+      "issuer": {
+        "code": "afrique_du_sud",
+        "name": "South Africa"
+      },
+      "min_year": 1978,
+      "max_year": 1990,
+      "face": {
+        "value": 2,
+        "unit": "Rand",
+        "text": "2 Rand"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 207688,
+        "title": "2 Rand",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "afrique_du_sud",
+          "name": "South Africa"
+        },
+        "min_year": 1978,
+        "max_year": 1990,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/64eba4427d8369.37862612-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/64eba443847875.69233432-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 207689,
+      "title": "5 Rand",
+      "issuer": {
+        "code": "afrique_du_sud",
+        "name": "South Africa"
+      },
+      "min_year": 1978,
+      "max_year": 1994,
+      "face": {
+        "value": 5,
+        "unit": "Rand",
+        "text": "5 Rand"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 207689,
+        "title": "5 Rand",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "afrique_du_sud",
+          "name": "South Africa"
+        },
+        "min_year": 1978,
+        "max_year": 1994,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/64133445895978.84308043-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/641334490c4b78.19560494-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 208059,
+      "title": "20 Rand",
+      "issuer": {
+        "code": "afrique_du_sud",
+        "name": "South Africa"
+      },
+      "min_year": 1979,
+      "max_year": 1990,
+      "face": {
+        "value": 20,
+        "unit": "Rand",
+        "text": "20 Rand"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 208059,
+        "title": "20 Rand",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "afrique_du_sud",
+          "name": "South Africa"
+        },
+        "min_year": 1979,
+        "max_year": 1990,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/640db78f887f54.30804145-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/640db7906d5e79.51426962-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 208062,
+      "title": "10 Rand (Mandela Birth Centenary)",
+      "issuer": {
+        "code": "afrique_du_sud",
+        "name": "South Africa"
+      },
+      "min_year": 2018,
+      "max_year": 2018,
+      "face": {
+        "value": 10,
+        "unit": "Rand",
+        "text": "10 Rand"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 208062,
+        "title": "10 Rand (Mandela Birth Centenary)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "afrique_du_sud",
+          "name": "South Africa"
+        },
+        "min_year": 2018,
+        "max_year": 2018,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/619178837f2996.69496451-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/61917883ee5516.87607991-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 208063,
+      "title": "20 Rand (Mandela Birth Centenary)",
+      "issuer": {
+        "code": "afrique_du_sud",
+        "name": "South Africa"
+      },
+      "min_year": 2018,
+      "max_year": 2018,
+      "face": {
+        "value": 20,
+        "unit": "Rand",
+        "text": "20 Rand"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 208063,
+        "title": "20 Rand (Mandela Birth Centenary)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "afrique_du_sud",
+          "name": "South Africa"
+        },
+        "min_year": 2018,
+        "max_year": 2018,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/5ea65907f06b21.86255928-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/5ea6590823e928.40290042-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 208064,
+      "title": "50 Rand (Mandela Birth Centenary)",
+      "issuer": {
+        "code": "afrique_du_sud",
+        "name": "South Africa"
+      },
+      "min_year": 2018,
+      "max_year": 2018,
+      "face": {
+        "value": 50,
+        "unit": "Rand",
+        "text": "50 Rand"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 208064,
+        "title": "50 Rand (Mandela Birth Centenary)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "afrique_du_sud",
+          "name": "South Africa"
+        },
+        "min_year": 2018,
+        "max_year": 2018,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/5ea6590f30b668.15844604-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/5ea6590f5dc276.03684918-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 208065,
+      "title": "100 Rand (Mandela Birth Centenary)",
+      "issuer": {
+        "code": "afrique_du_sud",
+        "name": "South Africa"
+      },
+      "min_year": 2018,
+      "max_year": 2018,
+      "face": {
+        "value": 100,
+        "unit": "Rand",
+        "text": "100 Rand"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 208065,
+        "title": "100 Rand (Mandela Birth Centenary)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "afrique_du_sud",
+          "name": "South Africa"
+        },
+        "min_year": 2018,
+        "max_year": 2018,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/5ea65917e6dd11.03968154-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/5ea65918201839.47019735-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 208066,
+      "title": "200 Rand (Mandela Birth Centenary)",
+      "issuer": {
+        "code": "afrique_du_sud",
+        "name": "South Africa"
+      },
+      "min_year": 2018,
+      "max_year": 2018,
+      "face": {
+        "value": 200,
+        "unit": "Rand",
+        "text": "200 Rand"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 208066,
+        "title": "200 Rand (Mandela Birth Centenary)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "afrique_du_sud",
+          "name": "South Africa"
+        },
+        "min_year": 2018,
+        "max_year": 2018,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/626b85f668e494.83627196-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/626b85f6da45e7.43242938-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 208512,
+      "title": "50 Rand",
+      "issuer": {
+        "code": "afrique_du_sud",
+        "name": "South Africa"
+      },
+      "min_year": 1992,
+      "max_year": 1999,
+      "face": {
+        "value": 50,
+        "unit": "Rand",
+        "text": "50 Rand"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 208512,
+        "title": "50 Rand",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "afrique_du_sud",
+          "name": "South Africa"
+        },
+        "min_year": 1992,
+        "max_year": 1999,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/677ceb7592d4d9.18454099-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/677ceb7705ae42.84235908-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 209000,
+      "title": "20 Rand",
+      "issuer": {
+        "code": "afrique_du_sud",
+        "name": "South Africa"
+      },
+      "min_year": 1993,
+      "max_year": 1999,
+      "face": {
+        "value": 20,
+        "unit": "Rand",
+        "text": "20 Rand"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 209000,
+        "title": "20 Rand",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "afrique_du_sud",
+          "name": "South Africa"
+        },
+        "min_year": 1993,
+        "max_year": 1999,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/5ec3c5c20735d3.51289353-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/5ec3c5c25fdbf0.75238870-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 210480,
+      "title": "10 Rand",
+      "issuer": {
+        "code": "afrique_du_sud",
+        "name": "South Africa"
+      },
+      "min_year": 1993,
+      "max_year": 1999,
+      "face": {
+        "value": 10,
+        "unit": "Rand",
+        "text": "10 Rand"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 210480,
+        "title": "10 Rand",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "afrique_du_sud",
+          "name": "South Africa"
+        },
+        "min_year": 1993,
+        "max_year": 1999,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/641334d45ddbb7.69013019-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/641334d7302533.46470474-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 210613,
+      "title": "1 Rand (English - Afrikaans; Large size)",
+      "issuer": {
+        "code": "afrique_du_sud",
+        "name": "South Africa"
+      },
+      "min_year": 1966,
+      "max_year": 1972,
+      "face": {
+        "value": 1,
+        "unit": "Rand",
+        "text": "1 Rand"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 210613,
+        "title": "1 Rand (English - Afrikaans; Large size)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "afrique_du_sud",
+          "name": "South Africa"
+        },
+        "min_year": 1966,
+        "max_year": 1972,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/6873abffbbf5e6.89394662-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/6873ac002a6bb1.84838880-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 211303,
+      "title": "1 Rand (Afrikaans - English)",
+      "issuer": {
+        "code": "afrique_du_sud",
+        "name": "South Africa"
+      },
+      "min_year": 1961,
+      "max_year": 1965,
+      "face": {
+        "value": 1,
+        "unit": "Rand",
+        "text": "1 Rand"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 211303,
+        "title": "1 Rand (Afrikaans - English)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "afrique_du_sud",
+          "name": "South Africa"
+        },
+        "min_year": 1961,
+        "max_year": 1965,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/6ad7e47ea86323.20812974-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/6ad7e4815839e2.00731249-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 216194,
+      "title": "50 Rand",
+      "issuer": {
+        "code": "afrique_du_sud",
+        "name": "South Africa"
+      },
+      "min_year": 1984,
+      "max_year": 1990,
+      "face": {
+        "value": 50,
+        "unit": "Rand",
+        "text": "50 Rand"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 216194,
+        "title": "50 Rand",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "afrique_du_sud",
+          "name": "South Africa"
+        },
+        "min_year": 1984,
+        "max_year": 1990,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/695a48362b2bd3.76910023-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/695a4839a1de88.29985111-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 216861,
+      "title": "2 Rand",
+      "issuer": {
+        "code": "afrique_du_sud",
+        "name": "South Africa"
+      },
+      "min_year": 1974,
+      "max_year": 1976,
+      "face": {
+        "value": 2,
+        "unit": "Rand",
+        "text": "2 Rand"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 216861,
+        "title": "2 Rand",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "afrique_du_sud",
+          "name": "South Africa"
+        },
+        "min_year": 1974,
+        "max_year": 1976,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/631b79efc88072.86554498-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/631b79f01dc958.13137916-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 216862,
+      "title": "10 Rand (Afrikaans - English)",
+      "issuer": {
+        "code": "afrique_du_sud",
+        "name": "South Africa"
+      },
+      "min_year": 1966,
+      "max_year": 1976,
+      "face": {
+        "value": 10,
+        "unit": "Rand",
+        "text": "10 Rand"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 216862,
+        "title": "10 Rand (Afrikaans - English)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "afrique_du_sud",
+          "name": "South Africa"
+        },
+        "min_year": 1966,
+        "max_year": 1976,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/5ec674e050cea7.91252633-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/5ec674e07e7203.04965547-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 216864,
+      "title": "50 Rand (With Omron rings)",
+      "issuer": {
+        "code": "afrique_du_sud",
+        "name": "South Africa"
+      },
+      "min_year": 2013,
+      "max_year": 2016,
+      "face": {
+        "value": 50,
+        "unit": "Rand",
+        "text": "50 Rand"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 216864,
+        "title": "50 Rand (With Omron rings)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "afrique_du_sud",
+          "name": "South Africa"
+        },
+        "min_year": 2013,
+        "max_year": 2016,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/681f6c0ab3cf15.72872542-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/681f6c0c63ffb7.76728009-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 223383,
+      "title": "100 Rand (With Omron rings)",
+      "issuer": {
+        "code": "afrique_du_sud",
+        "name": "South Africa"
+      },
+      "min_year": 2014,
+      "max_year": 2014,
+      "face": {
+        "value": 100,
+        "unit": "Rand",
+        "text": "100 Rand"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 223383,
+        "title": "100 Rand (With Omron rings)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "afrique_du_sud",
+          "name": "South Africa"
+        },
+        "min_year": 2014,
+        "max_year": 2014,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/626b85cbbfc083.48132219-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/626b85cc5cb898.80979757-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 223805,
+      "title": "20 Rand (Without Omron rings)",
+      "issuer": {
+        "code": "afrique_du_sud",
+        "name": "South Africa"
+      },
+      "min_year": 2012,
+      "max_year": 2012,
+      "face": {
+        "value": 20,
+        "unit": "Rand",
+        "text": "20 Rand"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 223805,
+        "title": "20 Rand (Without Omron rings)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "afrique_du_sud",
+          "name": "South Africa"
+        },
+        "min_year": 2012,
+        "max_year": 2012,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/62999ef1697399.31117863-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/62999ef252a594.46797396-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 225425,
+      "title": "1 Rand (Afrikaans - English; Large size)",
+      "issuer": {
+        "code": "afrique_du_sud",
+        "name": "South Africa"
+      },
+      "min_year": 1966,
+      "max_year": 1972,
+      "face": {
+        "value": 1,
+        "unit": "Rand",
+        "text": "1 Rand"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 225425,
+        "title": "1 Rand (Afrikaans - English; Large size)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "afrique_du_sud",
+          "name": "South Africa"
+        },
+        "min_year": 1966,
+        "max_year": 1972,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/67e962ea8ed3a7.64841993-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/67e962eb967027.72947595-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 231833,
+      "title": "1 Rand (English - Afrikaans)",
+      "issuer": {
+        "code": "afrique_du_sud",
+        "name": "South Africa"
+      },
+      "min_year": 1961,
+      "max_year": 1965,
+      "face": {
+        "value": 1,
+        "unit": "Rand",
+        "text": "1 Rand"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 231833,
+        "title": "1 Rand (English - Afrikaans)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "afrique_du_sud",
+          "name": "South Africa"
+        },
+        "min_year": 1961,
+        "max_year": 1965,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/69348946301042.40648320-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/693489468f6051.69460329-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 231851,
+      "title": "2 Rand (English - Afrikaans)",
+      "issuer": {
+        "code": "afrique_du_sud",
+        "name": "South Africa"
+      },
+      "min_year": 1961,
+      "max_year": 1962,
+      "face": {
+        "value": 2,
+        "unit": "Rand",
+        "text": "2 Rand"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 231851,
+        "title": "2 Rand (English - Afrikaans)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "afrique_du_sud",
+          "name": "South Africa"
+        },
+        "min_year": 1961,
+        "max_year": 1962,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/5f34ddacb6d276.13281000-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/5f34ddad4cdd87.67728645-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 231854,
+      "title": "2 Rand (Afrikaans - English)",
+      "issuer": {
+        "code": "afrique_du_sud",
+        "name": "South Africa"
+      },
+      "min_year": 1961,
+      "max_year": 1962,
+      "face": {
+        "value": 2,
+        "unit": "Rand",
+        "text": "2 Rand"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 231854,
+        "title": "2 Rand (Afrikaans - English)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "afrique_du_sud",
+          "name": "South Africa"
+        },
+        "min_year": 1961,
+        "max_year": 1962,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/6ada1be44819a0.51740008-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/6ada1be668cd53.68226291-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 231950,
+      "title": "5 Rand (English - Afrikaans)",
+      "issuer": {
+        "code": "afrique_du_sud",
+        "name": "South Africa"
+      },
+      "min_year": 1966,
+      "max_year": 1976,
+      "face": {
+        "value": 5,
+        "unit": "Rand",
+        "text": "5 Rand"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 231950,
+        "title": "5 Rand (English - Afrikaans)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "afrique_du_sud",
+          "name": "South Africa"
+        },
+        "min_year": 1966,
+        "max_year": 1976,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/5f34e0dfb750d1.73332469-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/5f34e0e0528181.26237078-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 231964,
+      "title": "10 Rand (English - Afrikaans)",
+      "issuer": {
+        "code": "afrique_du_sud",
+        "name": "South Africa"
+      },
+      "min_year": 1961,
+      "max_year": 1962,
+      "face": {
+        "value": 10,
+        "unit": "Rand",
+        "text": "10 Rand"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 231964,
+        "title": "10 Rand (English - Afrikaans)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "afrique_du_sud",
+          "name": "South Africa"
+        },
+        "min_year": 1961,
+        "max_year": 1962,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/5f34e9fb8643a8.59114766-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/5f34e9fc2a7107.11424912-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 231966,
+      "title": "10 Rand (Afrikaans - English)",
+      "issuer": {
+        "code": "afrique_du_sud",
+        "name": "South Africa"
+      },
+      "min_year": 1961,
+      "max_year": 1962,
+      "face": {
+        "value": 10,
+        "unit": "Rand",
+        "text": "10 Rand"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 231966,
+        "title": "10 Rand (Afrikaans - English)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "afrique_du_sud",
+          "name": "South Africa"
+        },
+        "min_year": 1961,
+        "max_year": 1962,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/5f34ea374a6544.26081235-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/5f34ea3816fb30.29415754-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 231996,
+      "title": "10 Rand (English - Afrikaans)",
+      "issuer": {
+        "code": "afrique_du_sud",
+        "name": "South Africa"
+      },
+      "min_year": 1966,
+      "max_year": 1976,
+      "face": {
+        "value": 10,
+        "unit": "Rand",
+        "text": "10 Rand"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 231996,
+        "title": "10 Rand (English - Afrikaans)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "afrique_du_sud",
+          "name": "South Africa"
+        },
+        "min_year": 1966,
+        "max_year": 1976,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/5f34ee4c915ad9.15430395-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/5f34ee4d4f2ae3.32447729-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 232027,
+      "title": "20 Rand (English - Afrikaans)",
+      "issuer": {
+        "code": "afrique_du_sud",
+        "name": "South Africa"
+      },
+      "min_year": 1961,
+      "max_year": 1961,
+      "face": {
+        "value": 20,
+        "unit": "Rand",
+        "text": "20 Rand"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 232027,
+        "title": "20 Rand (English - Afrikaans)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "afrique_du_sud",
+          "name": "South Africa"
+        },
+        "min_year": 1961,
+        "max_year": 1961,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/5fa7eeb24e2468.53497727-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/5fa7eeb27a6bb5.48804562-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 232028,
+      "title": "20 Rand (Afrikaans - English)",
+      "issuer": {
+        "code": "afrique_du_sud",
+        "name": "South Africa"
+      },
+      "min_year": 1962,
+      "max_year": 1962,
+      "face": {
+        "value": 20,
+        "unit": "Rand",
+        "text": "20 Rand"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 232028,
+        "title": "20 Rand (Afrikaans - English)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "afrique_du_sud",
+          "name": "South Africa"
+        },
+        "min_year": 1962,
+        "max_year": 1962,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/5f34efc99dd0b0.06296918-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/5f34efca56ec98.89582430-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 232155,
+      "title": "100 Rand",
+      "issuer": {
+        "code": "afrique_du_sud",
+        "name": "South Africa"
+      },
+      "min_year": 1994,
+      "max_year": 1999,
+      "face": {
+        "value": 100,
+        "unit": "Rand",
+        "text": "100 Rand"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 232155,
+        "title": "100 Rand",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "afrique_du_sud",
+          "name": "South Africa"
+        },
+        "min_year": 1994,
+        "max_year": 1999,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/65e9bdc5a13872.47096813-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/65e9bdc7733dd5.68219196-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 232159,
+      "title": "200 Rand",
+      "issuer": {
+        "code": "afrique_du_sud",
+        "name": "South Africa"
+      },
+      "min_year": 1994,
+      "max_year": 2000,
+      "face": {
+        "value": 200,
+        "unit": "Rand",
+        "text": "200 Rand"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 232159,
+        "title": "200 Rand",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "afrique_du_sud",
+          "name": "South Africa"
+        },
+        "min_year": 1994,
+        "max_year": 2000,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/5f34f2b707f5c1.98899872-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/5f34f2b787f779.20533718-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 232160,
+      "title": "200 Rand (Without Omron rings)",
+      "issuer": {
+        "code": "afrique_du_sud",
+        "name": "South Africa"
+      },
+      "min_year": 2012,
+      "max_year": 2012,
+      "face": {
+        "value": 200,
+        "unit": "Rand",
+        "text": "200 Rand"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 232160,
+        "title": "200 Rand (Without Omron rings)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "afrique_du_sud",
+          "name": "South Africa"
+        },
+        "min_year": 2012,
+        "max_year": 2012,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/5f34f67c112262.32242009-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/5f34f67c93b604.65055185-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 287049,
+      "title": "10 Ora (A Series)",
+      "issuer": {
+        "code": "orania",
+        "name": "Orania"
+      },
+      "min_year": 2004,
+      "max_year": 2006,
+      "face": {
+        "value": 10,
+        "unit": "Ora",
+        "text": "10 Ora"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 287049,
+        "title": "10 Ora (A Series)",
+        "object_type": {
+          "id": 84,
+          "name": "Local banknotes"
+        },
+        "issuer": {
+          "code": "orania",
+          "name": "Orania"
+        },
+        "min_year": 2004,
+        "max_year": 2006,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/orania/676351ac4eafe9.49748599-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/orania/676351ac5df615.81752174-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 287051,
+      "title": "10 Ora (D Series - 20 Years of Orania)",
+      "issuer": {
+        "code": "orania",
+        "name": "Orania"
+      },
+      "min_year": 2011,
+      "max_year": 2011,
+      "face": {
+        "value": 10,
+        "unit": "Ora",
+        "text": "10 Ora"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 287051,
+        "title": "10 Ora (D Series - 20 Years of Orania)",
+        "object_type": {
+          "id": 84,
+          "name": "Local banknotes"
+        },
+        "issuer": {
+          "code": "orania",
+          "name": "Orania"
+        },
+        "min_year": 2011,
+        "max_year": 2011,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/orania/67635024638760.31138565-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/orania/676350248895c2.63818281-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 287055,
+      "title": "10 Ora (B Series)",
+      "issuer": {
+        "code": "orania",
+        "name": "Orania"
+      },
+      "min_year": 2006,
+      "max_year": 2008,
+      "face": {
+        "value": 10,
+        "unit": "Ora",
+        "text": "10 Ora"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 287055,
+        "title": "10 Ora (B Series)",
+        "object_type": {
+          "id": 84,
+          "name": "Local banknotes"
+        },
+        "issuer": {
+          "code": "orania",
+          "name": "Orania"
+        },
+        "min_year": 2006,
+        "max_year": 2008,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/orania/67635109381682.01979689-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/orania/676351094dab09.20715913-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 287057,
+      "title": "10 Ora (C Series)",
+      "issuer": {
+        "code": "orania",
+        "name": "Orania"
+      },
+      "min_year": 2008,
+      "max_year": 2011,
+      "face": {
+        "value": 10,
+        "unit": "Ora",
+        "text": "10 Ora"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 287057,
+        "title": "10 Ora (C Series)",
+        "object_type": {
+          "id": 84,
+          "name": "Local banknotes"
+        },
+        "issuer": {
+          "code": "orania",
+          "name": "Orania"
+        },
+        "min_year": 2008,
+        "max_year": 2011,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/orania/6763505aaeae38.02483401-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/orania/6763505aba5b03.28381894-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 365097,
+      "title": "10 Rand",
+      "issuer": {
+        "code": "afrique_du_sud",
+        "name": "South Africa"
+      },
+      "min_year": 2023,
+      "max_year": 2023,
+      "face": {
+        "value": 10,
+        "unit": "Rand",
+        "text": "10 Rand"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 365097,
+        "title": "10 Rand",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "afrique_du_sud",
+          "name": "South Africa"
+        },
+        "min_year": 2023,
+        "max_year": 2023,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/64ab21cc3c73e1.04264104-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/64ab21ccdf0490.60460931-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 365101,
+      "title": "20 Rand",
+      "issuer": {
+        "code": "afrique_du_sud",
+        "name": "South Africa"
+      },
+      "min_year": 2023,
+      "max_year": 2023,
+      "face": {
+        "value": 20,
+        "unit": "Rand",
+        "text": "20 Rand"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 365101,
+        "title": "20 Rand",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "afrique_du_sud",
+          "name": "South Africa"
+        },
+        "min_year": 2023,
+        "max_year": 2023,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/64ab222be58d00.84554402-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/64ab222c81ad95.66448342-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 365103,
+      "title": "50 Rand",
+      "issuer": {
+        "code": "afrique_du_sud",
+        "name": "South Africa"
+      },
+      "min_year": 2023,
+      "max_year": 2023,
+      "face": {
+        "value": 50,
+        "unit": "Rand",
+        "text": "50 Rand"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 365103,
+        "title": "50 Rand",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "afrique_du_sud",
+          "name": "South Africa"
+        },
+        "min_year": 2023,
+        "max_year": 2023,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/64ab229a782170.60058255-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/64ab229b2c4262.52061212-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 365105,
+      "title": "100 Rand",
+      "issuer": {
+        "code": "afrique_du_sud",
+        "name": "South Africa"
+      },
+      "min_year": 2023,
+      "max_year": 2023,
+      "face": {
+        "value": 100,
+        "unit": "Rand",
+        "text": "100 Rand"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 365105,
+        "title": "100 Rand",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "afrique_du_sud",
+          "name": "South Africa"
+        },
+        "min_year": 2023,
+        "max_year": 2023,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/64ab22f14f8630.41892086-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/64ab22f20ad6a9.50156832-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 365107,
+      "title": "200 Rand",
+      "issuer": {
+        "code": "afrique_du_sud",
+        "name": "South Africa"
+      },
+      "min_year": 2023,
+      "max_year": 2023,
+      "face": {
+        "value": 200,
+        "unit": "Rand",
+        "text": "200 Rand"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 365107,
+        "title": "200 Rand",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "afrique_du_sud",
+          "name": "South Africa"
+        },
+        "min_year": 2023,
+        "max_year": 2023,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/64b169acc3b2b5.55179177-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/afrique_du_sud/64b169ad707030.32749471-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 571832,
+      "title": "20 Ora (H Series)",
+      "issuer": {
+        "code": "orania",
+        "name": "Orania"
+      },
+      "min_year": 2023,
+      "max_year": 2026,
+      "face": {
+        "value": 20,
+        "unit": "Ora",
+        "text": "20 Ora"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 571832,
+        "title": "20 Ora (H Series)",
+        "object_type": {
+          "id": 84,
+          "name": "Local banknotes"
+        },
+        "issuer": {
+          "code": "orania",
+          "name": "Orania"
+        },
+        "min_year": 2023,
+        "max_year": 2026,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/orania/69d93eef7df4e4.48566017-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/orania/69d93ef1bfde54.25566032-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 571835,
+      "title": "50 Ora (H Series)",
+      "issuer": {
+        "code": "orania",
+        "name": "Orania"
+      },
+      "min_year": 2023,
+      "max_year": 2026,
+      "face": {
+        "value": 50,
+        "unit": "Ora",
+        "text": "50 Ora"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 571835,
+        "title": "50 Ora (H Series)",
+        "object_type": {
+          "id": 84,
+          "name": "Local banknotes"
+        },
+        "issuer": {
+          "code": "orania",
+          "name": "Orania"
+        },
+        "min_year": 2023,
+        "max_year": 2026,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/orania/69d941843f5963.73738245-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/orania/69d94186cac838.35928530-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 571837,
+      "title": "100 Ora (H Series)",
+      "issuer": {
+        "code": "orania",
+        "name": "Orania"
+      },
+      "min_year": 2023,
+      "max_year": 2026,
+      "face": {
+        "value": 100,
+        "unit": "Ora",
+        "text": "100 Ora"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 571837,
+        "title": "100 Ora (H Series)",
+        "object_type": {
+          "id": 84,
+          "name": "Local banknotes"
+        },
+        "issuer": {
+          "code": "orania",
+          "name": "Orania"
+        },
+        "min_year": 2023,
+        "max_year": 2026,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/orania/69d94375780b08.08909096-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/orania/69d94377554e32.64729593-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 572088,
+      "title": "10 Ora (H Series)",
+      "issuer": {
+        "code": "orania",
+        "name": "Orania"
+      },
+      "min_year": 2023,
+      "max_year": 2026,
+      "face": {
+        "value": 10,
+        "unit": "Ora",
+        "text": "10 Ora"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 572088,
+        "title": "10 Ora (H Series)",
+        "object_type": {
+          "id": 84,
+          "name": "Local banknotes"
+        },
+        "issuer": {
+          "code": "orania",
+          "name": "Orania"
+        },
+        "min_year": 2023,
+        "max_year": 2026,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/orania/69d9fe662e5e12.38465664-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/orania/69d9fe67c2c611.17053269-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 572091,
+      "title": "200 Ora (H Series)",
+      "issuer": {
+        "code": "orania",
+        "name": "Orania"
+      },
+      "min_year": 2023,
+      "max_year": 2026,
+      "face": {
+        "value": 200,
+        "unit": "Ora",
+        "text": "200 Ora"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 572091,
+        "title": "200 Ora (H Series)",
+        "object_type": {
+          "id": 84,
+          "name": "Local banknotes"
+        },
+        "issuer": {
+          "code": "orania",
+          "name": "Orania"
+        },
+        "min_year": 2023,
+        "max_year": 2026,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/orania/69d9fffddb0535.12773950-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/orania/69da00009a1424.78490377-180.jpg",
+        "category": "banknote"
+      }
+    }
+  ]
+}

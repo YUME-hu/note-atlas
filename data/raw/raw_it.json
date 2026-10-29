@@ -1,0 +1,6240 @@
+{
+  "meta": {
+    "generated_at": "2026-10-29T13:27:51.517Z",
+    "fixture": false,
+    "api": "numista v3",
+    "issuer": "italy",
+    "iso": "IT",
+    "category": "banknote",
+    "lang": "en",
+    "since": 1960,
+    "listed": 317,
+    "fetched": 168,
+    "details_fetched": 0,
+    "dropped_before_since": 149,
+    "dropped_by_source": {
+      "list": 149,
+      "detail": 0
+    },
+    "issuer_mismatches": 139,
+    "pages": 7,
+    "requests": 0
+  },
+  "types": [
+    {
+      "numista_type_id": 202232,
+      "title": "1000 Lire (Montessori)",
+      "issuer": {
+        "code": "italie",
+        "name": "Italy"
+      },
+      "min_year": 1990,
+      "max_year": 2001,
+      "face": {
+        "value": 1000,
+        "unit": "Lire",
+        "text": "1000 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202232,
+        "title": "1000 Lire (Montessori)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "italie",
+          "name": "Italy"
+        },
+        "min_year": 1990,
+        "max_year": 2001,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italie/5eb8255691a577.62252393-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italie/5eb8255a180ac1.77746432-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202451,
+      "title": "5000 Lire (Bellini)",
+      "issuer": {
+        "code": "italie",
+        "name": "Italy"
+      },
+      "min_year": 1985,
+      "max_year": 2001,
+      "face": {
+        "value": 5000,
+        "unit": "Lire",
+        "text": "5000 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202451,
+        "title": "5000 Lire (Bellini)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "italie",
+          "name": "Italy"
+        },
+        "min_year": 1985,
+        "max_year": 2001,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italie/61d4b32f025665.77441518-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italie/61d4b32f5fc258.47251602-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202730,
+      "title": "10 000 Lire (Volta)",
+      "issuer": {
+        "code": "italie",
+        "name": "Italy"
+      },
+      "min_year": 1984,
+      "max_year": 1998,
+      "face": {
+        "value": 10000,
+        "unit": "Lire",
+        "text": "10000 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202730,
+        "title": "10 000 Lire (Volta)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "italie",
+          "name": "Italy"
+        },
+        "min_year": 1984,
+        "max_year": 1998,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italie/667bcbc2ccdd85.72829502-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italie/667bcbc4d7d436.71334606-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202733,
+      "title": "2000 Lire (Marconi)",
+      "issuer": {
+        "code": "italie",
+        "name": "Italy"
+      },
+      "min_year": 1990,
+      "max_year": 1992,
+      "face": {
+        "value": 2000,
+        "unit": "Lire",
+        "text": "2000 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202733,
+        "title": "2000 Lire (Marconi)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "italie",
+          "name": "Italy"
+        },
+        "min_year": 1990,
+        "max_year": 1992,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italie/623ae6619c5dd7.65788715-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italie/623ae662417602.26439188-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202738,
+      "title": "1000 Lire",
+      "issuer": {
+        "code": "italie",
+        "name": "Italy"
+      },
+      "min_year": 1982,
+      "max_year": 1988,
+      "face": {
+        "value": 1000,
+        "unit": "Lire",
+        "text": "1000 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202738,
+        "title": "1000 Lire",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "italie",
+          "name": "Italy"
+        },
+        "min_year": 1982,
+        "max_year": 1988,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italie/66ed3465ddb761.62227387-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italie/66ed3468302235.11001479-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202740,
+      "title": "1000 Lire (Verdi - 2nd type)",
+      "issuer": {
+        "code": "italie",
+        "name": "Italy"
+      },
+      "min_year": 1969,
+      "max_year": 1981,
+      "face": {
+        "value": 1000,
+        "unit": "Lire",
+        "text": "1000 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202740,
+        "title": "1000 Lire (Verdi - 2nd type)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "italie",
+          "name": "Italy"
+        },
+        "min_year": 1969,
+        "max_year": 1981,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italie/6270e94a02e187.08253885-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italie/6270e94aab0e80.22555742-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202743,
+      "title": "500 Lire (Mercurio)",
+      "issuer": {
+        "code": "italie",
+        "name": "Italy"
+      },
+      "min_year": 1974,
+      "max_year": 1979,
+      "face": {
+        "value": 500,
+        "unit": "Lire",
+        "text": "500 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202743,
+        "title": "500 Lire (Mercurio)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "italie",
+          "name": "Italy"
+        },
+        "min_year": 1974,
+        "max_year": 1979,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italie/61d4b0a576f680.66779648-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italie/61d4b0a5cc9ac2.83698855-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203455,
+      "title": "5000 Lire (Antonello da Messina)",
+      "issuer": {
+        "code": "italie",
+        "name": "Italy"
+      },
+      "min_year": 1979,
+      "max_year": 1983,
+      "face": {
+        "value": 5000,
+        "unit": "Lire",
+        "text": "5000 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203455,
+        "title": "5000 Lire (Antonello da Messina)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "italie",
+          "name": "Italy"
+        },
+        "min_year": 1979,
+        "max_year": 1983,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italie/5e99269e6bc658.01699212-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italie/5e99269edf6d86.43077935-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203629,
+      "title": "10 000 Lire (del Castagno)",
+      "issuer": {
+        "code": "italie",
+        "name": "Italy"
+      },
+      "min_year": 1976,
+      "max_year": 1984,
+      "face": {
+        "value": 10000,
+        "unit": "Lire",
+        "text": "10000 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203629,
+        "title": "10 000 Lire (del Castagno)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "italie",
+          "name": "Italy"
+        },
+        "min_year": 1976,
+        "max_year": 1984,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italie/5e997ea0b0f170.73450207-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italie/5e997ea0ed9ee0.59632645-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203654,
+      "title": "10 000 Lire (Michelangelo)",
+      "issuer": {
+        "code": "italie",
+        "name": "Italy"
+      },
+      "min_year": 1962,
+      "max_year": 1973,
+      "face": {
+        "value": 10000,
+        "unit": "Lire",
+        "text": "10000 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203654,
+        "title": "10 000 Lire (Michelangelo)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "italie",
+          "name": "Italy"
+        },
+        "min_year": 1962,
+        "max_year": 1973,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italie/5e998724d11569.04426253-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italie/5e998725132a46.62360897-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204028,
+      "title": "2000 Lire (Galileo Galilei)",
+      "issuer": {
+        "code": "italie",
+        "name": "Italy"
+      },
+      "min_year": 1973,
+      "max_year": 1983,
+      "face": {
+        "value": 2000,
+        "unit": "Lire",
+        "text": "2000 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204028,
+        "title": "2000 Lire (Galileo Galilei)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "italie",
+          "name": "Italy"
+        },
+        "min_year": 1973,
+        "max_year": 1983,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italie/5e9a9cc54ec076.86379160-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italie/5e9a9cc5893635.16219385-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204032,
+      "title": "5000 Lire (Colombo - 2nd type)",
+      "issuer": {
+        "code": "italie",
+        "name": "Italy"
+      },
+      "min_year": 1971,
+      "max_year": 1977,
+      "face": {
+        "value": 5000,
+        "unit": "Lire",
+        "text": "5000 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204032,
+        "title": "5000 Lire (Colombo - 2nd type)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "italie",
+          "name": "Italy"
+        },
+        "min_year": 1971,
+        "max_year": 1977,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italie/6a184537273549.75003651-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italie/6a184537d0b587.48602303-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204050,
+      "title": "50 000 Lire (Volto di donna)",
+      "issuer": {
+        "code": "italie",
+        "name": "Italy"
+      },
+      "min_year": 1977,
+      "max_year": 1982,
+      "face": {
+        "value": 50000,
+        "unit": "Lire",
+        "text": "50000 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204050,
+        "title": "50 000 Lire (Volto di donna)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "italie",
+          "name": "Italy"
+        },
+        "min_year": 1977,
+        "max_year": 1982,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italie/5e9aa7c2d14d53.66385863-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italie/5e9aa7c3240f28.95871937-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204621,
+      "title": "20 000 Lire (Tiziano)",
+      "issuer": {
+        "code": "italie",
+        "name": "Italy"
+      },
+      "min_year": 1974,
+      "max_year": 1975,
+      "face": {
+        "value": 20000,
+        "unit": "Lire",
+        "text": "20000 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204621,
+        "title": "20 000 Lire (Tiziano)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "italie",
+          "name": "Italy"
+        },
+        "min_year": 1974,
+        "max_year": 1975,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italie/5e9c2b114beb53.61819640-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italie/5e9c2b1187e7d3.75863337-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204635,
+      "title": "500 Lire (Aretusa)",
+      "issuer": {
+        "code": "italie",
+        "name": "Italy"
+      },
+      "min_year": 1966,
+      "max_year": 1975,
+      "face": {
+        "value": 500,
+        "unit": "Lire",
+        "text": "500 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204635,
+        "title": "500 Lire (Aretusa)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "italie",
+          "name": "Italy"
+        },
+        "min_year": 1966,
+        "max_year": 1975,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italie/5e9c3064961457.38088573-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italie/5e9c3064e838f0.78076090-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204638,
+      "title": "1000 Lire (Verdi - 1st type)",
+      "issuer": {
+        "code": "italie",
+        "name": "Italy"
+      },
+      "min_year": 1962,
+      "max_year": 1968,
+      "face": {
+        "value": 1000,
+        "unit": "Lire",
+        "text": "1000 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204638,
+        "title": "1000 Lire (Verdi - 1st type)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "italie",
+          "name": "Italy"
+        },
+        "min_year": 1962,
+        "max_year": 1968,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italie/5e9c34b7eeaa52.73023080-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italie/5e9c34b8405532.87501715-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204657,
+      "title": "5000 Lire (Colombo - 1st type)",
+      "issuer": {
+        "code": "italie",
+        "name": "Italy"
+      },
+      "min_year": 1964,
+      "max_year": 1970,
+      "face": {
+        "value": 5000,
+        "unit": "Lire",
+        "text": "5000 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204657,
+        "title": "5000 Lire (Colombo - 1st type)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "italie",
+          "name": "Italy"
+        },
+        "min_year": 1964,
+        "max_year": 1970,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italie/5e9c432a616ef5.35193481-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italie/5e9c432ab60654.57783214-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205495,
+      "title": "50 000 Lire (Leonardo)",
+      "issuer": {
+        "code": "italie",
+        "name": "Italy"
+      },
+      "min_year": 1967,
+      "max_year": 1974,
+      "face": {
+        "value": 50000,
+        "unit": "Lire",
+        "text": "50000 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205495,
+        "title": "50 000 Lire (Leonardo)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "italie",
+          "name": "Italy"
+        },
+        "min_year": 1967,
+        "max_year": 1974,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italie/5e9e21abbce244.25621341-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italie/5e9e21ac1efc95.04524925-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205823,
+      "title": "50 000 Lire (Bernini - 2nd type)",
+      "issuer": {
+        "code": "italie",
+        "name": "Italy"
+      },
+      "min_year": 1992,
+      "max_year": 1999,
+      "face": {
+        "value": 50000,
+        "unit": "Lire",
+        "text": "50000 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205823,
+        "title": "50 000 Lire (Bernini - 2nd type)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "italie",
+          "name": "Italy"
+        },
+        "min_year": 1992,
+        "max_year": 1999,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italie/683489531dab61.63673731-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italie/68348954ca32c6.69395961-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 205986,
+      "title": "100 000 Lire (Caravaggio - 2nd type)",
+      "issuer": {
+        "code": "italie",
+        "name": "Italy"
+      },
+      "min_year": 1994,
+      "max_year": 1998,
+      "face": {
+        "value": 100000,
+        "unit": "Lire",
+        "text": "100000 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 205986,
+        "title": "100 000 Lire (Caravaggio - 2nd type)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "italie",
+          "name": "Italy"
+        },
+        "min_year": 1994,
+        "max_year": 1998,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italie/5e9f6d1fd68b42.65084191-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italie/5e9f6d20354dd8.47824344-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206585,
+      "title": "100 000 Lire (Manzoni)",
+      "issuer": {
+        "code": "italie",
+        "name": "Italy"
+      },
+      "min_year": 1967,
+      "max_year": 1974,
+      "face": {
+        "value": 100000,
+        "unit": "Lire",
+        "text": "100000 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206585,
+        "title": "100 000 Lire (Manzoni)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "italie",
+          "name": "Italy"
+        },
+        "min_year": 1967,
+        "max_year": 1974,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italie/5ea13190f3f771.40783183-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italie/5ea1319155ee80.32472433-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 206593,
+      "title": "100 000 Lire (Botticelli)",
+      "issuer": {
+        "code": "italie",
+        "name": "Italy"
+      },
+      "min_year": 1978,
+      "max_year": 1982,
+      "face": {
+        "value": 100000,
+        "unit": "Lire",
+        "text": "100000 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 206593,
+        "title": "100 000 Lire (Botticelli)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "italie",
+          "name": "Italy"
+        },
+        "min_year": 1978,
+        "max_year": 1982,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italie/5ea137131c1e74.37323768-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italie/5ea137137fb5c3.70051685-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 207433,
+      "title": "100 000 Lire (Caravaggio - 1st type)",
+      "issuer": {
+        "code": "italie",
+        "name": "Italy"
+      },
+      "min_year": 1983,
+      "max_year": 1993,
+      "face": {
+        "value": 100000,
+        "unit": "Lire",
+        "text": "100000 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 207433,
+        "title": "100 000 Lire (Caravaggio - 1st type)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "italie",
+          "name": "Italy"
+        },
+        "min_year": 1983,
+        "max_year": 1993,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italie/5ea6133f014399.77555053-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italie/5ea6133f534599.89278974-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 208869,
+      "title": "50 000 Lire (Bernini - 1st type)",
+      "issuer": {
+        "code": "italie",
+        "name": "Italy"
+      },
+      "min_year": 1984,
+      "max_year": 1990,
+      "face": {
+        "value": 50000,
+        "unit": "Lire",
+        "text": "50000 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 208869,
+        "title": "50 000 Lire (Bernini - 1st type)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "italie",
+          "name": "Italy"
+        },
+        "min_year": 1984,
+        "max_year": 1990,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italie/5ea8f41e942149.47370651-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italie/5ea8f41f015d45.36976401-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 208872,
+      "title": "500 000 Lire (Raffaello)",
+      "issuer": {
+        "code": "italie",
+        "name": "Italy"
+      },
+      "min_year": 1997,
+      "max_year": 2001,
+      "face": {
+        "value": 500000,
+        "unit": "Lire",
+        "text": "500000 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 208872,
+        "title": "500 000 Lire (Raffaello)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "italie",
+          "name": "Italy"
+        },
+        "min_year": 1997,
+        "max_year": 2001,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italie/5f132ebc0604a9.64459351-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italie/5f132ebc660320.14667524-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 212141,
+      "title": "250 Lire (Banca Popolare di Bergamo)",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1976,
+      "max_year": 1977,
+      "face": {
+        "value": 250,
+        "unit": "Lire",
+        "text": "250 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 212141,
+        "title": "250 Lire (Banca Popolare di Bergamo)",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1976,
+        "max_year": 1977,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/648973ec8a64f7.76074880-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/648973ec9ef7f3.54403445-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 213372,
+      "title": "500 Lire",
+      "issuer": {
+        "code": "italie",
+        "name": "Italy"
+      },
+      "min_year": 1947,
+      "max_year": 1961,
+      "face": {
+        "value": 500,
+        "unit": "Lire",
+        "text": "500 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 213372,
+        "title": "500 Lire",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "italie",
+          "name": "Italy"
+        },
+        "min_year": 1947,
+        "max_year": 1961,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italie/5ed4261fe57c52.89117807-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italie/5ed52750ab04e2.67503812-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 213407,
+      "title": "50 Lire",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1976,
+      "max_year": 1976,
+      "face": {
+        "value": 50,
+        "unit": "Lire",
+        "text": "50 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 213407,
+        "title": "50 Lire",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1976,
+        "max_year": 1976,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/64e7a5070c75b9.42637483-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/64e7a507898480.21994856-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 216279,
+      "title": "10 000 Lire",
+      "issuer": {
+        "code": "italie",
+        "name": "Italy"
+      },
+      "min_year": 1948,
+      "max_year": 1962,
+      "face": {
+        "value": 10000,
+        "unit": "Lire",
+        "text": "10000 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 216279,
+        "title": "10 000 Lire",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "italie",
+          "name": "Italy"
+        },
+        "min_year": 1948,
+        "max_year": 1962,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italie/5ec87f73096628.06951153-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italie/5ec87f734f7ae7.71120062-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 217209,
+      "title": "200 Lire (Istituto Bancario San Paolo di Torino)",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1976,
+      "max_year": 1976,
+      "face": {
+        "value": 200,
+        "unit": "Lire",
+        "text": "200 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 217209,
+        "title": "200 Lire (Istituto Bancario San Paolo di Torino)",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1976,
+        "max_year": 1976,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/63d2ebfdc4d909.07577889-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/63d2ebfdda0302.75152999-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 220378,
+      "title": "150 Lire (Banca Popolare di Lecco)",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1977,
+      "max_year": 1977,
+      "face": {
+        "value": 150,
+        "unit": "Lire",
+        "text": "150 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 220378,
+        "title": "150 Lire (Banca Popolare di Lecco)",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1977,
+        "max_year": 1977,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/66895f82d22d53.31366347-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/66895f833cfdb3.20560638-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 220648,
+      "title": "150 Lire (Banco Ambrosiano)",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1977,
+      "max_year": 1977,
+      "face": {
+        "value": 150,
+        "unit": "Lire",
+        "text": "150 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 220648,
+        "title": "150 Lire (Banco Ambrosiano)",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1977,
+        "max_year": 1977,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/66895fac887a19.53127295-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/66895facdbe2f2.62740001-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 220909,
+      "title": "100 Lire (Banco Ambrosiano)",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1976,
+      "max_year": 1977,
+      "face": {
+        "value": 100,
+        "unit": "Lire",
+        "text": "100 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 220909,
+        "title": "100 Lire (Banco Ambrosiano)",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1976,
+        "max_year": 1977,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/667faf990ec3b6.21886432-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/667faf99625748.09850576-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 220947,
+      "title": "100 Lire (Banca Popolare di Novara)",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1976,
+      "max_year": 1977,
+      "face": {
+        "value": 100,
+        "unit": "Lire",
+        "text": "100 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 220947,
+        "title": "100 Lire (Banca Popolare di Novara)",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1976,
+        "max_year": 1977,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/667fb16750ae50.30471239-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/667fb16797ae71.27170005-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 221081,
+      "title": "50 Lire (Banca Belinzaghi)",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1977,
+      "max_year": 1977,
+      "face": {
+        "value": 50,
+        "unit": "Lire",
+        "text": "50 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 221081,
+        "title": "50 Lire (Banca Belinzaghi)",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1977,
+        "max_year": 1977,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/667fb13d7a8b14.03944278-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/667fb13dc8bd95.85231083-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 221082,
+      "title": "100 Lire (Banca Belinzaghi)",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1977,
+      "max_year": 1977,
+      "face": {
+        "value": 100,
+        "unit": "Lire",
+        "text": "100 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 221082,
+        "title": "100 Lire (Banca Belinzaghi)",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1977,
+        "max_year": 1977,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/667fb001dd0969.75001326-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/667fb002620ef5.10316254-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 221118,
+      "title": "100 lire (ICCREA)",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1977,
+      "max_year": 1977,
+      "face": {
+        "value": 100,
+        "unit": "lire",
+        "text": "100 lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 221118,
+        "title": "100 lire (ICCREA)",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1977,
+        "max_year": 1977,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/667fafdf4c3291.29587350-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/667fafdfa6d1e1.58277839-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 223133,
+      "title": "100 Lire (Banca del Friuli)",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1976,
+      "max_year": 1977,
+      "face": {
+        "value": 100,
+        "unit": "Lire",
+        "text": "100 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 223133,
+        "title": "100 Lire (Banca del Friuli)",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1976,
+        "max_year": 1977,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/6585c9c58a5ce5.59642429-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/6585c9c67a5a66.17762941-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 224598,
+      "title": "100 Lire (Istituto Bancario San Paolo di Torino)",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1975,
+      "max_year": 1977,
+      "face": {
+        "value": 100,
+        "unit": "Lire",
+        "text": "100 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 224598,
+        "title": "100 Lire (Istituto Bancario San Paolo di Torino)",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1975,
+        "max_year": 1977,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/63d2eb2acbc7d2.24553288-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/63d2eb2aeb0ff5.64048206-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 224599,
+      "title": "100 Lire (Banca Popolare di Milano)",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1976,
+      "max_year": 1977,
+      "face": {
+        "value": 100,
+        "unit": "Lire",
+        "text": "100 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 224599,
+        "title": "100 Lire (Banca Popolare di Milano)",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1976,
+        "max_year": 1977,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/6477b4ea628f89.04877335-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/6477b4ea73f2e5.59545359-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 224600,
+      "title": "100 Lire (Istituto Centrale di Banche e Banchieri)",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1977,
+      "max_year": 1977,
+      "face": {
+        "value": 100,
+        "unit": "Lire",
+        "text": "100 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 224600,
+        "title": "100 Lire (Istituto Centrale di Banche e Banchieri)",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1977,
+        "max_year": 1977,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/652af69c732aa4.97472876-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/652af69de960c8.98019900-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 224601,
+      "title": "100 Lire (Istituto Centrale delle Banche Popolari Italiane)",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1976,
+      "max_year": 1977,
+      "face": {
+        "value": 100,
+        "unit": "Lire",
+        "text": "100 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 224601,
+        "title": "100 Lire (Istituto Centrale delle Banche Popolari Italiane)",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1976,
+        "max_year": 1977,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/667faf4bd9e5f9.39512937-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/667faf4d68e835.21774828-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 227042,
+      "title": "50 Lire (Banca di Credito Agrario di Ferrara)",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1976,
+      "max_year": 1977,
+      "face": {
+        "value": 50,
+        "unit": "Lire",
+        "text": "50 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 227042,
+        "title": "50 Lire (Banca di Credito Agrario di Ferrara)",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1976,
+        "max_year": 1977,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/6477b039501eb7.50008536-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/6477b0399a8e21.67094522-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 229264,
+      "title": "5000 Lire",
+      "issuer": {
+        "code": "italie",
+        "name": "Italy"
+      },
+      "min_year": 1947,
+      "max_year": 1963,
+      "face": {
+        "value": 5000,
+        "unit": "Lire",
+        "text": "5000 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 229264,
+        "title": "5000 Lire",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "italie",
+          "name": "Italy"
+        },
+        "min_year": 1947,
+        "max_year": 1963,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italie/5f1d62c0264928.27128311-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italie/5f1d62c05914c4.44318413-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 236365,
+      "title": "1000 Lire",
+      "issuer": {
+        "code": "italie",
+        "name": "Italy"
+      },
+      "min_year": 1948,
+      "max_year": 1961,
+      "face": {
+        "value": 1000,
+        "unit": "Lire",
+        "text": "1000 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 236365,
+        "title": "1000 Lire",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "italie",
+          "name": "Italy"
+        },
+        "min_year": 1948,
+        "max_year": 1961,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italie/5f5948b8890345.15179101-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italie/5f5948b920f3b6.28685102-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 239008,
+      "title": "100 Lire (Credito Italiano)",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1976,
+      "max_year": 1976,
+      "face": {
+        "value": 100,
+        "unit": "Lire",
+        "text": "100 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 239008,
+        "title": "100 Lire (Credito Italiano)",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1976,
+        "max_year": 1976,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/67be73415cadf5.60468308-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/67be7342727263.92125720-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 241268,
+      "title": "100 Lire (Banca del Salento)",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1976,
+      "max_year": 1977,
+      "face": {
+        "value": 100,
+        "unit": "Lire",
+        "text": "100 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 241268,
+        "title": "100 Lire (Banca del Salento)",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1976,
+        "max_year": 1977,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/6477b51e99b893.79267318-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/6477b51eac96f7.60608106-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 245557,
+      "title": "100 Lire (Banco di Sicilia)",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1976,
+      "max_year": 1977,
+      "face": {
+        "value": 100,
+        "unit": "Lire",
+        "text": "100 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 245557,
+        "title": "100 Lire (Banco di Sicilia)",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1976,
+        "max_year": 1977,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/66b7269f1575a8.70772423-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/66b7269f915ef3.28955065-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 245558,
+      "title": "100 Lire (Credito Artigiano)",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1976,
+      "max_year": 1977,
+      "face": {
+        "value": 100,
+        "unit": "Lire",
+        "text": "100 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 245558,
+        "title": "100 Lire (Credito Artigiano)",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1976,
+        "max_year": 1977,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/6892477b6c11a1.58757916-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/6892477ca27c64.17007286-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 245560,
+      "title": "100 Lire (Banca Provinciale Lombarda)",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1976,
+      "max_year": 1978,
+      "face": {
+        "value": 100,
+        "unit": "Lire",
+        "text": "100 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 245560,
+        "title": "100 Lire (Banca Provinciale Lombarda)",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1976,
+        "max_year": 1978,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/66b72c99ba7138.34607822-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/66b72c9a54fcb3.31565618-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 245562,
+      "title": "150 Lire (Banca Popolare di Milano)",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1977,
+      "max_year": 1977,
+      "face": {
+        "value": 150,
+        "unit": "Lire",
+        "text": "150 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 245562,
+        "title": "150 Lire (Banca Popolare di Milano)",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1977,
+        "max_year": 1977,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/6489769a5a0b63.21503687-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/6489769a72da17.25509324-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 245565,
+      "title": "200 Lire (Banca di Credito Agrario di Ferrara)",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1976,
+      "max_year": 1977,
+      "face": {
+        "value": 200,
+        "unit": "Lire",
+        "text": "200 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 245565,
+        "title": "200 Lire (Banca di Credito Agrario di Ferrara)",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1976,
+        "max_year": 1977,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/648977d1b86800.22617954-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/648977d1ca45c6.63844591-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 259077,
+      "title": "100 Lire (Credito Varesino)",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1976,
+      "max_year": 1978,
+      "face": {
+        "value": 100,
+        "unit": "Lire",
+        "text": "100 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 259077,
+        "title": "100 Lire (Credito Varesino)",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1976,
+        "max_year": 1978,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/672e8c75541422.28914683-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/672e8c76989a67.87791776-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 259153,
+      "title": "100 Lire (Banca Popolare di Bergamo)",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1976,
+      "max_year": 1977,
+      "face": {
+        "value": 100,
+        "unit": "Lire",
+        "text": "100 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 259153,
+        "title": "100 Lire (Banca Popolare di Bergamo)",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1976,
+        "max_year": 1977,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/6477b47c1fa875.19309237-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/6477b47c38f470.01626379-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 259156,
+      "title": "150 Lire (Banca di Credito Agrario di Ferrara)",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1976,
+      "max_year": 1977,
+      "face": {
+        "value": 150,
+        "unit": "Lire",
+        "text": "150 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 259156,
+        "title": "150 Lire (Banca di Credito Agrario di Ferrara)",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1976,
+        "max_year": 1977,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/69c267cd3f1c64.75339614-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/69c267cdddd5f0.59103540-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 259271,
+      "title": "50 Lire (Banca Popolare di Milano)",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1976,
+      "max_year": 1977,
+      "face": {
+        "value": 50,
+        "unit": "Lire",
+        "text": "50 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 259271,
+        "title": "50 Lire (Banca Popolare di Milano)",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1976,
+        "max_year": 1977,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/68924956900431.47714111-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/68924957bf1d89.10095238-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 264844,
+      "title": "200 Lire (Credito Varesino)",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1976,
+      "max_year": 1977,
+      "face": {
+        "value": 200,
+        "unit": "Lire",
+        "text": "200 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 264844,
+        "title": "200 Lire (Credito Varesino)",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1976,
+        "max_year": 1977,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/63b2d7d397c411.22697789-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/63b2d7d3a885e1.45536211-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 267253,
+      "title": "50 Lire (Banca Provinciale Lombarda)",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1977,
+      "max_year": 1978,
+      "face": {
+        "value": 50,
+        "unit": "Lire",
+        "text": "50 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 267253,
+        "title": "50 Lire (Banca Provinciale Lombarda)",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1977,
+        "max_year": 1978,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/642e2544985744.53359548-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/642e2544af5b17.93756613-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 267257,
+      "title": "100 Lire (Banca di Credito Agrario di Ferrara)",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1976,
+      "max_year": 1977,
+      "face": {
+        "value": 100,
+        "unit": "Lire",
+        "text": "100 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 267257,
+        "title": "100 Lire (Banca di Credito Agrario di Ferrara)",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1976,
+        "max_year": 1977,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/64ee547851a560.03718936-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/64ee5478b9ded4.06221004-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 267258,
+      "title": "100 Lire (Banca di Trento e Bolzano - 1st type)",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1976,
+      "max_year": 1977,
+      "face": {
+        "value": 100,
+        "unit": "Lire",
+        "text": "100 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 267258,
+        "title": "100 Lire (Banca di Trento e Bolzano - 1st type)",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1976,
+        "max_year": 1977,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/6477b591eae949.56070550-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/6477b5920d6fd3.62531916-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 267259,
+      "title": "100 Lire (Banca S. Paolo - Brescia)",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1976,
+      "max_year": 1977,
+      "face": {
+        "value": 100,
+        "unit": "Lire",
+        "text": "100 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 267259,
+        "title": "100 Lire (Banca S. Paolo - Brescia)",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1976,
+        "max_year": 1977,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/63d2be71707eb6.17414338-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/63d2be71e04ba7.15063081-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 271914,
+      "title": "100 Lire (Banca Agricola Commerciale di Reggio Emilia)",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1976,
+      "max_year": 1977,
+      "face": {
+        "value": 100,
+        "unit": "Lire",
+        "text": "100 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 271914,
+        "title": "100 Lire (Banca Agricola Commerciale di Reggio Emilia)",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1976,
+        "max_year": 1977,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/6477b49d317ce7.54179832-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/6477b49d487517.21680340-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 272474,
+      "title": "100 Lire (Banca Antoniana)",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1976,
+      "max_year": 1977,
+      "face": {
+        "value": 100,
+        "unit": "Lire",
+        "text": "100 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 272474,
+        "title": "100 Lire (Banca Antoniana)",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1976,
+        "max_year": 1977,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/6477b41a4ee770.04433455-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/6477b41a68a808.45826223-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 272477,
+      "title": "100 Lire (Banca Cattolica del Veneto)",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1976,
+      "max_year": 1976,
+      "face": {
+        "value": 100,
+        "unit": "Lire",
+        "text": "100 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 272477,
+        "title": "100 Lire (Banca Cattolica del Veneto)",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1976,
+        "max_year": 1976,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/63b2d7cdaf2b03.12374764-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/63b2d7cdc0f618.32106679-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 272487,
+      "title": "50 Lire (Banca di Trento e Bolzano - 1st type)",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1976,
+      "max_year": 1977,
+      "face": {
+        "value": 50,
+        "unit": "Lire",
+        "text": "50 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 272487,
+        "title": "50 Lire (Banca di Trento e Bolzano - 1st type)",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1976,
+        "max_year": 1977,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/63d2dc8d2b9f11.34067751-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/63d2dc8dbe6304.24137278-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 272511,
+      "title": "150 Lire (Banca Popolare di Bergamo)",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1976,
+      "max_year": 1977,
+      "face": {
+        "value": 150,
+        "unit": "Lire",
+        "text": "150 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 272511,
+        "title": "150 Lire (Banca Popolare di Bergamo)",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1976,
+        "max_year": 1977,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/64897384d03c36.76486625-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/648973853d3587.75254863-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 272513,
+      "title": "150 Lire (Banca Credito Agrario Bresciano)",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1976,
+      "max_year": 1977,
+      "face": {
+        "value": 150,
+        "unit": "Lire",
+        "text": "150 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 272513,
+        "title": "150 Lire (Banca Credito Agrario Bresciano)",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1976,
+        "max_year": 1977,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/64897529e00fc6.04786235-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/64897529f27503.59202379-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 272631,
+      "title": "100 Lire (Banco di Napoli)",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1976,
+      "max_year": 1976,
+      "face": {
+        "value": 100,
+        "unit": "Lire",
+        "text": "100 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 272631,
+        "title": "100 Lire (Banco di Napoli)",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1976,
+        "max_year": 1976,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/642e24ffb8c497.04474284-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/642e250212d506.07011426-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 272662,
+      "title": "150 Lire (Banca Sella)",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1976,
+      "max_year": 1977,
+      "face": {
+        "value": 150,
+        "unit": "Lire",
+        "text": "150 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 272662,
+        "title": "150 Lire (Banca Sella)",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1976,
+        "max_year": 1977,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/648974b88505c5.48918597-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/648974b8a3d5c9.98354033-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 272663,
+      "title": "150 Lire (Cassa di Risparmio di Biella)",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1976,
+      "max_year": 1976,
+      "face": {
+        "value": 150,
+        "unit": "Lire",
+        "text": "150 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 272663,
+        "title": "150 Lire (Cassa di Risparmio di Biella)",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1976,
+        "max_year": 1976,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/648974dd534473.23772075-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/648974dd736183.15180446-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 272664,
+      "title": "150 Lire (Cassa di Risparmio di Cuneo)",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1976,
+      "max_year": 1976,
+      "face": {
+        "value": 150,
+        "unit": "Lire",
+        "text": "150 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 272664,
+        "title": "150 Lire (Cassa di Risparmio di Cuneo)",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1976,
+        "max_year": 1976,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/648975010ab444.35402475-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/648975011e8111.35160899-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 283954,
+      "title": "150 Lire (Credito Italiano)",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1976,
+      "max_year": 1976,
+      "face": {
+        "value": 150,
+        "unit": "Lire",
+        "text": "150 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 283954,
+        "title": "150 Lire (Credito Italiano)",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1976,
+        "max_year": 1976,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/6477b66b4d02b7.55853580-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/6477b66b615dc8.81573483-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 285834,
+      "title": "150 Lire (Banca S. Paolo - Brescia)",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1976,
+      "max_year": 1977,
+      "face": {
+        "value": 150,
+        "unit": "Lire",
+        "text": "150 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 285834,
+        "title": "150 Lire (Banca S. Paolo - Brescia)",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1976,
+        "max_year": 1977,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/63b2d7e1ef9883.08849839-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/63b2d7e2221cf1.12618062-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 285835,
+      "title": "200 Lire (Banca S. Paolo - Brescia)",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1976,
+      "max_year": 1976,
+      "face": {
+        "value": 200,
+        "unit": "Lire",
+        "text": "200 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 285835,
+        "title": "200 Lire (Banca S. Paolo - Brescia)",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1976,
+        "max_year": 1976,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/63b2d7c72e7667.12033807-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/63b2d7c78ee505.89807415-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 292141,
+      "title": "100 Lire (Istituto Bancario Italiano)",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1976,
+      "max_year": 1977,
+      "face": {
+        "value": 100,
+        "unit": "Lire",
+        "text": "100 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 292141,
+        "title": "100 Lire (Istituto Bancario Italiano)",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1976,
+        "max_year": 1977,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/63b2d7d97a1615.72255610-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/63b2d7d98f2c12.92725973-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 292281,
+      "title": "200 Lire (Credito Artigiano)",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1977,
+      "max_year": 1977,
+      "face": {
+        "value": 200,
+        "unit": "Lire",
+        "text": "200 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 292281,
+        "title": "200 Lire (Credito Artigiano)",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1977,
+        "max_year": 1977,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/63b2d8017a2127.40440763-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/63b2d8018f8164.84180857-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 298894,
+      "title": "150 Lire (Banca del Friuli)",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1976,
+      "max_year": 1977,
+      "face": {
+        "value": 150,
+        "unit": "Lire",
+        "text": "150 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 298894,
+        "title": "150 Lire (Banca del Friuli)",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1976,
+        "max_year": 1977,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/667fb045e216e1.91175991-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/667fb0478ebbd6.66606756-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 298900,
+      "title": "150 Lire (Banca di Trento e Bolzano)",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1976,
+      "max_year": 1977,
+      "face": {
+        "value": 150,
+        "unit": "Lire",
+        "text": "150 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 298900,
+        "title": "150 Lire (Banca di Trento e Bolzano)",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1976,
+        "max_year": 1977,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/689245db0bb744.55865078-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/689245dc29afa1.92451021-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 298901,
+      "title": "350 Lire (Cassa di Risparmio di Trento e Rovereto - Succursale di Mezzolombardo)",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1977,
+      "max_year": 1977,
+      "face": {
+        "value": 350,
+        "unit": "Lire",
+        "text": "350 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 298901,
+        "title": "350 Lire (Cassa di Risparmio di Trento e Rovereto - Succursale di Mezzolombardo)",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1977,
+        "max_year": 1977,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/68920322cef6d9.47747950-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/689203244a26b1.10252633-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 298902,
+      "title": "150 Lire (Cassa di Risparmio di Venezia)",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1976,
+      "max_year": 1976,
+      "face": {
+        "value": 150,
+        "unit": "Lire",
+        "text": "150 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 298902,
+        "title": "150 Lire (Cassa di Risparmio di Venezia)",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1976,
+        "max_year": 1976,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/667fb0244df8e1.27464037-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/667fb0259824d5.04428417-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 298904,
+      "title": "200 Lire (Banca Popolare di Bergamo)",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1976,
+      "max_year": 1976,
+      "face": {
+        "value": 200,
+        "unit": "Lire",
+        "text": "200 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 298904,
+        "title": "200 Lire (Banca Popolare di Bergamo)",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1976,
+        "max_year": 1976,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/66895ffa618cf3.77646327-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/66895ffc29f675.59134342-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 298905,
+      "title": "100 Lire (Banca Popolare di Lecco)",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1977,
+      "max_year": 1977,
+      "face": {
+        "value": 100,
+        "unit": "Lire",
+        "text": "100 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 298905,
+        "title": "100 Lire (Banca Popolare di Lecco)",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1977,
+        "max_year": 1977,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/67c07f066a05a2.94404119-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/67c07f08950846.68356438-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 298906,
+      "title": "100 Lire (Banca di Credito Agrario Bresciano)",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1976,
+      "max_year": 1978,
+      "face": {
+        "value": 100,
+        "unit": "Lire",
+        "text": "100 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 298906,
+        "title": "100 Lire (Banca di Credito Agrario Bresciano)",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1976,
+        "max_year": 1978,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/689249c97718d7.03073799-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/689249cab22bf4.86676489-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 298907,
+      "title": "200 Lire (Banca Credito Agrario Bresciano)",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1976,
+      "max_year": 1976,
+      "face": {
+        "value": 200,
+        "unit": "Lire",
+        "text": "200 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 298907,
+        "title": "200 Lire (Banca Credito Agrario Bresciano)",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1976,
+        "max_year": 1976,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/689248977b2d43.22342685-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/68924898b71e57.60796366-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 298909,
+      "title": "150 Lire (Credito Varesino)",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1976,
+      "max_year": 1977,
+      "face": {
+        "value": 150,
+        "unit": "Lire",
+        "text": "150 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 298909,
+        "title": "150 Lire (Credito Varesino)",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1976,
+        "max_year": 1977,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/68924675dacb96.25048702-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/68924677003524.89500136-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 298910,
+      "title": "150 Lire (Banco Lariano)",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1977,
+      "max_year": 1977,
+      "face": {
+        "value": 150,
+        "unit": "Lire",
+        "text": "150 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 298910,
+        "title": "150 Lire (Banco Lariano)",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1977,
+        "max_year": 1977,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/66895f5bd87cd2.94107259-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/66895f5dba3fc1.30744107-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 298911,
+      "title": "100 Lire (Banco Lariano)",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1976,
+      "max_year": 1977,
+      "face": {
+        "value": 100,
+        "unit": "Lire",
+        "text": "100 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 298911,
+        "title": "100 Lire (Banco Lariano)",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1976,
+        "max_year": 1977,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/667faf25d00a32.82409615-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/667faf27660905.51068443-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 298917,
+      "title": "100 Lire (Banco di Chiavari e della Riviera Ligure)",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1977,
+      "max_year": 1977,
+      "face": {
+        "value": 100,
+        "unit": "Lire",
+        "text": "100 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 298917,
+        "title": "100 Lire (Banco di Chiavari e della Riviera Ligure)",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1977,
+        "max_year": 1977,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/6477b5f1c20241.42019350-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/6477b5f1d62789.51398126-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 298918,
+      "title": "200 Lire (Banco di Chiavari e della Riviera Ligure)",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1977,
+      "max_year": 1977,
+      "face": {
+        "value": 200,
+        "unit": "Lire",
+        "text": "200 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 298918,
+        "title": "200 Lire (Banco di Chiavari e della Riviera Ligure)",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1977,
+        "max_year": 1977,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/648978d0dbbc14.14652120-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/648978d0ef7e70.81123981-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 298919,
+      "title": "300 Lire (Banco di Chiavari e della Riviera Ligure)",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1977,
+      "max_year": 1977,
+      "face": {
+        "value": 300,
+        "unit": "Lire",
+        "text": "300 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 298919,
+        "title": "300 Lire (Banco di Chiavari e della Riviera Ligure)",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1977,
+        "max_year": 1977,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/64897a6b004ee6.63789432-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/64897a6b1a0575.55930572-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 298921,
+      "title": "100 Lire (Banco di Santo Spirito)",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1976,
+      "max_year": 1977,
+      "face": {
+        "value": 100,
+        "unit": "Lire",
+        "text": "100 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 298921,
+        "title": "100 Lire (Banco di Santo Spirito)",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1976,
+        "max_year": 1977,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/6477b545ac3122.50126044-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/672e93e08ae6e1.40277543-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 298922,
+      "title": "150 Lire (Banco di Santo Spirito)",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1976,
+      "max_year": 1977,
+      "face": {
+        "value": 150,
+        "unit": "Lire",
+        "text": "150 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 298922,
+        "title": "150 Lire (Banco di Santo Spirito)",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1976,
+        "max_year": 1977,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/66895ee3b68d68.55940187-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/66895ee55586a9.22586588-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 298923,
+      "title": "50 Lire (Istituto Bancario Italiano)",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1976,
+      "max_year": 1977,
+      "face": {
+        "value": 50,
+        "unit": "Lire",
+        "text": "50 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 298923,
+        "title": "50 Lire (Istituto Bancario Italiano)",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1976,
+        "max_year": 1977,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/667fb1189e8898.43402730-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/667fb11a7fc412.61463399-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 298925,
+      "title": "150 Lire (Credito Artigiano)",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1976,
+      "max_year": 1977,
+      "face": {
+        "value": 150,
+        "unit": "Lire",
+        "text": "150 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 298925,
+        "title": "150 Lire (Credito Artigiano)",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1976,
+        "max_year": 1977,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/689247be443b82.80407701-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/689247bf49d0d6.26898642-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 302476,
+      "title": "200 Lire (Banca Provinciale Lombarda)",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1976,
+      "max_year": 1978,
+      "face": {
+        "value": 200,
+        "unit": "Lire",
+        "text": "200 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 302476,
+        "title": "200 Lire (Banca Provinciale Lombarda)",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1976,
+        "max_year": 1978,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/648977f09437c6.11953437-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/648977f0af6128.08792900-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 307200,
+      "title": "250 Lire (Banca Sella)",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1976,
+      "max_year": 1977,
+      "face": {
+        "value": 250,
+        "unit": "Lire",
+        "text": "250 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 307200,
+        "title": "250 Lire (Banca Sella)",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1976,
+        "max_year": 1977,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/6a24826d007632.11267092-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/6a24826ebbf653.28819013-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 322532,
+      "title": "150 Lire (Banca Provinciale Lombarda)",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1976,
+      "max_year": 1978,
+      "face": {
+        "value": 150,
+        "unit": "Lire",
+        "text": "150 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 322532,
+        "title": "150 Lire (Banca Provinciale Lombarda)",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1976,
+        "max_year": 1978,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/67c07f2f989d57.35894826-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/67c07f321d36a8.48547363-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 324225,
+      "title": "200 Lire (Cassa di Risparmio di Trento e Rovereto)",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1977,
+      "max_year": 1977,
+      "face": {
+        "value": 200,
+        "unit": "Lire",
+        "text": "200 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 324225,
+        "title": "200 Lire (Cassa di Risparmio di Trento e Rovereto)",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1977,
+        "max_year": 1977,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/6891d61f7b4721.05376811-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/6891d62097e8e4.95400864-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 324231,
+      "title": "150 Lire (Banca Industriale Gallaratese)",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1976,
+      "max_year": 1977,
+      "face": {
+        "value": 150,
+        "unit": "Lire",
+        "text": "150 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 324231,
+        "title": "150 Lire (Banca Industriale Gallaratese)",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1976,
+        "max_year": 1977,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/66895ebf5c22c1.07006561-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/66895ec136e5f9.43353767-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 325287,
+      "title": "150 Lire (Banco di Sicilia)",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1976,
+      "max_year": 1977,
+      "face": {
+        "value": 150,
+        "unit": "Lire",
+        "text": "150 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 325287,
+        "title": "150 Lire (Banco di Sicilia)",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1976,
+        "max_year": 1977,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/6550a4dc2dad56.82418670-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/6550a4ddafba35.73583610-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 325345,
+      "title": "200 Lire (Banco Lariano)",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1976,
+      "max_year": 1976,
+      "face": {
+        "value": 200,
+        "unit": "Lire",
+        "text": "200 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 325345,
+        "title": "200 Lire (Banco Lariano)",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1976,
+        "max_year": 1976,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/689248547fcce3.51312631-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/68924855838391.16713344-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 325490,
+      "title": "100 Lire (Banca Industriale Gallaratese)",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1976,
+      "max_year": 1977,
+      "face": {
+        "value": 100,
+        "unit": "Lire",
+        "text": "100 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 325490,
+        "title": "100 Lire (Banca Industriale Gallaratese)",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1976,
+        "max_year": 1977,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/667faf75284f78.47670577-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/667faf76c662f1.87769180-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 325491,
+      "title": "200 Lire (Banca Industriale Gallaratese)",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1976,
+      "max_year": 1976,
+      "face": {
+        "value": 200,
+        "unit": "Lire",
+        "text": "200 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 325491,
+        "title": "200 Lire (Banca Industriale Gallaratese)",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1976,
+        "max_year": 1976,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/668a34a826e008.53055052-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/668a34a9b9d1e7.66485131-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 325495,
+      "title": "200 Lire (Banca Popolare di Milano)",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1977,
+      "max_year": 1977,
+      "face": {
+        "value": 200,
+        "unit": "Lire",
+        "text": "200 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 325495,
+        "title": "200 Lire (Banca Popolare di Milano)",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1977,
+        "max_year": 1977,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/668a3573088b41.95037143-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/668a3574c39ef4.95118116-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 325496,
+      "title": "100 Lire (Banca Sella)",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1976,
+      "max_year": 1977,
+      "face": {
+        "value": 100,
+        "unit": "Lire",
+        "text": "100 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 325496,
+        "title": "100 Lire (Banca Sella)",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1976,
+        "max_year": 1977,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/67c07ed00302e4.65448000-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/67c07ed1d11079.68210392-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 325498,
+      "title": "200 Lire (Banca Sella)",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1976,
+      "max_year": 1977,
+      "face": {
+        "value": 200,
+        "unit": "Lire",
+        "text": "200 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 325498,
+        "title": "200 Lire (Banca Sella)",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1976,
+        "max_year": 1977,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/668a34d28f6711.66690561-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/668a34d410e988.27775418-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 325520,
+      "title": "200 Lire (Banca di Trento e Bolzano)",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1976,
+      "max_year": 1977,
+      "face": {
+        "value": 200,
+        "unit": "Lire",
+        "text": "200 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 325520,
+        "title": "200 Lire (Banca di Trento e Bolzano)",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1976,
+        "max_year": 1977,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/668a354a5f3786.95843801-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/668a354c37f321.54318791-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 325523,
+      "title": "100 Lire (Cassa di Risparmio di Biella)",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1976,
+      "max_year": 1976,
+      "face": {
+        "value": 100,
+        "unit": "Lire",
+        "text": "100 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 325523,
+        "title": "100 Lire (Cassa di Risparmio di Biella)",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1976,
+        "max_year": 1976,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/67c07e98ea2fa2.93337679-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/67c07e9b5c7ba0.14325385-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 325524,
+      "title": "200 Lire (Banca Agricola Commerciale di Reggio Emilia)",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1977,
+      "max_year": 1977,
+      "face": {
+        "value": 200,
+        "unit": "Lire",
+        "text": "200 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 325524,
+        "title": "200 Lire (Banca Agricola Commerciale di Reggio Emilia)",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1977,
+        "max_year": 1977,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/668a352454d559.93297107-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/668a352617bda6.20377035-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 351428,
+      "title": "100 Lire (Banca di Trento e Bolzano - 2nd type)",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1977,
+      "max_year": 1977,
+      "face": {
+        "value": 100,
+        "unit": "Lire",
+        "text": "100 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 351428,
+        "title": "100 Lire (Banca di Trento e Bolzano - 2nd type)",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1977,
+        "max_year": 1977,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/667fafbb5aa6a3.15566156-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/667fafbcc47775.94570608-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 352700,
+      "title": "250 Lire (Cassa di Risparmio di Trento e Rovereto)",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1977,
+      "max_year": 1977,
+      "face": {
+        "value": 250,
+        "unit": "Lire",
+        "text": "250 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 352700,
+        "title": "250 Lire (Cassa di Risparmio di Trento e Rovereto)",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1977,
+        "max_year": 1977,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/648979af9c5250.55288677-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/648979afb408b1.60093841-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 352701,
+      "title": "350 Lire (Cassa di Risparmio di Trento e Rovereto - Succursale di Cavalese)",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1977,
+      "max_year": 1977,
+      "face": {
+        "value": 350,
+        "unit": "Lire",
+        "text": "350 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 352701,
+        "title": "350 Lire (Cassa di Risparmio di Trento e Rovereto - Succursale di Cavalese)",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1977,
+        "max_year": 1977,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/642e25641b4ca5.71275978-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/642e25642da920.32570996-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 360921,
+      "title": "300 Lire (Credito Artigiano)",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1977,
+      "max_year": 1977,
+      "face": {
+        "value": 300,
+        "unit": "Lire",
+        "text": "300 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 360921,
+        "title": "300 Lire (Credito Artigiano)",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1977,
+        "max_year": 1977,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/642903a7279906.59938309-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/642903a8407a06.69714397-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 364208,
+      "title": "150 Lire (Istituto Centrale di Banche e Banchieri)",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1977,
+      "max_year": 1977,
+      "face": {
+        "value": 150,
+        "unit": "Lire",
+        "text": "150 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 364208,
+        "title": "150 Lire (Istituto Centrale di Banche e Banchieri)",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1977,
+        "max_year": 1977,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/68924813a581b8.72485279-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/68924814d82ee1.17294393-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 367480,
+      "title": "100 Lire (Cassa di Risparmio di Cuneo)",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1976,
+      "max_year": 1976,
+      "face": {
+        "value": 100,
+        "unit": "Lire",
+        "text": "100 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 367480,
+        "title": "100 Lire (Cassa di Risparmio di Cuneo)",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1976,
+        "max_year": 1976,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/6475189cc32f48.64304911-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/6475189d0a1f62.75759135-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 367481,
+      "title": "100 Lire (Banca Popolare del Montefeltro e del Metauro)",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1976,
+      "max_year": 1976,
+      "face": {
+        "value": 100,
+        "unit": "Lire",
+        "text": "100 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 367481,
+        "title": "100 Lire (Banca Popolare del Montefeltro e del Metauro)",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1976,
+        "max_year": 1976,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/64751c0e5fe0e2.94292209-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/64751c0eb60af9.49576546-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 368836,
+      "title": "200 Lire (Banca del Salento)",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1977,
+      "max_year": 1977,
+      "face": {
+        "value": 200,
+        "unit": "Lire",
+        "text": "200 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 368836,
+        "title": "200 Lire (Banca del Salento)",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1977,
+        "max_year": 1977,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/64887d0a234b88.99249193-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/64887d0a5ed561.73946692-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 375995,
+      "title": "50 Lire (Banca Sella)",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1976,
+      "max_year": 1976,
+      "face": {
+        "value": 50,
+        "unit": "Lire",
+        "text": "50 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 375995,
+        "title": "50 Lire (Banca Sella)",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1976,
+        "max_year": 1976,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/64e7a1d2cf6433.50696955-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/64e7a1d360b492.23342548-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 375998,
+      "title": "50 Lire (Credito Artigiano)",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1977,
+      "max_year": 1977,
+      "face": {
+        "value": 50,
+        "unit": "Lire",
+        "text": "50 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 375998,
+        "title": "50 Lire (Credito Artigiano)",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1977,
+        "max_year": 1977,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/64e7a3ca60f340.10831378-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/64e7a3cacee604.39324860-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 376257,
+      "title": "150 Lire (Banca del Salento)",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1977,
+      "max_year": 1977,
+      "face": {
+        "value": 150,
+        "unit": "Lire",
+        "text": "150 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 376257,
+        "title": "150 Lire (Banca del Salento)",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1977,
+        "max_year": 1977,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/64eb5b2749c3f6.85360500-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/64eb5b27cc7653.23042824-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 376258,
+      "title": "300 Lire (Banca Popolare del Montefeltro e del Metauro)",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1976,
+      "max_year": 1976,
+      "face": {
+        "value": 300,
+        "unit": "Lire",
+        "text": "300 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 376258,
+        "title": "300 Lire (Banca Popolare del Montefeltro e del Metauro)",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1976,
+        "max_year": 1976,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/64eb5c642d4d74.10657077-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/64eb5c649730e5.38360830-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 378893,
+      "title": "100 Lire (Cassa di Risparmio di Trento e Rovereto)",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1977,
+      "max_year": 1977,
+      "face": {
+        "value": 100,
+        "unit": "Lire",
+        "text": "100 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 378893,
+        "title": "100 Lire (Cassa di Risparmio di Trento e Rovereto)",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1977,
+        "max_year": 1977,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/6891030f5a4c12.42222230-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/68910310854f14.76880505-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 380273,
+      "title": "50 Lire (Banca di Trento e Bolzano - 2nd type)",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1977,
+      "max_year": 1977,
+      "face": {
+        "value": 50,
+        "unit": "Lire",
+        "text": "50 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 380273,
+        "title": "50 Lire (Banca di Trento e Bolzano - 2nd type)",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1977,
+        "max_year": 1977,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/6519b63d677167.28950195-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/6519b63db4a7f9.74420582-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 415861,
+      "title": "100 Lire (Cassa di risparmio di Trento e Rovereto)",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1977,
+      "max_year": 1977,
+      "face": {
+        "value": 100,
+        "unit": "Lire",
+        "text": "100 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 415861,
+        "title": "100 Lire (Cassa di risparmio di Trento e Rovereto)",
+        "object_type": {
+          "id": 84,
+          "name": "Local banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1977,
+        "max_year": 1977,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/665ce17eda6c30.64326125-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/665ce1891f6c76.06948531-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 415862,
+      "title": "150 Lire (Cassa di risparmio di Trento e Rovereto)",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1977,
+      "max_year": 1977,
+      "face": {
+        "value": 150,
+        "unit": "Lire",
+        "text": "150 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 415862,
+        "title": "150 Lire (Cassa di risparmio di Trento e Rovereto)",
+        "object_type": {
+          "id": 84,
+          "name": "Local banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1977,
+        "max_year": 1977,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/665ce1d84e5be2.00400928-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 425605,
+      "title": "200 Lire (Banca Popolare Udinese)",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1977,
+      "max_year": 1977,
+      "face": {
+        "value": 200,
+        "unit": "Lire",
+        "text": "200 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 425605,
+        "title": "200 Lire (Banca Popolare Udinese)",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1977,
+        "max_year": 1977,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/669a87fe3a0aa0.90137275-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/6a24808b7eb763.82757278-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 440628,
+      "title": "200 Lire (Cassa di Risparmio di Cuneo)",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1976,
+      "max_year": 1976,
+      "face": {
+        "value": 200,
+        "unit": "Lire",
+        "text": "200 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 440628,
+        "title": "200 Lire (Cassa di Risparmio di Cuneo)",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1976,
+        "max_year": 1976,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/672e8e85253104.80042549-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/672e8e8646c611.15114974-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 455332,
+      "title": "300 Lire (Banca Sella)",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1976,
+      "max_year": 1976,
+      "face": {
+        "value": 300,
+        "unit": "Lire",
+        "text": "300 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 455332,
+        "title": "300 Lire (Banca Sella)",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1976,
+        "max_year": 1976,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/67b6c4ffc07258.54634859-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/67b6c502a372e9.28917634-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 455362,
+      "title": "350 Lire (Banca Sella)",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1976,
+      "max_year": 1976,
+      "face": {
+        "value": 350,
+        "unit": "Lire",
+        "text": "350 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 455362,
+        "title": "350 Lire (Banca Sella)",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1976,
+        "max_year": 1976,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/67b6c546b17864.60666505-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/67b6c54953f1d6.87866445-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 455464,
+      "title": "250 Lire Cassa di Risparmio di Trento e Rovereto - Succursale di Mezzolombardo",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1977,
+      "max_year": 1977,
+      "face": {
+        "value": 250,
+        "unit": "Lire Cassa di Risparmio di Trento e Rovereto",
+        "text": "250 Lire Cassa di Risparmio di Trento e Rovereto"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 455464,
+        "title": "250 Lire Cassa di Risparmio di Trento e Rovereto - Succursale di Mezzolombardo",
+        "object_type": {
+          "id": 84,
+          "name": "Local banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1977,
+        "max_year": 1977,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/6891fc32e66f93.79382662-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/6891fc344edb42.08444921-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 455468,
+      "title": "100 Lire Cassa di Risparmio di Trento e Rovereto - Succursale di Mezzolombardo",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1977,
+      "max_year": 1977,
+      "face": {
+        "value": 100,
+        "unit": "Lire Cassa di Risparmio di Trento e Rovereto",
+        "text": "100 Lire Cassa di Risparmio di Trento e Rovereto"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 455468,
+        "title": "100 Lire Cassa di Risparmio di Trento e Rovereto - Succursale di Mezzolombardo",
+        "object_type": {
+          "id": 84,
+          "name": "Local banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1977,
+        "max_year": 1977,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/6891b37eed2bc8.07295859-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/6891b3802d18b6.95861875-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 455469,
+      "title": "150 Lire Cassa di Risparmio di Trento e Rovereto - Succursale di Mezzolombardo",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1977,
+      "max_year": 1977,
+      "face": {
+        "value": 150,
+        "unit": "Lire Cassa di Risparmio di Trento e Rovereto",
+        "text": "150 Lire Cassa di Risparmio di Trento e Rovereto"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 455469,
+        "title": "150 Lire Cassa di Risparmio di Trento e Rovereto - Succursale di Mezzolombardo",
+        "object_type": {
+          "id": 84,
+          "name": "Local banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1977,
+        "max_year": 1977,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/6891d2a22832a9.75386365-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/6891d2a347baa9.88702750-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 455470,
+      "title": "300 Lire Cassa di Risparmio di Trento e Rovereto - Succursale di Mezzolombardo",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1977,
+      "max_year": 1977,
+      "face": {
+        "value": 300,
+        "unit": "Lire Cassa di Risparmio di Trento e Rovereto",
+        "text": "300 Lire Cassa di Risparmio di Trento e Rovereto"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 455470,
+        "title": "300 Lire Cassa di Risparmio di Trento e Rovereto - Succursale di Mezzolombardo",
+        "object_type": {
+          "id": 84,
+          "name": "Local banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1977,
+        "max_year": 1977,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/6891fff4118154.74288696-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/6891fff5351980.69455427-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 455997,
+      "title": "100 Lire (Banca Sella - Biella)",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1976,
+      "max_year": 1976,
+      "face": {
+        "value": 100,
+        "unit": "Lire",
+        "text": "100 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 455997,
+        "title": "100 Lire (Banca Sella - Biella)",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1976,
+        "max_year": 1976,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/67b6c39d183bf4.08724489-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/67b6c39f948818.24781010-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 455999,
+      "title": "150 Lire Banca Sella - Biella",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1976,
+      "max_year": 1976,
+      "face": {
+        "value": 150,
+        "unit": "Lire Banca Sella",
+        "text": "150 Lire Banca Sella"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 455999,
+        "title": "150 Lire Banca Sella - Biella",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1976,
+        "max_year": 1976,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/67b6c3c5dea801.33553046-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/67b6c3c850f2c7.13687985-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 462416,
+      "title": "250 Lire Cassa di Risparmio di Trento e Rovereto",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1977,
+      "max_year": 1977,
+      "face": {
+        "value": 250,
+        "unit": "Lire Cassa di Risparmio di Trento e Rovereto",
+        "text": "250 Lire Cassa di Risparmio di Trento e Rovereto"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 462416,
+        "title": "250 Lire Cassa di Risparmio di Trento e Rovereto",
+        "object_type": {
+          "id": 84,
+          "name": "Local banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1977,
+        "max_year": 1977,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/67e44f4194d6d8.90935645-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/67e44f4270e439.35523553-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 479459,
+      "title": "150 Lire - Cassa di Risparmio di Trento e Rovereto",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1977,
+      "max_year": 1977,
+      "face": {
+        "value": 150,
+        "unit": "Lire",
+        "text": "150 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 479459,
+        "title": "150 Lire - Cassa di Risparmio di Trento e Rovereto",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1977,
+        "max_year": 1977,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/6891067e7f4c65.62102285-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/6891067fe1d7c0.94421672-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 479461,
+      "title": "250 Lire - Cassa di Risparmio di Trento e Rovereto",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1977,
+      "max_year": 1977,
+      "face": {
+        "value": 250,
+        "unit": "Lire",
+        "text": "250 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 479461,
+        "title": "250 Lire - Cassa di Risparmio di Trento e Rovereto",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1977,
+        "max_year": 1977,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/6891093739a2b4.69539984-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/6891090738a843.52112339-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 479464,
+      "title": "300 Lire - Cassa di Risparmio di Trento e Rovereto",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1977,
+      "max_year": 1977,
+      "face": {
+        "value": 300,
+        "unit": "Lire",
+        "text": "300 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 479464,
+        "title": "300 Lire - Cassa di Risparmio di Trento e Rovereto",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1977,
+        "max_year": 1977,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/68910b41aa42d5.39058444-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/68910b431fede8.38950018-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 479467,
+      "title": "350 Lire - Cassa di Risparmio di Trento e Rovereto",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1977,
+      "max_year": 1977,
+      "face": {
+        "value": 350,
+        "unit": "Lire",
+        "text": "350 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 479467,
+        "title": "350 Lire - Cassa di Risparmio di Trento e Rovereto",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1977,
+        "max_year": 1977,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/68910d1be24bf8.34448714-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/68910d1d53bce8.26104939-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 479472,
+      "title": "100 Lire - Cassa di Risparmio di Trento e Rovereto",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1977,
+      "max_year": 1977,
+      "face": {
+        "value": 100,
+        "unit": "Lire",
+        "text": "100 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 479472,
+        "title": "100 Lire - Cassa di Risparmio di Trento e Rovereto",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1977,
+        "max_year": 1977,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/689113bf8f3885.20250139-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/689113c0bb6fa1.31149750-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 479484,
+      "title": "150 Lire - Cassa di Risparmio di Trento e Rovereto",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1977,
+      "max_year": 1977,
+      "face": {
+        "value": 150,
+        "unit": "Lire",
+        "text": "150 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 479484,
+        "title": "150 Lire - Cassa di Risparmio di Trento e Rovereto",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1977,
+        "max_year": 1977,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/689121e31e6a69.48315091-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/689121e461ed99.44138435-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 479520,
+      "title": "200 Lire - Cassa di Risparmio di Trento e Rovereto",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1977,
+      "max_year": 1977,
+      "face": {
+        "value": 200,
+        "unit": "Lire",
+        "text": "200 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 479520,
+        "title": "200 Lire - Cassa di Risparmio di Trento e Rovereto",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1977,
+        "max_year": 1977,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/6891a1f2c451d8.66827764-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/6891a1f41d62a5.60978873-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 479527,
+      "title": "250 Lire - Cassa di Risparmio di Trento e Rovereto",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1977,
+      "max_year": 1977,
+      "face": {
+        "value": 250,
+        "unit": "Lire",
+        "text": "250 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 479527,
+        "title": "250 Lire - Cassa di Risparmio di Trento e Rovereto",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1977,
+        "max_year": 1977,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/6891a64a590b60.65111034-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/6891a64bc89456.68639775-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 479528,
+      "title": "300 Lire - Cassa di Risparmio di Trento e Rovereto",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1977,
+      "max_year": 1977,
+      "face": {
+        "value": 300,
+        "unit": "Lire",
+        "text": "300 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 479528,
+        "title": "300 Lire - Cassa di Risparmio di Trento e Rovereto",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1977,
+        "max_year": 1977,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/6891a9b68aee55.41887920-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/6891a9b8006373.22568745-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 479530,
+      "title": "350 Lire - Cassa di Risparmio di Trento e Rovereto",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1977,
+      "max_year": 1977,
+      "face": {
+        "value": 350,
+        "unit": "Lire",
+        "text": "350 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 479530,
+        "title": "350 Lire - Cassa di Risparmio di Trento e Rovereto",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1977,
+        "max_year": 1977,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/6891abf658db23.66396757-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/6891abf7a08482.55251893-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 479591,
+      "title": "300 Lire - Cassa rurale di Moena \"Trento\"",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1977,
+      "max_year": 1977,
+      "face": {
+        "value": 300,
+        "unit": "Lire",
+        "text": "300 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 479591,
+        "title": "300 Lire - Cassa rurale di Moena \"Trento\"",
+        "object_type": {
+          "id": 84,
+          "name": "Local banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1977,
+        "max_year": 1977,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/68920ea578c754.10123426-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/68920ea6b3ec18.37902147-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 479598,
+      "title": "350 Lire - Cassa rurale di Moena \"Trento\"",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1977,
+      "max_year": 1977,
+      "face": {
+        "value": 350,
+        "unit": "Lire",
+        "text": "350 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 479598,
+        "title": "350 Lire - Cassa rurale di Moena \"Trento\"",
+        "object_type": {
+          "id": 84,
+          "name": "Local banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1977,
+        "max_year": 1977,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/68921bc5972016.78182816-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/68921bc6e8b590.78154933-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 537716,
+      "title": "200 Lire Banca Sella - Biella",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1976,
+      "max_year": 1976,
+      "face": {
+        "value": 200,
+        "unit": "Lire Banca Sella",
+        "text": "200 Lire Banca Sella"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 537716,
+        "title": "200 Lire Banca Sella - Biella",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1976,
+        "max_year": 1976,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/6939272ae4eea0.43512237-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/6939272e469008.77819781-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 537717,
+      "title": "250 Lire Banca Sella - Biella",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1976,
+      "max_year": 1976,
+      "face": {
+        "value": 250,
+        "unit": "Lire Banca Sella",
+        "text": "250 Lire Banca Sella"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 537717,
+        "title": "250 Lire Banca Sella - Biella",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1976,
+        "max_year": 1976,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/69392754778ec2.48194435-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/693927580b8974.39901826-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 537718,
+      "title": "300 Lire Banca Sella - Biella",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1976,
+      "max_year": 1976,
+      "face": {
+        "value": 300,
+        "unit": "Lire Banca Sella",
+        "text": "300 Lire Banca Sella"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 537718,
+        "title": "300 Lire Banca Sella - Biella",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1976,
+        "max_year": 1976,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/69392779557c51.54927437-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/6939277c9e4cf3.99645550-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 537719,
+      "title": "350 Lire Banca Sella - Biella",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1976,
+      "max_year": 1976,
+      "face": {
+        "value": 350,
+        "unit": "Lire Banca Sella",
+        "text": "350 Lire Banca Sella"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 537719,
+        "title": "350 Lire Banca Sella - Biella",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1976,
+        "max_year": 1976,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/693927a0be6d10.31776525-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/693927a3e2caf0.94504750-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 556411,
+      "title": "200 Lire (Banca Agricola Popolare di Matino e Lecce)",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1977,
+      "max_year": 1977,
+      "face": {
+        "value": 200,
+        "unit": "Lire",
+        "text": "200 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 556411,
+        "title": "200 Lire (Banca Agricola Popolare di Matino e Lecce)",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1977,
+        "max_year": 1977,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/697f12a6d4f5c7.33382095-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/697f12a8584c82.25871152-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 575542,
+      "title": "250 Lire - Cassa Rurale di Taio",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1977,
+      "max_year": 1977,
+      "face": {
+        "value": 250,
+        "unit": "Lire",
+        "text": "250 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 575542,
+        "title": "250 Lire - Cassa Rurale di Taio",
+        "object_type": {
+          "id": 84,
+          "name": "Local banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1977,
+        "max_year": 1977,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/69f2a9a27a6f41.98714169-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/69f2a9a34acf46.38035497-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 584080,
+      "title": "250 Lire (Banca Popolare Udinese)",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1977,
+      "max_year": 1977,
+      "face": {
+        "value": 250,
+        "unit": "Lire",
+        "text": "250 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 584080,
+        "title": "250 Lire (Banca Popolare Udinese)",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1977,
+        "max_year": 1977,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/6a247ae775b796.59869617-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/6a247ae93ab740.89190573-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 584081,
+      "title": "300 Lire (Banca Popolare Udinese)",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1977,
+      "max_year": 1977,
+      "face": {
+        "value": 300,
+        "unit": "Lire",
+        "text": "300 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 584081,
+        "title": "300 Lire (Banca Popolare Udinese)",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1977,
+        "max_year": 1977,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/6a247cde632f19.74865276-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/6a247ce0a14127.79515817-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 584082,
+      "title": "350 Lire (Banca Popolare Udinese)",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1977,
+      "max_year": 1977,
+      "face": {
+        "value": 350,
+        "unit": "Lire",
+        "text": "350 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 584082,
+        "title": "350 Lire (Banca Popolare Udinese)",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1977,
+        "max_year": 1977,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/6a247d53d8ba77.80963830-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/6a247d558c1542.74683946-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 584085,
+      "title": "100 Lire (Banca Popolare Udinese)",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1977,
+      "max_year": 1977,
+      "face": {
+        "value": 100,
+        "unit": "Lire",
+        "text": "100 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 584085,
+        "title": "100 Lire (Banca Popolare Udinese)",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1977,
+        "max_year": 1977,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/6a247f7cb9fae5.71510853-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/6a247f7d32fce7.18657881-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 584087,
+      "title": "150 Lire (Banca Popolare Udinese)",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1977,
+      "max_year": 1977,
+      "face": {
+        "value": 150,
+        "unit": "Lire",
+        "text": "150 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 584087,
+        "title": "150 Lire (Banca Popolare Udinese)",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1977,
+        "max_year": 1977,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/6a24803413a910.45413394-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/6a248034bbf285.95860559-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 584090,
+      "title": "150 Lire - Cassa Rurale di Moena",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1978,
+      "max_year": 1978,
+      "face": {
+        "value": 150,
+        "unit": "Lire",
+        "text": "150 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 584090,
+        "title": "150 Lire - Cassa Rurale di Moena",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1978,
+        "max_year": 1978,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/6a2484e77c0d07.61196623-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/6a2484e959dfa1.08727126-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 584092,
+      "title": "100 Lire (Cassa Rurale di Cogolo-Pejo)",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1977,
+      "max_year": 1977,
+      "face": {
+        "value": 100,
+        "unit": "Lire",
+        "text": "100 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 584092,
+        "title": "100 Lire (Cassa Rurale di Cogolo-Pejo)",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1977,
+        "max_year": 1977,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/6a248844e8bd19.05775910-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/6a24881a239ef0.73487322-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 584093,
+      "title": "200 Lire (Cassa Rurale di Cogolo-Pejo)",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1977,
+      "max_year": 1977,
+      "face": {
+        "value": 200,
+        "unit": "Lire",
+        "text": "200 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 584093,
+        "title": "200 Lire (Cassa Rurale di Cogolo-Pejo)",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1977,
+        "max_year": 1977,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/6a24897c8c87b6.44945390-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/6a24897e5094e0.06498415-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 584094,
+      "title": "100 Lire (Cassa Rurale di Vermiglio)",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1977,
+      "max_year": 1977,
+      "face": {
+        "value": 100,
+        "unit": "Lire",
+        "text": "100 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 584094,
+        "title": "100 Lire (Cassa Rurale di Vermiglio)",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1977,
+        "max_year": 1977,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/6a248be82741b7.06251303-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/6a248be9996fb8.36343695-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 584095,
+      "title": "50 Lire (Cassa Rurale di Vermiglio)",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1977,
+      "max_year": 1977,
+      "face": {
+        "value": 50,
+        "unit": "Lire",
+        "text": "50 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 584095,
+        "title": "50 Lire (Cassa Rurale di Vermiglio)",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1977,
+        "max_year": 1977,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/6a248cb0958342.64740776-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/6a248cb1e3d9b4.32492576-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 584097,
+      "title": "100 Lire (Cassa Rurale di Tesero)",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1977,
+      "max_year": 1977,
+      "face": {
+        "value": 100,
+        "unit": "Lire",
+        "text": "100 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 584097,
+        "title": "100 Lire (Cassa Rurale di Tesero)",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1977,
+        "max_year": 1977,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/6a248e611d6ad2.32546008-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/6a248e628158a9.72339998-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 584098,
+      "title": "200 Lire (Cassa Rurale di Tesero)",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1977,
+      "max_year": 1977,
+      "face": {
+        "value": 200,
+        "unit": "Lire",
+        "text": "200 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 584098,
+        "title": "200 Lire (Cassa Rurale di Tesero)",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1977,
+        "max_year": 1977,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/6a248ef2390159.83341555-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/6a248ef3b45025.02330265-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 584100,
+      "title": "50 Lire (Cassa Rurale di Panchià)",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1978,
+      "max_year": 1978,
+      "face": {
+        "value": 50,
+        "unit": "Lire",
+        "text": "50 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 584100,
+        "title": "50 Lire (Cassa Rurale di Panchià)",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1978,
+        "max_year": 1978,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/6a24914c280682.26142177-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/6a24914db1edd0.53868258-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 584101,
+      "title": "300 Lire (Cassa Rurale di Panchià)",
+      "issuer": {
+        "code": "italian_notgeld",
+        "name": "Italian notgeld"
+      },
+      "min_year": 1978,
+      "max_year": 1978,
+      "face": {
+        "value": 300,
+        "unit": "Lire",
+        "text": "300 Lire"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 584101,
+        "title": "300 Lire (Cassa Rurale di Panchià)",
+        "object_type": {
+          "id": 161,
+          "name": "Emergency banknotes"
+        },
+        "issuer": {
+          "code": "italian_notgeld",
+          "name": "Italian notgeld"
+        },
+        "min_year": 1978,
+        "max_year": 1978,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/6a24936ccb2135.79736493-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/italian_notgeld/6a24936ea61865.75306626-180.jpg",
+        "category": "banknote"
+      }
+    }
+  ]
+}

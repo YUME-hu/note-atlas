@@ -1,0 +1,1283 @@
+{
+  "meta": {
+    "generated_at": "2026-10-29T13:27:53.249Z",
+    "fixture": false,
+    "api": "numista v3",
+    "issuer": "switzerland",
+    "iso": "CH",
+    "category": "banknote",
+    "lang": "en",
+    "since": 1960,
+    "listed": 163,
+    "fetched": 34,
+    "details_fetched": 0,
+    "dropped_before_since": 129,
+    "dropped_by_source": {
+      "list": 129,
+      "detail": 0
+    },
+    "issuer_mismatches": 0,
+    "pages": 4,
+    "requests": 0
+  },
+  "types": [
+    {
+      "numista_type_id": 201562,
+      "title": "10 Francs (9th series)",
+      "issuer": {
+        "code": "suisse",
+        "name": "Switzerland (1848-date)"
+      },
+      "min_year": 2016,
+      "max_year": 2017,
+      "face": {
+        "value": 10,
+        "unit": "Francs",
+        "text": "10 Francs"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 201562,
+        "title": "10 Francs (9th series)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "suisse",
+          "name": "Switzerland (1848-date)"
+        },
+        "min_year": 2016,
+        "max_year": 2017,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/suisse/664f8851404a50.82490670-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/suisse/664f88530ca381.38788458-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 201584,
+      "title": "200 Francs (9th series)",
+      "issuer": {
+        "code": "suisse",
+        "name": "Switzerland (1848-date)"
+      },
+      "min_year": 2016,
+      "max_year": 2019,
+      "face": {
+        "value": 200,
+        "unit": "Francs",
+        "text": "200 Francs"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 201584,
+        "title": "200 Francs (9th series)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "suisse",
+          "name": "Switzerland (1848-date)"
+        },
+        "min_year": 2016,
+        "max_year": 2019,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/suisse/5ee68990bf3ab6.17131167-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/suisse/5ee689914155e5.53962911-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 201625,
+      "title": "20 Francs (9th series)",
+      "issuer": {
+        "code": "suisse",
+        "name": "Switzerland (1848-date)"
+      },
+      "min_year": 2015,
+      "max_year": 2021,
+      "face": {
+        "value": 20,
+        "unit": "Francs",
+        "text": "20 Francs"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 201625,
+        "title": "20 Francs (9th series)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "suisse",
+          "name": "Switzerland (1848-date)"
+        },
+        "min_year": 2015,
+        "max_year": 2021,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/suisse/5f4cfb666b4aa3.95359504-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/suisse/5f4cfb66cfc1a7.34299684-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 201640,
+      "title": "10 Francs (5th series)",
+      "issuer": {
+        "code": "suisse",
+        "name": "Switzerland (1848-date)"
+      },
+      "min_year": 1955,
+      "max_year": 1977,
+      "face": {
+        "value": 10,
+        "unit": "Francs",
+        "text": "10 Francs"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 201640,
+        "title": "10 Francs (5th series)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "suisse",
+          "name": "Switzerland (1848-date)"
+        },
+        "min_year": 1955,
+        "max_year": 1977,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/suisse/5e94c55deff1b8.62815316-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/suisse/5e94c55e44a3c6.94123434-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 201661,
+      "title": "20 Francs (5th series)",
+      "issuer": {
+        "code": "suisse",
+        "name": "Switzerland (1848-date)"
+      },
+      "min_year": 1954,
+      "max_year": 1976,
+      "face": {
+        "value": 20,
+        "unit": "Francs",
+        "text": "20 Francs"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 201661,
+        "title": "20 Francs (5th series)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "suisse",
+          "name": "Switzerland (1848-date)"
+        },
+        "min_year": 1954,
+        "max_year": 1976,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/suisse/5e94cd3ae47094.49221974-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/suisse/5e94cd3b48b611.40012250-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 201689,
+      "title": "50 Francs (5th series; type 2)",
+      "issuer": {
+        "code": "suisse",
+        "name": "Switzerland (1848-date)"
+      },
+      "min_year": 1961,
+      "max_year": 1974,
+      "face": {
+        "value": 50,
+        "unit": "Francs",
+        "text": "50 Francs"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 201689,
+        "title": "50 Francs (5th series; type 2)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "suisse",
+          "name": "Switzerland (1848-date)"
+        },
+        "min_year": 1961,
+        "max_year": 1974,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/suisse/5e94d73adc0b71.90386080-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/suisse/5e94d73b59ac82.45910868-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 201703,
+      "title": "100 Francs (5th series)",
+      "issuer": {
+        "code": "suisse",
+        "name": "Switzerland (1848-date)"
+      },
+      "min_year": 1956,
+      "max_year": 1973,
+      "face": {
+        "value": 100,
+        "unit": "Francs",
+        "text": "100 Francs"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 201703,
+        "title": "100 Francs (5th series)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "suisse",
+          "name": "Switzerland (1848-date)"
+        },
+        "min_year": 1956,
+        "max_year": 1973,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/suisse/5e94db3d47bb73.16682516-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/suisse/5e94db3dc46cf1.09034558-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202181,
+      "title": "1000 Francs (8th series)",
+      "issuer": {
+        "code": "suisse",
+        "name": "Switzerland (1848-date)"
+      },
+      "min_year": 1996,
+      "max_year": 2012,
+      "face": {
+        "value": 1000,
+        "unit": "Francs",
+        "text": "1000 Francs"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202181,
+        "title": "1000 Francs (8th series)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "suisse",
+          "name": "Switzerland (1848-date)"
+        },
+        "min_year": 1996,
+        "max_year": 2012,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/suisse/5ee6859ef1cb79.82145292-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/suisse/5ee6856a39ef77.82523433-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202359,
+      "title": "10 Francs (6th series)",
+      "issuer": {
+        "code": "suisse",
+        "name": "Switzerland (1848-date)"
+      },
+      "min_year": 1979,
+      "max_year": 1992,
+      "face": {
+        "value": 10,
+        "unit": "Francs",
+        "text": "10 Francs"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202359,
+        "title": "10 Francs (6th series)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "suisse",
+          "name": "Switzerland (1848-date)"
+        },
+        "min_year": 1979,
+        "max_year": 1992,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/suisse/63aec74297a580.38379211-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/suisse/63aec7450bcb24.27815396-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202858,
+      "title": "50 Francs (9th series)",
+      "issuer": {
+        "code": "suisse",
+        "name": "Switzerland (1848-date)"
+      },
+      "min_year": 2015,
+      "max_year": 2021,
+      "face": {
+        "value": 50,
+        "unit": "Francs",
+        "text": "50 Francs"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202858,
+        "title": "50 Francs (9th series)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "suisse",
+          "name": "Switzerland (1848-date)"
+        },
+        "min_year": 2015,
+        "max_year": 2021,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/suisse/5f4cf90833c786.05787275-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/suisse/5f4cf908a15e40.42460349-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202875,
+      "title": "100 Francs (9th series)",
+      "issuer": {
+        "code": "suisse",
+        "name": "Switzerland (1848-date)"
+      },
+      "min_year": 2017,
+      "max_year": 2020,
+      "face": {
+        "value": 100,
+        "unit": "Francs",
+        "text": "100 Francs"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202875,
+        "title": "100 Francs (9th series)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "suisse",
+          "name": "Switzerland (1848-date)"
+        },
+        "min_year": 2017,
+        "max_year": 2020,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/suisse/5e9cc2e9909b73.37986465-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/suisse/5e9cc2e9d3c128.62125098-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203275,
+      "title": "1000 Francs (9th series)",
+      "issuer": {
+        "code": "suisse",
+        "name": "Switzerland (1848-date)"
+      },
+      "min_year": 2017,
+      "max_year": 2017,
+      "face": {
+        "value": 1000,
+        "unit": "Francs",
+        "text": "1000 Francs"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203275,
+        "title": "1000 Francs (9th series)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "suisse",
+          "name": "Switzerland (1848-date)"
+        },
+        "min_year": 2017,
+        "max_year": 2017,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/suisse/5f18a0ec1c69e2.40014318-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/suisse/5f18a0c53d39f4.59694606-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203279,
+      "title": "200 Francs (8th series)",
+      "issuer": {
+        "code": "suisse",
+        "name": "Switzerland (1848-date)"
+      },
+      "min_year": 1996,
+      "max_year": 2013,
+      "face": {
+        "value": 200,
+        "unit": "Francs",
+        "text": "200 Francs"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203279,
+        "title": "200 Francs (8th series)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "suisse",
+          "name": "Switzerland (1848-date)"
+        },
+        "min_year": 1996,
+        "max_year": 2013,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/suisse/62c9858cd695b0.64212681-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/suisse/62c833176265d8.93045495-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203281,
+      "title": "100 Francs (8th series)",
+      "issuer": {
+        "code": "suisse",
+        "name": "Switzerland (1848-date)"
+      },
+      "min_year": 1996,
+      "max_year": 2014,
+      "face": {
+        "value": 100,
+        "unit": "Francs",
+        "text": "100 Francs"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203281,
+        "title": "100 Francs (8th series)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "suisse",
+          "name": "Switzerland (1848-date)"
+        },
+        "min_year": 1996,
+        "max_year": 2014,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/suisse/60216c836d6368.08304283-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/suisse/5ee6832b4a6aa8.73599832-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203288,
+      "title": "50 Francs (8th series)",
+      "issuer": {
+        "code": "suisse",
+        "name": "Switzerland (1848-date)"
+      },
+      "min_year": 1994,
+      "max_year": 2012,
+      "face": {
+        "value": 50,
+        "unit": "Francs",
+        "text": "50 Francs"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203288,
+        "title": "50 Francs (8th series)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "suisse",
+          "name": "Switzerland (1848-date)"
+        },
+        "min_year": 1994,
+        "max_year": 2012,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/suisse/62c4379fb952d7.50722181-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/suisse/62bc6d7d9386c7.69292742-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203300,
+      "title": "20 Francs (8th series)",
+      "issuer": {
+        "code": "suisse",
+        "name": "Switzerland (1848-date)"
+      },
+      "min_year": 1994,
+      "max_year": 2014,
+      "face": {
+        "value": 20,
+        "unit": "Francs",
+        "text": "20 Francs"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203300,
+        "title": "20 Francs (8th series)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "suisse",
+          "name": "Switzerland (1848-date)"
+        },
+        "min_year": 1994,
+        "max_year": 2014,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/suisse/62c836c8c37312.93279122-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/suisse/62c836cb1fc075.82933475-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203303,
+      "title": "10 Francs (8th series)",
+      "issuer": {
+        "code": "suisse",
+        "name": "Switzerland (1848-date)"
+      },
+      "min_year": 1995,
+      "max_year": 2013,
+      "face": {
+        "value": 10,
+        "unit": "Francs",
+        "text": "10 Francs"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203303,
+        "title": "10 Francs (8th series)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "suisse",
+          "name": "Switzerland (1848-date)"
+        },
+        "min_year": 1995,
+        "max_year": 2013,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/suisse/62c83a540a90d3.41352235-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/suisse/62c83a55f17957.92668913-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203310,
+      "title": "1000 Francs (7th series; reserve banknote)",
+      "issuer": {
+        "code": "suisse",
+        "name": "Switzerland (1848-date)"
+      },
+      "min_year": 1985,
+      "max_year": 1985,
+      "face": {
+        "value": 1000,
+        "unit": "Francs",
+        "text": "1000 Francs"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203310,
+        "title": "1000 Francs (7th series; reserve banknote)",
+        "object_type": {
+          "id": 162,
+          "name": "Non-issued banknotes"
+        },
+        "issuer": {
+          "code": "suisse",
+          "name": "Switzerland (1848-date)"
+        },
+        "min_year": 1985,
+        "max_year": 1985,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/suisse/5e98b50fa21783.94426860-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/suisse/5e98b51010d501.55560937-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203315,
+      "title": "500 Francs (7th series; reserve banknote)",
+      "issuer": {
+        "code": "suisse",
+        "name": "Switzerland (1848-date)"
+      },
+      "min_year": 1985,
+      "max_year": 1985,
+      "face": {
+        "value": 500,
+        "unit": "Francs",
+        "text": "500 Francs"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203315,
+        "title": "500 Francs (7th series; reserve banknote)",
+        "object_type": {
+          "id": 162,
+          "name": "Non-issued banknotes"
+        },
+        "issuer": {
+          "code": "suisse",
+          "name": "Switzerland (1848-date)"
+        },
+        "min_year": 1985,
+        "max_year": 1985,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/suisse/5e98b6c82c1399.52647159-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/suisse/5e98b6c89a6f98.22825767-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203318,
+      "title": "100 Francs (7th series; reserve banknote)",
+      "issuer": {
+        "code": "suisse",
+        "name": "Switzerland (1848-date)"
+      },
+      "min_year": 1985,
+      "max_year": 1985,
+      "face": {
+        "value": 100,
+        "unit": "Francs",
+        "text": "100 Francs"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203318,
+        "title": "100 Francs (7th series; reserve banknote)",
+        "object_type": {
+          "id": 162,
+          "name": "Non-issued banknotes"
+        },
+        "issuer": {
+          "code": "suisse",
+          "name": "Switzerland (1848-date)"
+        },
+        "min_year": 1985,
+        "max_year": 1985,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/suisse/5e98b8a7404370.52649760-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/suisse/5e98b8a7921f41.70538484-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203322,
+      "title": "50 Francs (7th series; reserve banknote)",
+      "issuer": {
+        "code": "suisse",
+        "name": "Switzerland (1848-date)"
+      },
+      "min_year": 1984,
+      "max_year": 1985,
+      "face": {
+        "value": 50,
+        "unit": "Francs",
+        "text": "50 Francs"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203322,
+        "title": "50 Francs (7th series; reserve banknote)",
+        "object_type": {
+          "id": 162,
+          "name": "Non-issued banknotes"
+        },
+        "issuer": {
+          "code": "suisse",
+          "name": "Switzerland (1848-date)"
+        },
+        "min_year": 1984,
+        "max_year": 1985,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/suisse/5e98ba2e14deb6.91485544-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/suisse/5e98ba2e67e990.11903197-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203324,
+      "title": "20 Francs (7th series; reserve banknote)",
+      "issuer": {
+        "code": "suisse",
+        "name": "Switzerland (1848-date)"
+      },
+      "min_year": 1984,
+      "max_year": 1985,
+      "face": {
+        "value": 20,
+        "unit": "Francs",
+        "text": "20 Francs"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203324,
+        "title": "20 Francs (7th series; reserve banknote)",
+        "object_type": {
+          "id": 162,
+          "name": "Non-issued banknotes"
+        },
+        "issuer": {
+          "code": "suisse",
+          "name": "Switzerland (1848-date)"
+        },
+        "min_year": 1984,
+        "max_year": 1985,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/suisse/5e98bbb6900dd4.00703902-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/suisse/5e98bbb6d5bb34.89843986-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203326,
+      "title": "10 Francs (7th series; reserve banknote)",
+      "issuer": {
+        "code": "suisse",
+        "name": "Switzerland (1848-date)"
+      },
+      "min_year": 1983,
+      "max_year": 1983,
+      "face": {
+        "value": 10,
+        "unit": "Francs",
+        "text": "10 Francs"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203326,
+        "title": "10 Francs (7th series; reserve banknote)",
+        "object_type": {
+          "id": 162,
+          "name": "Non-issued banknotes"
+        },
+        "issuer": {
+          "code": "suisse",
+          "name": "Switzerland (1848-date)"
+        },
+        "min_year": 1983,
+        "max_year": 1983,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/suisse/5e98bcd3a4e426.36225348-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/suisse/5e98bcd3efb999.02560103-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203335,
+      "title": "1000 Francs (6th series)",
+      "issuer": {
+        "code": "suisse",
+        "name": "Switzerland (1848-date)"
+      },
+      "min_year": 1977,
+      "max_year": 1993,
+      "face": {
+        "value": 1000,
+        "unit": "Francs",
+        "text": "1000 Francs"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203335,
+        "title": "1000 Francs (6th series)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "suisse",
+          "name": "Switzerland (1848-date)"
+        },
+        "min_year": 1977,
+        "max_year": 1993,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/suisse/5e98c4c8ce6155.22075631-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/suisse/5e98c4c93569e0.98192009-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203342,
+      "title": "500 Francs (6th series)",
+      "issuer": {
+        "code": "suisse",
+        "name": "Switzerland (1848-date)"
+      },
+      "min_year": 1976,
+      "max_year": 1992,
+      "face": {
+        "value": 500,
+        "unit": "Francs",
+        "text": "500 Francs"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203342,
+        "title": "500 Francs (6th series)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "suisse",
+          "name": "Switzerland (1848-date)"
+        },
+        "min_year": 1976,
+        "max_year": 1992,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/suisse/5e98c8d95b33e1.62828874-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/suisse/5e98c8d9b49b64.41153074-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203350,
+      "title": "100 Francs (6th series)",
+      "issuer": {
+        "code": "suisse",
+        "name": "Switzerland (1848-date)"
+      },
+      "min_year": 1975,
+      "max_year": 1993,
+      "face": {
+        "value": 100,
+        "unit": "Francs",
+        "text": "100 Francs"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203350,
+        "title": "100 Francs (6th series)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "suisse",
+          "name": "Switzerland (1848-date)"
+        },
+        "min_year": 1975,
+        "max_year": 1993,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/suisse/5e98d0b7a92751.20732182-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/suisse/5e98d0b8059439.97535619-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203354,
+      "title": "50 Francs (6th series)",
+      "issuer": {
+        "code": "suisse",
+        "name": "Switzerland (1848-date)"
+      },
+      "min_year": 1978,
+      "max_year": 1988,
+      "face": {
+        "value": 50,
+        "unit": "Francs",
+        "text": "50 Francs"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203354,
+        "title": "50 Francs (6th series)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "suisse",
+          "name": "Switzerland (1848-date)"
+        },
+        "min_year": 1978,
+        "max_year": 1988,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/suisse/5e98d5e86f2772.63793709-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/suisse/5e98d5e8b289a0.86763029-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203371,
+      "title": "20 Francs (6th series)",
+      "issuer": {
+        "code": "suisse",
+        "name": "Switzerland (1848-date)"
+      },
+      "min_year": 1978,
+      "max_year": 1992,
+      "face": {
+        "value": 20,
+        "unit": "Francs",
+        "text": "20 Francs"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203371,
+        "title": "20 Francs (6th series)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "suisse",
+          "name": "Switzerland (1848-date)"
+        },
+        "min_year": 1978,
+        "max_year": 1992,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/suisse/5e98dba9c0b5f3.83868292-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/suisse/5e98dbaa28c230.05496056-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203385,
+      "title": "500 Francs (5th series; type 2)",
+      "issuer": {
+        "code": "suisse",
+        "name": "Switzerland (1848-date)"
+      },
+      "min_year": 1961,
+      "max_year": 1974,
+      "face": {
+        "value": 500,
+        "unit": "Francs",
+        "text": "500 Francs"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203385,
+        "title": "500 Francs (5th series; type 2)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "suisse",
+          "name": "Switzerland (1848-date)"
+        },
+        "min_year": 1961,
+        "max_year": 1974,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/suisse/5e98e2a65466b1.63756937-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/suisse/5e98e2a6dc5156.37791862-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 203413,
+      "title": "1000 Francs (5th series)",
+      "issuer": {
+        "code": "suisse",
+        "name": "Switzerland (1848-date)"
+      },
+      "min_year": 1954,
+      "max_year": 1974,
+      "face": {
+        "value": 1000,
+        "unit": "Francs",
+        "text": "1000 Francs"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 203413,
+        "title": "1000 Francs (5th series)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "suisse",
+          "name": "Switzerland (1848-date)"
+        },
+        "min_year": 1954,
+        "max_year": 1974,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/suisse/5e98e64ebbd155.09951626-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/suisse/5e98e64f58d4b9.94056974-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 352695,
+      "title": "Sample note - Landqart",
+      "issuer": {
+        "code": "suisse",
+        "name": "Switzerland (1848-date)"
+      },
+      "min_year": 2003,
+      "max_year": 2003,
+      "face": {
+        "value": null,
+        "unit": null,
+        "text": null
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 352695,
+        "title": "Sample note - Landqart",
+        "object_type": {
+          "id": 227,
+          "name": "Demonstration notes"
+        },
+        "issuer": {
+          "code": "suisse",
+          "name": "Switzerland (1848-date)"
+        },
+        "min_year": 2003,
+        "max_year": 2003,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/suisse/63c28275e50964.22674806-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/suisse/63c28277661bb6.77504636-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 359919,
+      "title": "Jules Verne (KBA-GIORI)",
+      "issuer": {
+        "code": "suisse",
+        "name": "Switzerland (1848-date)"
+      },
+      "min_year": 2004,
+      "max_year": 2005,
+      "face": {
+        "value": null,
+        "unit": null,
+        "text": null
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 359919,
+        "title": "Jules Verne (KBA-GIORI)",
+        "object_type": {
+          "id": 89,
+          "name": "Banknote patterns and trials"
+        },
+        "issuer": {
+          "code": "suisse",
+          "name": "Switzerland (1848-date)"
+        },
+        "min_year": 2004,
+        "max_year": 2005,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/suisse/641d8ce27a3b11.37740955-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/suisse/641d8c9e5ecd41.83280116-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 452130,
+      "title": "Cash Cycle (KBA NotaSys)",
+      "issuer": {
+        "code": "suisse",
+        "name": "Switzerland (1848-date)"
+      },
+      "min_year": 2010,
+      "max_year": 2010,
+      "face": {
+        "value": null,
+        "unit": null,
+        "text": null
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 452130,
+        "title": "Cash Cycle (KBA NotaSys)",
+        "object_type": {
+          "id": 89,
+          "name": "Banknote patterns and trials"
+        },
+        "issuer": {
+          "code": "suisse",
+          "name": "Switzerland (1848-date)"
+        },
+        "min_year": 2010,
+        "max_year": 2010,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/suisse/6797784a409cb0.65433181-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/suisse/6797784abed572.09896795-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 463729,
+      "title": "Cash Cycle (KBA GIORI)",
+      "issuer": {
+        "code": "suisse",
+        "name": "Switzerland (1848-date)"
+      },
+      "min_year": 2010,
+      "max_year": 2010,
+      "face": {
+        "value": null,
+        "unit": null,
+        "text": null
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 463729,
+        "title": "Cash Cycle (KBA GIORI)",
+        "object_type": {
+          "id": 89,
+          "name": "Banknote patterns and trials"
+        },
+        "issuer": {
+          "code": "suisse",
+          "name": "Switzerland (1848-date)"
+        },
+        "min_year": 2010,
+        "max_year": 2010,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/suisse/67f0eb60bf7b11.34682455-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/suisse/67f0eb62a8a532.84135148-180.jpg",
+        "category": "banknote"
+      }
+    }
+  ]
+}

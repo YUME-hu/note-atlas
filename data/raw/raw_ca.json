@@ -1,0 +1,1209 @@
+{
+  "meta": {
+    "generated_at": "2026-10-29T13:27:55.225Z",
+    "fixture": false,
+    "api": "numista v3",
+    "issuer": "canada",
+    "iso": "CA",
+    "category": "banknote",
+    "lang": "en",
+    "since": 1960,
+    "listed": 143,
+    "fetched": 32,
+    "details_fetched": 0,
+    "dropped_before_since": 111,
+    "dropped_by_source": {
+      "list": 111,
+      "detail": 0
+    },
+    "issuer_mismatches": 0,
+    "pages": 3,
+    "requests": 0
+  },
+  "types": [
+    {
+      "numista_type_id": 201566,
+      "title": "5 Dollars (upgraded security)",
+      "issuer": {
+        "code": "canada",
+        "name": "Canada"
+      },
+      "min_year": 2006,
+      "max_year": 2011,
+      "face": {
+        "value": 5,
+        "unit": "Dollars",
+        "text": "5 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 201566,
+        "title": "5 Dollars (upgraded security)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "canada",
+          "name": "Canada"
+        },
+        "min_year": 2006,
+        "max_year": 2011,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/canada/623aee49d7d630.95321626-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/canada/623aee4a6b3c47.85723724-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 201573,
+      "title": "20 Dollars",
+      "issuer": {
+        "code": "canada",
+        "name": "Canada"
+      },
+      "min_year": 1991,
+      "max_year": 1991,
+      "face": {
+        "value": 20,
+        "unit": "Dollars",
+        "text": "20 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 201573,
+        "title": "20 Dollars",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "canada",
+          "name": "Canada"
+        },
+        "min_year": 1991,
+        "max_year": 1991,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/canada/5e95412d4a5bc4.96533199-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/canada/5e95412d9a9fe2.97890366-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 201578,
+      "title": "5 Dollars",
+      "issuer": {
+        "code": "canada",
+        "name": "Canada"
+      },
+      "min_year": 2013,
+      "max_year": 2013,
+      "face": {
+        "value": 5,
+        "unit": "Dollars",
+        "text": "5 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 201578,
+        "title": "5 Dollars",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "canada",
+          "name": "Canada"
+        },
+        "min_year": 2013,
+        "max_year": 2013,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/canada/63cd04c38c6563.32385328-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/canada/63cd04c6d3ef26.23323347-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 201580,
+      "title": "10 Dollars",
+      "issuer": {
+        "code": "canada",
+        "name": "Canada"
+      },
+      "min_year": 2013,
+      "max_year": 2013,
+      "face": {
+        "value": 10,
+        "unit": "Dollars",
+        "text": "10 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 201580,
+        "title": "10 Dollars",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "canada",
+          "name": "Canada"
+        },
+        "min_year": 2013,
+        "max_year": 2013,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/canada/5e954745dc7663.53223490-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/canada/5e95474647a4a0.33301504-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 201585,
+      "title": "20 Dollars",
+      "issuer": {
+        "code": "canada",
+        "name": "Canada"
+      },
+      "min_year": 2012,
+      "max_year": 2012,
+      "face": {
+        "value": 20,
+        "unit": "Dollars",
+        "text": "20 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 201585,
+        "title": "20 Dollars",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "canada",
+          "name": "Canada"
+        },
+        "min_year": 2012,
+        "max_year": 2012,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/canada/63cd04ea7dfb15.65428655-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/canada/63cd04ed8af5b9.19128909-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 201588,
+      "title": "50 Dollars",
+      "issuer": {
+        "code": "canada",
+        "name": "Canada"
+      },
+      "min_year": 2012,
+      "max_year": 2012,
+      "face": {
+        "value": 50,
+        "unit": "Dollars",
+        "text": "50 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 201588,
+        "title": "50 Dollars",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "canada",
+          "name": "Canada"
+        },
+        "min_year": 2012,
+        "max_year": 2012,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/canada/63cd06c307eb18.31231784-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/canada/63cd06c6ac1310.12045102-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 201670,
+      "title": "10 Dollars",
+      "issuer": {
+        "code": "canada",
+        "name": "Canada"
+      },
+      "min_year": 1971,
+      "max_year": 1971,
+      "face": {
+        "value": 10,
+        "unit": "Dollars",
+        "text": "10 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 201670,
+        "title": "10 Dollars",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "canada",
+          "name": "Canada"
+        },
+        "min_year": 1971,
+        "max_year": 1971,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/canada/62eabbd3ec3268.26605745-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/canada/62eabbd4552dc1.16528599-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 201672,
+      "title": "10 Dollars",
+      "issuer": {
+        "code": "canada",
+        "name": "Canada"
+      },
+      "min_year": 2018,
+      "max_year": 2018,
+      "face": {
+        "value": 10,
+        "unit": "Dollars",
+        "text": "10 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 201672,
+        "title": "10 Dollars",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "canada",
+          "name": "Canada"
+        },
+        "min_year": 2018,
+        "max_year": 2018,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/canada/64880efecc2285.61356140-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/canada/64880effc527f2.89038269-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 201714,
+      "title": "1 Dollar (Centennial of Confederation)",
+      "issuer": {
+        "code": "canada",
+        "name": "Canada"
+      },
+      "min_year": 1967,
+      "max_year": 1967,
+      "face": {
+        "value": 1,
+        "unit": "Dollar",
+        "text": "1 Dollar"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 201714,
+        "title": "1 Dollar (Centennial of Confederation)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "canada",
+          "name": "Canada"
+        },
+        "min_year": 1967,
+        "max_year": 1967,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/canada/694e6665d76fa1.54448909-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/canada/694e6667e92ae7.55448857-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 201753,
+      "title": "10 Dollars (150 Years of Confederation)",
+      "issuer": {
+        "code": "canada",
+        "name": "Canada"
+      },
+      "min_year": 2017,
+      "max_year": 2017,
+      "face": {
+        "value": 10,
+        "unit": "Dollars",
+        "text": "10 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 201753,
+        "title": "10 Dollars (150 Years of Confederation)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "canada",
+          "name": "Canada"
+        },
+        "min_year": 2017,
+        "max_year": 2017,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/canada/64de640f315899.58853723-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/canada/64de64106a7c96.18333676-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 201754,
+      "title": "20 Dollars (Queen Elizabeth II)",
+      "issuer": {
+        "code": "canada",
+        "name": "Canada"
+      },
+      "min_year": 2015,
+      "max_year": 2015,
+      "face": {
+        "value": 20,
+        "unit": "Dollars",
+        "text": "20 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 201754,
+        "title": "20 Dollars (Queen Elizabeth II)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "canada",
+          "name": "Canada"
+        },
+        "min_year": 2015,
+        "max_year": 2015,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/canada/5e95498c3052a5.92929892-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/canada/5e95498c74dee1.89080427-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 201900,
+      "title": "5 Dollars",
+      "issuer": {
+        "code": "canada",
+        "name": "Canada"
+      },
+      "min_year": 1972,
+      "max_year": 1972,
+      "face": {
+        "value": 5,
+        "unit": "Dollars",
+        "text": "5 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 201900,
+        "title": "5 Dollars",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "canada",
+          "name": "Canada"
+        },
+        "min_year": 1972,
+        "max_year": 1972,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/canada/5e95396555ddc2.47709604-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/canada/5e953965ad3257.09285014-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 201901,
+      "title": "20 Dollars",
+      "issuer": {
+        "code": "canada",
+        "name": "Canada"
+      },
+      "min_year": 1969,
+      "max_year": 1969,
+      "face": {
+        "value": 20,
+        "unit": "Dollars",
+        "text": "20 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 201901,
+        "title": "20 Dollars",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "canada",
+          "name": "Canada"
+        },
+        "min_year": 1969,
+        "max_year": 1969,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/canada/5e953a2ca61237.53648606-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/canada/5e953a2d094910.15241975-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 201904,
+      "title": "1 Dollar - Elizabeth II",
+      "issuer": {
+        "code": "canada",
+        "name": "Canada"
+      },
+      "min_year": 1973,
+      "max_year": 1973,
+      "face": {
+        "value": 1,
+        "unit": "Dollar",
+        "text": "1 Dollar"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 201904,
+        "title": "1 Dollar - Elizabeth II",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "canada",
+          "name": "Canada"
+        },
+        "min_year": 1973,
+        "max_year": 1973,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/canada/669cca76edc938.12726692-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/canada/669cca78e2ba08.27877718-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 201905,
+      "title": "2 Dollars",
+      "issuer": {
+        "code": "canada",
+        "name": "Canada"
+      },
+      "min_year": 1974,
+      "max_year": 1974,
+      "face": {
+        "value": 2,
+        "unit": "Dollars",
+        "text": "2 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 201905,
+        "title": "2 Dollars",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "canada",
+          "name": "Canada"
+        },
+        "min_year": 1974,
+        "max_year": 1974,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/canada/5e953b8e9bd137.60644178-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/canada/5e953b8ee783a2.78214092-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 201906,
+      "title": "50 Dollars",
+      "issuer": {
+        "code": "canada",
+        "name": "Canada"
+      },
+      "min_year": 1975,
+      "max_year": 1975,
+      "face": {
+        "value": 50,
+        "unit": "Dollars",
+        "text": "50 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 201906,
+        "title": "50 Dollars",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "canada",
+          "name": "Canada"
+        },
+        "min_year": 1975,
+        "max_year": 1975,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/canada/5e953c049a7391.56644828-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/canada/5e953c04f3e4a3.91832828-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 201907,
+      "title": "100 Dollars",
+      "issuer": {
+        "code": "canada",
+        "name": "Canada"
+      },
+      "min_year": 1975,
+      "max_year": 1975,
+      "face": {
+        "value": 100,
+        "unit": "Dollars",
+        "text": "100 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 201907,
+        "title": "100 Dollars",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "canada",
+          "name": "Canada"
+        },
+        "min_year": 1975,
+        "max_year": 1975,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/canada/5e953c60dddd78.82579821-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/canada/5e953c612b9681.49185321-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 201908,
+      "title": "20 Dollars (serial on reverse)",
+      "issuer": {
+        "code": "canada",
+        "name": "Canada"
+      },
+      "min_year": 1979,
+      "max_year": 1979,
+      "face": {
+        "value": 20,
+        "unit": "Dollars",
+        "text": "20 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 201908,
+        "title": "20 Dollars (serial on reverse)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "canada",
+          "name": "Canada"
+        },
+        "min_year": 1979,
+        "max_year": 1979,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/canada/5e953db93632f9.72622619-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/canada/5e953db9750e07.23020032-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 201909,
+      "title": "5 Dollars (serial on reverse)",
+      "issuer": {
+        "code": "canada",
+        "name": "Canada"
+      },
+      "min_year": 1979,
+      "max_year": 1979,
+      "face": {
+        "value": 5,
+        "unit": "Dollars",
+        "text": "5 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 201909,
+        "title": "5 Dollars (serial on reverse)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "canada",
+          "name": "Canada"
+        },
+        "min_year": 1979,
+        "max_year": 1979,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/canada/5e953e0dad3f03.77474806-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/canada/5e953e0e121b33.18922928-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 201910,
+      "title": "2 Dollars",
+      "issuer": {
+        "code": "canada",
+        "name": "Canada"
+      },
+      "min_year": 1986,
+      "max_year": 1986,
+      "face": {
+        "value": 2,
+        "unit": "Dollars",
+        "text": "2 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 201910,
+        "title": "2 Dollars",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "canada",
+          "name": "Canada"
+        },
+        "min_year": 1986,
+        "max_year": 1986,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/canada/5e953eb45cf8a8.22766870-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/canada/5e953eb4ac9be5.80698035-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 201911,
+      "title": "5 Dollars",
+      "issuer": {
+        "code": "canada",
+        "name": "Canada"
+      },
+      "min_year": 1986,
+      "max_year": 1986,
+      "face": {
+        "value": 5,
+        "unit": "Dollars",
+        "text": "5 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 201911,
+        "title": "5 Dollars",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "canada",
+          "name": "Canada"
+        },
+        "min_year": 1986,
+        "max_year": 1986,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/canada/674b7ffbe1ea96.47846786-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/canada/674b7ffd4697e6.02665950-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 201912,
+      "title": "100 Dollars",
+      "issuer": {
+        "code": "canada",
+        "name": "Canada"
+      },
+      "min_year": 1988,
+      "max_year": 1988,
+      "face": {
+        "value": 100,
+        "unit": "Dollars",
+        "text": "100 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 201912,
+        "title": "100 Dollars",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "canada",
+          "name": "Canada"
+        },
+        "min_year": 1988,
+        "max_year": 1988,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/canada/5e953f8436cf55.06246914-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/canada/5e953f84958e51.91286218-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 201913,
+      "title": "50 Dollars",
+      "issuer": {
+        "code": "canada",
+        "name": "Canada"
+      },
+      "min_year": 1988,
+      "max_year": 1988,
+      "face": {
+        "value": 50,
+        "unit": "Dollars",
+        "text": "50 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 201913,
+        "title": "50 Dollars",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "canada",
+          "name": "Canada"
+        },
+        "min_year": 1988,
+        "max_year": 1988,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/canada/5e953fdbe2db60.86551102-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/canada/5e953fdc4bcbb9.97686011-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 201914,
+      "title": "1000 Dollars",
+      "issuer": {
+        "code": "canada",
+        "name": "Canada"
+      },
+      "min_year": 1988,
+      "max_year": 1988,
+      "face": {
+        "value": 1000,
+        "unit": "Dollars",
+        "text": "1000 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 201914,
+        "title": "1000 Dollars",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "canada",
+          "name": "Canada"
+        },
+        "min_year": 1988,
+        "max_year": 1988,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/canada/5e99c0bd82b291.98479491-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/canada/5e99c0be0001a8.23521351-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 201915,
+      "title": "10 Dollars",
+      "issuer": {
+        "code": "canada",
+        "name": "Canada"
+      },
+      "min_year": 1989,
+      "max_year": 1989,
+      "face": {
+        "value": 10,
+        "unit": "Dollars",
+        "text": "10 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 201915,
+        "title": "10 Dollars",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "canada",
+          "name": "Canada"
+        },
+        "min_year": 1989,
+        "max_year": 1989,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/canada/66b589b3d699d9.38348694-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/canada/66b589b4390513.03956589-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 201916,
+      "title": "10 Dollars",
+      "issuer": {
+        "code": "canada",
+        "name": "Canada"
+      },
+      "min_year": 2000,
+      "max_year": 2004,
+      "face": {
+        "value": 10,
+        "unit": "Dollars",
+        "text": "10 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 201916,
+        "title": "10 Dollars",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "canada",
+          "name": "Canada"
+        },
+        "min_year": 2000,
+        "max_year": 2004,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/canada/6820a05f102cf8.37467711-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/canada/6820a060bf0cd5.70121639-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 201917,
+      "title": "5 Dollars",
+      "issuer": {
+        "code": "canada",
+        "name": "Canada"
+      },
+      "min_year": 2001,
+      "max_year": 2005,
+      "face": {
+        "value": 5,
+        "unit": "Dollars",
+        "text": "5 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 201917,
+        "title": "5 Dollars",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "canada",
+          "name": "Canada"
+        },
+        "min_year": 2001,
+        "max_year": 2005,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/canada/5e9542e16873a3.59136468-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/canada/5e9542e1b6ac72.44622179-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 201918,
+      "title": "100 Dollars",
+      "issuer": {
+        "code": "canada",
+        "name": "Canada"
+      },
+      "min_year": 2003,
+      "max_year": 2009,
+      "face": {
+        "value": 100,
+        "unit": "Dollars",
+        "text": "100 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 201918,
+        "title": "100 Dollars",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "canada",
+          "name": "Canada"
+        },
+        "min_year": 2003,
+        "max_year": 2009,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/canada/5e9543fc1ab206.77516161-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/canada/5e9543fc5c0209.15894847-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 201919,
+      "title": "50 Dollars",
+      "issuer": {
+        "code": "canada",
+        "name": "Canada"
+      },
+      "min_year": 2004,
+      "max_year": 2011,
+      "face": {
+        "value": 50,
+        "unit": "Dollars",
+        "text": "50 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 201919,
+        "title": "50 Dollars",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "canada",
+          "name": "Canada"
+        },
+        "min_year": 2004,
+        "max_year": 2011,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/canada/5e95448087d974.72186565-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/canada/5e954480df6d40.41415212-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 201920,
+      "title": "20 Dollars",
+      "issuer": {
+        "code": "canada",
+        "name": "Canada"
+      },
+      "min_year": 2004,
+      "max_year": 2011,
+      "face": {
+        "value": 20,
+        "unit": "Dollars",
+        "text": "20 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 201920,
+        "title": "20 Dollars",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "canada",
+          "name": "Canada"
+        },
+        "min_year": 2004,
+        "max_year": 2011,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/canada/5e95450ad947b1.61709510-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/canada/5e95450b2a82a5.11991681-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 201922,
+      "title": "10 Dollars (upgraded security)",
+      "issuer": {
+        "code": "canada",
+        "name": "Canada"
+      },
+      "min_year": 2004,
+      "max_year": 2009,
+      "face": {
+        "value": 10,
+        "unit": "Dollars",
+        "text": "10 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 201922,
+        "title": "10 Dollars (upgraded security)",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "canada",
+          "name": "Canada"
+        },
+        "min_year": 2004,
+        "max_year": 2009,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/canada/5e9545769b5976.11896004-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/canada/5e954576e96de3.22013380-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 201924,
+      "title": "100 Dollars",
+      "issuer": {
+        "code": "canada",
+        "name": "Canada"
+      },
+      "min_year": 2011,
+      "max_year": 2011,
+      "face": {
+        "value": 100,
+        "unit": "Dollars",
+        "text": "100 Dollars"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 201924,
+        "title": "100 Dollars",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "canada",
+          "name": "Canada"
+        },
+        "min_year": 2011,
+        "max_year": 2011,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/canada/63cd0537351b10.74459377-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/canada/63cd053a663f52.86099148-180.jpg",
+        "category": "banknote"
+      }
+    }
+  ]
+}

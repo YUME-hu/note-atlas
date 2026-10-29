@@ -1,0 +1,1468 @@
+{
+  "meta": {
+    "generated_at": "2026-10-29T13:27:50.228Z",
+    "fixture": false,
+    "api": "numista v3",
+    "issuer": "bhoutan",
+    "iso": "BT",
+    "category": "banknote",
+    "lang": "en",
+    "since": 1960,
+    "listed": 39,
+    "fetched": 39,
+    "details_fetched": 0,
+    "dropped_before_since": 0,
+    "dropped_by_source": {
+      "list": 0,
+      "detail": 0
+    },
+    "issuer_mismatches": 0,
+    "pages": 1,
+    "requests": 0
+  },
+  "types": [
+    {
+      "numista_type_id": 201726,
+      "title": "1 Ngultrum",
+      "issuer": {
+        "code": "bhoutan",
+        "name": "Bhutan"
+      },
+      "min_year": 1986,
+      "max_year": 1990,
+      "face": {
+        "value": 1,
+        "unit": "Ngultrum",
+        "text": "1 Ngultrum"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 201726,
+        "title": "1 Ngultrum",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bhoutan",
+          "name": "Bhutan"
+        },
+        "min_year": 1986,
+        "max_year": 1990,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bhoutan/626bec8ad7fd28.36041320-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bhoutan/626bec8b8ab216.26909518-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202004,
+      "title": "100 Ngultrum",
+      "issuer": {
+        "code": "bhoutan",
+        "name": "Bhutan"
+      },
+      "min_year": 2006,
+      "max_year": 2020,
+      "face": {
+        "value": 100,
+        "unit": "Ngultrum",
+        "text": "100 Ngultrum"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202004,
+        "title": "100 Ngultrum",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bhoutan",
+          "name": "Bhutan"
+        },
+        "min_year": 2006,
+        "max_year": 2020,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bhoutan/5eb49feacfa799.55438514-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bhoutan/5eb49febc8aba2.96674370-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202774,
+      "title": "10 Ngultrum",
+      "issuer": {
+        "code": "bhoutan",
+        "name": "Bhutan"
+      },
+      "min_year": 2006,
+      "max_year": 2019,
+      "face": {
+        "value": 10,
+        "unit": "Ngultrum",
+        "text": "10 Ngultrum"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202774,
+        "title": "10 Ngultrum",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bhoutan",
+          "name": "Bhutan"
+        },
+        "min_year": 2006,
+        "max_year": 2019,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bhoutan/626bebc444cd02.60788553-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bhoutan/626bebc4de06a1.31624120-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202777,
+      "title": "20 Ngultrum",
+      "issuer": {
+        "code": "bhoutan",
+        "name": "Bhutan"
+      },
+      "min_year": 2006,
+      "max_year": 2013,
+      "face": {
+        "value": 20,
+        "unit": "Ngultrum",
+        "text": "20 Ngultrum"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202777,
+        "title": "20 Ngultrum",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bhoutan",
+          "name": "Bhutan"
+        },
+        "min_year": 2006,
+        "max_year": 2013,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bhoutan/626c1f5ad1f8d2.58357745-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bhoutan/626c1f5b7c3d85.51350731-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 202782,
+      "title": "5 Ngultrum",
+      "issuer": {
+        "code": "bhoutan",
+        "name": "Bhutan"
+      },
+      "min_year": 2006,
+      "max_year": 2015,
+      "face": {
+        "value": 5,
+        "unit": "Ngultrum",
+        "text": "5 Ngultrum"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 202782,
+        "title": "5 Ngultrum",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bhoutan",
+          "name": "Bhutan"
+        },
+        "min_year": 2006,
+        "max_year": 2015,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bhoutan/626bec0f667df6.60208723-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bhoutan/626bec10075123.82093440-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204513,
+      "title": "1 Ngultrum",
+      "issuer": {
+        "code": "bhoutan",
+        "name": "Bhutan"
+      },
+      "min_year": 2006,
+      "max_year": 2019,
+      "face": {
+        "value": 1,
+        "unit": "Ngultrum",
+        "text": "1 Ngultrum"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204513,
+        "title": "1 Ngultrum",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bhoutan",
+          "name": "Bhutan"
+        },
+        "min_year": 2006,
+        "max_year": 2019,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bhoutan/63fdf88a27bed7.07596226-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bhoutan/63fdf88d40e406.11700922-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204522,
+      "title": "2 Ngultrum",
+      "issuer": {
+        "code": "bhoutan",
+        "name": "Bhutan"
+      },
+      "min_year": 1986,
+      "max_year": 1990,
+      "face": {
+        "value": 2,
+        "unit": "Ngultrum",
+        "text": "2 Ngultrum"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204522,
+        "title": "2 Ngultrum",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bhoutan",
+          "name": "Bhutan"
+        },
+        "min_year": 1986,
+        "max_year": 1990,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bhoutan/63fdf8ca683d41.76816422-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bhoutan/63fdf8cd7c8f13.23963799-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204540,
+      "title": "20 Ngultrum",
+      "issuer": {
+        "code": "bhoutan",
+        "name": "Bhutan"
+      },
+      "min_year": 1986,
+      "max_year": 2000,
+      "face": {
+        "value": 20,
+        "unit": "Ngultrum",
+        "text": "20 Ngultrum"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204540,
+        "title": "20 Ngultrum",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bhoutan",
+          "name": "Bhutan"
+        },
+        "min_year": 1986,
+        "max_year": 2000,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bhoutan/62977c6b764bc2.27464143-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bhoutan/62977c6c256fd8.89825831-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204544,
+      "title": "1000 Ngultrum (Birthday of Prince of Bhutan)",
+      "issuer": {
+        "code": "bhoutan",
+        "name": "Bhutan"
+      },
+      "min_year": 2016,
+      "max_year": 2016,
+      "face": {
+        "value": 1000,
+        "unit": "Ngultrum",
+        "text": "1000 Ngultrum"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204544,
+        "title": "1000 Ngultrum (Birthday of Prince of Bhutan)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "bhoutan",
+          "name": "Bhutan"
+        },
+        "min_year": 2016,
+        "max_year": 2016,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bhoutan/5e9c0d5b12f9e9.76936214-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bhoutan/5e9c0d5ba631a6.99741945-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 204967,
+      "title": "50 Ngultrum",
+      "issuer": {
+        "code": "bhoutan",
+        "name": "Bhutan"
+      },
+      "min_year": 2008,
+      "max_year": 2021,
+      "face": {
+        "value": 50,
+        "unit": "Ngultrum",
+        "text": "50 Ngultrum"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 204967,
+        "title": "50 Ngultrum",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bhoutan",
+          "name": "Bhutan"
+        },
+        "min_year": 2008,
+        "max_year": 2021,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bhoutan/62978191c4d954.62349357-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bhoutan/629781925dc214.93488896-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 207037,
+      "title": "500 Ngultrum",
+      "issuer": {
+        "code": "bhoutan",
+        "name": "Bhutan"
+      },
+      "min_year": 2006,
+      "max_year": 2020,
+      "face": {
+        "value": 500,
+        "unit": "Ngultrum",
+        "text": "500 Ngultrum"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 207037,
+        "title": "500 Ngultrum",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bhoutan",
+          "name": "Bhutan"
+        },
+        "min_year": 2006,
+        "max_year": 2020,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bhoutan/5ea2aaccd8e986.37282433-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bhoutan/5ea2aacd66e008.36705163-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 207040,
+      "title": "1000 Ngultrum",
+      "issuer": {
+        "code": "bhoutan",
+        "name": "Bhutan"
+      },
+      "min_year": 2008,
+      "max_year": 2021,
+      "face": {
+        "value": 1000,
+        "unit": "Ngultrum",
+        "text": "1000 Ngultrum"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 207040,
+        "title": "1000 Ngultrum",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bhoutan",
+          "name": "Bhutan"
+        },
+        "min_year": 2008,
+        "max_year": 2021,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bhoutan/5ea2ad20d295c0.71825998-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bhoutan/5ea2ad214f23e6.01508416-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 208478,
+      "title": "100 Ngultrum (Royal Wedding)",
+      "issuer": {
+        "code": "bhoutan",
+        "name": "Bhutan"
+      },
+      "min_year": 2011,
+      "max_year": 2011,
+      "face": {
+        "value": 100,
+        "unit": "Ngultrum",
+        "text": "100 Ngultrum"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 208478,
+        "title": "100 Ngultrum (Royal Wedding)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "bhoutan",
+          "name": "Bhutan"
+        },
+        "min_year": 2011,
+        "max_year": 2011,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bhoutan/6ad5c69f0f0697.46171836-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bhoutan/6ad5c6a2538805.21545646-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 208479,
+      "title": "100 Ngultrum (Birth of Jigme Namgyel Wangchuk)",
+      "issuer": {
+        "code": "bhoutan",
+        "name": "Bhutan"
+      },
+      "min_year": 2017,
+      "max_year": 2017,
+      "face": {
+        "value": 100,
+        "unit": "Ngultrum",
+        "text": "100 Ngultrum"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 208479,
+        "title": "100 Ngultrum (Birth of Jigme Namgyel Wangchuk)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "bhoutan",
+          "name": "Bhutan"
+        },
+        "min_year": 2017,
+        "max_year": 2017,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bhoutan/6506f9367e2180.01284719-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bhoutan/6506f937e6d095.35568605-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 208623,
+      "title": "10 Ngultrum",
+      "issuer": {
+        "code": "bhoutan",
+        "name": "Bhutan"
+      },
+      "min_year": 2000,
+      "max_year": 2000,
+      "face": {
+        "value": 10,
+        "unit": "Ngultrum",
+        "text": "10 Ngultrum"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 208623,
+        "title": "10 Ngultrum",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bhoutan",
+          "name": "Bhutan"
+        },
+        "min_year": 2000,
+        "max_year": 2000,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bhoutan/649f5b9b76e674.14002713-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bhoutan/649f5b9c4088b3.56184002-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 210872,
+      "title": "1 Ngultrum",
+      "issuer": {
+        "code": "bhoutan",
+        "name": "Bhutan"
+      },
+      "min_year": 1981,
+      "max_year": 1985,
+      "face": {
+        "value": 1,
+        "unit": "Ngultrum",
+        "text": "1 Ngultrum"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 210872,
+        "title": "1 Ngultrum",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bhoutan",
+          "name": "Bhutan"
+        },
+        "min_year": 1981,
+        "max_year": 1985,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bhoutan/610814261586f2.48721372-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bhoutan/6108142677ee81.55803068-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 210884,
+      "title": "10 Ngultrum - Jigme Singye Wangchuk",
+      "issuer": {
+        "code": "bhoutan",
+        "name": "Bhutan"
+      },
+      "min_year": 1986,
+      "max_year": 2000,
+      "face": {
+        "value": 10,
+        "unit": "Ngultrum",
+        "text": "10 Ngultrum"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 210884,
+        "title": "10 Ngultrum - Jigme Singye Wangchuk",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bhoutan",
+          "name": "Bhutan"
+        },
+        "min_year": 1986,
+        "max_year": 2000,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bhoutan/6703aa7901f072.66500898-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bhoutan/6703aa7b629c10.40077241-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 212433,
+      "title": "500 Ngultrum (National Day)",
+      "issuer": {
+        "code": "bhoutan",
+        "name": "Bhutan"
+      },
+      "min_year": 1994,
+      "max_year": 1994,
+      "face": {
+        "value": 500,
+        "unit": "Ngultrum",
+        "text": "500 Ngultrum"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 212433,
+        "title": "500 Ngultrum (National Day)",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "bhoutan",
+          "name": "Bhutan"
+        },
+        "min_year": 1994,
+        "max_year": 1994,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bhoutan/5eb418f68842e8.66733173-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bhoutan/5eb418f6a9fb75.05183500-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 212434,
+      "title": "500 Ngultrum",
+      "issuer": {
+        "code": "bhoutan",
+        "name": "Bhutan"
+      },
+      "min_year": 2000,
+      "max_year": 2000,
+      "face": {
+        "value": 500,
+        "unit": "Ngultrum",
+        "text": "500 Ngultrum"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 212434,
+        "title": "500 Ngultrum",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bhoutan",
+          "name": "Bhutan"
+        },
+        "min_year": 2000,
+        "max_year": 2000,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bhoutan/5eb4193d9f6717.75292483-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bhoutan/5eb4193dc24127.85881861-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 215801,
+      "title": "50 Ngultrum",
+      "issuer": {
+        "code": "bhoutan",
+        "name": "Bhutan"
+      },
+      "min_year": 1986,
+      "max_year": 1992,
+      "face": {
+        "value": 50,
+        "unit": "Ngultrum",
+        "text": "50 Ngultrum"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 215801,
+        "title": "50 Ngultrum",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bhoutan",
+          "name": "Bhutan"
+        },
+        "min_year": 1986,
+        "max_year": 1992,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bhoutan/66218582c280f0.78725745-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bhoutan/6621858397dcf4.16340780-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 215802,
+      "title": "100 Ngultrum",
+      "issuer": {
+        "code": "bhoutan",
+        "name": "Bhutan"
+      },
+      "min_year": 1986,
+      "max_year": 1992,
+      "face": {
+        "value": 100,
+        "unit": "Ngultrum",
+        "text": "100 Ngultrum"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 215802,
+        "title": "100 Ngultrum",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bhoutan",
+          "name": "Bhutan"
+        },
+        "min_year": 1986,
+        "max_year": 1992,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bhoutan/637a61174a3df5.21687321-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bhoutan/637a6117a92251.77719736-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 217396,
+      "title": "1 Ngultrum",
+      "issuer": {
+        "code": "bhoutan",
+        "name": "Bhutan"
+      },
+      "min_year": 1974,
+      "max_year": 1974,
+      "face": {
+        "value": 1,
+        "unit": "Ngultrum",
+        "text": "1 Ngultrum"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 217396,
+        "title": "1 Ngultrum",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bhoutan",
+          "name": "Bhutan"
+        },
+        "min_year": 1974,
+        "max_year": 1974,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bhoutan/601f0a653a2dc2.01200262-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bhoutan/601f0a65b13045.52569762-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 217397,
+      "title": "5 Ngultrum",
+      "issuer": {
+        "code": "bhoutan",
+        "name": "Bhutan"
+      },
+      "min_year": 1974,
+      "max_year": 1974,
+      "face": {
+        "value": 5,
+        "unit": "Ngultrum",
+        "text": "5 Ngultrum"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 217397,
+        "title": "5 Ngultrum",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bhoutan",
+          "name": "Bhutan"
+        },
+        "min_year": 1974,
+        "max_year": 1974,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bhoutan/5ec9c9ba2ad4e4.18848907-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bhoutan/5ec9c9baa64258.83435540-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 217398,
+      "title": "10 Ngultrum",
+      "issuer": {
+        "code": "bhoutan",
+        "name": "Bhutan"
+      },
+      "min_year": 1974,
+      "max_year": 1974,
+      "face": {
+        "value": 10,
+        "unit": "Ngultrum",
+        "text": "10 Ngultrum"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 217398,
+        "title": "10 Ngultrum",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bhoutan",
+          "name": "Bhutan"
+        },
+        "min_year": 1974,
+        "max_year": 1974,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bhoutan/5ec9ca731a9aa1.30640843-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bhoutan/5ec9ca736ee0c0.11525815-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 217399,
+      "title": "2 Ngultrum",
+      "issuer": {
+        "code": "bhoutan",
+        "name": "Bhutan"
+      },
+      "min_year": 1981,
+      "max_year": 1981,
+      "face": {
+        "value": 2,
+        "unit": "Ngultrum",
+        "text": "2 Ngultrum"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 217399,
+        "title": "2 Ngultrum",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bhoutan",
+          "name": "Bhutan"
+        },
+        "min_year": 1981,
+        "max_year": 1981,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bhoutan/65d4810727f270.89924895-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bhoutan/65d481093e4e91.99192447-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 217400,
+      "title": "5 Ngultrum",
+      "issuer": {
+        "code": "bhoutan",
+        "name": "Bhutan"
+      },
+      "min_year": 1981,
+      "max_year": 1981,
+      "face": {
+        "value": 5,
+        "unit": "Ngultrum",
+        "text": "5 Ngultrum"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 217400,
+        "title": "5 Ngultrum",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bhoutan",
+          "name": "Bhutan"
+        },
+        "min_year": 1981,
+        "max_year": 1981,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bhoutan/637a5fca158ab8.24165108-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bhoutan/637a5fca627398.00653271-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 217401,
+      "title": "10 Ngultrum",
+      "issuer": {
+        "code": "bhoutan",
+        "name": "Bhutan"
+      },
+      "min_year": 1981,
+      "max_year": 1981,
+      "face": {
+        "value": 10,
+        "unit": "Ngultrum",
+        "text": "10 Ngultrum"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 217401,
+        "title": "10 Ngultrum",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bhoutan",
+          "name": "Bhutan"
+        },
+        "min_year": 1981,
+        "max_year": 1981,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bhoutan/649044a210c122.91271318-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bhoutan/647307b4e8f637.03870146-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 217402,
+      "title": "20 Ngultrum",
+      "issuer": {
+        "code": "bhoutan",
+        "name": "Bhutan"
+      },
+      "min_year": 1981,
+      "max_year": 1981,
+      "face": {
+        "value": 20,
+        "unit": "Ngultrum",
+        "text": "20 Ngultrum"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 217402,
+        "title": "20 Ngultrum",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bhoutan",
+          "name": "Bhutan"
+        },
+        "min_year": 1981,
+        "max_year": 1981,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bhoutan/64731972d12ec2.39351621-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bhoutan/647319733bdbd6.38783785-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 217403,
+      "title": "50 Ngultrum",
+      "issuer": {
+        "code": "bhoutan",
+        "name": "Bhutan"
+      },
+      "min_year": 1981,
+      "max_year": 1981,
+      "face": {
+        "value": 50,
+        "unit": "Ngultrum",
+        "text": "50 Ngultrum"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 217403,
+        "title": "50 Ngultrum",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bhoutan",
+          "name": "Bhutan"
+        },
+        "min_year": 1981,
+        "max_year": 1981,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bhoutan/5ec9cd9b11d9b7.87077385-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bhoutan/5ec9cd9b361d82.99013097-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 217405,
+      "title": "100 Ngultrum",
+      "issuer": {
+        "code": "bhoutan",
+        "name": "Bhutan"
+      },
+      "min_year": 1981,
+      "max_year": 1981,
+      "face": {
+        "value": 100,
+        "unit": "Ngultrum",
+        "text": "100 Ngultrum"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 217405,
+        "title": "100 Ngultrum",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bhoutan",
+          "name": "Bhutan"
+        },
+        "min_year": 1981,
+        "max_year": 1981,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bhoutan/5ec9ce674e0204.75135385-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bhoutan/5ec9ce67728137.27192382-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 217406,
+      "title": "50 Ngultrum",
+      "issuer": {
+        "code": "bhoutan",
+        "name": "Bhutan"
+      },
+      "min_year": 1994,
+      "max_year": 1994,
+      "face": {
+        "value": 50,
+        "unit": "Ngultrum",
+        "text": "50 Ngultrum"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 217406,
+        "title": "50 Ngultrum",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bhoutan",
+          "name": "Bhutan"
+        },
+        "min_year": 1994,
+        "max_year": 1994,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bhoutan/5ec9cf93326996.18420689-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bhoutan/5ec9cf935f9500.82488385-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 217407,
+      "title": "100 Ngultrum",
+      "issuer": {
+        "code": "bhoutan",
+        "name": "Bhutan"
+      },
+      "min_year": 1994,
+      "max_year": 1994,
+      "face": {
+        "value": 100,
+        "unit": "Ngultrum",
+        "text": "100 Ngultrum"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 217407,
+        "title": "100 Ngultrum",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bhoutan",
+          "name": "Bhutan"
+        },
+        "min_year": 1994,
+        "max_year": 1994,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bhoutan/5ec9d0703202d9.04465789-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bhoutan/5ec9d0706bae23.05207987-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 217607,
+      "title": "50 Ngultrum",
+      "issuer": {
+        "code": "bhoutan",
+        "name": "Bhutan"
+      },
+      "min_year": 2000,
+      "max_year": 2000,
+      "face": {
+        "value": 50,
+        "unit": "Ngultrum",
+        "text": "50 Ngultrum"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 217607,
+        "title": "50 Ngultrum",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bhoutan",
+          "name": "Bhutan"
+        },
+        "min_year": 2000,
+        "max_year": 2000,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bhoutan/5ecaf5cbdf0304.79909162-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bhoutan/5ecaf5cc4ba8f1.02370050-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 217608,
+      "title": "100 Ngultrum",
+      "issuer": {
+        "code": "bhoutan",
+        "name": "Bhutan"
+      },
+      "min_year": 2000,
+      "max_year": 2000,
+      "face": {
+        "value": 100,
+        "unit": "Ngultrum",
+        "text": "100 Ngultrum"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 217608,
+        "title": "100 Ngultrum",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bhoutan",
+          "name": "Bhutan"
+        },
+        "min_year": 2000,
+        "max_year": 2000,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bhoutan/5ecaf66fbf0ff6.26098819-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bhoutan/5ecaf6b0456a48.88480594-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 218495,
+      "title": "100 Ngultrum",
+      "issuer": {
+        "code": "bhoutan",
+        "name": "Bhutan"
+      },
+      "min_year": 1974,
+      "max_year": 1974,
+      "face": {
+        "value": 100,
+        "unit": "Ngultrum",
+        "text": "100 Ngultrum"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 218495,
+        "title": "100 Ngultrum",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bhoutan",
+          "name": "Bhutan"
+        },
+        "min_year": 1974,
+        "max_year": 1974,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bhoutan/5ed02bf892a5f2.61655915-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bhoutan/5ed02bf8cd8dd9.26202552-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 218583,
+      "title": "5 Ngultrum",
+      "issuer": {
+        "code": "bhoutan",
+        "name": "Bhutan"
+      },
+      "min_year": 1985,
+      "max_year": 1992,
+      "face": {
+        "value": 5,
+        "unit": "Ngultrum",
+        "text": "5 Ngultrum"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 218583,
+        "title": "5 Ngultrum",
+        "object_type": {
+          "id": 79,
+          "name": "Standard circulation banknotes"
+        },
+        "issuer": {
+          "code": "bhoutan",
+          "name": "Bhutan"
+        },
+        "min_year": 1985,
+        "max_year": 1992,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bhoutan/626b7d048907b4.75457842-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bhoutan/626b7d05486d46.49686228-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 554316,
+      "title": "100 Ngultrum",
+      "issuer": {
+        "code": "bhoutan",
+        "name": "Bhutan"
+      },
+      "min_year": 2025,
+      "max_year": 2025,
+      "face": {
+        "value": 100,
+        "unit": "Ngultrum",
+        "text": "100 Ngultrum"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 554316,
+        "title": "100 Ngultrum",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "bhoutan",
+          "name": "Bhutan"
+        },
+        "min_year": 2025,
+        "max_year": 2025,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bhoutan/6abb7de61e07a7.73921244-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bhoutan/6abb7de8aee501.98401567-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 554319,
+      "title": "500 Ngultrum",
+      "issuer": {
+        "code": "bhoutan",
+        "name": "Bhutan"
+      },
+      "min_year": 2025,
+      "max_year": 2025,
+      "face": {
+        "value": 500,
+        "unit": "Ngultrum",
+        "text": "500 Ngultrum"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 554319,
+        "title": "500 Ngultrum",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "bhoutan",
+          "name": "Bhutan"
+        },
+        "min_year": 2025,
+        "max_year": 2025,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bhoutan/6abb7f03037e14.36123409-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bhoutan/6abb7f053b6b50.89256258-180.jpg",
+        "category": "banknote"
+      }
+    },
+    {
+      "numista_type_id": 554321,
+      "title": "1000 Ngultrum",
+      "issuer": {
+        "code": "bhoutan",
+        "name": "Bhutan"
+      },
+      "min_year": 2025,
+      "max_year": 2025,
+      "face": {
+        "value": 1000,
+        "unit": "Ngultrum",
+        "text": "1000 Ngultrum"
+      },
+      "images": {
+        "obverse": null,
+        "reverse": null
+      },
+      "url": null,
+      "raw": {
+        "id": 554321,
+        "title": "1000 Ngultrum",
+        "object_type": {
+          "id": 80,
+          "name": "Circulating commemorative banknotes"
+        },
+        "issuer": {
+          "code": "bhoutan",
+          "name": "Bhutan"
+        },
+        "min_year": 2025,
+        "max_year": 2025,
+        "obverse_thumbnail": "https://en.numista.com/catalogue/photos/bhoutan/6abb80ffb42453.51753312-180.jpg",
+        "reverse_thumbnail": "https://en.numista.com/catalogue/photos/bhoutan/6abb8102422c36.37789336-180.jpg",
+        "category": "banknote"
+      }
+    }
+  ]
+}
