@@ -1,12 +1,20 @@
 import Dexie, { type EntityTable } from 'dexie'
-import type { NoteStatus, Progress } from '@/types'
+import type { CustomNote, NoteStatus, Progress, SyncedNote } from '@/types'
 
 const db = new Dexie('note-atlas') as Dexie & {
   progress: EntityTable<Progress, 'note_id'>
+  custom_notes: EntityTable<CustomNote, 'id'>
+  synced_notes: EntityTable<SyncedNote, 'id'>
 }
 
 db.version(1).stores({
   progress: 'note_id, status, updated_at',
+})
+
+db.version(2).stores({
+  progress: 'note_id, status, updated_at',
+  custom_notes: 'id, region_id, series_id, created_at',
+  synced_notes: 'id, region_id, synced_at',
 })
 
 export { db }

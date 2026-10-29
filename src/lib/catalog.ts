@@ -1,4 +1,12 @@
-import type { Note, Region, Series, Stat, Status } from '@/types'
+import type {
+  CustomNote,
+  Note,
+  Region,
+  Series,
+  Stat,
+  Status,
+  SyncedNote,
+} from '@/types'
 
 /**
  * Catalog aggregation. This module knows nothing about the map library:
@@ -142,4 +150,71 @@ export function sumStats(stats: Iterable<Stat>): Stat {
     want += stat.want
   }
   return { total, owned, want, ratio: total === 0 ? null : owned / total }
+}
+
+/**
+ * Merge locally-created notes and in-app API syncs into the bundled catalog.
+ *
+ * - A synced region's bundled notes are replaced by the freshly pulled rows, so
+ *   "sync" really does update the catalog instead of duplicating it.
+ * - Custom rows are appended and flagged `custom` so the panel can offer delete.
+ */
+export function withLocalRows(
+  base: Catalog,
+  custom: CustomNote[],
+  synced: SyncedNote[],
+): Catalog {
+  if (custom.length === 0 && synced.length === 0) return base
+
+  const regionOfSeries = new Map(base.series.map((s) => [s.id, s.region_id]))
+  const syncedRegions = new Set(synced.map((row) => row.region_id))
+
+  const notes = base.notes.filter(
+    (note) => !syncedRegions.has(regionOfSeries.get(note.series_id) ?? ''),
+  )
+  const series = base.series.filter((s) => !syncedRegions.has(s.region_id))
+  const extraSeries = new Map<string, Series>()
+
+  const ensureSeries = (seriesId: string, regionId: string) => {
+    if (series.some((s) => s.id === seriesId) || extraSeries.has(seriesId)) return
+    const known = base.series.find((s) => s.id === seriesId)
+    extraSeries.set(
+      seriesId,
+      known ?? {
+        id: seriesId,
+        region_id: regionId,
+        name: '标准流通钞',
+        year_start: 1960,
+        year_end: null,
+        status: 'current',
+      },
+    )
+  }
+
+  for (const row of synced) {
+    ensureSeries(row.series_id, row.region_id)
+    notes.push({
+      id: row.id,
+      numista_type_id: row.numista_type_id,
+      series_id: row.series_id,
+      denom: row.denom,
+      unit: row.unit,
+      label: row.label,
+    })
+  }
+
+  for (const row of custom) {
+    ensureSeries(row.series_id, row.region_id)
+    notes.push({
+      id: row.id,
+      numista_type_id: 0,
+      series_id: row.series_id,
+      denom: row.denom,
+      unit: row.unit,
+      label: row.label,
+      custom: true,
+    })
+  }
+
+  return createCatalog(base.regions, [...series, ...extraSeries.values()], notes)
 }

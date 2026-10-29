@@ -4,13 +4,14 @@ import tailwindcss from '@tailwindcss/vite'
 import { VitePWA } from 'vite-plugin-pwa'
 
 export default defineConfig({
+  define: { __BUNDLE_DATA__: 'false' },
   plugins: [
     react(),
     tailwindcss(),
     VitePWA({
       registerType: 'autoUpdate',
-      // Registered explicitly in src/main.tsx via virtual:pwa-register.
-      injectRegister: null,
+      // The plugin injects the registration script; the app build skips PWA.
+      injectRegister: 'script-defer',
       includeAssets: ['favicon.svg', 'apple-touch-icon.png'],
       manifest: {
         name: 'note-atlas · 纸币收藏进度',

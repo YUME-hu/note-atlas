@@ -39,6 +39,33 @@ export interface Note {
   variant?: string
   img_obverse?: string
   img_reverse?: string
+  /** True for rows created in the app (custom_notes) rather than the catalog. */
+  custom?: boolean
+}
+
+/** User-created note. Stored locally, merged into the catalog at runtime. */
+export interface CustomNote {
+  id: string
+  /** Region id (lower-case ISO), e.g. "gb". */
+  region_id: string
+  series_id: string
+  denom: number
+  unit: string
+  label: string
+  name: string
+  created_at: number
+}
+
+/** A note pulled from Numista inside the app (replaces bundled data for its region). */
+export interface SyncedNote {
+  id: string
+  region_id: string
+  series_id: string
+  numista_type_id: number
+  denom: number
+  unit: string
+  label: string
+  synced_at: number
 }
 
 /** Progress layer — one Dexie table. A note without a row has no status. */

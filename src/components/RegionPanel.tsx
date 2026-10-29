@@ -1,5 +1,6 @@
 import { useEffect, useRef, useState } from 'react'
 import { ChevronDown, X } from 'lucide-react'
+import { db } from '@/db/db'
 import { computeStat, regionNotes, regionSeries } from '@/lib/catalog'
 import { formatPercent } from '@/lib/color'
 import { cn } from '@/lib/utils'
@@ -42,7 +43,7 @@ function RegionMark({ region }: { region: Region }) {
 
   return (
     <img
-      src={`/flags/engraved/${region.iso.toLowerCase()}.svg`}
+      src={`flags/engraved/${region.iso.toLowerCase()}.svg`}
       alt=""
       width={48}
       height={32}
@@ -94,24 +95,177 @@ function NoteRow({
   note,
   status,
   subtitle,
+  onDelete,
 }: {
   note: Note
   status: NoteStatus
   subtitle?: string
+  onDelete?: () => void
 }) {
   return (
     <li className="flex items-center gap-2 border-t border-hairline py-2 pl-6">
       <NoteThumb note={note} />
       <div className="min-w-0 flex-1">
-        <p className="truncate text-[13px]">{note.label}</p>
+        <p className="truncate text-[13px]">
+          {note.label}
+          {note.custom && (
+            <span className="ml-2 text-[10px] tracking-[0.08em] text-muted">自建</span>
+          )}
+        </p>
         {subtitle && (
           <p title={subtitle} className="mt-1 truncate text-[11px] text-muted">
             {subtitle}
           </p>
         )}
       </div>
+      {onDelete && (
+        <button
+          type="button"
+          onClick={onDelete}
+          aria-label="删除自定义券"
+          className="flex size-7 shrink-0 items-center justify-center text-muted transition-colors duration-150 hover:bg-elevated hover:text-ink"
+        >
+          <X size={12} strokeWidth={1.75} aria-hidden />
+        </button>
+      )}
       <StatusToggle noteId={note.id} status={status} />
     </li>
+  )
+}
+
+/**
+ * Inline "add a note" form. Everything is local: the row lands in custom_notes
+ * and App merges it into the catalog on the next liveQuery tick.
+ */
+function AddCustomNote({
+  region,
+  seriesList,
+  defaultUnit,
+}: {
+  region: Region
+  seriesList: Series[]
+  defaultUnit: string
+}) {
+  const [open, setOpen] = useState(false)
+  const [denom, setDenom] = useState('')
+  const [name, setName] = useState('')
+  const [seriesId, setSeriesId] = useState(
+    seriesList.find((series) => series.id.endsWith('-std'))?.id ?? seriesList[0]?.id ?? '',
+  )
+  const [error, setError] = useState('')
+  const [saving, setSaving] = useState(false)
+
+  async function save() {
+    const value = Number(denom)
+    if (!Number.isFinite(value) || value <= 0) {
+      setError('面额要大于 0')
+      return
+    }
+    if (!name.trim()) {
+      setError('名称不能为空')
+      return
+    }
+    if (!seriesId) {
+      setError('还没有可用的版别')
+      return
+    }
+    setSaving(true)
+    setError('')
+    try {
+      await db.custom_notes.put({
+        id: `custom-${crypto.randomUUID()}`,
+        region_id: region.id,
+        series_id: seriesId,
+        denom: value,
+        unit: defaultUnit,
+        label: `${value}${defaultUnit} · ${name.trim()}`,
+        name: name.trim(),
+        created_at: Date.now(),
+      })
+      setDenom('')
+      setName('')
+      setOpen(false)
+    } catch (cause) {
+      setError(cause instanceof Error ? cause.message : '保存失败')
+    } finally {
+      setSaving(false)
+    }
+  }
+
+  return (
+    <section>
+      {!open ? (
+        <button
+          type="button"
+          onClick={() => setOpen(true)}
+          className="flex h-9 w-full items-center justify-center border border-line text-[12px] text-muted transition-colors duration-150 hover:bg-elevated hover:text-ink"
+        >
+          + 添加自定义纸币
+        </button>
+      ) : (
+        <div className="space-y-3">
+          <p className="label">新增自定义纸币</p>
+          <label className="block">
+            <span className="text-[11px] text-muted">面额</span>
+            <input
+              type="number"
+              inputMode="decimal"
+              min="0"
+              step="0.01"
+              value={denom}
+              onChange={(event) => setDenom(event.target.value)}
+              placeholder="1"
+              className="mt-1 h-9 w-full border border-line bg-base px-2 text-[13px] outline-none focus:border-ink"
+            />
+          </label>
+          <label className="block">
+            <span className="text-[11px] text-muted">名称</span>
+            <input
+              type="text"
+              value={name}
+              onChange={(event) => setName(event.target.value)}
+              placeholder="例如：我的 1 英镑"
+              className="mt-1 h-9 w-full border border-line bg-base px-2 text-[13px] outline-none focus:border-ink"
+            />
+          </label>
+          <label className="block">
+            <span className="text-[11px] text-muted">版别</span>
+            <select
+              value={seriesId}
+              onChange={(event) => setSeriesId(event.target.value)}
+              className="mt-1 h-9 w-full border border-line bg-base px-2 text-[13px] outline-none focus:border-ink"
+            >
+              {seriesList.map((series) => (
+                <option key={series.id} value={series.id}>
+                  {series.name}
+                </option>
+              ))}
+            </select>
+          </label>
+          {error && <p className="text-[11px] text-ink">{error}</p>}
+          <div className="flex gap-2">
+            <button
+              type="button"
+              onClick={() => void save()}
+              disabled={saving}
+              className="h-9 flex-1 border border-line text-[12px] transition-colors duration-150 hover:bg-elevated disabled:opacity-50"
+            >
+              {saving ? '保存中…' : '保存'}
+            </button>
+            <button
+              type="button"
+              onClick={() => {
+                setOpen(false)
+                setError('')
+              }}
+              className="h-9 flex-1 border border-line text-[12px] text-muted transition-colors duration-150 hover:bg-elevated hover:text-ink"
+            >
+              取消
+            </button>
+          </div>
+        </div>
+      )}
+    </section>
   )
 }
 
@@ -133,6 +287,14 @@ export function RegionPanel({
   )
   const seriesName = (id: string) =>
     seriesList.find((series) => series.id === id)?.name ?? ''
+  const defaultUnit = notes[0]?.unit ?? ''
+
+  const deleteCustom = (note: Note) => {
+    void db.transaction('rw', db.custom_notes, db.progress, async () => {
+      await db.custom_notes.delete(note.id)
+      await db.progress.delete(note.id)
+    })
+  }
 
   useEffect(() => {
     const onKeyDown = (event: KeyboardEvent) => {
@@ -236,7 +398,7 @@ export function RegionPanel({
           })}
         </div>
 
-        <div ref={bodyRef} className="flex-1 overflow-y-auto px-6 pb-8">
+        <div ref={bodyRef} className="min-h-0 flex-1 overflow-y-auto px-6 pb-8">
           {tab === 'series' ? (
             seriesList.length === 0 ? (
               <p className="py-8 text-[13px] text-muted">暂无版别数据。</p>
@@ -289,6 +451,7 @@ export function RegionPanel({
                             note={note}
                             status={statusById.get(note.id) ?? null}
                             subtitle={note.variant}
+                            onDelete={note.custom ? () => deleteCustom(note) : undefined}
                           />
                         ))}
                       </ul>
@@ -309,11 +472,20 @@ export function RegionPanel({
                   subtitle={[seriesName(note.series_id), note.variant]
                     .filter(Boolean)
                     .join(' · ')}
+                  onDelete={note.custom ? () => deleteCustom(note) : undefined}
                 />
               ))}
             </ul>
           )}
         </div>
+
+        <footer className="shrink-0 border-t border-line px-6 py-3">
+          <AddCustomNote
+            region={region}
+            seriesList={seriesList}
+            defaultUnit={defaultUnit}
+          />
+        </footer>
       </aside>
     </>
   )

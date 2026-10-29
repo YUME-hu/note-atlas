@@ -87,6 +87,10 @@ export function validateCatalog(data: CatalogData): CatalogData {
 }
 
 export async function loadCatalogData(): Promise<CatalogData> {
+  if (__BUNDLE_DATA__) {
+    const { bundledCatalog } = await import('./bundled')
+    return validateCatalog(bundledCatalog)
+  }
   const [regions, series, notes] = await Promise.all([
     fetchJson<Region[]>('regions.json'),
     fetchJson<Series[]>('series.json'),

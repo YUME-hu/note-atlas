@@ -1,7 +1,7 @@
 {
   "name": "note-atlas",
   "private": true,
-  "version": "0.4.0",
+  "version": "0.5.0",
   "type": "module",
   "engines": {
     "node": ">=22.12"
@@ -9,6 +9,7 @@
   "scripts": {
     "dev": "vite",
     "build": "tsc --noEmit && vite build",
+    "build:app": "tsc --noEmit && vite build --config vite.config.app.ts",
     "preview": "vite preview",
     "data:sync": "node scripts/sync-numista.mjs",
     "data:build": "node scripts/build-catalog.mjs"
@@ -33,6 +34,7 @@
     "tailwindcss": "^4.3.3",
     "typescript": "^7.0.2",
     "vite": "^8.3.5",
-    "vite-plugin-pwa": "^2.0.0"
+    "vite-plugin-pwa": "^2.0.0",
+    "vite-plugin-singlefile": "^2.3.4"
   }
 }

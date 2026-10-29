@@ -2,7 +2,7 @@ import { useCallback, useMemo, useState } from 'react'
 import { useLiveQuery } from 'dexie-react-hooks'
 import { Settings } from 'lucide-react'
 import { db } from '@/db/db'
-import { createCatalog, mapStats, sumStats } from '@/lib/catalog'
+import { createCatalog, mapStats, sumStats, withLocalRows } from '@/lib/catalog'
 import { LEGEND, formatPercent } from '@/lib/color'
 import { CatalogNotice } from '@/components/CatalogNotice'
 import { RegionPanel } from '@/components/RegionPanel'
@@ -10,7 +10,7 @@ import { SettingsPanel } from '@/components/SettingsPanel'
 import { WorldMap } from '@/components/WorldMap'
 import { useCatalog } from '@/hooks/useCatalog'
 import { cn } from '@/lib/utils'
-import type { Progress, Status } from '@/types'
+import type { CustomNote, Progress, Status, SyncedNote } from '@/types'
 
 function Legend() {
   return (
@@ -33,18 +33,25 @@ export default function App() {
   const { state, retry } = useCatalog()
 
   const rows = useLiveQuery(() => db.progress.toArray(), [], [] as Progress[])
+  const customRows = useLiveQuery(() => db.custom_notes.toArray(), [], [] as CustomNote[])
+  const syncedRows = useLiveQuery(() => db.synced_notes.toArray(), [], [] as SyncedNote[])
   const statusById = useMemo(
     () => new Map<string, Status>(rows.map((row) => [row.note_id, row.status])),
     [rows],
   )
 
   // The catalog comes from /data/*.json; while it loads there is nothing to map.
-  const catalog = useMemo(
+  const baseCatalog = useMemo(
     () =>
       state.status === 'ready'
         ? createCatalog(state.data.regions, state.data.series, state.data.notes)
         : null,
     [state],
+  )
+  const catalog = useMemo(
+    () =>
+      baseCatalog ? withLocalRows(baseCatalog, customRows, syncedRows) : null,
+    [baseCatalog, customRows, syncedRows],
   )
   const stats = useMemo(
     () => (catalog ? mapStats(catalog, statusById) : {}),
