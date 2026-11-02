@@ -35,7 +35,7 @@ npm run build:app
 
 - 应用名称：`note-atlas`
 - **AppID**：点右侧「重新获取」，HBuilderX 登录 DCloud 账号后会填入（不要手写）
-- 版本名称：`0.5.0`，版本号：`1`
+- 版本名称：`0.6.0`，版本号：`2`
 - 包名（Android）：`app.noteatlas`（与 `capacitor.config.ts` 一致，避免以后冲突）
 
 ### 图标配置
