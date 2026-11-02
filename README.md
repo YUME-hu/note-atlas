@@ -77,6 +77,19 @@ node scripts/gen-guilloche.mjs   # public/bg/guilloche.svg
 - 国旗按 ISO 自动找 `flags/pack`，没有就回退 ISO 字母块。
 - 导入的国家会出现在索引和面板里，可勾选、进备份；设置里可删除（连带券种和进度）。
 
+## Android APK（GitHub Actions，无需 Android Studio）
+
+仓库已包含 Capacitor 的 `android/` 工程和 `.github/workflows/android.yml`。
+
+1. 推到 GitHub 的 `main` 分支；
+2. Actions → **Android Debug APK** → Run workflow（或直接 push 触发）；
+3. 构建完成后在 Artifacts 下载 `note-atlas-debug-apk.zip`，解压安装 `app-debug.apk`。
+
+- 工作流用 Node 22 + JDK 21 + Android SDK 36 + Gradle 8.14，自动 `npm run build` 和 `npx cap sync android`。
+- 调试签名：CI 缓存 `~/.android/debug.keystore`，连续构建签名一致，可覆盖安装；缓存被 GitHub 清掉后需要卸载重装（先导出 v3 备份）。
+- 应用图标是 Capacitor 默认图标；要换图标改 `android/app/src/main/res/mipmap-*`。
+- MT 管理器改包只适用于 HBuilderX/5+App 的 `assets/apps/<id>/www`；Capacitor 包的网页资源在 `assets/public`，改完还要重签，不建议走这条路——Actions 重新构建已经足够快。
+
 ## 部署（Vercel）
 
 1. 仓库推到 GitHub，Vercel → New Project → Import。
