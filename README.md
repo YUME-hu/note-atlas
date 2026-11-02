@@ -48,9 +48,12 @@ node scripts/batch-sync.mjs --only GB,BR   # 只跑一部分
 静态素材生成（改国旗或背景后重跑）：
 
 ```powershell
-node scripts/gen-flags.mjs       # public/flags/engraved/{cn,jp,us}.svg
+node scripts/gen-flags.mjs       # 手绘简化旗（14 面，48px 下最清楚）
+node scripts/gen-flags-pack.mjs  # flag-icons (MIT) → 237 面重着色，public/flags/pack
 node scripts/gen-guilloche.mjs   # public/bg/guilloche.svg
 ```
+
+国旗来源：`flag-icons`（MIT），按暗色调色板重着色；带徽章/渐变/位图的 34 面自动跳过，前端回退 ISO 字母块。`src/lib/flag-src.ts` 决定每国用哪一套（手绘优先，其余走 pack）。
 
 ## 进度备份
 
