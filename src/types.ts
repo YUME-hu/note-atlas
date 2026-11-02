@@ -12,6 +12,8 @@ export interface Region {
   /** null = independent issuer, otherwise the region it belongs to (HK → CN). */
   parent: string | null
   issuers?: string[]
+  /** True for regions imported by the user (custom_regions), not the JSON catalog. */
+  custom?: boolean
 }
 
 export interface Series {
@@ -66,6 +68,16 @@ export interface SyncedNote {
   unit: string
   label: string
   synced_at: number
+}
+
+/** A country imported by the user, not present in the bundled catalog. */
+export interface CustomRegion {
+  id: string
+  iso: string
+  name: string
+  unit: string
+  issuers: string[]
+  created_at: number
 }
 
 /** Progress layer — one Dexie table. A note without a row has no status. */

@@ -1,5 +1,6 @@
 import type {
   CustomNote,
+  CustomRegion,
   Note,
   Region,
   Series,
@@ -163,11 +164,31 @@ export function withLocalRows(
   base: Catalog,
   custom: CustomNote[],
   synced: SyncedNote[],
+  customRegions: CustomRegion[] = [],
 ): Catalog {
-  if (custom.length === 0 && synced.length === 0) return base
+  if (custom.length === 0 && synced.length === 0 && customRegions.length === 0) {
+    return base
+  }
 
   const regionOfSeries = new Map(base.series.map((s) => [s.id, s.region_id]))
   const syncedRegions = new Set(synced.map((row) => row.region_id))
+
+  const regions = [...base.regions]
+  const knownIsos = new Set(base.regions.map((region) => region.iso.toUpperCase()))
+  for (const row of customRegions) {
+    const iso = row.iso.toUpperCase()
+    if (knownIsos.has(iso)) continue
+    knownIsos.add(iso)
+    regions.push({
+      id: iso.toLowerCase(),
+      iso,
+      name: row.name,
+      flag: '',
+      parent: null,
+      issuers: row.issuers,
+      custom: true,
+    })
+  }
 
   const notes = base.notes.filter(
     (note) => !syncedRegions.has(regionOfSeries.get(note.series_id) ?? ''),
@@ -216,5 +237,5 @@ export function withLocalRows(
     })
   }
 
-  return createCatalog(base.regions, [...series, ...extraSeries.values()], notes)
+  return createCatalog(regions, [...series, ...extraSeries.values()], notes)
 }

@@ -11,7 +11,7 @@ import { SettingsPanel } from '@/components/SettingsPanel'
 import { WorldMap } from '@/components/WorldMap'
 import { useCatalog } from '@/hooks/useCatalog'
 import { cn } from '@/lib/utils'
-import type { CustomNote, Progress, Status, SyncedNote } from '@/types'
+import type { CustomNote, CustomRegion, Progress, Status, SyncedNote } from '@/types'
 
 function Legend() {
   return (
@@ -36,6 +36,7 @@ export default function App() {
   const rows = useLiveQuery(() => db.progress.toArray(), [], [] as Progress[])
   const customRows = useLiveQuery(() => db.custom_notes.toArray(), [], [] as CustomNote[])
   const syncedRows = useLiveQuery(() => db.synced_notes.toArray(), [], [] as SyncedNote[])
+  const customRegions = useLiveQuery(() => db.custom_regions.toArray(), [], [] as CustomRegion[])
   const statusById = useMemo(
     () => new Map<string, Status>(rows.map((row) => [row.note_id, row.status])),
     [rows],
@@ -51,8 +52,10 @@ export default function App() {
   )
   const catalog = useMemo(
     () =>
-      baseCatalog ? withLocalRows(baseCatalog, customRows, syncedRows) : null,
-    [baseCatalog, customRows, syncedRows],
+      baseCatalog
+        ? withLocalRows(baseCatalog, customRows, syncedRows, customRegions)
+        : null,
+    [baseCatalog, customRows, syncedRows, customRegions],
   )
   const stats = useMemo(
     () => (catalog ? mapStats(catalog, statusById) : {}),
@@ -191,6 +194,7 @@ export default function App() {
         onClose={() => setSettingsOpen(false)}
         noteCount={catalog?.notes.length ?? 0}
         regionCount={catalog?.regions.length ?? 0}
+        knownIsos={(catalog?.regions ?? []).map((region) => region.iso.toUpperCase())}
       />
     </div>
   )

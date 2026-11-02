@@ -57,7 +57,25 @@ node scripts/gen-guilloche.mjs   # public/bg/guilloche.svg
 
 ## 进度备份
 
-顶栏齿轮 →「导出 JSON / 导入 JSON」。备份格式 v2，包含 `progress`（勾选）、`custom_notes`（自定义加钞）和 `synced_notes`（App 内 Numista 同步的数据）；导入按 id 合并恢复三张表，兼容旧的 v1（只含 progress）。iOS 清理 Safari 数据会清空 IndexedDB，清理前先导出。
+顶栏齿轮 →「导出 JSON / 导入 JSON」。备份格式 v3，包含 `progress`（勾选）、`custom_notes`（自定义加钞）、`synced_notes`（App 内 Numista 同步）和 `custom_regions`（自建国家）；导入按 id 合并恢复四张表，兼容 v1（只含 progress）和 v2。iOS 清理 Safari 数据会清空 IndexedDB，清理前先导出。
+
+## 自建国家（42 国之外）
+
+设置 →「自建国家」→ 导入 JSON：
+
+```json
+{
+  "region": { "iso": "RS", "name": "塞尔维亚", "unit": "第纳尔", "issuers": ["塞尔维亚国家银行"] },
+  "notes": [
+    { "denom": 10, "name": "10第纳尔 · 2006" },
+    { "denom": 20, "name": "20第纳尔 · 2006" }
+  ]
+}
+```
+
+- `region.iso` 必须在 atlas 里才能点亮地图；否则只出现在国家索引。
+- 国旗按 ISO 自动找 `flags/pack`，没有就回退 ISO 字母块。
+- 导入的国家会出现在索引和面板里，可勾选、进备份；设置里可删除（连带券种和进度）。
 
 ## 部署（Vercel）
 

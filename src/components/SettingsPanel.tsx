@@ -1,15 +1,20 @@
 import { useEffect, useRef, useState } from 'react'
 import type { ChangeEvent } from 'react'
+import { useLiveQuery } from 'dexie-react-hooks'
 import { Download, RefreshCw, Upload, X } from 'lucide-react'
+import { db } from '@/db/db'
 import { exportProgress, importProgress } from '@/lib/backup'
+import { deleteCustomRegion, importCountry } from '@/lib/region-import'
 import { syncCountry } from '@/lib/sync'
 import { cn } from '@/lib/utils'
+import type { CustomRegion } from '@/types'
 
 interface SettingsPanelProps {
   open: boolean
   onClose: () => void
   noteCount: number
   regionCount: number
+  knownIsos: string[]
 }
 
 type Status = { tone: 'idle' | 'ok' | 'error'; text: string }
@@ -23,6 +28,7 @@ export function SettingsPanel({
   onClose,
   noteCount,
   regionCount,
+  knownIsos,
 }: SettingsPanelProps) {
   const [status, setStatus] = useState<Status>({ tone: 'idle', text: '' })
   const [busy, setBusy] = useState<'export' | 'import' | null>(null)
@@ -32,8 +38,16 @@ export function SettingsPanel({
   const [iso, setIso] = useState('US')
   const [syncText, setSyncText] = useState('')
   const [syncing, setSyncing] = useState(false)
+  const [countryText, setCountryText] = useState('')
+  const [importingCountry, setImportingCountry] = useState(false)
   const fileRef = useRef<HTMLInputElement>(null)
+  const countryFileRef = useRef<HTMLInputElement>(null)
   const panelRef = useRef<HTMLDivElement>(null)
+  const customRegions = useLiveQuery(
+    () => db.custom_regions.toArray(),
+    [],
+    [] as CustomRegion[],
+  )
 
   useEffect(() => {
     if (!open) {
@@ -54,12 +68,12 @@ export function SettingsPanel({
     setBusy('export')
     try {
       const counts = await exportProgress()
-      const total = counts.progress + counts.custom + counts.synced
+      const total = counts.progress + counts.custom + counts.synced + counts.regions
       setStatus({
         tone: 'ok',
         text:
           total > 0
-            ? `✓ 已导出 ${counts.progress} 条进度 · ${counts.custom} 条自定义 · ${counts.synced} 条同步`
+            ? `✓ 已导出 ${counts.progress} 条进度 · ${counts.custom} 条自定义 · ${counts.synced} 条同步 · ${counts.regions} 个自建国家`
             : '✓ 还没有数据，已导出空备份',
       })
     } catch (error) {
@@ -79,12 +93,12 @@ export function SettingsPanel({
     setBusy('import')
     try {
       const counts = await importProgress(file)
-      const total = counts.progress + counts.custom + counts.synced
+      const total = counts.progress + counts.custom + counts.synced + counts.regions
       setStatus({
         tone: 'ok',
         text:
           total > 0
-            ? `✓ 已恢复 ${counts.progress} 条进度 · ${counts.custom} 条自定义 · ${counts.synced} 条同步`
+            ? `✓ 已恢复 ${counts.progress} 条进度 · ${counts.custom} 条自定义 · ${counts.synced} 条同步 · ${counts.regions} 个自建国家`
             : '✓ 文件里没有可导入的数据',
       })
     } catch (error) {
@@ -127,6 +141,34 @@ export function SettingsPanel({
     }
   }
 
+  async function handleCountryImport(event: ChangeEvent<HTMLInputElement>) {
+    const file = event.target.files?.[0]
+    event.target.value = ''
+    if (!file) return
+    setImportingCountry(true)
+    setCountryText('导入中…')
+    try {
+      const result = await importCountry(file, knownIsos)
+      setCountryText(`✓ 已导入 ${result.region.name}（${result.region.iso}）· ${result.notes} 条`)
+    } catch (error) {
+      setCountryText(`✕ ${error instanceof Error ? error.message : '导入失败'}`)
+    } finally {
+      setImportingCountry(false)
+    }
+  }
+
+  async function handleCountryDelete(region: CustomRegion) {
+    if (!window.confirm(`删除自建国家 ${region.name}？该国的券种和勾选进度会一起删除。`)) {
+      return
+    }
+    try {
+      await deleteCustomRegion(region)
+      setCountryText(`✓ 已删除 ${region.name}`)
+    } catch (error) {
+      setCountryText(`✕ 删除失败：${error instanceof Error ? error.message : '未知错误'}`)
+    }
+  }
+
   return (
     <>
       <button
@@ -158,8 +200,8 @@ export function SettingsPanel({
         <section className="px-4 py-4">
           <p className="label">数据备份</p>
           <p className="mt-2 text-[11px] leading-relaxed text-muted">
-            备份包含收藏进度、自定义券和前端同步的数据。换设备或清理浏览器数据前先导出；
-            导入按 id 合并恢复这三张表，未出现在文件里的记录保持不变。
+            备份包含收藏进度、自定义券、前端同步数据和自建国家。换设备或清理浏览器数据前先导出；
+            导入按 id 合并恢复这四张表，未出现在文件里的记录保持不变。
           </p>
 
           <div className="mt-4 flex gap-2">
@@ -260,6 +302,63 @@ export function SettingsPanel({
         </section>
 
         <section className="border-t border-line px-4 py-4">
+          <p className="label">自建国家</p>
+          <p className="mt-2 text-[11px] leading-relaxed text-muted">
+            导入 42 国之外的国家。JSON 需包含 <code>region</code>（iso / name / unit，
+            issuers 可选）和 <code>notes</code>（denom / name，label 可选）。
+          </p>
+
+          <button
+            type="button"
+            onClick={() => countryFileRef.current?.click()}
+            disabled={importingCountry}
+            className="mt-3 flex h-9 w-full items-center justify-center gap-2 border border-line text-[12px] transition-colors duration-150 hover:bg-elevated disabled:cursor-not-allowed disabled:opacity-50"
+          >
+            <Upload size={13} strokeWidth={1.75} aria-hidden />
+            {importingCountry ? '导入中…' : '导入国家 JSON'}
+          </button>
+          <input
+            ref={countryFileRef}
+            type="file"
+            accept="application/json,.json"
+            className="sr-only"
+            onChange={(event) => void handleCountryImport(event)}
+          />
+
+          {customRegions.length > 0 && (
+            <ul className="mt-3 border-t border-hairline">
+              {customRegions.map((region) => (
+                <li
+                  key={region.id}
+                  className="flex items-center justify-between gap-3 border-b border-hairline py-2"
+                >
+                  <span className="min-w-0 truncate text-[12px]">
+                    {region.name}
+                    <span className="ml-2 text-[10px] tracking-[0.08em] text-muted">
+                      {region.iso}
+                    </span>
+                  </span>
+                  <button
+                    type="button"
+                    onClick={() => void handleCountryDelete(region)}
+                    aria-label={`删除 ${region.name}`}
+                    className="shrink-0 text-[11px] text-muted transition-colors duration-150 hover:text-ink"
+                  >
+                    删除
+                  </button>
+                </li>
+              ))}
+            </ul>
+          )}
+
+          {countryText && (
+            <p role="status" className="mt-3 text-[11px] leading-relaxed text-muted">
+              {countryText}
+            </p>
+          )}
+        </section>
+
+        <section className="border-t border-line px-4 py-4">
           <p className="label">关于</p>
           <dl className="mt-2 space-y-1 text-[11px] text-muted">
             <div className="flex justify-between gap-4">
@@ -270,7 +369,7 @@ export function SettingsPanel({
             </div>
             <div className="flex justify-between gap-4">
               <dt>版本</dt>
-              <dd className="tnum">0.5.0</dd>
+              <dd className="tnum">0.6.0</dd>
             </div>
           </dl>
           <p className="mt-3 text-[11px] leading-relaxed text-muted">
