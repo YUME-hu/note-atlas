@@ -5,6 +5,7 @@ import { db } from '@/db/db'
 import { createCatalog, mapStats, sumStats, withLocalRows } from '@/lib/catalog'
 import { LEGEND, formatPercent } from '@/lib/color'
 import { CatalogNotice } from '@/components/CatalogNotice'
+import { CountryIndex } from '@/components/CountryIndex'
 import { RegionPanel } from '@/components/RegionPanel'
 import { SettingsPanel } from '@/components/SettingsPanel'
 import { WorldMap } from '@/components/WorldMap'
@@ -79,7 +80,7 @@ export default function App() {
     <div className="flex min-h-dvh flex-col bg-base text-ink sm:flex-row">
       <div className="flex min-w-0 flex-1 flex-col">
         <header className="border-b border-line">
-          <div className="mx-auto flex w-full max-w-[1180px] items-end justify-between gap-6 px-6 py-6">
+          <div className="mx-auto flex w-full max-w-[1180px] items-end justify-between gap-4 px-4 py-4 sm:gap-6 sm:px-6 sm:py-6">
             <div>
               <h1 className="text-[13px] font-bold uppercase tracking-[0.2em]">
                 note atlas
@@ -126,12 +127,12 @@ export default function App() {
         </header>
 
         <main className="flex-1">
-          <div className="mx-auto w-full max-w-[1180px] px-6 py-8">
+          <div className="mx-auto w-full max-w-[1180px] px-4 py-6 sm:px-6 sm:py-8">
             {catalog ? (
               <>
                 <div className="flex items-baseline justify-between gap-4">
                   <h2 className="label">世界地图</h2>
-                  <p className="text-[11px] text-muted">点击国家查看券种清单</p>
+                  <p className="text-[11px] text-muted">点地图或下方列表</p>
                 </div>
 
                 <div className="relative mt-4">
@@ -151,6 +152,12 @@ export default function App() {
                 </div>
 
                 <Legend />
+
+                <CountryIndex
+                  regions={catalog.regions}
+                  stats={stats}
+                  onSelect={setSelectedIso}
+                />
               </>
             ) : state.status === 'error' ? (
               <CatalogNotice
