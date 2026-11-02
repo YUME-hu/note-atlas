@@ -55,6 +55,8 @@ export interface CustomNote {
   unit: string
   label: string
   name: string
+  /** Optional display name for a user-created series ("武装部队券"). */
+  series_name?: string
   created_at: number
 }
 

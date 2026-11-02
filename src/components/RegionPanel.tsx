@@ -10,7 +10,7 @@ import { StatusToggle } from './StatusToggle'
 import type { Catalog } from '@/lib/catalog'
 import type { Note, NoteStatus, Region, Series, Status } from '@/types'
 
-type Tab = 'series' | 'denom'
+type Tab = 'series' | 'decade' | 'denom'
 
 interface RegionPanelProps {
   region: Region
@@ -150,10 +150,13 @@ function AddCustomNote({
   const [open, setOpen] = useState(false)
   const [denom, setDenom] = useState('')
   const [name, setName] = useState('')
+  const [unit, setUnit] = useState(defaultUnit)
   const [seriesId, setSeriesId] = useState(
     seriesList.find((series) => series.id.endsWith('-std'))?.id ?? seriesList[0]?.id ?? '',
   )
+  const [newSeries, setNewSeries] = useState('')
   const [error, setError] = useState('')
+  const [saved, setSaved] = useState('')
   const [saving, setSaving] = useState(false)
 
   async function save() {
@@ -166,23 +169,35 @@ function AddCustomNote({
       setError('名称不能为空')
       return
     }
-    if (!seriesId) {
-      setError('还没有可用的版别')
+    const creatingSeries = seriesId === '__new__'
+    if (creatingSeries && !newSeries.trim()) {
+      setError('新建版别要填名称')
       return
     }
+    const finalSeriesId = creatingSeries
+      ? `custom-series-${region.id}-${Date.now().toString(36)}`
+      : seriesId
+    const finalSeriesName = creatingSeries
+      ? newSeries.trim()
+      : seriesList.find((series) => series.id === seriesId)?.name
+    const finalUnit = unit.trim() || defaultUnit
+    const label = `${value}${finalUnit}${name.trim() ? ` · ${name.trim()}` : ''}`
+
     setSaving(true)
     setError('')
     try {
       await db.custom_notes.put({
         id: `custom-${crypto.randomUUID()}`,
         region_id: region.id,
-        series_id: seriesId,
+        series_id: finalSeriesId,
         denom: value,
-        unit: defaultUnit,
-        label: `${value}${defaultUnit} · ${name.trim()}`,
+        unit: finalUnit,
+        label,
         name: name.trim(),
+        series_name: finalSeriesName,
         created_at: Date.now(),
       })
+      setSaved(`✓ 已添加：${label}（${finalSeriesName ?? '标准流通钞'}）`)
       setDenom('')
       setName('')
       setOpen(false)
@@ -196,13 +211,23 @@ function AddCustomNote({
   return (
     <section>
       {!open ? (
-        <button
-          type="button"
-          onClick={() => setOpen(true)}
-          className="flex h-9 w-full items-center justify-center border border-line text-[12px] text-muted transition-colors duration-150 hover:bg-elevated hover:text-ink"
-        >
-          + 添加自定义纸币
-        </button>
+        <>
+          {saved && (
+            <p role="status" className="mb-2 text-[11px] leading-relaxed text-muted">
+              {saved}
+            </p>
+          )}
+          <button
+            type="button"
+            onClick={() => {
+              setSaved('')
+              setOpen(true)
+            }}
+            className="flex h-9 w-full items-center justify-center border border-line text-[12px] text-muted transition-colors duration-150 hover:bg-elevated hover:text-ink"
+          >
+            + 添加自定义纸币
+          </button>
+        </>
       ) : (
         <div className="space-y-3">
           <p className="label">新增自定义纸币</p>
@@ -225,7 +250,17 @@ function AddCustomNote({
               type="text"
               value={name}
               onChange={(event) => setName(event.target.value)}
-              placeholder="例如：我的 1 英镑"
+              placeholder="例如：1972 第6系列"
+              className="mt-1 h-9 w-full border border-line bg-base px-2 text-[13px] outline-none focus:border-ink"
+            />
+          </label>
+          <label className="block">
+            <span className="text-[11px] text-muted">单位</span>
+            <input
+              type="text"
+              value={unit}
+              onChange={(event) => setUnit(event.target.value)}
+              placeholder={defaultUnit || '元'}
               className="mt-1 h-9 w-full border border-line bg-base px-2 text-[13px] outline-none focus:border-ink"
             />
           </label>
@@ -241,8 +276,21 @@ function AddCustomNote({
                   {series.name}
                 </option>
               ))}
+              <option value="__new__">+ 新建版别…</option>
             </select>
           </label>
+          {seriesId === '__new__' && (
+            <label className="block">
+              <span className="text-[11px] text-muted">新版别名称</span>
+              <input
+                type="text"
+                value={newSeries}
+                onChange={(event) => setNewSeries(event.target.value)}
+                placeholder="例如：武装部队券"
+                className="mt-1 h-9 w-full border border-line bg-base px-2 text-[13px] outline-none focus:border-ink"
+              />
+            </label>
+          )}
           {error && <p className="text-[11px] text-ink">{error}</p>}
           <div className="flex gap-2">
             <button
@@ -282,10 +330,31 @@ export function RegionPanel({
 
   const notes = regionNotes(catalog, region.id)
   const stat = computeStat(notes, statusById)
-  const seriesList = regionSeries(catalog, region.id)
+  const seriesList = [...regionSeries(catalog, region.id)].sort((a, b) => {
+    const customA = a.id.startsWith('custom-series-') ? 0 : 1
+    const customB = b.id.startsWith('custom-series-') ? 0 : 1
+    return customA - customB || a.year_start - b.year_start || a.name.localeCompare(b.name)
+  })
   const byDenom = [...notes].sort(
     (a, b) => a.denom - b.denom || a.label.localeCompare(b.label),
   )
+
+  // Decade view: works for every list-only country, where all notes fall into
+  // "标准流通钞" and the title carries no series information.
+  const decadeGroups = new Map<string, Note[]>()
+  for (const note of notes) {
+    const match = /·\s*(\d{4})/.exec(note.label)
+    const key = match ? `${Math.floor(Number(match[1]) / 10) * 10}s` : '未标年份'
+    const bucket = decadeGroups.get(key) ?? []
+    bucket.push(note)
+    decadeGroups.set(key, bucket)
+  }
+  const decadeList = [...decadeGroups.entries()].sort((a, b) => {
+    if (a[0] === '未标年份') return 1
+    if (b[0] === '未标年份') return -1
+    return Number(a[0].replace('s', '')) - Number(b[0].replace('s', ''))
+  })
+
   const seriesName = (id: string) =>
     seriesList.find((series) => series.id === id)?.name ?? ''
   const defaultUnit = notes[0]?.unit ?? ''
@@ -372,6 +441,7 @@ export function RegionPanel({
           {(
             [
               ['series', '按版别'],
+              ['decade', '按年代'],
               ['denom', '按面额'],
             ] as const
           ).map(([value, label]) => {
@@ -447,6 +517,63 @@ export function RegionPanel({
                     {open && (
                       <ul className="pb-2">
                         {rows.map((note) => (
+                          <NoteRow
+                            key={note.id}
+                            note={note}
+                            status={statusById.get(note.id) ?? null}
+                            subtitle={note.variant}
+                            onDelete={note.custom ? () => deleteCustom(note) : undefined}
+                          />
+                        ))}
+                      </ul>
+                    )}
+                  </section>
+                )
+              })
+            )
+          ) : tab === 'decade' ? (
+            decadeList.length === 0 ? (
+              <p className="py-8 text-[13px] text-muted">暂无年份数据。</p>
+            ) : (
+              decadeList.map(([label, rows]) => {
+                const decadeStat = computeStat(rows, statusById)
+                const key = `decade-${label}`
+                const open = !collapsed.has(key)
+                const sorted = [...rows].sort(
+                  (a, b) => a.denom - b.denom || a.label.localeCompare(b.label),
+                )
+
+                return (
+                  <section key={key} className="border-b border-hairline">
+                    <button
+                      type="button"
+                      onClick={() => toggleSeries(key)}
+                      aria-expanded={open}
+                      className="flex w-full items-baseline justify-between gap-4 py-4 text-left"
+                    >
+                      <span className="flex min-w-0 items-baseline gap-2">
+                        <ChevronDown
+                          size={12}
+                          strokeWidth={2}
+                          aria-hidden
+                          className={cn(
+                            'shrink-0 text-muted transition-transform duration-150',
+                            !open && '-rotate-90',
+                          )}
+                        />
+                        <span className="truncate text-[13px] font-medium">{label}</span>
+                      </span>
+                      <span className="tnum shrink-0 text-[12px] text-muted">
+                        <span className={cn(decadeStat.owned > 0 && 'text-ink')}>
+                          {decadeStat.owned}
+                        </span>{' '}
+                        / {decadeStat.total}
+                      </span>
+                    </button>
+
+                    {open && (
+                      <ul className="pb-2">
+                        {sorted.map((note) => (
                           <NoteRow
                             key={note.id}
                             note={note}

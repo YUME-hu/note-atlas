@@ -119,6 +119,10 @@ function parseCustomList(raw: unknown): CustomNote[] {
       unit: typeof item.unit === 'string' ? item.unit : '',
       label: typeof item.label === 'string' ? item.label : String(item.denom),
       name: typeof item.name === 'string' ? item.name : '',
+      series_name:
+        typeof item.series_name === 'string' && item.series_name.trim()
+          ? item.series_name.trim()
+          : undefined,
       created_at: isFiniteNumber(item.created_at) ? item.created_at : Date.now(),
     })
   }

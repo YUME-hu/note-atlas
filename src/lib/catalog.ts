@@ -196,7 +196,7 @@ export function withLocalRows(
   const series = base.series.filter((s) => !syncedRegions.has(s.region_id))
   const extraSeries = new Map<string, Series>()
 
-  const ensureSeries = (seriesId: string, regionId: string) => {
+  const ensureSeries = (seriesId: string, regionId: string, name?: string) => {
     if (series.some((s) => s.id === seriesId) || extraSeries.has(seriesId)) return
     const known = base.series.find((s) => s.id === seriesId)
     extraSeries.set(
@@ -204,7 +204,7 @@ export function withLocalRows(
       known ?? {
         id: seriesId,
         region_id: regionId,
-        name: '标准流通钞',
+        name: name?.trim() || '标准流通钞',
         year_start: 1960,
         year_end: null,
         status: 'current',
@@ -225,7 +225,7 @@ export function withLocalRows(
   }
 
   for (const row of custom) {
-    ensureSeries(row.series_id, row.region_id)
+    ensureSeries(row.series_id, row.region_id, row.series_name)
     notes.push({
       id: row.id,
       numista_type_id: 0,

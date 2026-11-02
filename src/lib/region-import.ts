@@ -95,6 +95,7 @@ export async function importCountry(
   if (existing) throw new Error(`${iso} 已导入过（${existing.name}），先删除再导入`)
 
   const seriesId = `${base}-imported`
+  const seriesName = parsed.series ?? '标准流通钞'
   const created = Date.now()
   const region: CustomRegion = {
     id,
@@ -113,6 +114,7 @@ export async function importCountry(
     unit: parsed.region.unit,
     label: note.label ?? `${note.denom}${parsed.region.unit} · ${note.name}`,
     name: note.name || `#${note.denom}`,
+    series_name: seriesName,
     created_at: created + index,
   }))
 
