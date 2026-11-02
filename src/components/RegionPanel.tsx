@@ -3,6 +3,7 @@ import { ChevronDown, X } from 'lucide-react'
 import { db } from '@/db/db'
 import { computeStat, regionNotes, regionSeries } from '@/lib/catalog'
 import { formatPercent } from '@/lib/color'
+import { flagSrc } from '@/lib/flag-src'
 import { cn } from '@/lib/utils'
 import { ProgressBar } from './ProgressBar'
 import { StatusToggle } from './StatusToggle'
@@ -43,7 +44,7 @@ function RegionMark({ region }: { region: Region }) {
 
   return (
     <img
-      src={`flags/engraved/${region.iso.toLowerCase()}.svg`}
+      src={flagSrc(region.iso)}
       alt=""
       width={48}
       height={32}

@@ -230,6 +230,23 @@ function southAfrica() {
 `
 }
 
+function spain() {
+  return `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ${W} ${H}" role="img" aria-label="Spain">
+  <rect width="${W}" height="${H}" fill="${SUBDUED.red}"/>
+  <rect y="10" width="${W}" height="20" fill="${SUBDUED.gold}"/>
+</svg>
+`
+}
+
+function mexico() {
+  return `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ${W} ${H}" role="img" aria-label="Mexico">
+  <rect width="20" height="${H}" fill="${SUBDUED.green}"/>
+  <rect x="20" width="20" height="${H}" fill="${SUBDUED.pale}"/>
+  <rect x="40" width="20" height="${H}" fill="${SUBDUED.red}"/>
+</svg>
+`
+}
+
 await mkdir(OUT, { recursive: true })
 await writeFile(path.join(OUT, 'cn.svg'), china(), 'utf8')
 await writeFile(path.join(OUT, 'jp.svg'), japan(), 'utf8')
@@ -243,4 +260,6 @@ await writeFile(path.join(OUT, 'bt.svg'), bhutan(), 'utf8')
 await writeFile(path.join(OUT, 'kh.svg'), cambodia(), 'utf8')
 await writeFile(path.join(OUT, 'br.svg'), brazil(), 'utf8')
 await writeFile(path.join(OUT, 'za.svg'), southAfrica(), 'utf8')
-console.log('wrote public/flags/engraved/{cn,jp,us,gb,by,id,sy,ve,bt,kh,br,za}.svg')
+await writeFile(path.join(OUT, 'es.svg'), spain(), 'utf8')
+await writeFile(path.join(OUT, 'mx.svg'), mexico(), 'utf8')
+console.log('wrote public/flags/engraved/{cn,jp,us,gb,by,id,sy,ve,bt,kh,br,za,es,mx}.svg')

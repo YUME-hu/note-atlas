@@ -1,5 +1,6 @@
 import { useMemo, useState } from 'react'
 import { formatPercent } from '@/lib/color'
+import { flagSrc } from '@/lib/flag-src'
 import type { Region, Stat } from '@/types'
 
 interface CountryIndexProps {
@@ -22,7 +23,7 @@ function IndexFlag({ iso }: { iso: string }) {
   }
   return (
     <img
-      src={`flags/engraved/${iso.toLowerCase()}.svg`}
+      src={flagSrc(iso)}
       alt=""
       width={36}
       height={24}
