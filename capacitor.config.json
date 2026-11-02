@@ -1,0 +1,12 @@
+{
+  "appId": "app.noteatlas",
+  "appName": "note-atlas",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  },
+  "android": {
+    "allowMixedContent": false,
+    "backgroundColor": "#141418"
+  }
+}

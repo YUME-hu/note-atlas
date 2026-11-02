@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">note-atlas</string>
+    <string name="title_activity_main">note-atlas</string>
+    <string name="package_name">app.noteatlas</string>
+    <string name="custom_url_scheme">app.noteatlas</string>
+</resources>
