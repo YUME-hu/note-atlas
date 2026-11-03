@@ -21,6 +21,7 @@ const HAND_DRAWN = new Set([
   'za',
   'es',
   'mx',
+  'yu',
 ])
 
 export function flagSrc(iso: string): string {

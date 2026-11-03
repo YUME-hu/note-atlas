@@ -13,6 +13,8 @@ export interface CountryImportNote {
   denom: number
   name: string
   label?: string
+  /** Per-note series name; overrides the file-level `series`. */
+  series?: string
 }
 
 export interface CountryImportFile {
@@ -62,6 +64,7 @@ export function parseCountryImport(raw: unknown): CountryImportFile {
       denom,
       name: noteName || label,
       label: label || undefined,
+      series: typeof item.series === 'string' && item.series.trim() ? item.series.trim() : undefined,
     }
   })
 
@@ -94,8 +97,17 @@ export async function importCountry(
   const existing = await db.custom_regions.get(id)
   if (existing) throw new Error(`${iso} 已导入过（${existing.name}），先删除再导入`)
 
-  const seriesId = `${base}-imported`
-  const seriesName = parsed.series ?? '标准流通钞'
+  const defaultSeries = parsed.series ?? '标准流通钞'
+  const seriesNames = [...new Set(parsed.notes.map((note) => note.series ?? defaultSeries))]
+  const seriesIdByName = new Map<string, string>()
+  if (seriesNames.length === 1) {
+    seriesIdByName.set(seriesNames[0], `${base}-imported`)
+  } else {
+    seriesNames.forEach((name, index) => {
+      seriesIdByName.set(name, `custom-series-${base}-${index + 1}`)
+    })
+  }
+
   const created = Date.now()
   const region: CustomRegion = {
     id,
@@ -106,17 +118,20 @@ export async function importCountry(
     created_at: created,
   }
 
-  const notes: CustomNote[] = parsed.notes.map((note, index) => ({
-    id: `custom-${base}-${created}-${index}`,
-    region_id: base,
-    series_id: seriesId,
-    denom: note.denom,
-    unit: parsed.region.unit,
-    label: note.label ?? `${note.denom}${parsed.region.unit} · ${note.name}`,
-    name: note.name || `#${note.denom}`,
-    series_name: seriesName,
-    created_at: created + index,
-  }))
+  const notes: CustomNote[] = parsed.notes.map((note, index) => {
+    const seriesName = note.series ?? defaultSeries
+    return {
+      id: `custom-${base}-${created}-${index}`,
+      region_id: base,
+      series_id: seriesIdByName.get(seriesName) ?? `${base}-imported`,
+      denom: note.denom,
+      unit: parsed.region.unit,
+      label: note.label ?? `${note.denom}${parsed.region.unit} · ${note.name}`,
+      name: note.name || `#${note.denom}`,
+      series_name: seriesName,
+      created_at: created + index,
+    }
+  })
 
   await db.transaction('rw', db.custom_regions, db.custom_notes, async () => {
     await db.custom_regions.put(region)

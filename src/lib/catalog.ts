@@ -196,7 +196,24 @@ export function withLocalRows(
   const series = base.series.filter((s) => !syncedRegions.has(s.region_id))
   const extraSeries = new Map<string, Series>()
 
-  const ensureSeries = (seriesId: string, regionId: string, name?: string) => {
+  // Custom series get their year range from the note labels (… · 1978).
+  const customYears = new Map<string, { start: number; end: number }>()
+  for (const row of custom) {
+    const match = /·\s*(\d{4})/.exec(row.label)
+    if (!match) continue
+    const year = Number(match[1])
+    const range = customYears.get(row.series_id) ?? { start: year, end: year }
+    range.start = Math.min(range.start, year)
+    range.end = Math.max(range.end, year)
+    customYears.set(row.series_id, range)
+  }
+
+  const ensureSeries = (
+    seriesId: string,
+    regionId: string,
+    name?: string,
+    years?: { start: number; end: number },
+  ) => {
     if (series.some((s) => s.id === seriesId) || extraSeries.has(seriesId)) return
     const known = base.series.find((s) => s.id === seriesId)
     extraSeries.set(
@@ -205,9 +222,9 @@ export function withLocalRows(
         id: seriesId,
         region_id: regionId,
         name: name?.trim() || '标准流通钞',
-        year_start: 1960,
-        year_end: null,
-        status: 'current',
+        year_start: years?.start ?? 1960,
+        year_end: years && years.end !== years.start ? years.end : null,
+        status: years && years.end >= new Date().getFullYear() ? 'current' : 'historical',
       },
     )
   }
@@ -225,7 +242,7 @@ export function withLocalRows(
   }
 
   for (const row of custom) {
-    ensureSeries(row.series_id, row.region_id, row.series_name)
+    ensureSeries(row.series_id, row.region_id, row.series_name, customYears.get(row.series_id))
     notes.push({
       id: row.id,
       numista_type_id: 0,

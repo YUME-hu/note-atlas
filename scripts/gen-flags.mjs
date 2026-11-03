@@ -247,6 +247,16 @@ function mexico() {
 `
 }
 
+function yugoslavia() {
+  return `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ${W} ${H}" role="img" aria-label="Yugoslavia">
+  <rect width="${W}" height="13.33" fill="${SUBDUED.navy}"/>
+  <rect y="13.33" width="${W}" height="13.34" fill="${SUBDUED.pale}"/>
+  <rect y="26.67" width="${W}" height="13.33" fill="${SUBDUED.red}"/>
+  <polygon points="${starPoints(30, 20, 5.4)}" fill="${SUBDUED.gold}"/>
+</svg>
+`
+}
+
 await mkdir(OUT, { recursive: true })
 await writeFile(path.join(OUT, 'cn.svg'), china(), 'utf8')
 await writeFile(path.join(OUT, 'jp.svg'), japan(), 'utf8')
@@ -262,4 +272,5 @@ await writeFile(path.join(OUT, 'br.svg'), brazil(), 'utf8')
 await writeFile(path.join(OUT, 'za.svg'), southAfrica(), 'utf8')
 await writeFile(path.join(OUT, 'es.svg'), spain(), 'utf8')
 await writeFile(path.join(OUT, 'mx.svg'), mexico(), 'utf8')
+await writeFile(path.join(OUT, 'yu.svg'), yugoslavia(), 'utf8')
 console.log('wrote public/flags/engraved/{cn,jp,us,gb,by,id,sy,ve,bt,kh,br,za,es,mx}.svg')

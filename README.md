@@ -76,6 +76,22 @@ node scripts/gen-guilloche.mjs   # public/bg/guilloche.svg
 - `region.iso` 必须在 atlas 里才能点亮地图；否则只出现在国家索引。
 - 国旗按 ISO 自动找 `flags/pack`，没有就回退 ISO 字母块。
 - 导入的国家会出现在索引和面板里，可勾选、进备份；设置里可删除（连带券种和进度）。
+- `notes` 每条可以写 `series`，一次导入多个版别；不写就用文件级 `series`。
+
+### 历史国家（南斯拉夫、苏联、捷克斯洛伐克…）
+
+用旧 ISO 两位代码当“伪 ISO”：`YU` 南斯拉夫、`SU` 苏联、`CS` 捷克斯洛伐克、`DD` 东德。
+它们不在现代 atlas 里，所以**只在国家索引和面板出现，不会点亮地图**；索引、勾选、备份都正常。
+
+```json
+{
+  "region": { "iso": "YU", "name": "南斯拉夫", "unit": "第纳尔", "issuers": ["南斯拉夫国家银行"] },
+  "notes": [
+    { "denom": 10, "name": "1965年版", "series": "1965年版" },
+    { "denom": 100, "name": "1978年版", "series": "1978年版" }
+  ]
+}
+```
 
 ## 按年代 / 自建版别
 
