@@ -62,19 +62,28 @@ export function SettingsPanel({
     return () => window.removeEventListener('keydown', onKeyDown)
   }, [open, onClose])
 
+  useEffect(() => {
+    if (!status.text) return
+    const timer = setTimeout(() => setStatus({ tone: 'idle', text: '' }), 7000)
+    return () => clearTimeout(timer)
+  }, [status])
+
   if (!open) return null
 
   async function handleExport() {
     setBusy('export')
     try {
-      const counts = await exportProgress()
-      const total = counts.progress + counts.custom + counts.synced + counts.regions
+      const result = await exportProgress()
+      const total = result.progress + result.custom + result.synced + result.regions
+      const detail =
+        total > 0
+          ? `${result.progress} 条进度 · ${result.custom} 条自定义 · ${result.synced} 条同步 · ${result.regions} 个自建国家`
+          : '空备份'
       setStatus({
         tone: 'ok',
-        text:
-          total > 0
-            ? `✓ 已导出 ${counts.progress} 条进度 · ${counts.custom} 条自定义 · ${counts.synced} 条同步 · ${counts.regions} 个自建国家`
-            : '✓ 还没有数据，已导出空备份',
+        text: result.shared
+          ? `✓ 已生成 ${result.fileName}，请在分享面板里选“保存到文件/下载”。${detail}`
+          : `✓ 已下载 ${result.fileName}（${detail}）`,
       })
     } catch (error) {
       setStatus({
@@ -233,17 +242,6 @@ export function SettingsPanel({
             onChange={(event) => void handleImport(event)}
           />
 
-          {status.text && (
-            <p
-              role={status.tone === 'error' ? 'alert' : 'status'}
-              className={cn(
-                'mt-3 text-[11px] leading-relaxed',
-                status.tone === 'error' ? 'text-ink' : 'text-muted',
-              )}
-            >
-              {status.text}
-            </p>
-          )}
         </section>
 
         <section className="border-t border-line px-4 py-4">
@@ -378,6 +376,18 @@ export function SettingsPanel({
           </p>
         </section>
       </div>
+
+      {status.text && (
+        <div
+          role={status.tone === 'error' ? 'alert' : 'status'}
+          className={cn(
+            'fixed inset-x-4 bottom-6 z-50 border border-line bg-surface px-4 py-3 text-[12px] leading-relaxed sm:left-auto sm:right-6 sm:w-[344px]',
+            status.tone === 'error' ? 'text-ink' : 'text-muted',
+          )}
+        >
+          {status.text}
+        </div>
+      )}
     </>
   )
 }

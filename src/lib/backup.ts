@@ -1,3 +1,6 @@
+import { Capacitor } from '@capacitor/core'
+import { Directory, Filesystem } from '@capacitor/filesystem'
+import { Share } from '@capacitor/share'
 import { db } from '@/db/db'
 import type { CustomNote, CustomRegion, Progress, Status, SyncedNote } from '@/types'
 
@@ -25,7 +28,23 @@ export interface BackupCounts {
   regions: number
 }
 
+export interface BackupExport extends BackupCounts {
+  fileName: string
+  /** true = Android share sheet opened (file lives in app cache until shared). */
+  shared: boolean
+}
+
 const STATUSES: Status[] = ['owned', 'want']
+
+function toBase64(text: string): string {
+  const bytes = new TextEncoder().encode(text)
+  let binary = ''
+  const chunk = 0x8000
+  for (let index = 0; index < bytes.length; index += chunk) {
+    binary += String.fromCharCode(...bytes.subarray(index, index + chunk))
+  }
+  return btoa(binary)
+}
 
 export function backupFileName(date = new Date()): string {
   const year = date.getFullYear()
@@ -34,40 +53,62 @@ export function backupFileName(date = new Date()): string {
   return `note-atlas-backup-${year}${month}${day}.json`
 }
 
-export async function exportProgress(): Promise<BackupCounts> {
+export async function exportProgress(): Promise<BackupExport> {
   const [progress, customNotes, syncedNotes, customRegions] = await Promise.all([
     db.progress.toArray(),
     db.custom_notes.toArray(),
     db.synced_notes.toArray(),
     db.custom_regions.toArray(),
   ])
-  const payload: BackupFile = {
-    app: 'note-atlas',
-    format: 3,
-    exported_at: new Date().toISOString(),
-    progress,
-    custom_notes: customNotes,
-    synced_notes: syncedNotes,
-    custom_regions: customRegions,
-  }
-  const blob = new Blob([`${JSON.stringify(payload, null, 2)}\n`], {
-    type: 'application/json',
-  })
-  const url = URL.createObjectURL(blob)
-  const anchor = document.createElement('a')
-  anchor.href = url
-  anchor.download = backupFileName()
-  document.body.appendChild(anchor)
-  anchor.click()
-  anchor.remove()
-  // Give the browser a tick to start the download before revoking.
-  setTimeout(() => URL.revokeObjectURL(url), 1000)
-  return {
+  const fileName = backupFileName()
+  const text = `${JSON.stringify(
+    {
+      app: 'note-atlas',
+      format: 3,
+      exported_at: new Date().toISOString(),
+      progress,
+      custom_notes: customNotes,
+      synced_notes: syncedNotes,
+      custom_regions: customRegions,
+    } satisfies BackupFile,
+    null,
+    2,
+  )}\n`
+  const counts: BackupCounts = {
     progress: progress.length,
     custom: customNotes.length,
     synced: syncedNotes.length,
     regions: customRegions.length,
   }
+
+  // Android WebView has no download manager for Blob URLs: write to the app
+  // cache and open the system share sheet, so the user picks Files/Drive/WeChat.
+  if (Capacitor.isNativePlatform()) {
+    const written = await Filesystem.writeFile({
+      path: fileName,
+      data: toBase64(text),
+      directory: Directory.Cache,
+    })
+    await Share.share({
+      title: fileName,
+      text: 'note-atlas 备份',
+      files: [written.uri],
+      dialogTitle: '保存或分享备份文件',
+    })
+    return { ...counts, fileName, shared: true }
+  }
+
+  const blob = new Blob([text], { type: 'application/json' })
+  const url = URL.createObjectURL(blob)
+  const anchor = document.createElement('a')
+  anchor.href = url
+  anchor.download = fileName
+  document.body.appendChild(anchor)
+  anchor.click()
+  anchor.remove()
+  // Give the browser a tick to start the download before revoking.
+  setTimeout(() => URL.revokeObjectURL(url), 1000)
+  return { ...counts, fileName, shared: false }
 }
 
 function isRecord(value: unknown): value is Record<string, unknown> {

@@ -18,6 +18,8 @@
   "dependencies": {
     "@capacitor/android": "^8.6.0",
     "@capacitor/core": "^8.6.0",
+    "@capacitor/filesystem": "^8.1.5",
+    "@capacitor/share": "^8.0.3",
     "@d3-maps/atlas": "^1.0.1",
     "@d3-maps/react": "^1.0.0",
     "class-variance-authority": "^0.7.1",

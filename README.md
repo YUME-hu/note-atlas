@@ -59,6 +59,9 @@ node scripts/gen-guilloche.mjs   # public/bg/guilloche.svg
 
 顶栏齿轮 →「导出 JSON / 导入 JSON」。备份格式 v3，包含 `progress`（勾选）、`custom_notes`（自定义加钞）、`synced_notes`（App 内 Numista 同步）和 `custom_regions`（自建国家）；导入按 id 合并恢复四张表，兼容 v1（只含 progress）和 v2。iOS 清理 Safari 数据会清空 IndexedDB，清理前先导出。
 
+- **Android**：导出不会直接落到某个“下载”目录，而是写入应用缓存并打开系统分享面板；在面板里选「保存到文件 / 下载 / 网盘」即可。文件名 `note-atlas-backup-YYYYMMDD.json`。
+- 导出/导入成功或失败都会在屏幕底部弹出一条带 `✓ / ✕` 的文字提示，7 秒后消失。
+
 ## 自建国家（42 国之外）
 
 设置 →「自建国家」→ 导入 JSON：
